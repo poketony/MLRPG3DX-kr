@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   BtlGuide_02:
-    Contents: <Tag_0><Tag_1>基本②：ダメージを<Tag_2>与えて<Tag_3>倒す
+    Contents: <Tag_0>기본②: 대미지를 주어 격파
     Tags:
       Tag_0:
         Group: 9

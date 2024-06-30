@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   E_Boots08:
-    Contents: "<Tag_0>ジャンプで<Tag_1>攻撃した<Tag_2>敵を たまに\nPOW DOWN<Tag_3>状態にするブーツ。"
+    Contents: "<Tag_0>점프로 공격한 적을 가끔\nPOW 다운 상태로 만드는 부츠."
     Tags:
       Tag_0:
         Group: 9
@@ -29,7 +29,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   E_Socks00:
-    Contents: <Tag_0>HPが<Tag_1>少しアップするソックス。
+    Contents: <Tag_0>HP가 조금 상승하는 양말.
     Tags:
       Tag_0:
         Group: 9
@@ -42,7 +42,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Shell09:
-    Contents: <Tag_0><Tag_1>さいきょうコウラ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>최강등껍질<Tag_2>은 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -59,7 +59,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   Ns_Accessory04:
-    Contents: <Tag_0>ヒキシメベルト
+    Contents: <Tag_0>초절약벨트
     Tags:
       Tag_0:
         Group: 9
@@ -68,7 +68,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_HeartMame:
-    Contents: <Tag_0>ハートマメ
+    Contents: <Tag_0>하트콩
     Tags:
       Tag_0:
         Group: 9
@@ -77,7 +77,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks20:
-    Contents: <Tag_0>まんタンソックス
+    Contents: <Tag_0>가득양말
     Tags:
       Tag_0:
         Group: 9
@@ -86,7 +86,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   E_Boots09:
-    Contents: "<Tag_0>ぼうぎょアクションに<Tag_1>成功すると\n<Tag_2>敵を やけどにすることがあるブーツ。"
+    Contents: "<Tag_0>방어 액션에 성공하면\n적을 화상 입히기도 하는 부츠."
     Tags:
       Tag_0:
         Group: 9
@@ -103,7 +103,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   E_Socks01:
-    Contents: <Tag_0>HPがアップするソックス。
+    Contents: <Tag_0>HP가 상승하는 양말.
     Tags:
       Tag_0:
         Group: 9
@@ -112,7 +112,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   E_Wear10:
-    Contents: "<Tag_0><Tag_1>着るとムキムキになるウェア。\nクリティカルとラッキーヒットの<Tag_2>威力がアップ！"
+    Contents: "<Tag_0>입으면 우락부락해지는 웨어.\n크리티컬과 럭키 히트의 위력이 업!"
     Tags:
       Tag_0:
         Group: 9
@@ -129,7 +129,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   N_GekiChicken:
-    Contents: <Tag_0>げきからチキン
+    Contents: <Tag_0>아주매운치킨
     Tags:
       Tag_0:
         Group: 9
@@ -147,7 +147,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks21:
-    Contents: <Tag_0>キノコソックス
+    Contents: <Tag_0>버섯양말
     Tags:
       Tag_0:
         Group: 9
@@ -156,7 +156,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   E_Socks02:
-    Contents: <Tag_0>BPが<Tag_1>少しアップするソックス。
+    Contents: <Tag_0>BP가 조금 상승하는 양말.
     Tags:
       Tag_0:
         Group: 9
@@ -169,7 +169,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   E_SuperNut:
-    Contents: "<Tag_0>マリオとルイージの\nHPが ４０<Tag_1>回復。"
+    Contents: "<Tag_0>마리오와 루이지의\nHP가 40 회복."
     Tags:
       Tag_0:
         Group: 9
@@ -182,7 +182,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   E_UltraSyrup:
-    Contents: "<Tag_0>マリオとルイージ どちらかの\nBPが ６０<Tag_1>回復。"
+    Contents: "<Tag_0>마리오와 루이지 중 한쪽의\nBP가 60 회복."
     Tags:
       Tag_0:
         Group: 9
@@ -195,7 +195,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   E_Wear11:
-    Contents: "<Tag_0>バトルをきわめる<Tag_1>人のためのウェア。\nクリティカルとラッキーヒットの<Tag_2>威力がアップ！"
+    Contents: "<Tag_0>배틀 단련을 하는 사람을 위한 웨어.\n크리티컬과 럭키 히트의 위력이 업!"
     Tags:
       Tag_0:
         Group: 9
@@ -243,7 +243,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   E_Socks03:
-    Contents: <Tag_0>BPがアップするソックス。
+    Contents: <Tag_0>BP가 상승하는 양말.
     Tags:
       Tag_0:
         Group: 9
@@ -273,7 +273,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_HeartMame:
-    Contents: <Tag_0><Tag_1>ハートマメ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>하트콩<Tag_2>은 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -290,7 +290,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   N_Glove10:
-    Contents: <Tag_0>ドレイングラブ
+    Contents: <Tag_0>드레인글러브
     Tags:
       Tag_0:
         Group: 9
@@ -453,7 +453,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   N_Glove11:
-    Contents: <Tag_0>ポコポコグラブ
+    Contents: <Tag_0>우당탕글러브
     Tags:
       Tag_0:
         Group: 9
@@ -669,7 +669,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Accessory21:
-    Contents: <Tag_0><Tag_1>リベンジワッペン<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>リベンジワッペン<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -695,7 +695,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Glove12:
-    Contents: <Tag_0>ドレイングラブDX
+    Contents: <Tag_0>드레인글러브DX
     Tags:
       Tag_0:
         Group: 9
@@ -794,7 +794,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   E_Wear15:
-    Contents: "<Tag_0><Tag_1>完璧なウェア。\n<Tag_2>全てのステータスがアップ！"
+    Contents: "<Tag_0>완벽한 웨어.\n모든 스테이터스가 업!"
     Tags:
       Tag_0:
         Group: 9
@@ -811,7 +811,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_SuperKinoko:
-    Contents: <Tag_0><Tag_1>スーパーキノコ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>슈퍼버섯<Tag_2>은 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -846,7 +846,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove00:
-    Contents: <Tag_0>POWグラブ
+    Contents: <Tag_0>POW글러브
     Tags:
       Tag_0:
         Group: 9
@@ -1033,7 +1033,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Accessory23:
-    Contents: <Tag_0><Tag_1>みきりグラス<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>みきりグラス<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -1050,7 +1050,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_SpecialMame:
-    Contents: <Tag_0><Tag_1>スペシャルマメ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>スペシャルマメ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -1094,7 +1094,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove01:
-    Contents: <Tag_0>POWグラブDX
+    Contents: <Tag_0>POW글러브DX
     Tags:
       Tag_0:
         Group: 9
@@ -1290,7 +1290,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_1upKinokodx:
-    Contents: <Tag_0><Tag_1>１UPキノコDX<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>１UPキノコDX<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -1325,7 +1325,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Kinoko:
-    Contents: <Tag_0>キノコ
+    Contents: <Tag_0>버섯
     Tags:
       Tag_0:
         Group: 9
@@ -1334,7 +1334,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_StarCandy:
-    Contents: <Tag_0>スターキャンディ
+    Contents: <Tag_0>스타캔디
     Tags:
       Tag_0:
         Group: 9
@@ -1352,7 +1352,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove02:
-    Contents: <Tag_0>キノコグラブ
+    Contents: <Tag_0>버섯글러브
     Tags:
       Tag_0:
         Group: 9
@@ -1361,7 +1361,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_SuperSyrup:
-    Contents: <Tag_0>スーパーシロップ
+    Contents: <Tag_0>슈퍼시럽
     Tags:
       Tag_0:
         Group: 9
@@ -1463,7 +1463,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Accessory25:
-    Contents: <Tag_0><Tag_1>ふいうちスカーフ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ふいうちスカーフ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -1489,7 +1489,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Glove16:
-    Contents: <Tag_0>スペシャルグラブDX
+    Contents: <Tag_0>스페셜글러브DX
     Tags:
       Tag_0:
         Group: 9
@@ -1507,7 +1507,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove03:
-    Contents: <Tag_0>スペシャルグラブ
+    Contents: <Tag_0>스페셜글러브
     Tags:
       Tag_0:
         Group: 9
@@ -1680,7 +1680,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_SuperSyrup:
-    Contents: <Tag_0>スーパーシロップ
+    Contents: <Tag_0>슈퍼시럽
     Tags:
       Tag_0:
         Group: 9
@@ -1689,7 +1689,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_1upKinoko:
-    Contents: <Tag_0>１UPキノコ
+    Contents: <Tag_0>1UP버섯
     Tags:
       Tag_0:
         Group: 9
@@ -1707,7 +1707,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove05:
-    Contents: <Tag_0>デリシャスグラブ
+    Contents: <Tag_0>딜리셔스글러브
     Tags:
       Tag_0:
         Group: 9
@@ -1758,7 +1758,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Fung10:
-    Contents: <Tag_0><Tag_1>きんきらきば<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>きんきらきば<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -1775,7 +1775,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Glove01:
-    Contents: <Tag_0><Tag_1>POWグラブDX<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>POW글러브DX<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -1801,7 +1801,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_UltraKinoko:
-    Contents: <Tag_0>ウルトラキノコ
+    Contents: <Tag_0>울트라버섯
     Tags:
       Tag_0:
         Group: 9
@@ -1819,7 +1819,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove06:
-    Contents: <Tag_0>フラワーグラブ
+    Contents: <Tag_0>플라워글러브
     Tags:
       Tag_0:
         Group: 9
@@ -1853,7 +1853,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Boots00:
-    Contents: <Tag_0><Tag_1>POWブーツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>POWブーツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -1870,7 +1870,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_DefMame:
-    Contents: <Tag_0><Tag_1>ディフェンスマメ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ディフェンスマメ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -1887,7 +1887,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_SuperSyrup:
-    Contents: <Tag_0><Tag_1>スーパーシロップ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>スーパーシロップ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -1904,7 +1904,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Wear02:
-    Contents: <Tag_0><Tag_1>レンジャーウェア<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>레인저웨어<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -1930,7 +1930,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks10:
-    Contents: <Tag_0>ゴツゴツソックス
+    Contents: <Tag_0>울퉁불퉁양말
     Tags:
       Tag_0:
         Group: 9
@@ -1957,7 +1957,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove07:
-    Contents: <Tag_0>バイバイグラブ
+    Contents: <Tag_0>바이바이글러브
     Tags:
       Tag_0:
         Group: 9
@@ -1987,7 +1987,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_1upKinoko:
-    Contents: <Tag_0><Tag_1>１UPキノコ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>１UPキノコ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2004,7 +2004,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Fung12:
-    Contents: <Tag_0><Tag_1>もろはのきば<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>もろはのきば<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2021,7 +2021,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Wear03:
-    Contents: <Tag_0><Tag_1>ファイターウェア<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>파이터웨어<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2047,7 +2047,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks11:
-    Contents: <Tag_0>EXPソックス
+    Contents: <Tag_0>EXP양말
     Tags:
       Tag_0:
         Group: 9
@@ -2083,7 +2083,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove08:
-    Contents: <Tag_0>ヤワヤワグラブ
+    Contents: <Tag_0>보들보들글러브
     Tags:
       Tag_0:
         Group: 9
@@ -2092,7 +2092,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Wear04:
-    Contents: <Tag_0><Tag_1>ハートウェア<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>하트웨어<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2118,7 +2118,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks12:
-    Contents: <Tag_0>テッペキソックス
+    Contents: <Tag_0>철벽양말
     Tags:
       Tag_0:
         Group: 9
@@ -2145,7 +2145,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove09:
-    Contents: <Tag_0>アイテムグラブ
+    Contents: <Tag_0>아이템글러브
     Tags:
       Tag_0:
         Group: 9
@@ -2154,7 +2154,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Boots03:
-    Contents: <Tag_0><Tag_1>スペシャルブーツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>スペシャルブーツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2171,7 +2171,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Fung14:
-    Contents: <Tag_0><Tag_1>しゃくねつきばDX<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>しゃくねつきばDX<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2188,7 +2188,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Glove05:
-    Contents: <Tag_0><Tag_1>デリシャスグラブ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>딜리셔스글러브<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2205,7 +2205,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Wear05:
-    Contents: <Tag_0><Tag_1>ムキムキウェア<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>우락부락웨어<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2231,7 +2231,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks13:
-    Contents: <Tag_0>ナースソックス
+    Contents: <Tag_0>간호사양말
     Tags:
       Tag_0:
         Group: 9
@@ -2240,7 +2240,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_SuperNut:
-    Contents: <Tag_0>スーパーナッツ
+    Contents: <Tag_0>슈퍼너트
     Tags:
       Tag_0:
         Group: 9
@@ -2267,7 +2267,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_SpecialMame:
-    Contents: <Tag_0>スペシャルマメ
+    Contents: <Tag_0>스페셜콩
     Tags:
       Tag_0:
         Group: 9
@@ -2276,7 +2276,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_UltraNut:
-    Contents: <Tag_0>ウルトラナッツ
+    Contents: <Tag_0>울트라너트
     Tags:
       Tag_0:
         Group: 9
@@ -2298,7 +2298,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Glove06:
-    Contents: <Tag_0><Tag_1>フラワーグラブ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>플라워글러브<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2333,7 +2333,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks14:
-    Contents: <Tag_0>ドクターソックス
+    Contents: <Tag_0>닥터양말
     Tags:
       Tag_0:
         Group: 9
@@ -2377,7 +2377,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Glove07:
-    Contents: <Tag_0><Tag_1>バイバイグラブ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>바이바이글러브<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2403,7 +2403,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks15:
-    Contents: <Tag_0>ムラムラソックス
+    Contents: <Tag_0>찔끔찔끔양말
     Tags:
       Tag_0:
         Group: 9
@@ -2439,7 +2439,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks16:
-    Contents: <Tag_0>メキメキソックス
+    Contents: <Tag_0>부쩍부쩍양말
     Tags:
       Tag_0:
         Group: 9
@@ -2448,7 +2448,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks17:
-    Contents: <Tag_0>エンジェルソックス
+    Contents: <Tag_0>엔젤양말
     Tags:
       Tag_0:
         Group: 9
@@ -2475,7 +2475,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear00:
-    Contents: <Tag_0>ペラペラウェア
+    Contents: <Tag_0>헐렁헐렁웨어
     Tags:
       Tag_0:
         Group: 9
@@ -2523,7 +2523,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Boots09:
-    Contents: <Tag_0><Tag_1>メラメラブーツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>メラメラブーツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2540,7 +2540,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Socks01:
-    Contents: <Tag_0><Tag_1>HPソックスDX<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>HP양말DX<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2575,7 +2575,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear01:
-    Contents: <Tag_0>ピクニックウェア
+    Contents: <Tag_0>피크닉웨어
     Tags:
       Tag_0:
         Group: 9
@@ -2593,7 +2593,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_None:
-    Contents: <Tag_0>そうびなし
+    Contents: <Tag_0>장비 없음
     Tags:
       Tag_0:
         Group: 9
@@ -2602,7 +2602,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_PowMame:
-    Contents: <Tag_0>パワーマメ
+    Contents: <Tag_0>파워콩
     Tags:
       Tag_0:
         Group: 9
@@ -2637,7 +2637,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Nut:
-    Contents: <Tag_0><Tag_1>ナッツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ナッツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2672,7 +2672,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear02:
-    Contents: <Tag_0>レンジャーウェア
+    Contents: <Tag_0>레인저웨어
     Tags:
       Tag_0:
         Group: 9
@@ -2690,7 +2690,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear10:
-    Contents: <Tag_0>マッスルウェア
+    Contents: <Tag_0>울끈불끈웨어
     Tags:
       Tag_0:
         Group: 9
@@ -2730,7 +2730,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Ring11:
-    Contents: <Tag_0><Tag_1>あんしんゆびわ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>あんしんゆびわ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2747,7 +2747,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Socks03:
-    Contents: <Tag_0><Tag_1>BPソックスDX<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>BP양말DX<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2791,7 +2791,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear03:
-    Contents: <Tag_0>ファイターウェア
+    Contents: <Tag_0>파이터웨어
     Tags:
       Tag_0:
         Group: 9
@@ -2809,7 +2809,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear11:
-    Contents: <Tag_0>マスターウェア
+    Contents: <Tag_0>마스터웨어
     Tags:
       Tag_0:
         Group: 9
@@ -2864,7 +2864,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Bracelet00:
-    Contents: <Tag_0><Tag_1>パワーうでわ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>パワーうでわ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2881,7 +2881,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_PiriChicken:
-    Contents: <Tag_0><Tag_1>ピリからチキン<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ピリからチキン<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2898,7 +2898,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Ring12:
-    Contents: <Tag_0><Tag_1>カチコチゆびわ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>カチコチゆびわ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -2942,7 +2942,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear04:
-    Contents: <Tag_0>ハートウェア
+    Contents: <Tag_0>하트웨어
     Tags:
       Tag_0:
         Group: 9
@@ -2960,7 +2960,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear12:
-    Contents: <Tag_0>キングウェア
+    Contents: <Tag_0>킹웨어
     Tags:
       Tag_0:
         Group: 9
@@ -3008,7 +3008,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Bracelet01:
-    Contents: <Tag_0><Tag_1>パワーうでわSP<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>パワーうでわSP<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -3025,7 +3025,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_CheeseChicken:
-    Contents: <Tag_0><Tag_1>チーズチキン<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>チーズチキン<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -3042,7 +3042,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Socks05:
-    Contents: <Tag_0><Tag_1>コインソックス<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>코인양말<Tag_2>은 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -3086,7 +3086,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear05:
-    Contents: <Tag_0>ムキムキウェア
+    Contents: <Tag_0>우락부락웨어
     Tags:
       Tag_0:
         Group: 9
@@ -3104,7 +3104,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear13:
-    Contents: <Tag_0>スターウェア
+    Contents: <Tag_0>스타웨어
     Tags:
       Tag_0:
         Group: 9
@@ -3139,7 +3139,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Bracelet02:
-    Contents: <Tag_0><Tag_1>ボコスカうでわ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ボコスカうでわ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -3214,7 +3214,7 @@ Messages:
     Attribute: 00000000
     StyleID: 4
   N_Wear06:
-    Contents: <Tag_0>アダルトウェア
+    Contents: <Tag_0>어덜트웨어
     Tags:
       Tag_0:
         Group: 9
@@ -3232,7 +3232,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear14:
-    Contents: <Tag_0>Dスターウェア
+    Contents: <Tag_0>D스타웨어
     Tags:
       Tag_0:
         Group: 9
@@ -3316,7 +3316,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Ring15:
-    Contents: <Tag_0><Tag_1>カウンターゆびわDX<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>カウンターゆびわDX<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -3369,7 +3369,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear07:
-    Contents: <Tag_0>ノコノコウェア
+    Contents: <Tag_0>넉넉웨어
     Tags:
       Tag_0:
         Group: 9
@@ -3387,7 +3387,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear15:
-    Contents: <Tag_0>カンペキウェア
+    Contents: <Tag_0>퍼펙트웨어
     Tags:
       Tag_0:
         Group: 9
@@ -3469,7 +3469,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Shell04:
-    Contents: <Tag_0>がんせきコウラ
+    Contents: <Tag_0>암석등껍질
     Tags:
       Tag_0:
         Group: 9
@@ -3478,7 +3478,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_SuperKinoko:
-    Contents: <Tag_0>スーパーキノコ
+    Contents: <Tag_0>슈퍼버섯
     Tags:
       Tag_0:
         Group: 9
@@ -3487,7 +3487,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear08:
-    Contents: <Tag_0>ヒーローウェア
+    Contents: <Tag_0>히어로웨어
     Tags:
       Tag_0:
         Group: 9
@@ -3564,7 +3564,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   E_Kinoko:
-    Contents: "<Tag_0>마리오와 루이지 중 한쪽의\nHP가 30<Tag_1> 회복된다."
+    Contents: "<Tag_0>마리오와 루이지 중 한쪽의\nHP가 30 회복."
     Tags:
       Tag_0:
         Group: 9
@@ -3598,7 +3598,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Ring17:
-    Contents: <Tag_0><Tag_1>ラッキーゆびわDX<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ラッキーゆびわDX<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -3651,7 +3651,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_SpecialMame:
-    Contents: <Tag_0>スペシャルマメ
+    Contents: <Tag_0>스페셜콩
     Tags:
       Tag_0:
         Group: 9
@@ -3660,7 +3660,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear09:
-    Contents: <Tag_0>セレブウェア
+    Contents: <Tag_0>럭셔리웨어
     Tags:
       Tag_0:
         Group: 9
@@ -3728,7 +3728,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Bracelet06:
-    Contents: <Tag_0><Tag_1>スタミナうでわ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>スタミナうでわ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -3932,7 +3932,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_PiriChicken:
-    Contents: <Tag_0>ピリからチキン
+    Contents: <Tag_0>약간매운치킨
     Tags:
       Tag_0:
         Group: 9
@@ -3959,7 +3959,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   E_Syrup:
-    Contents: "<Tag_0>마리오와 루이지 중 한쪽의\nBP가 15<Tag_1> 회복된다."
+    Contents: "<Tag_0>마리오와 루이지 중 한쪽의\nBP가 15<Tag_1> 회복."
     Tags:
       Tag_0:
         Group: 9
@@ -3972,7 +3972,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_SpeedMame:
-    Contents: <Tag_0><Tag_1>スピードマメ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>スピードマメ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -3998,7 +3998,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_UltraNut:
-    Contents: <Tag_0>ウルトラナッツ
+    Contents: <Tag_0>울트라너트
     Tags:
       Tag_0:
         Group: 9
@@ -4016,7 +4016,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_MaxSyrup:
-    Contents: <Tag_0>ミラクルシロップ
+    Contents: <Tag_0>미라클시럽
     Tags:
       Tag_0:
         Group: 9
@@ -4025,7 +4025,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_SuperNut:
-    Contents: <Tag_0><Tag_1>スーパーナッツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>スーパーナッツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -4073,7 +4073,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_GhostCookie:
-    Contents: <Tag_0><Tag_1>ゴーストクッキー<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ゴーストクッキー<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -4090,7 +4090,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Socks20:
-    Contents: <Tag_0><Tag_1>まんタンソックス<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>まんタンソックス<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -4173,7 +4173,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Socks21:
-    Contents: <Tag_0><Tag_1>キノコソックス<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>버섯양말<Tag_2>은 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -4235,7 +4235,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_UltraSyrup:
-    Contents: <Tag_0>ウルトラシロップ
+    Contents: <Tag_0>울트라시럽
     Tags:
       Tag_0:
         Group: 9
@@ -4244,7 +4244,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Socks22:
-    Contents: <Tag_0><Tag_1>バッジソックス<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>バッジソックス<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -4288,7 +4288,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_BakuChicken:
-    Contents: <Tag_0>ばくはつチキン
+    Contents: <Tag_0>폭발치킨
     Tags:
       Tag_0:
         Group: 9
@@ -4297,7 +4297,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Nut:
-    Contents: <Tag_0>ナッツ
+    Contents: <Tag_0>너트
     Tags:
       Tag_0:
         Group: 9
@@ -4306,7 +4306,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_UltraSyrup:
-    Contents: <Tag_0>ウルトラシロップ
+    Contents: <Tag_0>울트라시럽
     Tags:
       Tag_0:
         Group: 9
@@ -4315,7 +4315,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks10:
-    Contents: <Tag_0>ゴツゴツソックス
+    Contents: <Tag_0>울퉁불퉁양말
     Tags:
       Tag_0:
         Group: 9
@@ -4354,7 +4354,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   Ns_Socks11:
-    Contents: <Tag_0>EXPソックス
+    Contents: <Tag_0>EXP양말
     Tags:
       Tag_0:
         Group: 9
@@ -4417,7 +4417,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_UltraSyrup:
-    Contents: <Tag_0><Tag_1>ウルトラシロップ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ウルトラシロップ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -4443,7 +4443,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks12:
-    Contents: <Tag_0>テッペキソックス
+    Contents: <Tag_0>철벽양말
     Tags:
       Tag_0:
         Group: 9
@@ -4502,7 +4502,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   N_Glove00:
-    Contents: <Tag_0>POWグラブ
+    Contents: <Tag_0>POW글러브
     Tags:
       Tag_0:
         Group: 9
@@ -4529,7 +4529,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks13:
-    Contents: <Tag_0>ナースソックス
+    Contents: <Tag_0>간호사양말
     Tags:
       Tag_0:
         Group: 9
@@ -4649,7 +4649,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Accessory10:
-    Contents: <Tag_0><Tag_1>はんげきスカーフ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>はんげきスカーフ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -4666,7 +4666,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   N_Glove01:
-    Contents: <Tag_0>POWグラブDX
+    Contents: <Tag_0>POW글러브DX
     Tags:
       Tag_0:
         Group: 9
@@ -4675,7 +4675,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_HeartMame:
-    Contents: <Tag_0>ハートマメ
+    Contents: <Tag_0>하트콩
     Tags:
       Tag_0:
         Group: 9
@@ -4702,7 +4702,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks14:
-    Contents: <Tag_0>ドクターソックス
+    Contents: <Tag_0>닥터양말
     Tags:
       Tag_0:
         Group: 9
@@ -4762,7 +4762,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Accessory11:
-    Contents: <Tag_0><Tag_1>ヒッサツシェル<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ヒッサツシェル<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -4797,7 +4797,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Glove02:
-    Contents: <Tag_0>キノコグラブ
+    Contents: <Tag_0>버섯글러브
     Tags:
       Tag_0:
         Group: 9
@@ -4824,7 +4824,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks15:
-    Contents: <Tag_0>ムラムラソックス
+    Contents: <Tag_0>찔끔찔끔양말
     Tags:
       Tag_0:
         Group: 9
@@ -4931,7 +4931,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Glove03:
-    Contents: <Tag_0>スペシャルグラブ
+    Contents: <Tag_0>스페셜글러브
     Tags:
       Tag_0:
         Group: 9
@@ -4940,7 +4940,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_PiriChicken:
-    Contents: <Tag_0>ピリからチキン
+    Contents: <Tag_0>약간매운치킨
     Tags:
       Tag_0:
         Group: 9
@@ -4967,7 +4967,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks16:
-    Contents: <Tag_0>メキメキソックス
+    Contents: <Tag_0>부쩍부쩍양말
     Tags:
       Tag_0:
         Group: 9
@@ -5116,7 +5116,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks17:
-    Contents: <Tag_0>エンジェルソックス
+    Contents: <Tag_0>엔젤양말
     Tags:
       Tag_0:
         Group: 9
@@ -5278,7 +5278,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Glove05:
-    Contents: <Tag_0>デリシャスグラブ
+    Contents: <Tag_0>딜리셔스글러브
     Tags:
       Tag_0:
         Group: 9
@@ -5287,7 +5287,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Nut:
-    Contents: <Tag_0>ナッツ
+    Contents: <Tag_0>너트
     Tags:
       Tag_0:
         Group: 9
@@ -5436,7 +5436,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Accessory15:
-    Contents: <Tag_0><Tag_1>キノコストーン<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>キノコストーン<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -5462,7 +5462,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Glove06:
-    Contents: <Tag_0>フラワーグラブ
+    Contents: <Tag_0>플라워글러브
     Tags:
       Tag_0:
         Group: 9
@@ -5664,7 +5664,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Accessory16:
-    Contents: <Tag_0><Tag_1>POWキノコソース<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>POWキノコソース<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -5690,7 +5690,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Glove07:
-    Contents: <Tag_0>バイバイグラブ
+    Contents: <Tag_0>바이바이글러브
     Tags:
       Tag_0:
         Group: 9
@@ -5699,7 +5699,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Kinoko:
-    Contents: <Tag_0>キノコ
+    Contents: <Tag_0>버섯
     Tags:
       Tag_0:
         Group: 9
@@ -5868,7 +5868,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Glove08:
-    Contents: <Tag_0>ヤワヤワグラブ
+    Contents: <Tag_0>보들보들글러브
     Tags:
       Tag_0:
         Group: 9
@@ -5877,7 +5877,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Refleshhb:
-    Contents: <Tag_0>リフレッシュハーブ
+    Contents: <Tag_0>회복허브
     Tags:
       Tag_0:
         Group: 9
@@ -5886,7 +5886,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_MaxKinoko:
-    Contents: <Tag_0>ミラクルキノコ
+    Contents: <Tag_0>미라클버섯
     Tags:
       Tag_0:
         Group: 9
@@ -5967,7 +5967,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Glove09:
-    Contents: <Tag_0>アイテムグラブ
+    Contents: <Tag_0>아이템글러브
     Tags:
       Tag_0:
         Group: 9
@@ -6124,7 +6124,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   N_BakuChicken:
-    Contents: <Tag_0>ばくはつチキン
+    Contents: <Tag_0>폭발치킨
     Tags:
       Tag_0:
         Group: 9
@@ -6142,7 +6142,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks00:
-    Contents: <Tag_0>HPソックス
+    Contents: <Tag_0>HP양말
     Tags:
       Tag_0:
         Group: 9
@@ -6160,7 +6160,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_GekiChicken:
-    Contents: <Tag_0>げきからチキン
+    Contents: <Tag_0>아주매운치킨
     Tags:
       Tag_0:
         Group: 9
@@ -6232,7 +6232,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Fung02:
-    Contents: <Tag_0><Tag_1>スペシャルきば<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>スペシャルきば<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -6249,7 +6249,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_MaxKinoko:
-    Contents: <Tag_0><Tag_1>ミラクルキノコ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ミラクルキノコ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -6266,7 +6266,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Shell16:
-    Contents: <Tag_0><Tag_1>ごうれいコウラ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ごうれいコウラ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -6292,7 +6292,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_MaxSyrup:
-    Contents: <Tag_0>ミラクルシロップ
+    Contents: <Tag_0>미라클시럽
     Tags:
       Tag_0:
         Group: 9
@@ -6301,7 +6301,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks01:
-    Contents: <Tag_0>HPソックスDX
+    Contents: <Tag_0>HP양말DX
     Tags:
       Tag_0:
         Group: 9
@@ -6367,7 +6367,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Fung03:
-    Contents: <Tag_0><Tag_1>スペシャルきばSP<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>スペシャルきばSP<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -6384,7 +6384,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Shell17:
-    Contents: <Tag_0>きんぴかこうら は いっぱいです！
+    Contents: <Tag_0>きんぴかこうら は 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -6393,7 +6393,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_UltraNut:
-    Contents: <Tag_0><Tag_1>ウルトラナッツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ウルトラナッツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -6410,7 +6410,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   N_1upKinoko:
-    Contents: <Tag_0>１UPキノコ
+    Contents: <Tag_0>1UP버섯
     Tags:
       Tag_0:
         Group: 9
@@ -6454,7 +6454,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Fung04:
-    Contents: <Tag_0><Tag_1>しゃくねつきば<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>しゃくねつきば<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -6471,7 +6471,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   N_Socks03:
-    Contents: <Tag_0>BPソックスDX
+    Contents: <Tag_0>BP양말DX
     Tags:
       Tag_0:
         Group: 9
@@ -6552,7 +6552,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Fung05:
-    Contents: <Tag_0><Tag_1>もえもえきば<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>もえもえきば<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -6569,7 +6569,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   N_Socks04:
-    Contents: <Tag_0>チョコマカソックス
+    Contents: <Tag_0>후다닥양말
     Tags:
       Tag_0:
         Group: 9
@@ -6740,7 +6740,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Fung06:
-    Contents: <Tag_0><Tag_1>イライラきば<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>イライラきば<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -6757,7 +6757,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_PowMame:
-    Contents: <Tag_0><Tag_1>パワーマメ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>パワーマメ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -6774,7 +6774,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   N_Socks05:
-    Contents: <Tag_0>コインソックス
+    Contents: <Tag_0>코인양말
     Tags:
       Tag_0:
         Group: 9
@@ -6877,7 +6877,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks06:
-    Contents: <Tag_0>ゴワゴワソックス
+    Contents: <Tag_0>꼬깃꼬깃양말
     Tags:
       Tag_0:
         Group: 9
@@ -6886,7 +6886,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Syrup:
-    Contents: <Tag_0>シロップ
+    Contents: <Tag_0>시럽
     Tags:
       Tag_0:
         Group: 9
@@ -6987,7 +6987,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   N_Socks07:
-    Contents: <Tag_0>コンジョウソックス
+    Contents: <Tag_0>근성양말
     Tags:
       Tag_0:
         Group: 9
@@ -7039,7 +7039,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_UltraCheese:
-    Contents: <Tag_0><Tag_1>ウルトラチーズ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ウルトラチーズ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -7056,7 +7056,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   N_Socks08:
-    Contents: <Tag_0>ブラザーソックス
+    Contents: <Tag_0>브라더양말
     Tags:
       Tag_0:
         Group: 9
@@ -7074,7 +7074,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_StarCandy:
-    Contents: <Tag_0>スターキャンディ
+    Contents: <Tag_0>스타캔디
     Tags:
       Tag_0:
         Group: 9
@@ -7237,7 +7237,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_BakuChicken:
-    Contents: <Tag_0><Tag_1>ばくはつチキン<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ばくはつチキン<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -7254,7 +7254,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Ring00:
-    Contents: <Tag_0><Tag_1>きまぐれゆびわ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>きまぐれゆびわ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -7280,7 +7280,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove10:
-    Contents: <Tag_0>ドレイングラブ
+    Contents: <Tag_0>드레인글러브
     Tags:
       Tag_0:
         Group: 9
@@ -7289,7 +7289,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear00:
-    Contents: <Tag_0>ペラペラウェア
+    Contents: <Tag_0>헐렁헐렁웨어
     Tags:
       Tag_0:
         Group: 9
@@ -7374,7 +7374,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_StarCandy:
-    Contents: <Tag_0><Tag_1>スターキャンディ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>スターキャンディ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -7409,7 +7409,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove11:
-    Contents: <Tag_0>ポコポコグラブ
+    Contents: <Tag_0>우당탕글러브
     Tags:
       Tag_0:
         Group: 9
@@ -7418,7 +7418,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear01:
-    Contents: <Tag_0>ピクニックウェア
+    Contents: <Tag_0>피크닉웨어
     Tags:
       Tag_0:
         Group: 9
@@ -7521,7 +7521,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove12:
-    Contents: <Tag_0>ドレイングラブDX
+    Contents: <Tag_0>드레인글러브DX
     Tags:
       Tag_0:
         Group: 9
@@ -7530,7 +7530,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear02:
-    Contents: <Tag_0>レンジャーウェア
+    Contents: <Tag_0>레인저웨어
     Tags:
       Tag_0:
         Group: 9
@@ -7654,7 +7654,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear03:
-    Contents: <Tag_0>ファイターウェア
+    Contents: <Tag_0>파이터웨어
     Tags:
       Tag_0:
         Group: 9
@@ -7783,7 +7783,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear04:
-    Contents: <Tag_0>ハートウェア
+    Contents: <Tag_0>하트웨어
     Tags:
       Tag_0:
         Group: 9
@@ -7822,7 +7822,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Glove10:
-    Contents: <Tag_0><Tag_1>ドレイングラブ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>드레인글러브<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -7839,7 +7839,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Ring05:
-    Contents: <Tag_0><Tag_1>チキンゆびわ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>チキンゆびわ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -7856,7 +7856,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Wear10:
-    Contents: <Tag_0><Tag_1>マッスルウェア<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>울끈불끈웨어<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -7927,7 +7927,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear05:
-    Contents: <Tag_0>ムキムキウェア
+    Contents: <Tag_0>우락부락웨어
     Tags:
       Tag_0:
         Group: 9
@@ -7983,7 +7983,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Wear11:
-    Contents: <Tag_0><Tag_1>マスターウェア<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>마스터웨어<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8036,7 +8036,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Glove16:
-    Contents: <Tag_0>スペシャルグラブDX
+    Contents: <Tag_0>스페셜글러브DX
     Tags:
       Tag_0:
         Group: 9
@@ -8045,7 +8045,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear06:
-    Contents: <Tag_0>アダルトウェア
+    Contents: <Tag_0>어덜트웨어
     Tags:
       Tag_0:
         Group: 9
@@ -8089,7 +8089,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Cheese:
-    Contents: <Tag_0><Tag_1>チーズ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>チーズ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8106,7 +8106,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Wear12:
-    Contents: <Tag_0><Tag_1>キングウェア<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>킹웨어<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8168,7 +8168,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear07:
-    Contents: <Tag_0>ノコノコウェア
+    Contents: <Tag_0>넉넉웨어
     Tags:
       Tag_0:
         Group: 9
@@ -8223,7 +8223,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Boots11:
-    Contents: <Tag_0><Tag_1>フミフミブーツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>フミフミブーツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8240,7 +8240,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_MaxNut:
-    Contents: <Tag_0><Tag_1>ミラクルナッツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ミラクルナッツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8257,7 +8257,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Ring08:
-    Contents: <Tag_0><Tag_1>さいせいゆびわ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>さいせいゆびわ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8274,7 +8274,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Wear13:
-    Contents: <Tag_0><Tag_1>スターウェア<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>스타웨어<Tag_2>는 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8318,7 +8318,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Socks21:
-    Contents: <Tag_0>キノコソックス
+    Contents: <Tag_0>버섯양말
     Tags:
       Tag_0:
         Group: 9
@@ -8327,7 +8327,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear08:
-    Contents: <Tag_0>ヒーローウェア
+    Contents: <Tag_0>히어로웨어
     Tags:
       Tag_0:
         Group: 9
@@ -8378,7 +8378,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Boots12:
-    Contents: <Tag_0><Tag_1>ルーキーブーツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ルーキーブーツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8422,7 +8422,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Wear09:
-    Contents: <Tag_0>セレブウェア
+    Contents: <Tag_0>럭셔리웨어
     Tags:
       Tag_0:
         Group: 9
@@ -8503,7 +8503,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Boots13:
-    Contents: <Tag_0><Tag_1>キノコブーツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>キノコブーツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8520,7 +8520,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Glove15:
-    Contents: <Tag_0><Tag_1>グルメグラブ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>グルメグラブ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8537,7 +8537,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_LuckyMame:
-    Contents: <Tag_0><Tag_1>ジェントルマメ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ジェントルマメ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8572,7 +8572,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Refleshhb:
-    Contents: <Tag_0>リフレッシュハーブ
+    Contents: <Tag_0>회복허브
     Tags:
       Tag_0:
         Group: 9
@@ -8614,7 +8614,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Boots14:
-    Contents: <Tag_0><Tag_1>ポロリブーツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ポロリブーツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8733,7 +8733,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_MaxSyrup:
-    Contents: <Tag_0><Tag_1>ミラクルシロップ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ミラクルシロップ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8777,7 +8777,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Boots16:
-    Contents: <Tag_0><Tag_1>よくばりブーツ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>よくばりブーツ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8794,7 +8794,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Refleshhb:
-    Contents: <Tag_0><Tag_1>リフレッシュハーブ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>リフレッシュハーブ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8851,7 +8851,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_GekiChicken:
-    Contents: <Tag_0><Tag_1>げきからチキン<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>げきからチキン<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8917,7 +8917,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Socks10:
-    Contents: <Tag_0><Tag_1>ゴツゴツソックス<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>울퉁불퉁양말<Tag_2>은 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8934,7 +8934,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_SuperCheese:
-    Contents: <Tag_0><Tag_1>スーパーチーズ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>スーパーチーズ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8951,7 +8951,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Syrup:
-    Contents: <Tag_0><Tag_1>シロップ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>シロップ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -8977,7 +8977,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear10:
-    Contents: <Tag_0>マッスルウェア
+    Contents: <Tag_0>울끈불끈웨어
     Tags:
       Tag_0:
         Group: 9
@@ -9029,7 +9029,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Socks11:
-    Contents: <Tag_0><Tag_1>EXPソックス<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>EXP양말<Tag_2>은 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -9055,7 +9055,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear11:
-    Contents: <Tag_0>マスターウェア
+    Contents: <Tag_0>마스터웨어
     Tags:
       Tag_0:
         Group: 9
@@ -9171,7 +9171,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear12:
-    Contents: <Tag_0>キングウェア
+    Contents: <Tag_0>킹웨어
     Tags:
       Tag_0:
         Group: 9
@@ -9299,7 +9299,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_MaxNut:
-    Contents: <Tag_0>ミラクルナッツ
+    Contents: <Tag_0>미라클너트
     Tags:
       Tag_0:
         Group: 9
@@ -9317,7 +9317,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear13:
-    Contents: <Tag_0>スターウェア
+    Contents: <Tag_0>스타웨어
     Tags:
       Tag_0:
         Group: 9
@@ -9344,7 +9344,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_SuperKinoko:
-    Contents: <Tag_0>スーパーキノコ
+    Contents: <Tag_0>슈퍼버섯
     Tags:
       Tag_0:
         Group: 9
@@ -9472,7 +9472,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear14:
-    Contents: <Tag_0>Dスターウェア
+    Contents: <Tag_0>D스타웨어
     Tags:
       Tag_0:
         Group: 9
@@ -9499,7 +9499,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks00:
-    Contents: <Tag_0>HPソックス
+    Contents: <Tag_0>HP양말
     Tags:
       Tag_0:
         Group: 9
@@ -9539,7 +9539,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_Wear15:
-    Contents: <Tag_0>カンペキウェア
+    Contents: <Tag_0>퍼펙트웨어
     Tags:
       Tag_0:
         Group: 9
@@ -9548,7 +9548,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_1upKinokodx:
-    Contents: <Tag_0>１UPキノコDX
+    Contents: <Tag_0>1UP버섯DX
     Tags:
       Tag_0:
         Group: 9
@@ -9566,7 +9566,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks01:
-    Contents: <Tag_0>HPソックスDX
+    Contents: <Tag_0>HP양말DX
     Tags:
       Tag_0:
         Group: 9
@@ -9618,7 +9618,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Bracelet12:
-    Contents: <Tag_0><Tag_1>すいこみうでわ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>すいこみうでわ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -9635,7 +9635,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Socks16:
-    Contents: <Tag_0><Tag_1>メキメキソックス<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>부쩍부쩍양말<Tag_2>은 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -9745,7 +9745,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Socks17:
-    Contents: <Tag_0><Tag_1>エンジェルソックス<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>엔젤양말<Tag_2>은 가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -9816,7 +9816,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks03:
-    Contents: <Tag_0>BPソックスDX
+    Contents: <Tag_0>BP양말DX
     Tags:
       Tag_0:
         Group: 9
@@ -9851,7 +9851,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Bracelet14:
-    Contents: <Tag_0><Tag_1>ひっさつうでわ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ひっさつうでわ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -9913,7 +9913,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks04:
-    Contents: <Tag_0>チョコマカソックス
+    Contents: <Tag_0>후다닥양말
     Tags:
       Tag_0:
         Group: 9
@@ -9948,7 +9948,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Bracelet15:
-    Contents: <Tag_0><Tag_1>ふいうちうでわ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ふいうちうでわ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -10010,7 +10010,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks05:
-    Contents: <Tag_0>コインソックス
+    Contents: <Tag_0>코인양말
     Tags:
       Tag_0:
         Group: 9
@@ -10053,7 +10053,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Accessory02:
-    Contents: <Tag_0><Tag_1>キマグレベルト<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>キマグレベルト<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -10070,7 +10070,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_UltraKinoko:
-    Contents: <Tag_0><Tag_1>ウルトラキノコ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ウルトラキノコ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -10123,7 +10123,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks06:
-    Contents: <Tag_0>ゴワゴワソックス
+    Contents: <Tag_0>꼬깃꼬깃양말
     Tags:
       Tag_0:
         Group: 9
@@ -10269,7 +10269,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   F_Accessory03:
-    Contents: <Tag_0><Tag_1>セツヤクベルト<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>セツヤクベルト<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -10322,7 +10322,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks07:
-    Contents: <Tag_0>コンジョウソックス
+    Contents: <Tag_0>근성양말
     Tags:
       Tag_0:
         Group: 9
@@ -10453,7 +10453,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Socks08:
-    Contents: <Tag_0>ブラザーソックス
+    Contents: <Tag_0>브라더양말
     Tags:
       Tag_0:
         Group: 9
@@ -10708,7 +10708,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Accessory06:
-    Contents: <Tag_0><Tag_1>ゼイタクワッペン<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ゼイタクワッペン<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -10734,7 +10734,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_PowMame:
-    Contents: <Tag_0>パワーマメ
+    Contents: <Tag_0>파워콩
     Tags:
       Tag_0:
         Group: 9
@@ -10752,7 +10752,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_MaxNut:
-    Contents: <Tag_0>ミラクルナッツ
+    Contents: <Tag_0>미라클너트
     Tags:
       Tag_0:
         Group: 9
@@ -10891,7 +10891,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Accessory07:
-    Contents: <Tag_0><Tag_1>ゴーカイワッペン<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ゴーカイワッペン<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -10908,7 +10908,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   F_Shell03:
-    Contents: <Tag_0><Tag_1>けっせんコウラ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>けっせんコウラ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -11051,7 +11051,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Shell04:
-    Contents: <Tag_0><Tag_1>がんせきコウラ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>がんせきコウラ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -11153,7 +11153,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_MaxCheese:
-    Contents: <Tag_0><Tag_1>ミラクルチーズ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>ミラクルチーズ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -11188,7 +11188,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_SuperNut:
-    Contents: <Tag_0>スーパーナッツ
+    Contents: <Tag_0>슈퍼너트
     Tags:
       Tag_0:
         Group: 9
@@ -11255,7 +11255,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Shell06:
-    Contents: <Tag_0><Tag_1>あばれんぼコウラ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>あばれんぼコウラ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -11294,7 +11294,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Kinoko:
-    Contents: <Tag_0><Tag_1>キノコ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>キノコ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
@@ -11311,7 +11311,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   N_1upKinokodx:
-    Contents: <Tag_0>１UPキノコDX
+    Contents: <Tag_0>1UP버섯DX
     Tags:
       Tag_0:
         Group: 9
@@ -11320,7 +11320,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   N_MaxKinoko:
-    Contents: <Tag_0>ミラクルキノコ
+    Contents: <Tag_0>미라클버섯
     Tags:
       Tag_0:
         Group: 9
@@ -11338,7 +11338,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_Syrup:
-    Contents: <Tag_0>シロップ
+    Contents: <Tag_0>시럽
     Tags:
       Tag_0:
         Group: 9
@@ -11347,7 +11347,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ns_UltraKinoko:
-    Contents: <Tag_0>ウルトラキノコ
+    Contents: <Tag_0>울트라버섯
     Tags:
       Tag_0:
         Group: 9
@@ -11377,7 +11377,7 @@ Messages:
     Attribute: 00000000
     StyleID: 3
   F_Shell08:
-    Contents: <Tag_0><Tag_1>まじんコウラ<Tag_2>はいっぱいです！
+    Contents: <Tag_0><Tag_1>まじんコウラ<Tag_2>は가득합니다!
     Tags:
       Tag_0:
         Group: 9
