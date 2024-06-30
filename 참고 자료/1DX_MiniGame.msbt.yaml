@@ -1,0 +1,3156 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MDat_Menu_Best_Stage3:
+    Contents: <Tag_0>스테이지 3 클리어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  MDat_V_001B:
+    Contents: "<Tag_0><Tag_1>이번엔 <Tag_2>마리오<Tag_3>가\n줄을 뛰어넘어 봐. <Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0031:
+    Contents: "<Tag_0><Tag_1>이 앞은 <Tag_2>콩글리아 왕국<Tag_3>이야.\n조심해서 여행하라구.<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0089:
+    Contents: "<Tag_0><Tag_1>그럼 다음은\n<Tag_2>점프<Tag_3> 연습을 해보지.<Tag_4><Tag_5><Tag_6>자네들은 점프하는 게 일이니\n연습할 필요도 없을 것 같네만…<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Best_Stage4:
+    Contents: <Tag_0>스테이지 4 클리어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  MDat_V_001C:
+    Contents: "<Tag_0><Tag_1>다음은 <Tag_2>루이지<Tag_3>가\n줄을 뛰어넘어 봐. <Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Best_Stage5:
+    Contents: <Tag_0>스테이지 5 클리어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  MDat_V_001D:
+    Contents: <Tag_0><Tag_1>잘 하는구만!<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_001E:
+    Contents: "<Tag_0><Tag_1>실패!\n다시 한 번!<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_001F:
+    Contents: "<Tag_0><Tag_1>그럼 <Tag_2>마리오<Tag_3>와<Tag_4><Tag_5> <Tag_6>루이지<Tag_7>\n둘이 같이 해보자.<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0039:
+    Contents: "<Tag_0><Tag_1><Tag_2>루이지<Tag_3>는<Tag_4><Tag_5> <Tag_6> <Tag_7>버튼으로\n점프하게.<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_008A:
+    Contents: <Tag_0><Tag_1>우선 <Tag_2>마리오<Tag_3>부터…<Tag_4><Tag_5><Tag_6><Tag_7> <Tag_8>버튼으로 점프를 하게.<Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_008B:
+    Contents: <Tag_0><Tag_1>나쁘지 않구먼.<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_008C:
+    Contents: "<Tag_0><Tag_1>참 못하는구먼… \n다시 해보게.<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 5a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_008D:
+    Contents: <Tag_0><Tag_1>베리 굿.<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_008E:
+    Contents: "<Tag_0><Tag_1>그렇지.<Tag_2> <Tag_3>마리오<Tag_4>는 그 손전등으로\n<Tag_5>루이지<Tag_6>를 비춰줘야 하네.<Tag_7><Tag_8>그렇지 않으면\n<Tag_9>루이지<Tag_10>는 아무것도 안 보이니 말이야.<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_008F:
+    Contents: "<Tag_0><Tag_1>그 전에… 동굴 안은\n보다시피 깜깜하다네.<Tag_2><Tag_3>이대로는 아무것도 안 보이지.<Tag_4>\n그래서 말이야… <Tag_5><Tag_6><Tag_7><Tag_8>마리오<Tag_9>가<Tag_10> <Tag_11>손전등을 켜게.<Tag_12><Tag_13><Tag_14> \n<Tag_15><Tag_16> <Tag_17>버튼을 눌러보게나.<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_003A:
+    Contents: <Tag_0><Tag_1>자네 말고!<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_003B:
+    Contents: "<Tag_0><Tag_1>다음은 <Tag_2>다이아<Tag_3>를\n획득하는 방법을 가르쳐주겠네.<Tag_4><Tag_5><Tag_6><Tag_7>다이아<Tag_8>는 중요한 아이템이니\n발견하면 바로 획득하게.<Tag_9><Tag_10>방법은 아주 간단하지.\n그저 <Tag_11>다이아<Tag_12>와 닿기만 하면 돼.<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_003C:
+    Contents: "<Tag_0><Tag_1>마리오<Tag_2>는 <Tag_3>빨강<Tag_4>, <Tag_5>루이지<Tag_6>는 <Tag_7>초록\n<Tag_8><Tag_9>다이아<Tag_10>를 점프로 획득해보게. <Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0052:
+    Contents: "<Tag_0><Tag_1>오. <Tag_2>너희들도\n아르바이트하러 왔냐?<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_003D:
+    Contents: "<Tag_0><Tag_1>이번엔 <Tag_2>루이지<Tag_3> 차례일세.\n<Tag_4>다이아<Tag_5>를 획득해보게.<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0053:
+    Contents: "<Tag_0><Tag_1>이 「통통」으로\n<Tag_2>10<Tag_3>점 이상 따면 어엿한\n알바생으로 인정해주지.<Tag_4><Tag_5><Tag_6>통통을 해볼래?<Tag_7>\n　<Tag_8>예\n　<Tag_9>아니요\n　<Tag_10>설명 듣기<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0054:
+    Contents: "<Tag_0><Tag_1>통통을 할거야?<Tag_2>\n　<Tag_3>예\n　<Tag_4>아니요<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_003F:
+    Contents: "<Tag_0>동굴 안은 위험으로 가득하네.<Tag_1><Tag_2>갑자기 뭔가가 떨어질지도 모르고\n갑자기 괴물이 나타날지도 모르지…<Tag_3><Tag_4>부디 조심, 또 조심해야 하네.\n획득한 <Tag_5>다이아<Tag_6>를 잃어버리게 되니 말일세.<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0055:
+    Contents: "<Tag_0><Tag_1>그래.\n수고 많았어.<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_005B:
+    Contents: "<Tag_0><Tag_1>오케~이!\n거기까지~!<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0071:
+    Contents: "<Tag_0><Tag_1>오오오오오~!\n하이스코어를 달성했습니다!<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_005C:
+    Contents: "<Tag_0><Tag_1>오오!<Tag_2> 굉장해!<Tag_3>\n꽤 하는데 너희들?<Tag_4><Tag_5><Tag_6>너희를 통통 주임으로\n임명하고 싶을 정도야!<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0072:
+    Contents: "<Tag_0><Tag_1>축하합니다!\n하이스코어네요!<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_005D:
+    Contents: "<Tag_0><Tag_1>어이구?\n상태가 좀 안 좋은가 봐?<Tag_2><Tag_3><Tag_4>어엿한 알바생이 되고 싶으면\n다시 도전해.<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0073:
+    Contents: "<Tag_0><Tag_1><Tag_2>우리 가게 인기 No.1\n<Tag_3>수염☆시소<Tag_4>입니다!<Tag_5><Tag_6><Tag_7>하이스코어 <Tag_8>200점<Tag_9>을 클리어하면\n멋진 경품을 드립니다!<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_005E:
+    Contents: "<Tag_0><Tag_1>가로나 세로로 같은 색 나무통을\n모으기만 하면 돼.<Tag_2><Tag_3><Tag_4>가르쳐 줄 테니 한 번 해봐.<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0074:
+    Contents: "<Tag_0><Tag_1><Tag_2>신나게 즐겁게\n짜릿하게 즐겨보세요!<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_005F:
+    Contents: "<Tag_0><Tag_1><Tag_2>마리오<Tag_3>는 <Tag_4>십자 <Tag_5>버튼의 좌우로,\n<Tag_6>루이지<Tag_7>는 상하로 움직일 수 있어.<Tag_8><Tag_9><Tag_10><Tag_11><Tag_12>둘 다\n10발자국 정도 움직여봐.<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0076:
+    Contents: "<Tag_0><Tag_1><Tag_2>축하합니다!\n하이스코어네요!<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0077:
+    Contents: "<Tag_0><Tag_1><Tag_2>다음 도전도\n기다리고 있겠습니다!<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0020:
+    Contents: <Tag_0><Tag_1>이제 연습은 끝났어.<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0021:
+    Contents: <Tag_0><Tag_1>여기까지~!<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0079:
+    Contents: "<Tag_0>다시 도전할래?<Tag_1>\n    <Tag_2>예\n    <Tag_3>아니요"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0023:
+    Contents: <Tag_0><Tag_1>잘 가.<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_saving:
+    Contents: "<Tag_0><Tag_1><Tag_2>저장 중입니다.\n전원을 끄지 마십시오."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MDat_Menu_Confirm:
+    Contents: "<Tag_0><Tag_1>포기하면 상품을 받을 수 없습니다.\n정말 포기하시겠습니까?"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 1
+  MDat_V_000E:
+    Contents: "<Tag_0><Tag_1>오!<Tag_2> 이게 웬일이야?<Tag_3><Tag_4><Tag_5>마리오브라더스가\n왔잖아?<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0024:
+    Contents: <Tag_0><Tag_1>연습해서 다시 와!<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_000F:
+    Contents: "<Tag_0><Tag_1>오!<Tag_2> 오랜만이군.<Tag_3><Tag_4><Tag_5>둘이 같이\n어디 가나 봐?<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_007A:
+    Contents: "<Tag_0><Tag_1>국경 줄넘기<Tag_2>에 도전하겠어?<Tag_3><Tag_4><Tag_5>\n    <Tag_6>예\n    <Tag_7>아니요\n    <Tag_8>설명 듣기<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 4
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_007B:
+    Contents: "<Tag_0><Tag_1>국경 줄넘기 2<Tag_2>에\n도전하겠어?<Tag_3>\n    <Tag_4>예\n    <Tag_5>아니요<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_007C:
+    Contents: "<Tag_0><Tag_1>슈퍼 국경 줄넘기<Tag_2>에\n도전하겠어?<Tag_3>\n    <Tag_4>예\n    <Tag_5>아니요<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_007D:
+    Contents: "<Tag_0><Tag_1>국경 줄넘기 선샤인\n<Tag_2>해볼래?<Tag_3><Tag_4><Tag_5>\n    <Tag_6>예\n    <Tag_7>아니요"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Stage1:
+    Contents: <Tag_0>스테이지 1 클리어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_Menu_Pirze_Stage2:
+    Contents: <Tag_0>스테이지 2 클리어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_Menu_Pirze_Stage3:
+    Contents: <Tag_0>스테이지 3 클리어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0040:
+    Contents: "<Tag_0><Tag_1>자 그러니 위험을\n회피하기 위한 연습을 해보세.<Tag_2><Tag_3>떨어지는 바위를 피해보게.\n둘 다 동시에 해보게.<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Stage4:
+    Contents: <Tag_0>스테이지 4 클리어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0041:
+    Contents: "<Tag_0><Tag_1>그럼\n연습을 시작하겠네.<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Stage5:
+    Contents: <Tag_0>스테이지 5 클리어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_Menu_Otasuke:
+    Contents: "<Tag_0><Tag_1>클리어로 간주하고 다음으로 넘어가시겠습니까? \n<Tag_2><Tag_3>예　　　<Tag_4>아니요"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MDat_Menu_Pirze_Mai1:
+    Contents: <Tag_0>16~19
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0043:
+    Contents: "<Tag_0><Tag_1>슬라이드 패드를 기울여 보게.\n주변이 잘 보일 걸세.<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Mai2:
+    Contents: <Tag_0>20~24
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0044:
+    Contents: "<Tag_0><Tag_1>그럼 그 손전등으로\n<Tag_2>루이지<Tag_3>를 비춰 보게.<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Mai3:
+    Contents: <Tag_0>25~29
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_Trk_StageNorma_1:
+    Contents: <Tag_0><Tag_1>Score 10 이상으로 클리어!<Tag_2><Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MDat_V_002F:
+    Contents: "<Tag_0><Tag_1>역시!\n훌륭한 점프였어.<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Mai4:
+    Contents: <Tag_0>30~34
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_Trk_StageNorma_2:
+    Contents: <Tag_0><Tag_1>Score 15 이상으로 클리어!<Tag_2><Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MDat_Menu_Pirze_Mai5:
+    Contents: <Tag_0>35~
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_Trk_StageNorma_3:
+    Contents: <Tag_0><Tag_1>Score 25 이상으로 클리어!<Tag_2><Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MDat_Trk_StageNorma_4:
+    Contents: <Tag_0><Tag_1>Score 20 이상으로 클리어!<Tag_2><Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MDat_Trk_StageNorma_5:
+    Contents: <Tag_0><Tag_1>Score 30 이상으로 클리어!<Tag_2><Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MDat_Menu_Pirze_Hige1:
+    Contents: <Tag_0>201~219
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_Menu_Pirze_Hige2:
+    Contents: <Tag_0>220~239
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_Menu_Pirze_Hige3:
+    Contents: <Tag_0>240~319
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_Menu_Pirze_Hige4:
+    Contents: <Tag_0>320~339
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_Menu_Pirze_Hige5:
+    Contents: <Tag_0>340~
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0060:
+    Contents: "<Tag_0><Tag_1>다음은 나무통 움직이는 법이야.<Tag_2><Tag_3><Tag_4> <Tag_5>버튼을 누르면서\n<Tag_6>십자 <Tag_7>버튼 <Tag_8>상하<Tag_9>로 세로 이동.<Tag_10><Tag_11><Tag_12> <Tag_13>버튼을 누르면서\n<Tag_14>십자 <Tag_15>버튼 <Tag_16>좌우<Tag_17>로 가로 이동.<Tag_18><Tag_19><Tag_20>슬라이드 패드<Tag_21>도 쓸 수 있지.\n편한 대로 해.<Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Best_Stage_none:
+    Contents: <Tag_0>---
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  MDat_Menu_Pirze_Taru1:
+    Contents: <Tag_0>10~15
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_004B:
+    Contents: "<Tag_0><Tag_1>마지막으로…\n아주 중요한 것을 알려 주지.<Tag_2><Tag_3><Tag_4>마리오<Tag_5>가 갖고 있는 손전등은\n시간이 지나면 꺼지게 되어 있네.<Tag_6><Tag_7><Tag_8>그러니 꺼지기 전에\n건전지를 획득해야 하네.<Tag_9><Tag_10><Tag_11>그럼 건전지를 획득하면\n연습을 마치도록 하겠네.<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0061:
+    Contents: "<Tag_0><Tag_1><Tag_2>마리오\n<Tag_3>나무통을 움직여 봐.<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8><Tag_9> <Tag_10>버튼을 누르면서\n<Tag_11>십자 <Tag_12>버튼 <Tag_13>상하<Tag_14>야.<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_staffroll:
+    Contents: "<Tag_0><Tag_1>마리오와 루이지의 모험은 막을 내렸습니다.<Tag_2>\n한편 쿠파군단은 어떻게 된 걸까요…<Tag_3>\n그들의 모험을 살펴보지 않으실래요?<Tag_4><Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 3c 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 3c 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MDat_Menu_Pirze_Taru2:
+    Contents: <Tag_0>16~21
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0062:
+    Contents: "<Tag_0><Tag_1>다음은 <Tag_2>루이지<Tag_3>.<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8><Tag_9> <Tag_10>버튼을 누르면서\n<Tag_11>십자 <Tag_12>버튼 <Tag_13>좌우<Tag_14>야.<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Taru3:
+    Contents: <Tag_0>22~27
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0063:
+    Contents: "<Tag_0><Tag_1>잘하네.\n역시 난 참 잘 가르쳐.<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Taru4:
+    Contents: <Tag_0>28~34
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0064:
+    Contents: "<Tag_0><Tag_1>여러분 여길 보십시오!<Tag_2>\n이 달팽 콜로세움에…<Tag_3><Tag_4>또 새로운 도전자가\n왔습니다~!<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Taru5:
+    Contents: <Tag_0>35~
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0067:
+    Contents: "<Tag_0><Tag_1>오케이 올롸잇!\n그럼 규칙을 설명하겠습니다~!<Tag_2><Tag_3>이곳 달팽 콜로세움은\n시간 안에 쓰러트린 <Tag_4>깔깔바위<Tag_5> 숫자를 겨루는…<Tag_6><Tag_7>모두가 흥분하는\n두근두근 심쿵심쿵 도전입니다!<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0068:
+    Contents: <Tag_0><Tag_1>이것이 <Tag_2>깔깔바위<Tag_3>입니다~!<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0011:
+    Contents: "<Tag_0><Tag_1>여길 지나가고 싶다고?<Tag_2><Tag_3><Tag_4>알다시피 여긴\n버섯왕국 국경이다.<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0069:
+    Contents: "<Tag_0><Tag_1>으아니 이런! 깔깔포를 발사하네요!<Tag_2>\n여기에 맞으면 온몸이 찌릿찌릿하죠!<Tag_3><Tag_4>패널티로 제한 시간이\n약간 감소합니다!<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0012:
+    Contents: "<Tag_0><Tag_1>마리오브라더스의 명성에 걸맞는\n점프를 보여준다면…<Tag_2><Tag_3><Tag_4>여길 지나가게\n해줄 수 있지.<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Trk1:
+    Contents: <Tag_0>1~15
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0013:
+    Contents: "<Tag_0>규칙은 간단해!<Tag_1><Tag_2><Tag_3>국경선<Tag_4>을\n<Tag_5>점프<Tag_6>로 피하는 거야!<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Trk2:
+    Contents: <Tag_0>16~35
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0014:
+    Contents: "<Tag_0><Tag_1><Tag_2>누구 하나가 3번 실수<Tag_3>하면\n도전 실패야.<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Trk3:
+    Contents: <Tag_0>36~60
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0015:
+    Contents: "<Tag_0><Tag_1>그럼 한 번\n연습을 해볼까?<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Trk4:
+    Contents: <Tag_0>61~90
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0016:
+    Contents: "<Tag_0><Tag_1>우선 <Tag_2>마리오<Tag_3>가 <Tag_4> <Tag_5>버튼으로\n점프해 봐.<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_007E_a:
+    Contents: <Tag_0>놀다 갈래?<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Pirze_Trk5:
+    Contents: <Tag_0>91~
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  MDat_V_0017:
+    Contents: <Tag_0>오케이!<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 32 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_007E_b:
+    Contents: "<Tag_0>    <Tag_1>국경 줄넘기\n    <Tag_2>국경 줄넘기 2\n    <Tag_3>슈퍼 국경 줄넘기\n    <Tag_4>더 어려운 것<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0018:
+    Contents: "<Tag_0><Tag_1><Tag_2>루이지<Tag_3>는\n다음 차례야~<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_007E_c:
+    Contents: "<Tag_0>더 어려운 걸로 해볼래?<Tag_1>\n    <Tag_2>국경 줄넘기 선샤인\n    <Tag_3>컴플리트 국경 줄넘기\n    <Tag_4>안 할래<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0019:
+    Contents: "<Tag_0><Tag_1>다음은 <Tag_2>루이지<Tag_3>가<Tag_4>  <Tag_5>버튼으로\n점프해 봐.<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_006A:
+    Contents: "<Tag_0>두 분이 갖고 있는 막대로\n이 깔깔포를 튕겨낼 수 있습니다!<Tag_1><Tag_2><Tag_3>튕겨낸 깔깔포를 명중시켜서\n깔깔바위를 쓰러트리면 됩니다!<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_006B:
+    Contents: "<Tag_0><Tag_1>오오! <Tag_2>배리어버섯<Tag_3> 등장~!<Tag_4><Tag_5><Tag_6>참 맛있고 좋은 아이템이니\n되도록 먹는 것이 좋겠죠~?<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_006C:
+    Contents: "<Tag_0><Tag_1>이 배리어가 보호해주는 동안은\n<Tag_2>깔깔포<Tag_3>를 맞아도 됩니다!<Tag_4> 굉장하죠!<Tag_5><Tag_6><Tag_7>게다가 배리어가 뒤로 날아가\n<Tag_8>깔깔바위<Tag_9>를 쓰러트려 줍니다!<Tag_10> 오예~!<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_006D:
+    Contents: "<Tag_0><Tag_1>게다가!<Tag_2> 배리어는 <Tag_3><Tag_4><Tag_5><Tag_6> <Tag_7><Tag_8>버튼으로\n아무 때나 발사할 수 있습니다!<Tag_9><Tag_10><Tag_11><Tag_12><Tag_13>마지막으로… 이동은 <Tag_14>슬라이드 패드<Tag_15>!\n회전은 <Tag_16> <Tag_17>버튼!<Tag_18> 알겠죠?<Tag_19><Tag_20>네! 구구절절 설명하기보다\n몸소 경험해 보는 게 좋겠네요!<Tag_21>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0083:
+    Contents: "<Tag_0><Tag_1>자… 도전을 하시겠습니까!?<Tag_2>\n　<Tag_3>예\n　<Tag_4>아니요\n　<Tag_5>설명 듣기<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_save_complete:
+    Contents: <Tag_0><Tag_1><Tag_2>저장이 완료되었습니다.<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MDat_V_006E:
+    Contents: "<Tag_0><Tag_1>깔깔바위<Tag_2>를 몇 개나 쓰러트릴 수 있을까요!?<Tag_3>\n화이팅!<Tag_4>\n설명은 이걸로 끝입니다!<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0084:
+    Contents: "<Tag_0><Tag_1>자… 도전을 하시겠습니까!?<Tag_2>\n　<Tag_3>예\n　<Tag_4>아니요<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0085:
+    Contents: "<Tag_0><Tag_1>자… 재도전을 하시겠습니까!?<Tag_2>\n　<Tag_3>예\n　<Tag_4>아니요<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0086:
+    Contents: "<Tag_0><Tag_1>다시 도전하시겠습니까?<Tag_2>\n　<Tag_3>예\n　<Tag_4>아니요<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MDat_Menu_Best_Stage1:
+    Contents: <Tag_0>스테이지 1 클리어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  MDat_Menu_Best_Stage2:
+    Contents: <Tag_0>스테이지 2 클리어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  MDat_V_001A:
+    Contents: "<Tag_0><Tag_1><Tag_2>마리오<Tag_3>는\n쉬고 있어.<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MDat_V_0088:
+    Contents: "<Tag_0><Tag_1>연습은 여기까지.\n다음은 실전일세.<Tag_2><Tag_3><Tag_4>힘내게나.<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

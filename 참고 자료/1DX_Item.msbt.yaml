@@ -1,0 +1,7986 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  E_Badge41:
+    Contents: "<Tag_0>몬스터를 무찌르면 무찌를수록\n해당 배틀 중에 파워가 상승하는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_EvItem31:
+    Contents: <Tag_0>비장의 두루마리1
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear34:
+    Contents: <Tag_0>아누빈청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear42:
+    Contents: <Tag_0>진흙탕청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge42:
+    Contents: "<Tag_0>왠지 모를 기품이 있는 배지.\n솔로 점프 성공으로 HP 회복 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem10:
+    Contents: <Tag_0>피치공주의 아리따운 드레스.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear10:
+    Contents: <Tag_0>몬스터의 「독」을 완전 가드!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_CURE_BP:
+    Contents: <Tag_0>BP 자동 회복
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_CURE_HP_JUMP:
+    Contents: <Tag_0>HP 회복 점프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_EvItem32:
+    Contents: <Tag_0>비장의 두루마리2
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear35:
+    Contents: <Tag_0>고대바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear43:
+    Contents: <Tag_0>플라워바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge43:
+    Contents: <Tag_0>엔카운트 공격이 강해지는 배지!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem11:
+    Contents: <Tag_0>플라스틱으로 만든 싸구려 가짜.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SuperNut:
+    Contents: <Tag_0>마리오와 루이지의 HP <Tag_1>40<Tag_2> 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  E_UltraSyrup:
+    Contents: <Tag_0>BP <Tag_1>60 <Tag_2>회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear11:
+    Contents: <Tag_0>버섯을 먹으면 상태이상도 같이 회복되는 효과.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_JH_CRIT:
+    Contents: <Tag_0>상태변화 크리티컬
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_Wear36:
+    Contents: <Tag_0>꺄르를팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear44:
+    Contents: <Tag_0>박쥐웨어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge44:
+    Contents: "<Tag_0>파뇨가 가지고 있던 배지.\nSPEED가 높을수록 럭키 어택이 되는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem12:
+    Contents: <Tag_0>콩열에 특효약. 매우 쓰다…
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear12:
+    Contents: "<Tag_0>거북의 등껍질을 이용한 바지.\n긴급 가드를 더 견고히 해주는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_GRAVITY_RANDOM:
+    Contents: <Tag_0>랜덤 중력 효과
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge20:
+    Contents: <Tag_0><Tag_1>オーパーツバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear50:
+    Contents: <Tag_0><Tag_1>リベンジーンズ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Wear37:
+    Contents: <Tag_0>울바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear45:
+    Contents: <Tag_0>스텔스수트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge45:
+    Contents: "<Tag_0>신입쿠파가 떨어트린 배지.\n배틀이 시작되자마자 파워 업 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem13:
+    Contents: <Tag_0>빨간 진주콩. 불타는 듯한 빨강이 흥분된다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear13:
+    Contents: <Tag_0>배틀에서 획득한 코인이 드물게 버섯이 되는 효과!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_PS_CHANGE:
+    Contents: <Tag_0>POW&SPEED 맞교환 효과
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge21:
+    Contents: <Tag_0><Tag_1>ブリリアントバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear51:
+    Contents: <Tag_0><Tag_1>ステゴロパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge20:
+    Contents: <Tag_0>오파츠배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear38:
+    Contents: <Tag_0>랜덤슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear46:
+    Contents: <Tag_0>락팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge46:
+    Contents: <Tag_0>BP가 자동으로 회복되는 전설적인 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem14:
+    Contents: <Tag_0>초록색 진주콩. 싱그러운 초록이 흥분된다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear14:
+    Contents: <Tag_0>이것만 입으면 마리오 바로 다음에 행동 가능!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge22:
+    Contents: <Tag_0><Tag_1>ジェネラルバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear52:
+    Contents: <Tag_0><Tag_1>クライマックスーツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge21:
+    Contents: <Tag_0>브릴리언트배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear39:
+    Contents: <Tag_0>아이언팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear47:
+    Contents: <Tag_0>디펜스바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge47:
+    Contents: <Tag_0>신입쿠파가 가지고 있던 파뇨의 부하라는 증거.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem15:
+    Contents: <Tag_0>땅속에 묻혀 있는 촉촉한 식감의 콩.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear15:
+    Contents: <Tag_0>배틀에서 획득한 코인이 드물게 버섯이 되는 효과!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge23:
+    Contents: <Tag_0><Tag_1>プレジデントバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_SuperKinoko:
+    Contents: <Tag_0><Tag_1>슈퍼버섯 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear53:
+    Contents: <Tag_0><Tag_1>スペーススーツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge22:
+    Contents: <Tag_0>제너럴배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear48:
+    Contents: <Tag_0>메디컬웨어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge48:
+    Contents: "<Tag_0>「라이트 중력」이 되면\nSPEED가 상승하는 배지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem16:
+    Contents: <Tag_0>요시가 낳은 파랗게 빛나는 알.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear16:
+    Contents: <Tag_0>버섯의 수만큼 행운이 돌아오는 팬츠.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge24:
+    Contents: <Tag_0><Tag_1>タンクバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear54:
+    Contents: <Tag_0><Tag_1>ヨビウェア４<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge23:
+    Contents: <Tag_0>프레지던트배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge10:
+    Contents: <Tag_0>마리루이배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Template:
+    Contents: <Tag_0><Tag_1>×<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+      Tag_2:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 00 00 01 00
+    Attribute: 00000000
+    StyleID: 4
+  Ns_Wear49:
+    Contents: <Tag_0>가드슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_AhaSt:
+    Contents: "<Tag_0>스타 빈즈 카페의 특제 커피.\n최대 HP가 <Tag_1>2<Tag_2>포인트 상승."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  E_Badge49:
+    Contents: <Tag_0>엔카운트 공격이 강해지는 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem17:
+    Contents: <Tag_0>요시가 낳은 빨갛게 빛나는 알.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear17:
+    Contents: <Tag_0>이것만 입으면 마리오보다 먼저 행동 가능!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_1upKinokodx:
+    Contents: <Tag_0><Tag_1>1UP버섯DX <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Badge25:
+    Contents: <Tag_0><Tag_1>スクールエンブレム<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge24:
+    Contents: <Tag_0>탱크배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_GoldenKinoko:
+    Contents: <Tag_0>골든버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Kinoko:
+    Contents: <Tag_0>버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge11:
+    Contents: <Tag_0>머슬배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_SuperSyrup:
+    Contents: <Tag_0>슈퍼시럽
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_EvItem18:
+    Contents: <Tag_0>요시가 낳은 초록색으로 빛나는 알.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear18:
+    Contents: "<Tag_0>형제가 기절해도 복수심에 불타오른다!\n남은 사람이 강해지는 청바지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_NO_BADGE:
+    Contents: <Tag_0>배지 없이 SPEED 업
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge26:
+    Contents: <Tag_0><Tag_1>ステディバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge25:
+    Contents: <Tag_0>스쿨엠블렘
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge12:
+    Contents: <Tag_0>가시킬러배지AA
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_EvItem19:
+    Contents: <Tag_0>요시가 낳은 노랗게 빛나는 알.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_GeraSt:
+    Contents: "<Tag_0>스타 빈즈 카페의 특제 커피.\nSPEED가 <Tag_1>2<Tag_2>포인트 상승."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear19:
+    Contents: "<Tag_0>남국의 정취가 느껴지는\n남국 콩의 가죽으로 만든 청바지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge27:
+    Contents: <Tag_0><Tag_1>クス・ジーシンボル<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge26:
+    Contents: <Tag_0>스테디배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge13:
+    Contents: <Tag_0>버섯배지A
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  F_Badge28:
+    Contents: <Tag_0><Tag_1>トゲキラーバッジA<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_DehePres:
+    Contents: <Tag_0><Tag_1>헤헤프레소 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear00:
+    Contents: <Tag_0><Tag_1>ワークパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge27:
+    Contents: <Tag_0>킥킥지심볼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SuperSyrup:
+    Contents: <Tag_0>슈퍼시럽
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_1upKinoko:
+    Contents: <Tag_0>1UP버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge14:
+    Contents: <Tag_0>획득배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Greenpepper:
+    Contents: <Tag_0>DEF 업+몸이 가벼워지는 효과.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge29:
+    Contents: <Tag_0><Tag_1>パックンスイング<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear01:
+    Contents: <Tag_0><Tag_1>ワークジーンズ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge28:
+    Contents: <Tag_0>가시킬러배지A
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_UltraKinoko:
+    Contents: <Tag_0>울트라버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge15:
+    Contents: <Tag_0>버섯배지AA
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  F_SuperSyrup:
+    Contents: <Tag_0><Tag_1>슈퍼시럽 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear02:
+    Contents: <Tag_0><Tag_1>マメーリパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge29:
+    Contents: <Tag_0>뻐끔스윙
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear50:
+    Contents: <Tag_0>리벤지청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge16:
+    Contents: <Tag_0>파워풀배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  F_1upKinoko:
+    Contents: <Tag_0><Tag_1>1UP버섯 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear03:
+    Contents: <Tag_0><Tag_1>ウフズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear51:
+    Contents: <Tag_0>데어데블팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge17:
+    Contents: <Tag_0>원더풀배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_GhostCookie:
+    Contents: <Tag_0>고스트쿠키
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ew_KINOKO_CURE:
+    Contents: <Tag_0>버섯 회복
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Bean00:
+    Contents: <Tag_0><Tag_1>하하콩<Tag_2> FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear04:
+    Contents: <Tag_0><Tag_1>ブルージーンズ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear52:
+    Contents: <Tag_0>클라이맥스수트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge18:
+    Contents: <Tag_0>뷰티풀배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  F_Bean01:
+    Contents: <Tag_0><Tag_1>후훗콩<Tag_2> FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear05:
+    Contents: <Tag_0><Tag_1>パラソルパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_SuperNut:
+    Contents: <Tag_0>슈퍼너트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear53:
+    Contents: <Tag_0>스페이스수트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge19:
+    Contents: <Tag_0>구조배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_UltraNut:
+    Contents: <Tag_0>울트라너트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  F_Bean02:
+    Contents: <Tag_0><Tag_1>깔깔콩<Tag_2> FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear06:
+    Contents: <Tag_0><Tag_1>ハードパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear54:
+    Contents: <Tag_0>ヨビウェア４
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_DeheSt:
+    Contents: "<Tag_0>스타 빈즈 카페의 특제 커피.\nSUYEOM이 <Tag_1>2<Tag_2>포인트 상승."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem30:
+    Contents: <Tag_0>풋풋콩 문명 시절에 만들어진 보석.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_GoldenKinoko:
+    Contents: <Tag_0>HP와 BP를 모두 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear30:
+    Contents: "<Tag_0>자신보다 느린 몬스터의 공격에 강해지는 효과!\n킥킥지가 벗은 허물로 만든 웨어."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_SAFE_GUARD:
+    Contents: <Tag_0>위기 시 DEF 업
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Bean03:
+    Contents: <Tag_0><Tag_1>헤헤콩<Tag_2> FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear07:
+    Contents: <Tag_0><Tag_1>ハートジーンズ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  E_EvItem31:
+    Contents: <Tag_0>브라더 어택 점프 기술의 비법이 쓰여 있다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear31:
+    Contents: "<Tag_0>파도 무늬가 멋들어진 웨어.\n자신보다 느린 몬스터의 공격에 강해지는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Wear08:
+    Contents: <Tag_0><Tag_1>チェックズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  E_EvItem32:
+    Contents: <Tag_0>브라더 어택 해머 기술의 비법이 쓰여 있다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear32:
+    Contents: "<Tag_0>산호가 그려져 있는 화려한 웨어.\n크리티컬과 럭키 히트가 강해지는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_LUCKY_ATK:
+    Contents: <Tag_0>럭키 어택
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_NONE:
+    Contents: <Tag_0>효과 없음
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge40:
+    Contents: <Tag_0><Tag_1>ゲラッパバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear09:
+    Contents: <Tag_0><Tag_1>１バンズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Greenpepper:
+    Contents: <Tag_0>그린페퍼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Wear33:
+    Contents: "<Tag_0>뻐끔플라워의 꽃잎을 이용한 수트.\n크리티컬과 럭키 히트가 강해지는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_CURE_HP_HAMMER:
+    Contents: <Tag_0>HP 회복 해머
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge41:
+    Contents: <Tag_0><Tag_1>オホホバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge40:
+    Contents: <Tag_0>깔깔나무배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear00:
+    Contents: <Tag_0>워크팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_UltraNut:
+    Contents: <Tag_0>마리오와 루이지의 HP <Tag_1>65<Tag_2> 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear34:
+    Contents: "<Tag_0>사막에서도 멋지게 움직일 수 있는 청바지.\n게다가 마리오 바로 전에 행동이 가능하다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_KILL_TOGE:
+    Contents: <Tag_0>가시킬러 점프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge42:
+    Contents: <Tag_0><Tag_1>クイーンシンボル<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge41:
+    Contents: <Tag_0>오호호배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_UfuSt:
+    Contents: <Tag_0>후훗스트레이트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear01:
+    Contents: <Tag_0>워크청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Wear35:
+    Contents: "<Tag_0>고대의 힘이 깃든 바지.\n배리어로 공격을 몇 차례 가드해주는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_KINOKOPOW:
+    Contents: <Tag_0>버섯 파워
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_BA_GUARD:
+    Contents: <Tag_0>배리어 가드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge43:
+    Contents: <Tag_0><Tag_1>フイウチバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Nut:
+    Contents: <Tag_0><Tag_1>너트 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge42:
+    Contents: <Tag_0>퀸심볼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear02:
+    Contents: <Tag_0>콩글리팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_GeraPuti:
+    Contents: <Tag_0>깔라푸치노
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear10:
+    Contents: <Tag_0>안전바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge10:
+    Contents: <Tag_0>방어 액션으로 화상을 입힙니다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear36:
+    Contents: "<Tag_0>유명한 디자이너 꺄르를이 디자인한\n깃털처럼 몸이 가벼워지는 엘레강트한 팬츠."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge44:
+    Contents: <Tag_0><Tag_1>パーニョシンボルA<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge43:
+    Contents: <Tag_0>기습배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem00:
+    Contents: <Tag_0>콩글리아 맵
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear03:
+    Contents: <Tag_0>후훗바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge30:
+    Contents: <Tag_0>브라더즈락
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear11:
+    Contents: <Tag_0>버섯팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge11:
+    Contents: "<Tag_0>방어 액션으로\n큰 대미지를 줄 수 있습니다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem10:
+    Contents: <Tag_0>POW와 SPEED의 수치를 바꿉니다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear37:
+    Contents: "<Tag_0>입었을 때 아주 편한 바지.\nHP가 자동으로 회복되는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge45:
+    Contents: <Tag_0><Tag_1>ルーキーバッジA<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge44:
+    Contents: <Tag_0>파뇨심볼A
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Bean00:
+    Contents: <Tag_0>하하콩
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem01:
+    Contents: <Tag_0>콩알왕자의 장미
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear04:
+    Contents: <Tag_0>블루청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge31:
+    Contents: <Tag_0>럭키리본
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear12:
+    Contents: <Tag_0>거북바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge12:
+    Contents: <Tag_0>가시가 있는 몬스터에게 위력을 발휘하는 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem11:
+    Contents: "<Tag_0>강해지는 대신에 Excellent 이외의\n평가를 받으면 대미지를 받습니다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear38:
+    Contents: "<Tag_0>몸이 무거워지기도 하고 가벼워지기도 하는\n신기한 웨어."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_PRE_POISON:
+    Contents: <Tag_0>독 회피 효과
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge46:
+    Contents: <Tag_0><Tag_1>バッカーラレジェンド<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge45:
+    Contents: <Tag_0>루키배지A
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Bean01:
+    Contents: <Tag_0>후훗콩
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem02:
+    Contents: <Tag_0>콩글리아 브로치
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear05:
+    Contents: <Tag_0>파라솔팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge32:
+    Contents: <Tag_0>브라더소울풀
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear13:
+    Contents: <Tag_0>버섯슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge13:
+    Contents: "<Tag_0>버섯을 많이 가지고 있으면 파워 업!\n버섯을 좋아하는 사람을 위한 배지!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem12:
+    Contents: "<Tag_0>「헤비 중력」 또는 「라이트 중력」 상태 동안\n받는 대미지가 감소합니다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear39:
+    Contents: <Tag_0>너무 무거워서 움직임이 둔해지는 철제 팬츠.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge47:
+    Contents: <Tag_0><Tag_1>ルーキーバッジAA<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge46:
+    Contents: <Tag_0>박칼라레전드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Bean02:
+    Contents: <Tag_0>깔깔콩
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem03:
+    Contents: <Tag_0>레드 글래스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Template:
+    Contents: <Tag_0><Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+    Attribute: 00000000
+    StyleID: 4
+  N_Wear06:
+    Contents: <Tag_0>하드팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge33:
+    Contents: <Tag_0>하이앤드배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear14:
+    Contents: <Tag_0>콩병아리청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge14:
+    Contents: <Tag_0>몬스터가 아이템을 쉽게 떨어뜨리게 되는 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem13:
+    Contents: "<Tag_0>마리오로 솔로 핸드에 성공하면 「화상」\n루이지가 성공하면 「어질어질」 상태로 만듭니다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_ACT_LM:
+    Contents: <Tag_0>마리오 어헤드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge48:
+    Contents: <Tag_0><Tag_1>ゲソバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear20:
+    Contents: <Tag_0><Tag_1>セーフティパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge47:
+    Contents: <Tag_0>루키배지AA
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Bean03:
+    Contents: <Tag_0>헤헤콩
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem04:
+    Contents: <Tag_0>그린 글래스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear07:
+    Contents: <Tag_0>하트청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge34:
+    Contents: <Tag_0>핸드오라
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear15:
+    Contents: <Tag_0>버섯툭튀바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge15:
+    Contents: "<Tag_0>버섯을 많이 가지고 있으면 파워 업!\n버섯 마니아를 위한 배지!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_GeraPuti:
+    Contents: "<Tag_0>스타 빈즈 카페의 특제 커피.\nDEF가 <Tag_1>2<Tag_2>포인트 상승."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge49:
+    Contents: <Tag_0><Tag_1>サボテンフラワー<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear21:
+    Contents: <Tag_0><Tag_1>スタビズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge48:
+    Contents: <Tag_0>오징어다리배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem05:
+    Contents: <Tag_0>레드깔깔나무열매
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SuperKinoko:
+    Contents: <Tag_0>슈퍼버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear08:
+    Contents: <Tag_0>체크바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge35:
+    Contents: <Tag_0>슬레지하트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear16:
+    Contents: <Tag_0>행운버섯팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge16:
+    Contents: "<Tag_0>배틀 시작 후 잠깐 동안\n파워 업 효과가 있는 배지!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Kinoko:
+    Contents: <Tag_0>HP <Tag_1>30<Tag_2> 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  F_Wear22:
+    Contents: <Tag_0><Tag_1>マメックスラックス<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge49:
+    Contents: <Tag_0>선인장꽃
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem06:
+    Contents: <Tag_0>화이트깔깔나무열매
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear09:
+    Contents: <Tag_0>넘버원바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge36:
+    Contents: <Tag_0>럭키스톤
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_EvItem29:
+    Contents: <Tag_0>콩멍이
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear17:
+    Contents: <Tag_0>스캔들청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge17:
+    Contents: <Tag_0>BP가 자동으로 회복되는 원더풀한 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_AUTOGUARD:
+    Contents: <Tag_0>오토 가드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Wear23:
+    Contents: <Tag_0><Tag_1>マメラズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem07:
+    Contents: <Tag_0>로제깔깔나무열매
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge37:
+    Contents: <Tag_0>쿠파피스트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear18:
+    Contents: <Tag_0>스트리트청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge18:
+    Contents: <Tag_0>반짝반짝 빛나는 아름다운 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_GoldenKinoko:
+    Contents: <Tag_0><Tag_1>골든버섯 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear24:
+    Contents: <Tag_0><Tag_1>５マメ１ジーンズ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem08:
+    Contents: <Tag_0>멤버십 카드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge38:
+    Contents: <Tag_0>쿠파송곳니
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_GeraSt:
+    Contents: <Tag_0>깔깔스트레이트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear19:
+    Contents: <Tag_0>트로피칼바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge19:
+    Contents: <Tag_0>몬스터가 아이템을 쉽게 떨어뜨리게 되는 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Wear25:
+    Contents: <Tag_0><Tag_1>タンクスラックス<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem09:
+    Contents: <Tag_0>달팽의 명예
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge39:
+    Contents: <Tag_0>가시킬러배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear26:
+    Contents: <Tag_0><Tag_1>カジュアルズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  E_Wear50:
+    Contents: "<Tag_0>형제가 기절해도 복수심에 불타오른다!\n남은 사람이 강해지는 청바지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Wear27:
+    Contents: <Tag_0><Tag_1>バッカーラズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  E_Syrup:
+    Contents: <Tag_0>BP <Tag_1>15 <Tag_2>회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear51:
+    Contents: "<Tag_0>배지의 힘을 빌리지 않고 스스로의 힘으로\n싸울 때 바람처럼 날쌔지는 팬츠."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_GRAVITY_LIGHT:
+    Contents: <Tag_0>라이트 중력 효과
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Wear28:
+    Contents: <Tag_0><Tag_1>アハデミックパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_UltraNut:
+    Contents: <Tag_0>울트라너트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_MaxSyrup:
+    Contents: <Tag_0>MAX시럽
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Wear52:
+    Contents: "<Tag_0>생명의 반을 불태워서 파라미터 상승!\n갑자기 절정을 맞이하는 웨어."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_SuperNut:
+    Contents: <Tag_0><Tag_1>슈퍼너트 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear29:
+    Contents: <Tag_0><Tag_1>フォロワージーンズ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  E_MaxKinoko:
+    Contents: <Tag_0>HP 모두 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear53:
+    Contents: "<Tag_0>반짝반짝 빛나는 매우 화려한 수트.\n우주에 있는 것처럼 몸이 가벼워지는 효과."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_ATK_1:
+    Contents: <Tag_0>어택 넘버원
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_GhostCookie:
+    Contents: <Tag_0><Tag_1>ゴーストクッキー<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear20:
+    Contents: <Tag_0>세이프티팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_GhostCookie:
+    Contents: "<Tag_0>잠시 적으로부터 대미지를 받지 않게 되어\n회피 연습이 가능함."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Redpepper:
+    Contents: <Tag_0>POW 업+몸이 무거워지는 효과.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SuperSyrup:
+    Contents: <Tag_0>BP <Tag_1>35<Tag_2> 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear54:
+    Contents: <Tag_0>予備として５枠用意しておきます。その④（仮）
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_HAND_MASTER:
+    Contents: <Tag_0>핸드 마스터
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_SpItem10:
+    Contents: <Tag_0>슈퍼체인저
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear21:
+    Contents: <Tag_0>스타빈바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_UltraSyrup:
+    Contents: <Tag_0>울트라시럽
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Eb_FIRST_HIT:
+    Contents: <Tag_0>선제공격
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_SpItem11:
+    Contents: <Tag_0>엑셀런트리스크
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear22:
+    Contents: <Tag_0>콩알슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_DeheSt:
+    Contents: <Tag_0>헤헤스트레이트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear30:
+    Contents: <Tag_0>킥킥지웨어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge30:
+    Contents: "<Tag_0>콩스톤을 모아 온 보답으로 받았다.\n솔로 점프를 성공하면 HP가 회복되는 배지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_UfuSt:
+    Contents: <Tag_0><Tag_1>후훗스트레이트 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem20:
+    Contents: <Tag_0>보라네온알
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem12:
+    Contents: <Tag_0>헤비라이트실드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear23:
+    Contents: <Tag_0>메주바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge50:
+    Contents: <Tag_0>올랄라배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Nut:
+    Contents: <Tag_0>너트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear31:
+    Contents: <Tag_0>오션웨어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge31:
+    Contents: <Tag_0>럭키 히트가 쉽게 발생하는 행운을 부르는 리본.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_EvItem21:
+    Contents: <Tag_0>오렌지네온알
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem13:
+    Contents: <Tag_0>마스터글러브
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_UltraSyrup:
+    Contents: <Tag_0>울트라시럽
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear24:
+    Contents: <Tag_0>5콩1청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge51:
+    Contents: <Tag_0>샤크배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear32:
+    Contents: <Tag_0>산호캐주얼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge32:
+    Contents: "<Tag_0>브라더 어택으로 Excellent를 내면\nBP가 회복되는 엄청난 배지!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem00:
+    Contents: <Tag_0>콩글리아 왕국 전체를 볼 수 있는 지도.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear00:
+    Contents: <Tag_0>가볍고 움직이기 편한 작업용 팬츠.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_MAME_GET:
+    Contents: <Tag_0>콩 획득
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_EvItem22:
+    Contents: <Tag_0>하늘색네온알
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_GeraPuti:
+    Contents: <Tag_0>깔라푸치노
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear25:
+    Contents: <Tag_0>탱크슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge52:
+    Contents: <Tag_0>핫섬머배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear33:
+    Contents: <Tag_0>뻐끔수트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge33:
+    Contents: "<Tag_0>배틀이 시작되자마자 파워가 상승하는\n하이엔드한 배지!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem01:
+    Contents: <Tag_0>콩글리아 성에 들어가기 위한 아이템.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear01:
+    Contents: <Tag_0>튼튼하고 질긴 실용적인 청바지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Greenpepper:
+    Contents: <Tag_0><Tag_1>グリーンペッパー<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_UltraSyrup:
+    Contents: <Tag_0><Tag_1>울트라시럽 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem23:
+    Contents: <Tag_0>스타 빈즈 조각
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear26:
+    Contents: <Tag_0>캐주얼바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge53:
+    Contents: <Tag_0>파뇨심볼AA
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear34:
+    Contents: <Tag_0>아누빈청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge34:
+    Contents: <Tag_0>솔로 핸드 성공으로 HP를 회복시키는 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem02:
+    Contents: <Tag_0>샤또 깔르고뉴에 들어가기 위한 아이템.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear02:
+    Contents: "<Tag_0>싸고 튼튼하다!\n하지만 멋쟁이들은 입지 않겠지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_COUNTER_BOOST:
+    Contents: <Tag_0>화상 카운터
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge10:
+    Contents: <Tag_0><Tag_1>マリルイバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear40:
+    Contents: <Tag_0><Tag_1>スターダストパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_EvItem24:
+    Contents: <Tag_0>스타 빈즈 조각
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear27:
+    Contents: <Tag_0>박칼라바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge54:
+    Contents: <Tag_0>헤비점프배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear35:
+    Contents: <Tag_0>고대바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge35:
+    Contents: "<Tag_0>솔로 해머 성공으로 HP를 회복시키는\n하트 모양 배지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem03:
+    Contents: <Tag_0>눈부시게 아름다운 빨간 글래스.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear03:
+    Contents: <Tag_0>후훗 마을 사람들이 모두 입고 있는 세련된 바지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_DEF_UP:
+    Contents: <Tag_0>DEF 업 효과
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge11:
+    Contents: <Tag_0><Tag_1>マッスルームバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear41:
+    Contents: <Tag_0><Tag_1>ウフロスラックス<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge10:
+    Contents: <Tag_0>마리루이배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem25:
+    Contents: <Tag_0>스타 빈즈 조각
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear28:
+    Contents: <Tag_0>하카데믹팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge55:
+    Contents: <Tag_0>라이팅배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear36:
+    Contents: <Tag_0>꺄르를팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge36:
+    Contents: <Tag_0>럭키 히트가 자주 발생하게 되는 배지!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Bean00:
+    Contents: "<Tag_0>초록색 콩.\n스타 빈즈 카페에서 블렌딩해 보자!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem04:
+    Contents: <Tag_0>눈부시게 빛나는 초록 글래스.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear04:
+    Contents: "<Tag_0>HP가 자동으로 회복되는 청바지.\n위험한 작업에 안성맞춤!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_LIGHT_SPEED:
+    Contents: <Tag_0>라이트 중력 SPEED 업
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge12:
+    Contents: <Tag_0><Tag_1>トゲキラーバッジAA<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear42:
+    Contents: <Tag_0><Tag_1>ドロンコジーンズ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge11:
+    Contents: <Tag_0>머슬배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem26:
+    Contents: <Tag_0>스타 빈즈 조각
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear29:
+    Contents: <Tag_0>팔로워청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge56:
+    Contents: <Tag_0>콩마스터배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear37:
+    Contents: <Tag_0>울바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge37:
+    Contents: "<Tag_0>배틀에서 첫 번째로 공격하면\n럭키 히트가 쉽게 발생하고 대미지도 상승!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Bean01:
+    Contents: "<Tag_0>갈색 콩.\n스타 빈즈 카페에서 블렌딩해 보자!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem05:
+    Contents: <Tag_0>빨간 깔깔나무열매. 약간 얌전한 맛.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear05:
+    Contents: "<Tag_0>배틀이 시작된 후 잠깐 동안\nDEF 상승 효과."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge13:
+    Contents: <Tag_0><Tag_1>キノコバッジA<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear43:
+    Contents: <Tag_0><Tag_1>フラワーズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge12:
+    Contents: <Tag_0>가시킬러배지AA
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem27:
+    Contents: <Tag_0>스타 빈즈
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge57:
+    Contents: <Tag_0>킬러배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear38:
+    Contents: <Tag_0>랜덤슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge38:
+    Contents: "<Tag_0>쿠파처럼 난동을 부릴 수 있는 배지.\n브라더 어택으로 Excellent를 내면 BP 회복!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Bean02:
+    Contents: "<Tag_0>빨간색 콩.\n스타 빈즈 카페에서 블렌딩해 보자!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem06:
+    Contents: <Tag_0>하얀 깔깔나무열매. 달콤한 과일맛.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear06:
+    Contents: <Tag_0>아무 것도 하지 않아도 가드가 가능한 하드한 팬츠.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge14:
+    Contents: <Tag_0><Tag_1>ゲッターバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear44:
+    Contents: <Tag_0><Tag_1>バットウェア<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge13:
+    Contents: <Tag_0>버섯배지A
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem28:
+    Contents: <Tag_0>스타븐
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge00:
+    Contents: <Tag_0>빈배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge58:
+    Contents: <Tag_0>버닝하트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear39:
+    Contents: <Tag_0>아이언팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge39:
+    Contents: <Tag_0>점프로 가시 몬스터에게 대미지 2배!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Bean03:
+    Contents: "<Tag_0>노란색 콩.\n스타 빈즈 카페에서 블렌딩해 보자!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem07:
+    Contents: <Tag_0>분홍색 깔깔나무열매. 아련한 첫사랑의 맛.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear07:
+    Contents: "<Tag_0>하트 무늬가 그려진 세련된 청바지.\n버섯을 먹으면 상태이상도 같이 회복되는 효과."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge15:
+    Contents: <Tag_0><Tag_1>キノコバッジAA<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear45:
+    Contents: <Tag_0><Tag_1>ステルスーツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge14:
+    Contents: <Tag_0>획득배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem29:
+    Contents: <Tag_0>콩멍이
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Nut:
+    Contents: <Tag_0>너트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge01:
+    Contents: <Tag_0>캐슬배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge59:
+    Contents: <Tag_0>よびバッジ４
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_EvItem08:
+    Contents: <Tag_0>빈티지호 회원권.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear08:
+    Contents: "<Tag_0>방어 액션에서 실수를 해도\n대미지를 줄여주는 바지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge16:
+    Contents: <Tag_0><Tag_1>パワフルバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear46:
+    Contents: <Tag_0><Tag_1>ロックパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge15:
+    Contents: <Tag_0>버섯배지AA
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge02:
+    Contents: <Tag_0>콩삐약배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_EvItem09:
+    Contents: <Tag_0>달팽족의 트로피. 신성한 것.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear09:
+    Contents: <Tag_0>누구보다도 빨리 움직이고 싶은 활발한 당신에게!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_1ST_GET:
+    Contents: <Tag_0>단시간 승리 보너스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_AhaSt:
+    Contents: <Tag_0><Tag_1>하하스트레이트 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Badge17:
+    Contents: <Tag_0><Tag_1>ワンダフルバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear47:
+    Contents: <Tag_0><Tag_1>ディフェンスズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge16:
+    Contents: <Tag_0>파워풀배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge03:
+    Contents: <Tag_0>콩글리배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Kinoko:
+    Contents: <Tag_0>버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  F_Badge18:
+    Contents: <Tag_0><Tag_1>ビューティフルバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear48:
+    Contents: <Tag_0><Tag_1>メディカルウェア<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge17:
+    Contents: <Tag_0>원더풀배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Refleshhb:
+    Contents: <Tag_0>회복허브
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge04:
+    Contents: <Tag_0>카운터배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_MaxKinoko:
+    Contents: <Tag_0>MAX버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  F_Badge19:
+    Contents: <Tag_0><Tag_1>サルベージバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear49:
+    Contents: <Tag_0><Tag_1>ガードスラックス<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge18:
+    Contents: <Tag_0>뷰티풀배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge05:
+    Contents: <Tag_0>자선배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Redpepper:
+    Contents: <Tag_0>레드페퍼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge19:
+    Contents: <Tag_0>구조배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear40:
+    Contents: <Tag_0>스타더스트팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge06:
+    Contents: <Tag_0>브라더배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_UfuMan:
+    Contents: "<Tag_0>스타 빈즈 카페의 특제 커피.\nPOW가 <Tag_1>2<Tag_2>포인트 상승."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  F_MaxKinoko:
+    Contents: <Tag_0><Tag_1>MAX버섯 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_MaxSyrup:
+    Contents: <Tag_0>MAX시럽
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear41:
+    Contents: <Tag_0>후훗로스슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge07:
+    Contents: <Tag_0>미라클배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Eb_HI_ENCOUNTER:
+    Contents: <Tag_0>파워풀 엔카운트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Redpepper:
+    Contents: <Tag_0><Tag_1>レッドペッパー<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_UfuMan:
+    Contents: <Tag_0><Tag_1>후훗만자로 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_UltraNut:
+    Contents: <Tag_0><Tag_1>울트라너트 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_1upKinoko:
+    Contents: <Tag_0>1UP버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear42:
+    Contents: <Tag_0>진흙탕청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge08:
+    Contents: <Tag_0>미라클클배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear50:
+    Contents: <Tag_0>리벤지청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge50:
+    Contents: "<Tag_0>몬스터를 무찌르면 무찌를수록\n해당 배틀 중에 파워가 상승하는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_GETITEM:
+    Contents: <Tag_0>아이템 획득
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_EXP_BONUS:
+    Contents: <Tag_0>노 미스 EXP 보너스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_CURE_HP:
+    Contents: <Tag_0>HP 자동 회복
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_Wear43:
+    Contents: <Tag_0>플라워바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge09:
+    Contents: <Tag_0>キノコバッジ
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear51:
+    Contents: <Tag_0>데어데블팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge51:
+    Contents: "<Tag_0>상어처럼 날카롭고 힘찬 공격을 할 수 있는 배지.\n방어 어택으로 BP 회복 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_BANDIT:
+    Contents: <Tag_0>슈퍼 아이템 획득
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_Wear44:
+    Contents: <Tag_0>박쥐웨어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear52:
+    Contents: <Tag_0>클라이맥스수트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge52:
+    Contents: "<Tag_0>한여름의 태양처럼 뜨거워지는 배지.\n방어 어택으로 「화상」을 입히는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem20:
+    Contents: <Tag_0>요시가 낳은 보라색으로 빛나는 알.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Refleshhb:
+    Contents: <Tag_0>독/어질어질/꽈당 등의 상태에서 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear20:
+    Contents: "<Tag_0>상태이상이 되면 대미지를 줄여주는\n안심되는 팬츠."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_Wear45:
+    Contents: <Tag_0>스텔스수트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_UfuSt:
+    Contents: <Tag_0>후훗스트레이트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear53:
+    Contents: <Tag_0>스페이스수트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge53:
+    Contents: "<Tag_0>배틀에서 첫 번째로 공격하면\n럭키 히트가 쉽게 발생하고 대미지도 상승!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem21:
+    Contents: <Tag_0>요시가 낳은 주황색으로 빛나는 알.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear21:
+    Contents: "<Tag_0>스타 빈즈 무늬 바지.\n배틀 시작 후 잠깐 동안 DEF 상승 효과."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_SP_DEF:
+    Contents: <Tag_0>신속 가드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_GhostCookie:
+    Contents: <Tag_0>고스트쿠키
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Syrup:
+    Contents: <Tag_0>시럽
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear46:
+    Contents: <Tag_0>락팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear54:
+    Contents: <Tag_0>ヨビウェア４
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge54:
+    Contents: "<Tag_0>「헤비 중력」이 되면\n점프 위력이 상승하는 배지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem22:
+    Contents: <Tag_0>요시가 낳은 하늘색으로 빛나는 알.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear22:
+    Contents: "<Tag_0>콩알왕자의 사인이 들어간 슬랙스!\n어떠한 상태이상도 금방 회복되는 효과."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_RISK_EX:
+    Contents: <Tag_0>엑설런트 온리
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge30:
+    Contents: <Tag_0><Tag_1>ブラザーズロック<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear47:
+    Contents: <Tag_0>디펜스바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge55:
+    Contents: "<Tag_0>「라이트 중력」이 되면\nSPEED가 상승하는 배지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem23:
+    Contents: <Tag_0>분열된 스타 빈즈의 왼쪽 윗부분.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear23:
+    Contents: "<Tag_0>메주여왕도 입을 수 있는 유연한 바지.\n상태이상이 되면 대미지를 줄여주는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_SP_GUARD:
+    Contents: <Tag_0>초긴급 가드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge31:
+    Contents: <Tag_0><Tag_1>ラッキーリボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge30:
+    Contents: <Tag_0>브라더즈락
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear48:
+    Contents: <Tag_0>메디컬웨어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge56:
+    Contents: "<Tag_0>콩을 갈고닦은 증거.\n배틀에서 획득한 코인이 드물게 콩이 되는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem24:
+    Contents: <Tag_0>분열된 스타 빈즈의 오른쪽 윗부분.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear24:
+    Contents: "<Tag_0>입기만 해도 기분이 좋아지는 명품 청바지.\nHP가 자동으로 회복되는 효과."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_R_EFFECT:
+    Contents: <Tag_0>리벤지 부스트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge32:
+    Contents: <Tag_0><Tag_1>ブラザーソウルフル<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_GeraPuti:
+    Contents: <Tag_0><Tag_1>깔라푸치노 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge31:
+    Contents: <Tag_0>럭키리본
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear49:
+    Contents: <Tag_0>가드슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge57:
+    Contents: "<Tag_0>몬스터를 무찌르면 무찌를수록\n해당 배틀 중에 파워가 상승하는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem25:
+    Contents: <Tag_0>분열된 스타 빈즈의 오른쪽 아랫부분.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_UfuSt:
+    Contents: "<Tag_0>스타 빈즈 카페의 특제 커피.\n최대 BP가 <Tag_1>2<Tag_2>포인트 상승."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear25:
+    Contents: "<Tag_0>콩글리아 병사들도 입고 있는 하이그레이드 웨어.\n어떠한 상태이상도 금방 회복되는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_G_GUARD:
+    Contents: <Tag_0>중력 세이프티 가드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_C_L_UP:
+    Contents: <Tag_0>럭키 크리티컬 강화
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge33:
+    Contents: <Tag_0><Tag_1>ハイエンドバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge32:
+    Contents: <Tag_0>브라더소울풀
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear00:
+    Contents: <Tag_0>워크팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge00:
+    Contents: <Tag_0>POW와 BP가 상승하는 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Badge58:
+    Contents: "<Tag_0>방어 액션으로 「화상」을 입히는\n따스한 하트 모양 배지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem26:
+    Contents: <Tag_0>분열된 스타 빈즈의 왼쪽 아랫부분.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear26:
+    Contents: "<Tag_0>방어 액션에 실수해도\n대미지를 줄여주는 세련된 바지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_KINOKOLUKY:
+    Contents: <Tag_0>버섯 럭키
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge34:
+    Contents: <Tag_0><Tag_1>ハンドオーラ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_AhaSt:
+    Contents: <Tag_0>하하스트레이트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge33:
+    Contents: <Tag_0>하이앤드배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge20:
+    Contents: <Tag_0>오파츠배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear01:
+    Contents: <Tag_0>워크청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge01:
+    Contents: "<Tag_0>콩글리아 성이 그려진\n관광객을 위한 배지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Badge59:
+    Contents: <Tag_0>予備バッジ枠④（仮）
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem27:
+    Contents: <Tag_0>악당이 소원을 이루지 못하게 잠들어 있다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem00:
+    Contents: <Tag_0>몬스터에게서 획득하는 코인 업!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear27:
+    Contents: "<Tag_0>샤또 오너가 벗어 던진 바지.\n몬스터의 「독」을 완전 가드!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_MAPPA_HIPOWER:
+    Contents: <Tag_0>웨어 없이 POW 업
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_JUMP_MASTER:
+    Contents: <Tag_0>점프 마스터
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_MISS_GUARD:
+    Contents: <Tag_0>방어 팔로우
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge35:
+    Contents: <Tag_0><Tag_1>スレッジハート<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge34:
+    Contents: <Tag_0>핸드오라
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Greenpepper:
+    Contents: <Tag_0>그린페퍼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_UfuMan:
+    Contents: <Tag_0>후훗만자로
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge21:
+    Contents: <Tag_0>브릴리언트배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear02:
+    Contents: <Tag_0>콩글리팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge02:
+    Contents: <Tag_0>초보자에게 추천하는 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem28:
+    Contents: <Tag_0>내가 설 무대는 어디지YO!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem01:
+    Contents: <Tag_0>공격을 받지 않고 승리하면 EXP 업!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear28:
+    Contents: "<Tag_0>하카데미 연구원이 특별 주문한 팬츠.\n상태이상이 되면 대미지를 줄여주는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge36:
+    Contents: <Tag_0><Tag_1>ラッキーストーン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge35:
+    Contents: <Tag_0>슬레지하트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge22:
+    Contents: <Tag_0>제너럴배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_EvItem15:
+    Contents: <Tag_0>과일콩
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear03:
+    Contents: <Tag_0>후훗바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge03:
+    Contents: <Tag_0>콩글리아에서 가장 대중적인 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_EvItem29:
+    Contents: <Tag_0>작고 귀여운 초록색 애완동물.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem02:
+    Contents: "<Tag_0>방어 점프 중\n버튼을 길게 누르면 공중에 뜹니다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear29:
+    Contents: <Tag_0>배틀에서 마리오 다음으로 행동할 수 있는 효과!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_GRAVITY_HEAVY:
+    Contents: <Tag_0>헤비 중력 효과
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge37:
+    Contents: <Tag_0><Tag_1>クッパフィスト<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge36:
+    Contents: <Tag_0>럭키스톤
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge23:
+    Contents: <Tag_0>프레지던트배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Bean00:
+    Contents: <Tag_0>하하콩
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear04:
+    Contents: <Tag_0>블루청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge04:
+    Contents: <Tag_0>방어 액션의 대미지가 상승!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem03:
+    Contents: <Tag_0>주는 대미지와 받는 대미지 모두 업!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge38:
+    Contents: <Tag_0><Tag_1>クッパファング<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear10:
+    Contents: <Tag_0><Tag_1>あんぜんズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge37:
+    Contents: <Tag_0>쿠파피스트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge24:
+    Contents: <Tag_0>탱크배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Bean01:
+    Contents: <Tag_0>후훗콩
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear05:
+    Contents: <Tag_0>파라솔팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge05:
+    Contents: "<Tag_0>점장이 추천하는\n특매 상품!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem04:
+    Contents: <Tag_0>숨겨진 블록이 보이게 됩니다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge39:
+    Contents: <Tag_0><Tag_1>トゲキラーバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear11:
+    Contents: <Tag_0><Tag_1>キノコパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge38:
+    Contents: <Tag_0>쿠파송곳니
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_AhaSt:
+    Contents: <Tag_0>하하스트레이트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge25:
+    Contents: <Tag_0>스쿨엠블렘
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Bean02:
+    Contents: <Tag_0>깔깔콩
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_DehePres:
+    Contents: <Tag_0>헤헤프레소
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear06:
+    Contents: <Tag_0>하드팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge06:
+    Contents: <Tag_0>BP가 자동으로 회복되는 신비한 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_MaxNut:
+    Contents: <Tag_0>마리오와 루이지의 HP 모두 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem05:
+    Contents: <Tag_0>SUYEOM이 <Tag_1>2<Tag_2>배가 됩니다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  Eb_BP_RETURN:
+    Contents: <Tag_0>엑설런트 BP 리턴
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_HIGE200:
+    Contents: <Tag_0>SUYEOM 200%
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Wear12:
+    Contents: <Tag_0><Tag_1>カメズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge39:
+    Contents: <Tag_0>가시킬러배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge26:
+    Contents: <Tag_0>스테디배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Bean03:
+    Contents: <Tag_0>헤헤콩
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear07:
+    Contents: <Tag_0>하트청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge07:
+    Contents: <Tag_0>솔로 점프 성공으로 HP가 회복되는 기적의 배지!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem06:
+    Contents: <Tag_0>몬스터가 레어 아이템을 떨어뜨립니다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_MaxNut:
+    Contents: <Tag_0><Tag_1>MAX너트 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear13:
+    Contents: <Tag_0><Tag_1>キノコスラックス<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge27:
+    Contents: <Tag_0>킥킥지심볼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear08:
+    Contents: <Tag_0>체크바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge08:
+    Contents: "<Tag_0>배틀에서 첫 번째로 공격하면\n럭키 히트가 쉽게 발생하고 대미지도 상승!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem07:
+    Contents: "<Tag_0>어부바, 「헤비 중력」「라이트 중력」일 때도\n평소와 같은 점프가 가능합니다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_HEAVY_JUMPER:
+    Contents: <Tag_0>헤비 점프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Wear14:
+    Contents: <Tag_0><Tag_1>ピーチックジーンズ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge28:
+    Contents: <Tag_0>가시킬러배지A
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear09:
+    Contents: <Tag_0>넘버원바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge09:
+    Contents: <Tag_0>キノコをもつほどダメージアップするバッジ！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_MaxSyrup:
+    Contents: <Tag_0>BP 모두 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SpItem08:
+    Contents: "<Tag_0>배틀에서 빠르게 승리하면\n평소보다 받을 수 있는 아이템이 늘어납니다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_SuperKinoko:
+    Contents: <Tag_0>HP <Tag_1>50<Tag_2> 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  Es_NONE:
+    Contents: <Tag_0>효과 없음
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Wear15:
+    Contents: <Tag_0><Tag_1>キノコポットズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge29:
+    Contents: <Tag_0>뻐끔스윙
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Refleshhb:
+    Contents: <Tag_0>회복허브
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_SpItem09:
+    Contents: "<Tag_0>「어질어질」「화상」「화상(대)」 상태의 몬스터를\n공격하면 크리티컬 히트가 나옵니다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Wear16:
+    Contents: <Tag_0><Tag_1>キノコラックパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  E_1upKinokodx:
+    Contents: <Tag_0>기절한 파트너가 완전한 HP로 부활.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_DehePres:
+    Contents: "<Tag_0>스타 빈즈 카페의 특제 커피.\n스테이터스가 랜덤하게 <Tag_1>3<Tag_2>포인트 상승."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear40:
+    Contents: "<Tag_0>방어 액션에 실수해도 대미지를\n줄여주는 별똥별 무늬 팬츠."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_MaxSyrup:
+    Contents: <Tag_0><Tag_1>MAX시럽 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear17:
+    Contents: <Tag_0><Tag_1>スキャンダルジーンズ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  E_Wear41:
+    Contents: "<Tag_0>후훗로스 그림이 프린트된 슬랙스.\n버튼을 누르지 않아도 자동 가드 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_CURE_BP_COUNTER:
+    Contents: <Tag_0>카운터 BP 회복
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_KILLER_BOOST:
+    Contents: <Tag_0>격퇴 POW 업
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Refleshhb:
+    Contents: <Tag_0><Tag_1>회복허브 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear18:
+    Contents: <Tag_0><Tag_1>ストリートジーンズ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  Ns_UfuMan:
+    Contents: <Tag_0>후훗만자로
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Wear42:
+    Contents: "<Tag_0>진흙이 잔뜩 붙어 더러워진 활동적인 청바지.\n자신보다 느린 몬스터의 공격에 강해지는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge50:
+    Contents: <Tag_0><Tag_1>オーララバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_GeraSt:
+    Contents: <Tag_0><Tag_1>깔깔스트레이트 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear19:
+    Contents: <Tag_0><Tag_1>トロピカルズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  E_Wear43:
+    Contents: "<Tag_0>꽃무늬가 예쁜 바지.\n배틀에서 마리오 다음으로 행동이 가능해지는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_DMG_UP:
+    Contents: <Tag_0>대미지 업
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge51:
+    Contents: <Tag_0><Tag_1>シャークバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Syrup:
+    Contents: <Tag_0><Tag_1>시럽 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge50:
+    Contents: <Tag_0>올랄라배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear10:
+    Contents: <Tag_0>안전바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_EvItem30:
+    Contents: <Tag_0>콩스톤
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Wear44:
+    Contents: "<Tag_0>쿨한 박쥐 무늬가 특징인 웨어.\n배리어로 공격을 몇 차례 가드해주는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_HAMMER:
+    Contents: <Tag_0>해머 홀드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge52:
+    Contents: <Tag_0><Tag_1>ホットサマーバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge51:
+    Contents: <Tag_0>샤크배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem00:
+    Contents: <Tag_0>도플지갑
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear11:
+    Contents: <Tag_0>버섯팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Wear45:
+    Contents: "<Tag_0>움직이기 편한 새까만 웨어.\n크리티컬과 럭키 히트가 강해지는 효과."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge53:
+    Contents: <Tag_0><Tag_1>パーニョシンボルAA<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge52:
+    Contents: <Tag_0>핫섬머배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem01:
+    Contents: <Tag_0>보너스링
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear12:
+    Contents: <Tag_0>거북바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear20:
+    Contents: <Tag_0>세이프티팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge20:
+    Contents: "<Tag_0>폭소 유적의 신비로운 힘으로\n배틀이 시작되자마자 파워가 상승하는 배지!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear46:
+    Contents: "<Tag_0>바위처럼 단단한 팬츠.\n배리어로 공격을 몇 차례 가드해주는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Eb_POW_UP:
+    Contents: <Tag_0>POW 업 효과
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge54:
+    Contents: <Tag_0><Tag_1>ヘビージャンプバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge53:
+    Contents: <Tag_0>파뇨심볼AA
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem10:
+    Contents: <Tag_0>피치 의상 세트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_MaxNut:
+    Contents: <Tag_0>MAX너트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem02:
+    Contents: <Tag_0>익사이트스프링
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear13:
+    Contents: <Tag_0>버섯슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge40:
+    Contents: <Tag_0>깔깔나무배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_SuperKinoko:
+    Contents: <Tag_0>슈퍼버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear21:
+    Contents: <Tag_0>스타빈바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge21:
+    Contents: <Tag_0>엔카운트 공격이 강해지는 배지!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear47:
+    Contents: "<Tag_0>배틀 시작 후 잠깐 동안\nDEF 상승 효과."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge55:
+    Contents: <Tag_0><Tag_1>ライティングバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge54:
+    Contents: <Tag_0>헤비점프배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem11:
+    Contents: <Tag_0>가짜 스타 빈즈
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem03:
+    Contents: <Tag_0>에라이포스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear14:
+    Contents: <Tag_0>콩병아리청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge41:
+    Contents: <Tag_0>오호호배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear22:
+    Contents: <Tag_0>콩알슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge22:
+    Contents: <Tag_0>BP가 자동으로 회복되는 제너럴한 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear48:
+    Contents: "<Tag_0>입으면 건강해지는 신기한 웨어.\n어떠한 상태이상도 금방 회복되는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_1T_CURE:
+    Contents: <Tag_0>1턴 회복
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge56:
+    Contents: <Tag_0><Tag_1>マメマスターバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge55:
+    Contents: <Tag_0>라이팅배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem12:
+    Contents: <Tag_0>크라피코풀
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem04:
+    Contents: <Tag_0>버추얼고글
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear15:
+    Contents: <Tag_0>버섯툭튀바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_1upKinokodx:
+    Contents: <Tag_0>1UP버섯DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge42:
+    Contents: <Tag_0>퀸심볼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear23:
+    Contents: <Tag_0>메주바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge23:
+    Contents: "<Tag_0>SPEED가 높을수록\n럭키 어택이 자주 발생하는 배지!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Wear49:
+    Contents: "<Tag_0>회피보다 방어를 좋아하는 사람을 위한 슬랙스.\n긴급 가드를 더 견고히 해주는 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_BLK_HUNT:
+    Contents: <Tag_0>블록 헌터
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_ACT_ML:
+    Contents: <Tag_0>마리오 팔로우
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge57:
+    Contents: <Tag_0><Tag_1>キラーバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge56:
+    Contents: <Tag_0>콩마스터배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem13:
+    Contents: <Tag_0>레드펄빈
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem05:
+    Contents: <Tag_0>코발트넥타이
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear16:
+    Contents: <Tag_0>행운버섯팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge43:
+    Contents: <Tag_0>기습배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear24:
+    Contents: <Tag_0>5콩1청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge24:
+    Contents: "<Tag_0>콩글리아 병사도 달고 있는 하이 그레이드 배지.\n방어 액션 대미지가 상승!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Es_FLW_JUMP:
+    Contents: <Tag_0>플로팅 점프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge00:
+    Contents: <Tag_0><Tag_1>ビーンバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Badge58:
+    Contents: <Tag_0><Tag_1>バーニングハート<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_DeheSt:
+    Contents: <Tag_0><Tag_1>헤헤스트레이트 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear30:
+    Contents: <Tag_0><Tag_1>クス・ジーウェア<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge57:
+    Contents: <Tag_0>킬러배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem14:
+    Contents: <Tag_0>그린펄빈
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem06:
+    Contents: <Tag_0>게임보이호러SP
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear17:
+    Contents: <Tag_0>스캔들청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge44:
+    Contents: <Tag_0>파뇨심볼A
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear25:
+    Contents: <Tag_0>탱크슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge25:
+    Contents: "<Tag_0>방어 액션으로 BP 회복 효과!\n하카데미 학생이 달고 있는 배지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge01:
+    Contents: <Tag_0><Tag_1>キャッスルバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Badge59:
+    Contents: <Tag_0><Tag_1>よびバッジ４<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear31:
+    Contents: <Tag_0><Tag_1>オーシャンウェア<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge00:
+    Contents: <Tag_0>빈배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge58:
+    Contents: <Tag_0>버닝하트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem15:
+    Contents: <Tag_0>과일콩
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem07:
+    Contents: <Tag_0>점핑부츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear18:
+    Contents: <Tag_0>스트리트청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge45:
+    Contents: <Tag_0>루키배지A
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear26:
+    Contents: <Tag_0>캐주얼바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge26:
+    Contents: "<Tag_0>하카데미 졸업생의 증표.\n「헤비 중력」이 되면 점프 위력 상승!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge02:
+    Contents: <Tag_0><Tag_1>マメピヨバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear32:
+    Contents: <Tag_0><Tag_1>サンゴカジュアル<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge01:
+    Contents: <Tag_0>캐슬배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge59:
+    Contents: <Tag_0>よびバッジ４
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem16:
+    Contents: <Tag_0>파랑네온알
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_GeraSt:
+    Contents: <Tag_0>깔깔스트레이트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem08:
+    Contents: <Tag_0>신속획득
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear19:
+    Contents: <Tag_0>트로피칼바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge46:
+    Contents: <Tag_0>박칼라레전드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear27:
+    Contents: <Tag_0>박칼라바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge27:
+    Contents: "<Tag_0>킥킥지의 일부.\n솔로 핸드 성공으로 HP 회복 효과!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_DOPING_4th:
+    Contents: <Tag_0>리스크 POW 업
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge03:
+    Contents: <Tag_0><Tag_1>マメーリバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_UltraKinoko:
+    Contents: <Tag_0><Tag_1>울트라버섯 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear33:
+    Contents: <Tag_0><Tag_1>パックンスーツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge02:
+    Contents: <Tag_0>콩삐약배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem17:
+    Contents: <Tag_0>빨강네온알
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_SpItem09:
+    Contents: <Tag_0>크리티컬배트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge47:
+    Contents: <Tag_0>루키배지AA
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_GoldenKinoko:
+    Contents: <Tag_0>골든버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear28:
+    Contents: <Tag_0>하카데믹팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge28:
+    Contents: <Tag_0>가시에 점프해서 2배 대미지! 말끔! 깔끔!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  E_Nut:
+    Contents: <Tag_0>마리오와 루이지의 HP <Tag_1>20<Tag_2> 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  E_UltraKinoko:
+    Contents: <Tag_0>HP <Tag_1>80<Tag_2> 회복.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge04:
+    Contents: <Tag_0><Tag_1>カウンターバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear34:
+    Contents: <Tag_0><Tag_1>アヌビンジーンズ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge03:
+    Contents: <Tag_0>콩글리배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_DehePres:
+    Contents: <Tag_0>헤헤프레소
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem18:
+    Contents: <Tag_0>초록네온알
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge48:
+    Contents: <Tag_0>오징어다리배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear29:
+    Contents: <Tag_0>팔로워청바지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge29:
+    Contents: <Tag_0>솔로 해머 성공으로 HP 회복!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  Ew_KINOKOGET:
+    Contents: <Tag_0>버섯 헌터
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge05:
+    Contents: <Tag_0><Tag_1>チャリティバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear35:
+    Contents: <Tag_0><Tag_1>コダイズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge04:
+    Contents: <Tag_0>카운터배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_EvItem19:
+    Contents: <Tag_0>노랑네온알
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Badge49:
+    Contents: <Tag_0>선인장꽃
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Eb_POWFUL_DEF:
+    Contents: <Tag_0>파워풀 방어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge06:
+    Contents: <Tag_0><Tag_1>ブラザーバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear36:
+    Contents: <Tag_0><Tag_1>キャハールパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge05:
+    Contents: <Tag_0>자선배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Eb_CURE_HP_HAND:
+    Contents: <Tag_0>HP 회복 핸드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge07:
+    Contents: <Tag_0><Tag_1>ミラクルバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear37:
+    Contents: <Tag_0><Tag_1>ウールズボン<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge06:
+    Contents: <Tag_0>브라더배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_MaxNut:
+    Contents: <Tag_0>MAX너트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Eb_SPEED_STAR:
+    Contents: <Tag_0>럭키 스피드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Badge08:
+    Contents: <Tag_0><Tag_1>ミラクスバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear38:
+    Contents: <Tag_0><Tag_1>ランダムスラックス<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_Badge07:
+    Contents: <Tag_0>미라클배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  F_Badge09:
+    Contents: <Tag_0><Tag_1>キノコバッジ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  F_Wear39:
+    Contents: <Tag_0><Tag_1>アイアンパンツ<Tag_2>はいっぱいです！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  N_Badge08:
+    Contents: <Tag_0>미라클클배지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_1upKinoko:
+    Contents: <Tag_0>기절한 파트너가 HP 1/2로 부활.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_Badge09:
+    Contents: <Tag_0>キノコバッジ
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_DeheSt:
+    Contents: <Tag_0>헤헤스트레이트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear30:
+    Contents: <Tag_0>킥킥지웨어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_SuperNut:
+    Contents: <Tag_0>슈퍼너트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ew_NONE:
+    Contents: <Tag_0>효과 없음
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_Wear31:
+    Contents: <Tag_0>오션웨어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Es_COIN_UP:
+    Contents: <Tag_0>코인 업
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  F_Kinoko:
+    Contents: <Tag_0><Tag_1>버섯 <Tag_2>FULL!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  N_1upKinokodx:
+    Contents: <Tag_0>1UP버섯DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_MaxKinoko:
+    Contents: <Tag_0>MAX버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear32:
+    Contents: <Tag_0>산호캐주얼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Syrup:
+    Contents: <Tag_0>시럽
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_UltraKinoko:
+    Contents: <Tag_0>울트라버섯
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear40:
+    Contents: <Tag_0>스타더스트팬츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  E_Badge40:
+    Contents: <Tag_0>몬스터가 아이템을 쉽게 떨어뜨리게 되는 배지.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  N_EvItem30:
+    Contents: <Tag_0>콩스톤
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Redpepper:
+    Contents: <Tag_0>레드페퍼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  N_Wear33:
+    Contents: <Tag_0>뻐끔수트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Ns_Wear41:
+    Contents: <Tag_0>후훗로스슬랙스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
