@@ -1,0 +1,84 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_TKinoko_38_Kinoko_street_39:
+    Contents: "<Tag_0>うわ～！<Tag_1> <Tag_2>見つかっちゃった！\nさすが マリオさん！<Tag_3><Tag_4><Tag_5>次は <Tag_6>見つからないよ～\nよーい<Tag_7> はじめ～！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_38_Kinoko_street_28:
+    Contents: "<Tag_0>いらっしゃいませ。\nアイテムショップです。<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_38_Kinoko_street_29:
+    Contents: "<Tag_0>うわ！<Tag_1> またハズレた！\nなかなか アタリが<Tag_2>出ないぞ\nこの ボーナスカード！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

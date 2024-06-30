@@ -1,0 +1,682 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KPump_01_Kpump_01_ystar_03_2:
+    Contents: "<Tag_0><Tag_1>クッパが <Tag_2>水を<Tag_3>飲むと\n<Tag_4>体の<Tag_5>中に <Tag_6>水が<Tag_7>流れ<Tag_8>込んできて…<Tag_9><Tag_10><Tag_11>クッパが <Tag_12>水を<Tag_13>飲むのをやめると\n<Tag_14>体の<Tag_15>中の<Tag_16>水も なくなるのね。<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5a 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5a 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5a 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_01:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>見て！<Tag_4> あそこ！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_02:
+    Contents: "<Tag_0><Tag_1><Tag_2>道をふさいでいた かべが\n<Tag_3>水のチカラで <Tag_4>浮き<Tag_5>上がってる！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5a 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_03:
+    Contents: <Tag_0><Tag_1><Tag_2>…<Tag_3>なるほど。<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_04:
+    Contents: "<Tag_0><Tag_1>…え？<Tag_2> この<Tag_3>先にピーチ<Tag_4>姫が\nいるかもしれない？<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_05:
+    Contents: "<Tag_0><Tag_1>…<Tag_2>そうね <Tag_3>今はとにかく\n<Tag_4>先に<Tag_5>進んでみたほうが いいかも。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_06:
+    Contents: "<Tag_0><Tag_1>そうと<Tag_2>決まれば クッパにも\nなんとか <Tag_3>協力してもらいましょう！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 4d 30 87 30 46 30 8a 30 87 30 4f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_07:
+    Contents: <Tag_0><Tag_1><Tag_2>ねえ！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 7
+  MES_KPump_01_Kpump_01_ystar_08:
+    Contents: "<Tag_0><Tag_1><Tag_2>今みたいに\n<Tag_3>水を <Tag_4>飲み<Tag_5>続けてくれない？<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5a 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_09:
+    Contents: <Tag_0><Tag_1><Tag_2>え？<Tag_3> え～と…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_02_2:
+    Contents: <Tag_0><Tag_1><Tag_2>あそこまで <Tag_3>泳いでみましょう！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 88 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_02_3:
+    Contents: <Tag_0><Tag_1><Tag_2>そうそう。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_02_4:
+    Contents: "<Tag_0><Tag_1><Tag_2>泳ぐときは\n<Tag_3><Tag_4>ボタンを<Tag_5>使うといいわ。<Tag_6><Tag_7><Tag_8>２人で<Tag_9>一緒に\n<Tag_10>泳ぐことができるの。<Tag_11><Tag_12>もちろん <Tag_13><Tag_14><Tag_15>ボタンと<Tag_16><Tag_17><Tag_18><Tag_19>ボタンで\n<Tag_20>別々に <Tag_21>泳ぐこともできるわよ。<Tag_22><Tag_23>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 88 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 63 30 57 30 87 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 88 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 79 30 64 30 79 30 64 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 88 30
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_02_5:
+    Contents: <Tag_0><Tag_1><Tag_2>やってみて！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_10:
+    Contents: <Tag_0><Tag_1><Tag_2>もちろん！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_11:
+    Contents: <Tag_0><Tag_1><Tag_2>もちろん！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_12:
+    Contents: "<Tag_0><Tag_1>もちろん…！<Tag_2>\n<Tag_3>それは ムリだけど…<Tag_4><Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 0
+        Type: 1
+        Parameters: 00 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_13:
+    Contents: <Tag_0><Tag_1><Tag_2>ふう…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_14:
+    Contents: "<Tag_0><Tag_1>さあ！\n<Tag_2>先に<Tag_3>進みましょ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_09_2:
+    Contents: "<Tag_0><Tag_1><Tag_2>水のチカラで あなたの\n<Tag_3>体の<Tag_4>中にたまった よごれが\n<Tag_5>洗い<Tag_6>流せるかもしれないの！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 89 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_01_Kpump_01_ystar_09_3:
+    Contents: <Tag_0><Tag_1><Tag_2>そうよ！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

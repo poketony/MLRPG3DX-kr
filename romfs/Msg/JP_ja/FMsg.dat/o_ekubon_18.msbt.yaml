@@ -1,0 +1,95 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Ekubon_18_Ekubon_opening_13:
+    Contents: <Tag_0>クッパ<Tag_1>様～<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_18_Ekubon_opening_14:
+    Contents: "<Tag_0>ここは どうやら<Tag_1>森のようです。\n<Tag_2><Tag_3><Tag_4>ボタンで <Tag_5><Tag_6>ほのお<Tag_7><Tag_8>をはいて\n<Tag_9>木を <Tag_10>燃やせますが…<Tag_11><Tag_12>あんまり ほのおをはきすぎると\nつかれて しまいますので\n<Tag_13>気をつけてください。<Tag_14><Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 96 00 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: ff 96 00 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6

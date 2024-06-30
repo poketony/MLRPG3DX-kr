@@ -1,0 +1,137 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EOtapuku_02_EO02_kanban_mes:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>← ヅツーダレイク\n→ クッパ<Tag_4>城<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_EOtapuku_02_EO02_kocky_ev_00:
+    Contents: "<Tag_0> \n <Tag_1><Tag_2><Tag_3>おしらせ おしらせ～！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EOtapuku_02_EO02_kocky_ev_01:
+    Contents: "<Tag_0><Tag_1>より<Tag_2>道 していないでしょうか？\nとっとと ３つ<Tag_3>目のワクチンを\n<Tag_4>探すでしょう！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EOtapuku_02_EO02_kocky_ev_02:
+    Contents: "<Tag_0> \n <Tag_1><Tag_2><Tag_3><Tag_4>  ムッシーバビーチ<Tag_5><Tag_6>は <Tag_7>南だよ！<Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 6a 30 7f 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6

@@ -1,0 +1,1220 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Gepu_05_after_Gepu_gerako_25:
+    Contents: "<Tag_0>ナマイキ？ ナンダソレハ？\nクイモノノ ナマエカ？<Tag_1><Tag_2><Tag_3>マズソウナ クイモノダ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_after_Gepu_gerako_26:
+    Contents: <Tag_0>わけのわからないことを <Tag_1>言うな！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_after_Gepu_gerako_27:
+    Contents: "<Tag_0><Tag_1><Tag_2>イイカ！ ヨクキケ！！<Tag_3><Tag_4><Tag_5>ピーチヒメハ モウイナイ！\nコノクニ ゲラコビッツサマノモノ！<Tag_6><Tag_7>オマエイラナイ！ クッパジョウハ\nゲラコビッツサマノモノ！<Tag_8><Tag_9><Tag_10><Tag_11><Tag_12>オマエ ココデキエロ！！<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_after_Gepu_gerako_28:
+    Contents: "<Tag_0><Tag_1>んが～～～～～！！<Tag_2><Tag_3>なにを<Tag_4>言っているのか\nぜんぜん わからん！！<Tag_5><Tag_6><Tag_7>とにかく あたまにくるやつだ！<Tag_8><Tag_9>ワガハイを <Tag_10>怒らせると\nどうなるか <Tag_11>思い<Tag_12>知らせてやる！！<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 53 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_29:
+    Contents: "<Tag_0><Tag_1>ブハハハハハ！<Tag_2><Tag_3>オマエ ヨワイ！\nヨワスギル！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_10:
+    Contents: "<Tag_0>ウラミ？<Tag_1> ウラミなんて\nないるるよ～<Tag_2><Tag_3><Tag_4>ワレの<Tag_5>目的は ただ１つ！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 82 30 4f 30 66 30 4d 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_11:
+    Contents: <Tag_0>この キノコ<Tag_1>王国を！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_Gepu_05_Gepu_gerako_12:
+    Contents: "<Tag_0>キノコ<Tag_1>王国が みーんな\nワレのものになるるる！！<Tag_2><Tag_3>メタコロキノコで キノピオ<Tag_4>達を\nコロコロにしたのも！<Tag_5><Tag_6>オマエに バキュームキノコを\n<Tag_7>食べさせて <Tag_8>利用したのも！！<Tag_9><Tag_10>みーんな ワレの<Tag_11>天才的な\n<Tag_12>計画だったるるる！！！<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 8a 30 88 30 46 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 66 30 93 30 55 30 44 30 66 30 4d 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 44 30 4b 30 4f 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_13:
+    Contents: <Tag_0>なんだと！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_14:
+    Contents: "<Tag_0>キノコ<Tag_1>王国を\nせいふくするにあたって…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_15:
+    Contents: "<Tag_0>まずは <Tag_1>ピーチ<Tag_2>城<Tag_3><Tag_4>を\n<Tag_5>乗っ<Tag_6>取るるるる！！！<Tag_7><Tag_8><Tag_9><Tag_10>そしてさらに！！！<Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_16:
+    Contents: "<Tag_0>オマエ～～！！<Tag_1>\nワガハイの<Tag_2>城になにを！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_after_Gepu_gerako_17:
+    Contents: "<Tag_0>ふ<Tag_1> ふん！！\nじょうだんは やめろ！！<Tag_2><Tag_3>ワガハイの<Tag_4>城は そうかんたんに\nうばえないぞ！！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_after_Gepu_gerako_18:
+    Contents: "<Tag_0><Tag_1>さあ… どうるるかねぇ…<Tag_2><Tag_3>しかし こんなにはやくオマエが\n<Tag_4>目覚めるとは <Tag_5>予想外るるる！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 81 30 56 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 88 30 5d 30 46 30 4c 30 44 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_15_1:
+    Contents: "<Tag_0>さらにさらにさらにさらに\nさらにさらにさらにーー！！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_after_Gepu_gerako_19:
+    Contents: "<Tag_0>もう<Tag_1>少し ここで\nねむっていて もらうるる！<Tag_2><Tag_3><Tag_4><Tag_5>おい！！ メタボス！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_15_2:
+    Contents: "<Tag_0><Tag_1>な～んと <Tag_2>クッパ<Tag_3>城<Tag_4><Tag_5>も！！！<Tag_6><Tag_7>ゲラコビッツ<Tag_8>城として\n<Tag_9>完全リニューアるるる！！！<Tag_10><Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5c 30 93 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_30:
+    Contents: <Tag_0><Tag_1>な<Tag_2> なんだとぉ…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  MES_Gepu_05_Gepu_gerako_31:
+    Contents: "<Tag_0>トドメヲ サスマデモナイ！\nソノママ チカラツキテシマエ！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_32:
+    Contents: "<Tag_0>おい！<Tag_1> <Tag_2>体の<Tag_3>中のやつ！！\n<Tag_4>聞いているか！？<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_33:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>聞こえてるわ！<Tag_4><Tag_5><Tag_6>ゲラコビッツとかいうやつのせいで\n<Tag_7>大変なことに なりそうね！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 78 30 93 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_34:
+    Contents: <Tag_0>ワガハイは <Tag_1>自分の<Tag_2>城にもどるぞ！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_35:
+    Contents: "<Tag_0>え？<Tag_1> ダメダメ！！<Tag_2>\nピーチ<Tag_3>城に <Tag_4>向かって！！<Tag_5><Tag_6><Tag_7>私は ピーチ<Tag_8>城に\n<Tag_9>行きたいのよ！！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 80 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_11_2:
+    Contents: <Tag_0>ワレのものにーーー！！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_Gepu_05_Gepu_gerako_36:
+    Contents: "<Tag_0>ワガハイを\nタクシーあつかい するな！！<Tag_1><Tag_2><Tag_3><Tag_4>ワガハイの<Tag_5>城が <Tag_6>危ないんだぞ！！<Tag_7><Tag_8><Tag_9><Tag_10>今すぐ クッパ<Tag_11>城へ<Tag_12>向かう！\nクッパ<Tag_13>城は だれにもわたさん！！<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 76 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 80 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_37:
+    Contents: "<Tag_0>…<Tag_1>わかったわ。\n<Tag_2>好きにしてよ。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_38:
+    Contents: "<Tag_0><Tag_1>仕方がないわね…\nしばらく クッパの<Tag_2>様子を<Tag_3>見ましょう。<Tag_4><Tag_5><Tag_6>体の<Tag_7>中にも なにか<Tag_8>変化が\n<Tag_9>起きるかもしれないわ…<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 4b 30 5f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 59 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 78 30 93 30 4b 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_01:
+    Contents: "<Tag_0>ムムッ！！<Tag_1>\nなんだ オマエ！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_02:
+    Contents: "<Tag_0>あれれれれ？\nもう ワレを<Tag_1>忘れたるるか？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_03:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>思い<Tag_4>出したぞ！！<Tag_5><Tag_6><Tag_7>オマエ ワガハイにへんなキノコを\n<Tag_8>食わせたやつではないか！！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_04:
+    Contents: <Tag_0>ふるるるるるる！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_05:
+    Contents: "<Tag_0>そうるるるるる！\nなかなかの お<Tag_1>味だったるる？<Tag_2><Tag_3>あのキノコの <Tag_4>名前は\n<Tag_5>バキュームキノコ<Tag_6><Tag_7>！！<Tag_8><Tag_9>この ゲラコビッツ<Tag_10>様が<Tag_11>作った\nなんでも <Tag_12>吸い<Tag_13>込むキノコるるよ！！<Tag_14><Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 58 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 7e 30 48 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_06:
+    Contents: "<Tag_0>たぶん オマエは\nなにも<Tag_1>覚えてないるる。<Tag_2><Tag_3>あらゆるものを <Tag_4>吸い<Tag_5>込んで\n<Tag_6>気を<Tag_7>失ったるるね。<Tag_8><Tag_9>ワレが ここのどうくつに\nオマエを <Tag_10>閉じ<Tag_11>込めてやったるる～<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 7c 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 46 30 57 30 6a 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_07:
+    Contents: <Tag_0>なに～～～～！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_Gepu_gerako_09:
+    Contents: "<Tag_0>オマエの <Tag_1>目的はなんだ！\nワガハイに ウラミでもあるのか！？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 82 30 4f 30 66 30 4d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_after_Gepu_gerako_20:
+    Contents: "<Tag_0>コラーーーー！\n<Tag_1>話は <Tag_2>終わってないぞ！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_after_Gepu_gerako_22:
+    Contents: <Tag_0>グッファーーー！！！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_Gepu_05_after_Gepu_gerako_23:
+    Contents: "<Tag_0>オマエ モウ イラナイ！\nココデ オレニタオサレル！！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_05_after_Gepu_gerako_24:
+    Contents: "<Tag_0>ジャマだ！ なまいきにも\nこのクッパ<Tag_1>様に はむかう<Tag_2>気か？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

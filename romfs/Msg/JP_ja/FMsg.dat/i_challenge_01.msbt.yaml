@@ -1,0 +1,3522 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KCharenge_01_Kcharenge_99blk_04:
+    Contents: <Tag_0><Tag_1>オーケー！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_new3_up:
+    Contents: "<Tag_0><Tag_1>強大なチカラとチカラがぶつかりあう\n<Tag_2>巨大化バトルが <Tag_3>スピードアップ<Tag_4>！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 87 30 46 30 60 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 4d 30 87 30 60 30 44 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_03_up:
+    Contents: <Tag_0><Tag_1>とっても<Tag_2>体に わるそうな<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_99blk_05:
+    Contents: <Tag_0>テントラ<Tag_1>ポッコスタタ<Tag_2>ブルルン<Tag_3><Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_20_up:
+    Contents: <Tag_0>チャレンジしてみる？ びん？
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_13_down:
+    Contents: <Tag_0>な… なぜだびん…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  MES_KCharenge_01_Kcharenge_99blk_00_a:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>予告<Tag_5><Tag_6><Tag_7>かつてない…<Tag_8>\nスリルと こうふん！<Tag_9><Tag_10>かつてない…<Tag_11>\nねっきょうと <Tag_12>感動！<Tag_13><Tag_14>あなたの<Tag_15>限界を こえるのは\nあなたしかいない…<Tag_16><Tag_17><Tag_18><Tag_19><Tag_20><Tag_21>ザ・ブロック<Tag_22>９９<Tag_23><Tag_24><Tag_25><Tag_26><Tag_27><Tag_28><Tag_29><Tag_30><Tag_31>ただいま <Tag_32>準備中！<Tag_33><Tag_34><Tag_35>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 53 30 4f 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 69 30 46 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 4b 30 44 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_20:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_27:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_30:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_31:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 58 30 85 30 93 30 73 30 61 30 85 30 46 30
+      Tag_33:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_35:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_99blk_06:
+    Contents: <Tag_0><Tag_1>パー！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 19 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_05_down:
+    Contents: <Tag_0>おおっと<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_new4_down:
+    Contents: "<Tag_0>キミは このコーフンの<Tag_1>奔流に\n<Tag_2>流されず ついてこられるか？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 7b 30 93 30 8a 30 85 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_16_up:
+    Contents: "<Tag_0>どこまで アタックが<Tag_1>続けられるか\nチャレンジだ び～ん！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_99blk_00_b:
+    Contents: "<Tag_0>ときどき ここに\n<Tag_1>様子を <Tag_2>見にきてびん。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 59 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_99blk_07:
+    Contents: "<Tag_0>…<Tag_1>今のは コインがふえる\nじゅもんだびん。<Tag_2><Tag_3>ザ・ブロック９９の ごほうびは\nこれ１<Tag_4>回きりびん。<Tag_5><Tag_6><Tag_7><Tag_8>それでは ごきげんよう！びん。<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_23_up:
+    Contents: <Tag_0>まぁ しかたないびん…
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_99blk_00_c:
+    Contents: "<Tag_0>もう<Tag_1>少し <Tag_2>待ってほしいびん。\nもう<Tag_3>少しで <Tag_4>遊べるようになるびん！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 5d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_99blk_08:
+    Contents: "<Tag_0>そうびんか。それでは\nコインを <Tag_1>２<Tag_2><Tag_3><Tag_4>倍にしたくなったら\nわれを <Tag_5>叩くびんよ。<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_19_up:
+    Contents: <Tag_0>ここでチャレンジするには
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_03_up:
+    Contents: <Tag_0><Tag_1>強いモンスターとバトルして おのれの
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_03_2_down:
+    Contents: <Tag_0>きたえあげるびん！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_16_up:
+    Contents: "<Tag_0><Tag_1>私が キミ<Tag_2>達の\nきおくを <Tag_3>読み<Tag_4>取って"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_17_down:
+    Contents: <Tag_0><Tag_1>倒せたら？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_new2_down:
+    Contents: <Tag_0>タタタ… ターボとは～？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_19_up:
+    Contents: "<Tag_0>さあ！ <Tag_1>自分の<Tag_2>技と\n<Tag_3>体力の<Tag_4>限界に…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 56 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 44 30 8a 30 87 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 4b 30 44 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_10_down:
+    Contents: "<Tag_0>さあ！ こんなに みりょく<Tag_1>的な\n<Tag_2>コレステチューブ<Tag_3><Tag_4>に…<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_14_up:
+    Contents: "<Tag_0>チャレンジしたくなったら\nいつでも <Tag_1>声をかけるびん！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 48 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_22_down:
+    Contents: <Tag_0>うでをみがいて <Tag_1>出なおすびん！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_14_down:
+    Contents: <Tag_0><Tag_1>よろしい！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_mini_07_up:
+    Contents: <Tag_0><Tag_1>だ<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_14_up:
+    Contents: <Tag_0><Tag_1>よろしい！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_27_up:
+    Contents: "<Tag_0>キミ<Tag_1>達のきおくを <Tag_2>読み<Tag_3>取って\nさらなる <Tag_4>強い<Tag_5>敵を<Tag_6>作り<Tag_7>出すびん！<Tag_8><Tag_9>…おや？ <Tag_10>エアースペース<Tag_11><Tag_12>にも\n<Tag_13>進めるように なったびんね！<Tag_14><Tag_15><Tag_16><Tag_17>早くレベルアップ したいなら…<Tag_18><Tag_19><Tag_20><Tag_21>エアースペース<Tag_22><Tag_23>の モンスターと\nバトルするのが おすすめびん！<Tag_24><Tag_25>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_19_down:
+    Contents: <Tag_0><Tag_1>経験が…<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 44 30 51 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_22_up:
+    Contents: <Tag_0>しばらくしてから またくるびん！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_new2_up:
+    Contents: "<Tag_0><Tag_1><Tag_2>巨大化バトル ターボ<Tag_3>にも\nチャレンジできるびん ！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 4d 30 87 30 60 30 44 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_11_down:
+    Contents: <Tag_0><Tag_1>経験つんで <Tag_2>出なおすびん！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 44 30 51 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_05_up:
+    Contents: "<Tag_0><Tag_1><Tag_2>どこまでも… とことん…<Tag_3><Tag_4><Tag_5><Tag_6>コレステロン<Tag_7><Tag_8>を <Tag_9>倒しながら\n<Tag_10>自分の テクニックの<Tag_11>限界に<Tag_12><Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 4b 30 44 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_09_down:
+    Contents: <Tag_0><Tag_1>よわすぎるびん！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 32 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_22_up:
+    Contents: <Tag_0>そうびんか…
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_16_down:
+    Contents: "<Tag_0>この<Tag_1>先へ <Tag_2>入るびん？<Tag_3>\n<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>入りません<Tag_10><Tag_11><Tag_12>入ります<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_10:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_18_up:
+    Contents: <Tag_0>キミ<Tag_1>達
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_02_down:
+    Contents: <Tag_0><Tag_1><Tag_2>コレステチューブ<Tag_3><Tag_4>！<Tag_5><Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_23_down:
+    Contents: <Tag_0>なさけないびん…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  MES_KCharenge_01_Kcharenge_btl_05_up:
+    Contents: <Tag_0>おおっと<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  MES_KCharenge_01_Kcharenge_btl_18_up:
+    Contents: "<Tag_0>すっごくカッコイイ トロフィーや\n<Tag_1>賞品が プレゼントされるび～ん！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 87 30 46 30 72 30 93 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_14_down:
+    Contents: <Tag_0>ひやかしは ごめんだびん！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  MES_KCharenge_01_Kcharenge_mini_13_up:
+    Contents: <Tag_0>そ… そうびんか…
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_20_down:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3><Tag_4><Tag_5><Tag_6>しません<Tag_7><Tag_8>チャレンジします<Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_13_up:
+    Contents: <Tag_0>ほうほう…
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  MES_KCharenge_01_Kcharenge_btl_18_down:
+    Contents: <Tag_0>な なんと～！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_09_up:
+    Contents: "<Tag_0><Tag_1>大量のコインや ごうか<Tag_2>賞品が\nプレゼントされるび～ん！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 44 30 8a 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 87 30 46 30 72 30 93 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_11_down:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>入りません<Tag_8><Tag_9><Tag_10>入ります<Tag_11>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_8:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_03_down:
+    Contents: <Tag_0><Tag_1><Tag_2>体と<Tag_3><Tag_4><Tag_5>こころを<Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_99blk_03_a:
+    Contents: "<Tag_0><Tag_1><Tag_2>おめでとうだびん！<Tag_3><Tag_4><Tag_5><Tag_6>約束どおり キミ<Tag_7>達の\n<Tag_8>持っているコインを <Tag_9>２<Tag_10><Tag_11><Tag_12>倍に\nしてあげるびんよ！<Tag_13><Tag_14>ちなみに このごほうびは\nこれ１<Tag_15>回きりびん。\n<Tag_16>今すぐ <Tag_17><Tag_18>２<Tag_19><Tag_20><Tag_21>倍にしたいびん？<Tag_22><Tag_23>それとも もう<Tag_24>少しコインをためてから\n<Tag_25><Tag_26>２<Tag_27><Tag_28><Tag_29>倍にするびん？<Tag_30>\n<Tag_31><Tag_32><Tag_33>後で２<Tag_34>倍<Tag_35><Tag_36><Tag_37>今すぐ２<Tag_38>倍<Tag_39><Tag_40>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 84 30 4f 30 5d 30 4f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_30:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_31:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_32:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_35:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_36:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_38:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_39:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_40:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_11_up:
+    Contents: <Tag_0><Tag_1>入ってみませんか？ びん？
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_99blk_03_b:
+    Contents: "<Tag_0>ザ・ブロック９９の ごほうびは\n<Tag_1>持っているコインの<Tag_2>２<Tag_3><Tag_4><Tag_5>倍！\n<Tag_6>今すぐ <Tag_7><Tag_8>２<Tag_9><Tag_10><Tag_11>倍にしたいびん？<Tag_12><Tag_13>それとも もう<Tag_14>少しコインをためてから\n<Tag_15><Tag_16>２<Tag_17><Tag_18><Tag_19>倍にするびん？<Tag_20>\n<Tag_21><Tag_22><Tag_23>後で２<Tag_24>倍<Tag_25><Tag_26><Tag_27>今すぐ２<Tag_28>倍<Tag_29><Tag_30>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_21:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_25:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_26:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_29:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_99blk_03_c:
+    Contents: "<Tag_0><Tag_1>本当に <Tag_2>今すぐ<Tag_3>２<Tag_4><Tag_5><Tag_6>倍にするびん？<Tag_7>\n<Tag_8><Tag_9><Tag_10>やっぱり<Tag_11>後で…<Tag_12><Tag_13><Tag_14>今すぐ２<Tag_15>倍！<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_12:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_09_up:
+    Contents: <Tag_0><Tag_1>よわすぎるびん！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 32 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_mini_08_down:
+    Contents: <Tag_0><Tag_1>出せたら？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_15_down:
+    Contents: <Tag_0>あり！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_new4_up:
+    Contents: "<Tag_0><Tag_1>圧倒的な パワー！\n<Tag_2>圧倒的な スピード！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 42 30 63 30 68 30 46 30 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 42 30 63 30 68 30 46 30 66 30 4d 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_04_up:
+    Contents: "<Tag_0>この<Tag_1>先にいる <Tag_2>コレステロン<Tag_3><Tag_4><Tag_5>達を\nお<Tag_6>得意の アタックで…<Tag_7><Tag_8><Tag_9><Tag_10>どこまでも…<Tag_11><Tag_12><Tag_13><Tag_14>とことん…<Tag_15><Tag_16><Tag_17><Tag_18>バッサバッサと…<Tag_19><Tag_20><Tag_21><Tag_22><Tag_23>倒しまくれるびん！<Tag_24><Tag_25>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 68 30 4f 30 44 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_01_down:
+    Contents: <Tag_0><Tag_1>チャレンジホールへ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_11_up:
+    Contents: <Tag_0>しばらくしてから またくるびん！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_99blk_01_a:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>ザ・ブロック<Tag_4>９９<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9><Tag_10><Tag_11><Tag_12>左側に<Tag_13>浮いているブロック…\nさーて <Tag_14>２人で<Tag_15>何回まで\n<Tag_16>叩き<Tag_17>続けられるびん？<Tag_18><Tag_19>もし<Tag_20><Tag_21><Tag_22><Tag_23>９９<Tag_24><Tag_25><Tag_26>回まで <Tag_27>叩き<Tag_28>続けられたら\n<Tag_29>今もっているコインを なんと！\n<Tag_30><Tag_31>２<Tag_32><Tag_33><Tag_34>倍にしてあげるびん！<Tag_35><Tag_36><Tag_37>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 72 30 60 30 8a 30 4c 30 8f 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 93 30 4b 30 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_33:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_35:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_37:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_24_up:
+    Contents: <Tag_0><Tag_1>ようこそ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_99blk_01_b:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>ザ・ブロック<Tag_4>９９<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9><Tag_10><Tag_11><Tag_12>左側に<Tag_13>浮いているブロック…\nさーて <Tag_14>２人で<Tag_15>何回まで\n<Tag_16>叩き<Tag_17>続けられるびん？<Tag_18><Tag_19>もし<Tag_20><Tag_21><Tag_22><Tag_23>９９<Tag_24><Tag_25><Tag_26>回まで <Tag_27>叩き<Tag_28>続けられたら\n<Tag_29>今もっているコインを なんと！\n<Tag_30><Tag_31>２<Tag_32><Tag_33><Tag_34>倍にしてあげるびん！<Tag_35><Tag_36><Tag_37>ちなみに これまでの\n<Tag_38>最高記録は <Tag_39><Tag_40>回だびん！<Tag_41><Tag_42><Tag_43>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 72 30 60 30 8a 30 4c 30 8f 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 93 30 4b 30 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_33:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 70 30 44 30
+      Tag_35:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_37:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_38:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0e 00 55 30 44 30 53 30 46 30 4d 30 8d 30 4f 30
+      Tag_39:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_40:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_41:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_42:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_43:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_mini_06_down:
+    Contents: <Tag_0><Tag_1>チャレンジ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_04_up:
+    Contents: <Tag_0>……………
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_07_up:
+    Contents: <Tag_0>キミ<Tag_1>達
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_20_down:
+    Contents: <Tag_0><Tag_1>たりないびん！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 32 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_12_down:
+    Contents: <Tag_0>どうやら バトルの<Tag_1>経験を<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 44 30 51 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_02_up:
+    Contents: <Tag_0><Tag_1>このゲートの<Tag_2>先は…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_15_up:
+    Contents: <Tag_0><Tag_1>ようこそ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_mini_17_down:
+    Contents: <Tag_0>……………<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_03_down:
+    Contents: <Tag_0><Tag_1><Tag_2>コレステロン<Tag_3><Tag_4>の すみかだびん！<Tag_5><Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_24_down:
+    Contents: <Tag_0><Tag_1><Tag_2>バトルコロシアム<Tag_3><Tag_4>へ！<Tag_5><Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_02_up:
+    Contents: <Tag_0><Tag_1>このゲートの<Tag_2>先は…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_10_down:
+    Contents: "<Tag_0>この <Tag_1>バトルコロシアム<Tag_2><Tag_3>には\n<Tag_4>入れないびん！<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_15_up:
+    Contents: "<Tag_0>キミ<Tag_1>達は この<Tag_2>先\n<Tag_3>バトルコロシアム<Tag_4><Tag_5>に <Tag_6>入るしかく<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_15_down:
+    Contents: <Tag_0><Tag_1><Tag_2>コレステチューブ<Tag_3><Tag_4>へ！<Tag_5><Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_07_down:
+    Contents: <Tag_0>まだまだ<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  MES_KCharenge_01_Kcharenge_btl_28_up:
+    Contents: "<Tag_0>さて… やるかやられるかの\nバトルに チャレンジするびん？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_10_up:
+    Contents: "<Tag_0>さあ！ こんなに みりょく<Tag_1>的な\n<Tag_2>コレステチューブ<Tag_3><Tag_4>に…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_10_up:
+    Contents: "<Tag_0>もっと<Tag_1>強いモンスターと <Tag_2>戦って\nバトルの<Tag_3>経験を つまないと…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 5f 30 5f 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 44 30 51 30 93 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_19_down:
+    Contents: "<Tag_0>さあ！ <Tag_1>自分の<Tag_2>技と\n<Tag_3>体力の<Tag_4>限界に…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 56 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 44 30 8a 30 87 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 4b 30 44 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_06_up:
+    Contents: <Tag_0><Tag_1>チャレンジ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_04_down:
+    Contents: <Tag_0>……………<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_new3_down:
+    Contents: <Tag_0>そいつは すごそうだ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_26_up:
+    Contents: "<Tag_0>その<Tag_1>敵と やるかやられるかの\nバトルに チャレンジするびん？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_06_up:
+    Contents: <Tag_0>おっとっと！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_mini_09_down:
+    Contents: <Tag_0>す すごい！び～ん！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_21_up:
+    Contents: "<Tag_0>バトルで ブラザーアタックを<Tag_1>使って\nアタックの うでをみがかないと…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_16_down:
+    Contents: "<Tag_0>さらなる <Tag_1>強いモンスターを\n<Tag_2>作り<Tag_3>出すびん！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_new1_up:
+    Contents: <Tag_0>さらに！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_01_up:
+    Contents: <Tag_0><Tag_1>ようこそ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_02_down:
+    Contents: <Tag_0><Tag_1><Tag_2>バトルコロシアム<Tag_3><Tag_4>！<Tag_5><Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_new1_down:
+    Contents: <Tag_0>さらに～！？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_21_up:
+    Contents: <Tag_0><Tag_1>グッドラック！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_mini_07_down:
+    Contents: <Tag_0><Tag_1>びん！<Tag_2><Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_mini_17_up:
+    Contents: <Tag_0>……………
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_01_up:
+    Contents: <Tag_0><Tag_1>ようこそ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_info_01:
+    Contents: "<Tag_0><Tag_1><Tag_2>おや？ <Tag_3>見かけない<Tag_4>顔びんね…<Tag_5><Tag_6><Tag_7>キミ<Tag_8>達も この<Tag_9>チャレンジホール<Tag_10><Tag_11>で\n<Tag_12>自分の<Tag_13>限界に チャレンジするびん？<Tag_14><Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 4a 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 4b 30 44 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_21_down:
+    Contents: "<Tag_0>この <Tag_1>コレステチューブ<Tag_2><Tag_3>に\n<Tag_4>入るのは <Tag_5>危険だびん！<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 51 30 93 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_13_down:
+    Contents: <Tag_0>つんできたみたいだびんね！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_info_02:
+    Contents: "<Tag_0>ふふふふ…\nここは<Tag_1>他の<Tag_2>場所とは ちがうびん。<Tag_3><Tag_4>くわしいことは この<Tag_5>下にいる\n<Tag_6>他のやつらに <Tag_7>聞くといいびん。<Tag_8><Tag_9><Tag_10>下から<Tag_11>叩いて <Tag_12>話しかければ\n<Tag_13>楽しいこと <Tag_14>教えてくれるびん！<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_17_up:
+    Contents: "<Tag_0>そして そのモンスターとバトルして\n<Tag_1>見事 <Tag_2>倒せたら…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7f 30 54 30 68 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_info_03:
+    Contents: <Tag_0><Tag_1>チャレンジホール ニュース！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_info_04:
+    Contents: "<Tag_0><Tag_1>～ コレステチューブ ～\n<Tag_2><Tag_3>新しいチャレンジが ふえたびん！<Tag_4><Tag_5><Tag_6><Tag_7>さっそく <Tag_8>行ってみるびん！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_info_05:
+    Contents: "<Tag_0><Tag_1>～ バトルコロシアム ～\n<Tag_2><Tag_3>新しいクラスが ふえたびん！<Tag_4><Tag_5><Tag_6><Tag_7>さっそく <Tag_8>行ってみるびん！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_12_up:
+    Contents: <Tag_0><Tag_1>レッツゴー！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_mini_18_down:
+    Contents: <Tag_0>まだまだ<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  MES_KCharenge_01_Kcharenge_info_06:
+    Contents: "<Tag_0><Tag_1>～ コレステチューブ ～\n<Tag_2><Tag_3>新しいチャレンジが ふえたびん！<Tag_4><Tag_5><Tag_6>～ バトルコロシアム ～\n<Tag_7><Tag_8>新しいクラスが ふえたびん！<Tag_9><Tag_10><Tag_11><Tag_12>さっそく <Tag_13>行ってみるびん！<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_04_down:
+    Contents: "<Tag_0><Tag_1>「<Tag_2>コレステロン<Tag_3><Tag_4>」\nブヨブヨした <Tag_5>脂肪だらけのやつ。\nかんたんに<Tag_6>倒せるが かずがおおい。<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 7c 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  MES_KCharenge_01_Kcharenge_btl_12_up:
+    Contents: <Tag_0>ふんふん…
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  MES_KCharenge_01_Kcharenge_mini_08_up:
+    Contents: "<Tag_0>しかも！ このチャレンジで\n<Tag_1>見事な スコアを<Tag_2>出せたら…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7f 30 54 30 68 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_08_down:
+    Contents: <Tag_0>ぜーんぜん<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  MES_KCharenge_01_Kcharenge_btl_25_up:
+    Contents: "<Tag_0>キミ<Tag_1>達のきおくを <Tag_2>読み<Tag_3>取って\nさらなる <Tag_4>強い<Tag_5>敵を<Tag_6>作り<Tag_7>出すびん！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_mini_01_down:
+    Contents: <Tag_0><Tag_1>チャレンジホールへ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_mini_20_up:
+    Contents: <Tag_0><Tag_1>たりないびん！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 32 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KCharenge_01_Kcharenge_btl_22_down:
+    Contents: <Tag_0>ありえないびん…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  MES_KCharenge_01_Kcharenge_99blk_02:
+    Contents: <Tag_0><Tag_1>ザ・ブロック９９ <Tag_2>成功だび～ん！<Tag_3><Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 53 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 3c 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_btl_08_up:
+    Contents: <Tag_0>ここでバトルするには
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6

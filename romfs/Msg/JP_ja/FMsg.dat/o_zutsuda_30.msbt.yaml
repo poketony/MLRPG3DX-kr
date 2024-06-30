@@ -1,0 +1,2778 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_LZutsuda_30_LZ30_rose_ml06:
+    Contents: "<Tag_0><Tag_1>たとえば…<Tag_2> パワーだけで\n<Tag_3>島を <Tag_4>動かしちゃうとか…<Tag_5><Tag_6><Tag_7><Tag_8>自分より <Tag_9>大きいものを\n<Tag_10>食べちゃうとか…<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml07:
+    Contents: "<Tag_0><Tag_1>うふ…<Tag_2> そんなかた いるのかしら…<Tag_3>\nうふふ…<Tag_4> わたくしもバカね…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml_yes:
+    Contents: "<Tag_0><Tag_1>そうね…<Tag_2> じゃあ…<Tag_3>\nあの お<Tag_4>話でも しようかしら…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml08:
+    Contents: "<Tag_0><Tag_1>ぼうや<Tag_2>達…<Tag_3> バカな<Tag_4>女の<Tag_5>話に\nつきあってくれて…<Tag_6> ありがとう…<Tag_7><Tag_8><Tag_9>また きてちょうだいね…<Tag_10>\nこんどは お<Tag_11>話でもしましょ…<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4a 30 93 30 6a 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml_yes_a:
+    Contents: "<Tag_0><Tag_1>ぼうや<Tag_2>達…<Tag_3>\n<Tag_4>リューグー<Tag_5><Tag_6>さんって ご<Tag_7>存知…？<Tag_8><Tag_9><Tag_10>うふ…<Tag_11> だいぶお<Tag_12>年を\nめしてらっしゃるんだけど…<Tag_13>\nそれは <Tag_14>元気なかたでね…<Tag_15><Tag_16><Tag_17><Tag_18>特に あたまを<Tag_19>使うような…<Tag_20>\nパズルとかが お<Tag_21>好きみたい…<Tag_22>\nあと…<Tag_23> うふ…<Tag_24> <Tag_25>女の<Tag_26>子もね…<Tag_27><Tag_28><Tag_29>いつも わたくしの<Tag_30>店に くるたびに\nパズルじゃー！<Tag_31> とか…<Tag_32> ナウなヤングに\nバカうけじゃー！<Tag_33> とか…<Tag_34><Tag_35><Tag_36>うふふ…<Tag_37> でもあのかたの\nおかげで…<Tag_38> たいくつは\nしなかったわね…<Tag_39><Tag_40><Tag_41>でも…<Tag_42> ある<Tag_43>日を さかいに\n<Tag_44>突然 お<Tag_45>店に こなくなって\nしまってね…<Tag_46> さびしかったわ…<Tag_47><Tag_48><Tag_49>うわさだけど…<Tag_50> なにかを\nうばわれてしまったとか…<Tag_51><Tag_52><Tag_53>なんとかワクチン…<Tag_54> って\n<Tag_55>言ってたかしら…<Tag_56><Tag_57><Tag_58>それで <Tag_59><Tag_60>リューグー<Tag_61><Tag_62>さんとは\nそれっきり…<Tag_63>\n<Tag_64>今は どうしてるのかしら…<Tag_65><Tag_66><Tag_67><Tag_68>海が <Tag_69>好きなかただったから…<Tag_70>\nビーチあたりで のんびり\nしてるのかも しれないわね…<Tag_71><Tag_72>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5e 30 93 30 58 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 57 30
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 52 30 93 30 4d 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4f 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_22:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_23:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_24:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4a 30 93 30 6a 30
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_27:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_31:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_32:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_33:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_34:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_35:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_36:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_37:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_38:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_39:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_40:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_41:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_42:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_43:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_44:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 64 30 5c 30 93 30
+      Tag_45:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_46:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_47:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_48:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_49:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_50:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_51:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_52:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_53:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_54:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_55:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_56:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_57:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_58:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_59:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_60:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_61:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_62:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_63:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_64:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_65:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_66:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_67:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_68:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 7f 30
+      Tag_69:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_70:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_71:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_72:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml_yes_b:
+    Contents: "<Tag_0><Tag_1>ぼうや<Tag_2>達…<Tag_3>\n<Tag_4>宇宙人って <Tag_5>信じる…？<Tag_6><Tag_7><Tag_8>どうやら むかし…<Tag_9>\nこの<Tag_10>国に <Tag_11>宇宙人が きたことが\nあるらしいのよ…<Tag_12><Tag_13><Tag_14>お<Tag_15>客さんから <Tag_16>聞いたんだけどね…<Tag_17>\nわたくしが ここにくる<Tag_18>前の\nことらしいわ…<Tag_19><Tag_20><Tag_21><Tag_22>家はこわされ <Tag_23>人はさらわれ…<Tag_24>\nそれはそれは <Tag_25>大変なことに\nなったらしいわよ…<Tag_26><Tag_27><Tag_28><Tag_29>結局…<Tag_30> <Tag_31>赤と<Tag_32>緑のスーパースターって\nいう<Tag_33>人達が <Tag_34>宇宙人を\nぜんぶ やっつけたらしいけど…<Tag_35><Tag_36><Tag_37>でもね…<Tag_38> <Tag_39>実はどこかに\n<Tag_40>宇宙人が <Tag_41>保管されているって\nウワサが あるのよ…<Tag_42><Tag_43><Tag_44>うふ…<Tag_45>\nシュミのわるい<Tag_46>人も\nいるものね…<Tag_47><Tag_48><Tag_49>あら…<Tag_50> そういえば\nあなた<Tag_51>達も\n<Tag_52>赤と<Tag_53>緑なのね…<Tag_54><Tag_55><Tag_56>うふふ…<Tag_57> スーパースターさんの\nファンなのかしら…？<Tag_58>\nうふ…<Tag_59> よくにあってるわよ…<Tag_60>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 46 30 61 30 85 30 46 30 58 30 93 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 93 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 6b 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 46 30 61 30 85 30 46 30 58 30 93 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4d 30 83 30 4f 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 48 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_24:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 78 30 93 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 51 30 63 30 4d 30 87 30 4f 30
+      Tag_30:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 68 30 5f 30 61 30
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 46 30 61 30 85 30 46 30 58 30 93 30
+      Tag_35:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_37:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_38:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_39:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 58 30 64 30
+      Tag_40:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 46 30 61 30 85 30 46 30 58 30 93 30
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7b 30 4b 30 93 30
+      Tag_42:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_43:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_44:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_45:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_46:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_47:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_48:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_49:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_50:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_51:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_52:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_53:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_54:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_55:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_56:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_57:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_58:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_59:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_60:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml_yes_c:
+    Contents: "<Tag_0><Tag_1>ぼうや<Tag_2>達…<Tag_3>\n<Tag_4>大切な<Tag_5>人って…<Tag_6> いるかしら…？<Tag_7><Tag_8><Tag_9>うふふ…<Tag_10> ごめんなさい…<Tag_11>\n<Tag_12>急にへんな<Tag_13>話を <Tag_14>始めて…<Tag_15><Tag_16><Tag_17>もし いるのなら…<Tag_18>\nその<Tag_19>人を しっかり\nつかまえておかなきゃ だめよ…<Tag_20><Tag_21><Tag_22>そばに いるからって\n<Tag_23>安心しちゃだめ…<Tag_24>\nすぐに <Tag_25>飛んでいってしまうから…<Tag_26><Tag_27><Tag_28>でも…<Tag_29> いなくなって\nはじめて <Tag_30>気付くのよね…<Tag_31>\n<Tag_32>大切な<Tag_33>人だったって ことに…<Tag_34><Tag_35><Tag_36><Tag_37>私も そうだった…<Tag_38>\nだから ぼうや<Tag_39>達は\n<Tag_40>大切な<Tag_41>人を はなしちゃだめよ…<Tag_42><Tag_43><Tag_44>あの<Tag_45>人は <Tag_46>今ごろ…<Tag_47>\nうふ…<Tag_48> また ブロックでも\n<Tag_49>集めてるのかしら…<Tag_50>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 5b 30 64 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4d 30 85 30 46 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 57 30 93 30
+      Tag_24:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 4d 30 65 30
+      Tag_31:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 5b 30 64 30
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_34:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_35:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_36:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_38:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_39:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_40:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 5b 30 64 30
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_42:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_43:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_44:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_45:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_46:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_47:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_48:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_49:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_50:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_01:
+    Contents: "<Tag_0><Tag_1><Tag_2>あら…<Tag_3><Tag_4><Tag_5><Tag_6>マッサージしに…<Tag_7>\nきていただけたの…？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_cancel:
+    Contents: "<Tag_0><Tag_1>あらぁ… <Tag_2>残念ね…<Tag_3>\nうふ…<Tag_4> また いらしてちょうだい…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 56 30 93 30 6d 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_10:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>軍団で…？<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_11:
+    Contents: <Tag_0><Tag_1><Tag_2>ふむ。おもしろそうだな。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_03:
+    Contents: <Tag_0><Tag_1><Tag_2>いらっしゃい…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_12:
+    Contents: <Tag_0><Tag_1><Tag_2>どうだ オマエら。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_04:
+    Contents: <Tag_0><Tag_1><Tag_2>ふぅ…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_13:
+    Contents: "<Tag_0><Tag_1>よし。ブリ…<Tag_2> なんとか！\n<Tag_3>話は まとまったぞ。<Tag_4><Tag_5><Tag_6>ワガハイの <Tag_7>軍団のアタックで\nオマエのコリを なんとかしてやれば\nいいんだな？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_06:
+    Contents: "<Tag_0><Tag_1><Tag_2>あら…<Tag_3> あなた…<Tag_4><Tag_5><Tag_6><Tag_7>他人のそら<Tag_8>似かしら…<Tag_9> あなたに\nそっくりな <Tag_10>小さな<Tag_11>子が…<Tag_12><Tag_13>って…<Tag_14> <Tag_15>子供ってこんなにすぐ\n<Tag_16>大きくなるの…？<Tag_17> <Tag_18>神秘的だわ…！<Tag_19><Tag_20><Tag_21>…<Tag_22>なんて。<Tag_23>まさかね。<Tag_24>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5f 30 6b 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6b 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 69 30 82 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 57 30 93 30 74 30 66 30 4d 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_23:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_08:
+    Contents: "<Tag_0><Tag_1><Tag_2>あら…？<Tag_3> あなた…<Tag_4><Tag_5><Tag_6><Tag_7>マッサージしに…<Tag_8>\nきていただけたんじゃないの…？<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml_no:
+    Contents: "<Tag_0><Tag_1>あら…<Tag_2> <Tag_3>残念ね…<Tag_4>\nうふ…<Tag_5> また きてちょうだいね…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 56 30 93 30 6d 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_20:
+    Contents: "<Tag_0><Tag_1><Tag_2>最強…？<Tag_3> あら…<Tag_4>\nうふふ…<Tag_5> たのもしいわね…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 55 30 44 30 4d 30 87 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_21:
+    Contents: "<Tag_0><Tag_1>そうだ…<Tag_2> クッパさん…<Tag_3>\nとおっしゃったかしら…？<Tag_4><Tag_5><Tag_6>そちらの…<Tag_7> うふふ…<Tag_8>\n<Tag_9>最強の <Tag_10>軍団さん<Tag_11>達で…<Tag_12><Tag_13><Tag_14>わたくしの<Tag_15>体を…<Tag_16> もみほぐして\nいただけないかしら…？<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 55 30 44 30 4d 30 87 30 46 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_24:
+    Contents: "<Tag_0><Tag_1>あなたの<Tag_2>限界…<Tag_3> <Tag_4>見せて…<Tag_5>\n<Tag_6><Tag_7><Tag_8>見せない<Tag_9> <Tag_10><Tag_11>見せる<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 4b 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_9:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_25:
+    Contents: <Tag_0><Tag_1><Tag_2>うふふ…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_26:
+    Contents: <Tag_0><Tag_1>それじゃ…<Tag_2> お<Tag_3>願いね…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_27:
+    Contents: "<Tag_0><Tag_1>あら…<Tag_2> いらっしゃい…<Tag_3>\nマッサージして いただけるの…？<Tag_4><Tag_5><Tag_6>あなたの <Tag_7>軍団さんのアタック…\nどこまで <Tag_8>長く<Tag_9>続けられるかしら…？<Tag_10><Tag_11><Tag_12>あなたが できるところまで\nアタックを <Tag_13>続けてちょうだい…<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_07_1:
+    Contents: "<Tag_0><Tag_1>じゃあ… さっそくだけど…<Tag_2>\n<Tag_3>始めてもらえる…？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_02_1:
+    Contents: "<Tag_0><Tag_1>なんだ！？\nいきなり なにを<Tag_2>言ってる！？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_kuri_01:
+    Contents: <Tag_0><Tag_1><Tag_2>クッパ<Tag_3>様！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_kuri_02:
+    Contents: <Tag_0><Tag_1><Tag_2>どうしたんですか？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_kuri_03:
+    Contents: "<Tag_0><Tag_1>クッパ<Tag_2>様の <Tag_3>手下であり <Tag_4>最強の<Tag_5>軍団\nクリボー<Tag_6>軍団である！！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 66 30 57 30 5f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 55 30 44 30 4d 30 87 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_kuri_04:
+    Contents: <Tag_0><Tag_1>え？ え～と。<Tag_2><Tag_3><Tag_4>クッパ<Tag_5>様の ご<Tag_6>命令とあらば…<Tag_7>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 81 30 44 30 8c 30 44 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml_2nd_1:
+    Contents: "<Tag_0><Tag_1>また きていただけたの…？<Tag_2>\nうふ…<Tag_3> うれしい…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml_2nd_2:
+    Contents: "<Tag_0><Tag_1>パワーを もてあましていそうな\nかたは <Tag_2>見つかったかしら…？<Tag_3><Tag_4><Tag_5>うふふ…<Tag_6> なんてね…<Tag_7><Tag_8><Tag_9>ぼうや<Tag_10>達に たよってちゃ…<Tag_11>\nいけないわよね…<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml_2nd_3:
+    Contents: "<Tag_0><Tag_1>なにか…<Tag_2> お<Tag_3>話でも しようかしら…？<Tag_4>\n<Tag_5><Tag_6>しない<Tag_7><Tag_8>する<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_03:
+    Contents: <Tag_0><Tag_1><Tag_2>マッサージ？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_04:
+    Contents: "<Tag_0><Tag_1>ふざけるな！\nなんで ワガハイが マッサージを！<Tag_2><Tag_3><Tag_4>それに オマエは だれなんだ！？<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_05:
+    Contents: "<Tag_0><Tag_1>だから なんでワガハイが！\nいいかげんにしろ！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_06:
+    Contents: <Tag_0><Tag_1><Tag_2>なんだと！？ いいもの！？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml_yes_end:
+    Contents: "<Tag_0><Tag_1>うふふ…<Tag_2> これで\nわたくしの <Tag_3>話は おしまい…<Tag_4><Tag_5><Tag_6>つきあってくれて ありがとう…<Tag_7>\nぼうや<Tag_8>達…<Tag_9><Tag_10><Tag_11>また きてちょうだいね…<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_07:
+    Contents: "<Tag_0><Tag_1>ふむ。もらえるものは\nなんでも もらうのが\nワガハイの <Tag_2>主義だ。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 85 30 4e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_08:
+    Contents: "<Tag_0><Tag_1>よし。ちょちょいと もんでやる。\n<Tag_2>横になれ。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 53 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_09:
+    Contents: <Tag_0><Tag_1><Tag_2>じゃあ どうしろというのだ。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_10:
+    Contents: "<Tag_0><Tag_1>あら… いやだわ…<Tag_2>\nわたくしったら… てっきり…<Tag_3><Tag_4><Tag_5>うふ…<Tag_6>\nごめんなさいね…<Tag_7><Tag_8><Tag_9>わたくしは…<Tag_10> ブリローズ…<Tag_11>\nただの<Tag_12>女よ…<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4a 30 93 30 6a 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_end02:
+    Contents: "<Tag_0><Tag_1>うふ…<Tag_2>\nまた いらしてちょうだい…<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>待ってるわ…<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_11:
+    Contents: "<Tag_0><Tag_1><Tag_2>最近ね…<Tag_3>\nはげしいのよ…<Tag_4> コリが…<Tag_5><Tag_6><Tag_7>ツラくてね…<Tag_8>\n<Tag_9>肩とか…<Tag_10> こしとか…<Tag_11><Tag_12><Tag_13>だからね…<Tag_14> <Tag_15>待っているの…<Tag_16>\nマッサージして いただけるかたを…<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 4d 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_13:
+    Contents: "<Tag_0><Tag_1>あなた…<Tag_2>\nパワーが ありあまってそうだけど…<Tag_3><Tag_4><Tag_5>いかがかしら…<Tag_6> わたくしを…<Tag_7>\nマッサージして くださらない…？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_14:
+    Contents: <Tag_0><Tag_1><Tag_2>いいもの…<Tag_3> あげるわよ…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_15:
+    Contents: "<Tag_0><Tag_1>うふふ…<Tag_2> <Tag_3>食いついたわね…<Tag_4>\nげんきんな<Tag_5>人…<Tag_6><Tag_7><Tag_8>そうね…<Tag_9> わたくしのコレクションの\nそうび<Tag_10>品とか さしあげようかしら…<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_23_1:
+    Contents: "<Tag_0><Tag_1>うふふ…<Tag_2> そう…<Tag_3>\nよかった…<Tag_4><Tag_5><Tag_6><Tag_7>軍団さんの アタックを\nできるだけ <Tag_8>長く<Tag_9>続けて…<Tag_10><Tag_11><Tag_12>わたくしの コリを…<Tag_13>\nほぐしてちょうだい…<Tag_14><Tag_15><Tag_16><Tag_17>えんりょは いらないわ…<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_17:
+    Contents: "<Tag_0><Tag_1>あら…<Tag_2> うふふ…<Tag_3>\n<Tag_4>若いって いいわね…<Tag_5><Tag_6><Tag_7>でもね…<Tag_8> わたくしの コリは\nひどすぎて…<Tag_9><Tag_10><Tag_11><Tag_12>手で もんだくらいじゃ\nきかなくなって しまっているのよ…<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_18:
+    Contents: <Tag_0><Tag_1><Tag_2>そうねぇ…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_19:
+    Contents: <Tag_0><Tag_1><Tag_2>あら…<Tag_3> そちらのかたは…？<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_koopa_05_1:
+    Contents: "<Tag_0><Tag_1>まったく。\nワケの わからんやつだ。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml01:
+    Contents: <Tag_0><Tag_1>あら…<Tag_2> いらっしゃい…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml02:
+    Contents: "<Tag_0><Tag_1>はじめまして…<Tag_2>\nわたくしは ブリローズよ…<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml03:
+    Contents: "<Tag_0><Tag_1>ぼうや<Tag_2>達…<Tag_3> まさか\nマッサージしに きてくれたの…？<Tag_4><Tag_5><Tag_6>うふふ…<Tag_7> まさかね…<Tag_8><Tag_9><Tag_10>ありあまる パワーがないと…<Tag_11>\nわたくしを マッサージするのは ムリ…<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml04:
+    Contents: <Tag_0><Tag_1><Tag_2>めんどうな <Tag_3>女よね…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4a 30 93 30 6a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_ml05:
+    Contents: "<Tag_0><Tag_1>もし パワーを もてあましていそうな\nかたを ご<Tag_2>存知だったら…<Tag_3><Tag_4><Tag_5>うふ…<Tag_6> しょうかいして\nいただけないかしら…<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5e 30 93 30 58 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

@@ -1,0 +1,113 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EV_LZutsuda_10_LZ10A_koopa_01:
+    Contents: <Tag_0><Tag_1><Tag_2>また このにおいか…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_LZutsuda_10_LZ10A_koopa_02:
+    Contents: <Tag_0><Tag_1><Tag_2>ちょっと…<Tag_3> クセになるな…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_LZutsuda_10_LZ10A_koopa_03:
+    Contents: <Tag_0><Tag_1><Tag_2>ファッ…！<Tag_3> ファッ…！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SAVE_BLOCK_recovery:
+    Contents: "<Tag_0><Tag_1><Tag_2>HPとBPの<Tag_3>回復も\n<Tag_4>忘れないようにしましょう。<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 75 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12

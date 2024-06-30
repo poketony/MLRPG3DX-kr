@@ -1,0 +1,27 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_work_fh_01:
+    Contents: <Tag_0>てんめつするよ！！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 08 00
+    Attribute: 00000000
+    StyleID: 8
+  MES_work_fh_02:
+    Contents: <Tag_0>Yボタンをおすと とじるよ
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5

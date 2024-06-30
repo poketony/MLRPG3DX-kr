@@ -1,0 +1,52 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Guide_Mushiba_01_Ryugu_guide_mes_01:
+    Contents: <Tag_0>たしか このへんと…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Guide_Mushiba_01_Ryugu_guide_mes_02:
+    Contents: <Tag_0>このへんと…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Guide_Mushiba_01_Ryugu_guide_mes_03:
+    Contents: "<Tag_0>たぶん ここ…<Tag_1>\nじゃったかのう…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

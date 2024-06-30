@@ -1,0 +1,807 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KAir_14_KAir_14_mes_10:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>成功び～～ん！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 53 30 46 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 7
+  MES_KAir_14_KAir_14_mes_11:
+    Contents: "<Tag_0><Tag_1>我らの とーても<Tag_2>難しい<Tag_3>試練\nよくぞ クリアできたびん！<Tag_4><Tag_5><Tag_6><Tag_7>とーても よく…<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 80 30 5a 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 8c 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_12:
+    Contents: <Tag_0><Tag_1>で<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 07 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_13:
+    Contents: <Tag_0><Tag_1>き<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 07 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_14:
+    Contents: <Tag_0><Tag_1>ま<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 07 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_15:
+    Contents: <Tag_0><Tag_1>し<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 07 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_16:
+    Contents: <Tag_0><Tag_1>た<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 07 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_17:
+    Contents: "<Tag_0>もう１<Tag_1>度 やりおなすびん？<Tag_2>\n<Tag_3><Tag_4>リタイアする<Tag_5><Tag_6>やりなおす<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_01:
+    Contents: "<Tag_0><Tag_1><Tag_2>我ら トーテムヘモグロびんの\nガードは とーてもかたいびん。<Tag_3><Tag_4><Tag_5><Tag_6>我らが みとめた<Tag_7>者でなければ\nこの<Tag_8>先には <Tag_9>進ませないびん。<Tag_10><Tag_11>この<Tag_12>先に どーしても<Tag_13>進みたいなら\n<Tag_14>我らの とーても<Tag_15>難しい\n<Tag_16>試練を <Tag_17>受けるがいいびん。<Tag_18><Tag_19>とーても <Tag_20>難しい<Tag_21>試練を\n<Tag_22>受けますか？<Tag_23>\n<Tag_24><Tag_25>いいえ<Tag_26><Tag_27>はい<Tag_28>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 6e 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 80 30 5a 30 4b 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 8c 30 93 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 80 30 5a 30 4b 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 8c 30 93 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_23:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_24:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_27:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_02:
+    Contents: <Tag_0><Tag_1>ハ<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_07_01:
+    Contents: "<Tag_0><Tag_1>それでは トーテムヘモグロびんの\nとーても<Tag_2>難しい<Tag_3>試練…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 80 30 5a 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 8c 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_03:
+    Contents: <Tag_0>おくびょう<Tag_1>者び～ん！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 6e 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_07_02:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>スタート！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KAir_14_KAir_14_mes_04:
+    Contents: "<Tag_0><Tag_1><Tag_2>我ら トーテムヘモグロびんの\nガードは とーてもかたいびん。<Tag_3><Tag_4><Tag_5>我らの とーても<Tag_6>難しい\n<Tag_7>試練を<Tag_8>受けて <Tag_9>先に<Tag_10>進むびんか？<Tag_11>\n<Tag_12><Tag_13>いいえ<Tag_14><Tag_15>はい<Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 80 30 5a 30 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 8c 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_12:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_15:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_05:
+    Contents: "<Tag_0><Tag_1><Tag_2>よろしい！<Tag_3><Tag_4><Tag_5><Tag_6>今からこの<Tag_7>下に <Tag_8>８<Tag_9><Tag_10><Tag_11>個の\nヘモグロびんが あらわれるびん！<Tag_12><Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_06:
+    Contents: "<Tag_0><Tag_1><Tag_2>今あらわれた <Tag_3>８<Tag_4><Tag_5><Tag_6>個のヘモグロびんを\n<Tag_7><Tag_8><Tag_9>番号順<Tag_10><Tag_11>に <Tag_12>叩いていくびん！<Tag_13><Tag_14><Tag_15><Tag_16>制限時間内に <Tag_17>全部<Tag_18>叩ければ\n<Tag_19>合格びん！<Tag_20><Tag_21><Tag_22>叩く<Tag_23>順番を まちがったり\n<Tag_24>制限時間が ゼロになったら\n<Tag_25>失敗びん！<Tag_26><Tag_27><Tag_28>わかったびんか？<Tag_29>\n<Tag_30><Tag_31>いいえ<Tag_32><Tag_33>はい<Tag_34><Tag_35>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 70 30 93 30 54 30 46 30 58 30 85 30 93 30
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 0a 00 12 00 5b 30 44 30 52 30 93 30 58 30 4b 30 93 30 6a 30 44 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 54 30 46 30 4b 30 4f 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 85 30 93 30 70 30 93 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0e 00 5b 30 44 30 52 30 93 30 58 30 4b 30 93 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 63 30 71 30 44 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_30:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_31:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_32:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_33:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_35:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_08:
+    Contents: "<Tag_0><Tag_1><Tag_2>制限時間が ゼロびん！\n<Tag_3>失敗び～ん！<Tag_4><Tag_5>もう１<Tag_6>度 やりおなすびん？<Tag_7>\n<Tag_8><Tag_9>いいえ<Tag_10><Tag_11>はい<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0e 00 5b 30 44 30 52 30 93 30 58 30 4b 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 63 30 71 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 02 00 69 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_14_KAir_14_mes_09:
+    Contents: "<Tag_0><Tag_1><Tag_2>叩く<Tag_3>順番が ちがうびん！\n<Tag_4>失敗び～ん！<Tag_5><Tag_6>もう１<Tag_7>度 やりおなすびん？<Tag_8>\n<Tag_9><Tag_10>いいえ<Tag_11><Tag_12>はい<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 85 30 93 30 70 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 63 30 71 30 44 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6

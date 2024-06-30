@@ -1,0 +1,400 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Mushiba_12_Mushiba_brilock_2_01:
+    Contents: "<Tag_0>なんだ オマエ<Tag_1>\nまだ こんなところにいたのか？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_02:
+    Contents: "<Tag_0>オ～ゥ<Tag_1> ムッシュ～<Tag_2>\nなぜ ミーが ここにいるのか…<Tag_3>\nそれはそう<Tag_4> こまっているからです。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_03:
+    Contents: "<Tag_0>ミーのペットの ブロドッグちゃんが\n<Tag_1>迷子に なっちゃったのですよ～<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7e 30 44 30 54 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_04:
+    Contents: "<Tag_0><Tag_1>へ～イ！<Tag_2>\nブロドッグちゃ～～ん！<Tag_3><Tag_4>カム ヒアァ～～！<Tag_5>\nアイ ミス ユ～～～！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_05:
+    Contents: "<Tag_0><Tag_1>ブロドッグちゃん\nみ～～っけた！！<Tag_2><Tag_3>さあ こっちへおいで～<Tag_4>\nいつものように\nハグハグ しましょう～<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_06:
+    Contents: "<Tag_0>オウ マイ ドッグ！<Tag_1>\nワッツ ハップ～～～ン！？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_07:
+    Contents: <Tag_0><Tag_1><Tag_2>ガハハハハ！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 24 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_Mushiba_12_Mushiba_brilock_2_08:
+    Contents: "<Tag_0>なんだ このへんなやつは？\nこいつが オマエのペットか？<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_09:
+    Contents: "<Tag_0><Tag_1>今日は ゴキゲンが\nストレートじゃないようです…<Tag_2> "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 87 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_06_2:
+    Contents: <Tag_0>ガウガウ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_10:
+    Contents: "<Tag_0>しかたが ありません！\nマナーを <Tag_1>叩き<Tag_2>込んで\nシルブプレ～～！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_11:
+    Contents: "<Tag_0>ふん！<Tag_1> こんなやつ\nパンチ １<Tag_2>発でノックアウトだ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 71 30 64 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_12:
+    Contents: "<Tag_0><Tag_1>オウ！<Tag_2> その<Tag_3>考えかたは\nベリー デンジャラス！<Tag_4><Tag_5><Tag_6>怒りまくっている\nブロドッグちゃんは ムテキです！<Tag_7><Tag_8><Tag_9>パンチだけ<Tag_10><Tag_11>では とても\n<Tag_12>歯が <Tag_13>立ちませんよ！<Tag_14><Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 93 30 4c 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 4b 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6f 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_04_2:
+    Contents: <Tag_0>ガルルルルル…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_12_Mushiba_brilock_2_13:
+    Contents: "<Tag_0>ん～～！<Tag_1> <Tag_2>後ろ<Tag_3>姿も\nソー キュート！<Tag_4><Tag_5>やっぱり <Tag_6>恋しいですよ～<Tag_7>\n<Tag_8>待って～<Tag_9> ブロドッグちゃ～ん！！<Tag_10><Tag_11><Tag_12>アイ ミス ユ～～～～！！<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 59 30 4c 30 5f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

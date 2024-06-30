@@ -1,0 +1,1250 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Chika_09_before_Chika_drill_macine_08:
+    Contents: "<Tag_0>ご<Tag_1>命令の ひみつトンネル<Tag_2>作りは\n<Tag_3>順調に<Tag_4>進んでいるで あります！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 81 30 44 30 8c 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 65 30 4f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 58 30 85 30 93 30 61 30 87 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_09:
+    Contents: "<Tag_0>ひみつトンネル<Tag_1>作り？<Tag_2>\nなんだ それは！？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 65 30 4f 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_20:
+    Contents: "<Tag_0>ええい！<Tag_1> <Tag_2>頼りにならんやつらだ！\nワガハイが なんとかするわ！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 88 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_21:
+    Contents: "<Tag_0>クッパ<Tag_1>様～～\nだいじょうぶですか～？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_22:
+    Contents: <Tag_0>ぬおおおおおおお！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_Chika_09_before_Chika_drill_macine_25:
+    Contents: <Tag_0><Tag_1>あ。<Tag_2><Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_26:
+    Contents: <Tag_0>どうした？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_27:
+    Contents: "<Tag_0>ドリルマシンの<Tag_1>電池…\n<Tag_2>１<Tag_3><Tag_4><Tag_5>分<Tag_6><Tag_7>３０<Tag_8><Tag_9><Tag_10>秒しかもたないぞ…<Tag_11><Tag_12>とちゅうで<Tag_13>切れたら もどってきて\n<Tag_14>取りかえないと…<Tag_15><Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 67 30 93 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 77 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_28:
+    Contents: "<Tag_0>しかも あの<Tag_1>電池 １つ\n<Tag_2>５０<Tag_3><Tag_4>コインも するんだよな…<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 67 30 93 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_29:
+    Contents: "<Tag_0><Tag_1>クッパ<Tag_2>様なら こころよく\nはらって くれるだろ…<Tag_3><Tag_4>いや<Tag_5> クッパ<Tag_6>様なら\n<Tag_7>１<Tag_8><Tag_9><Tag_10>分<Tag_11><Tag_12>３０<Tag_13><Tag_14><Tag_15>秒以内に キノコタウンまで\nいっきに <Tag_16>行ってくれるだろ！<Tag_17><Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 77 30 93 30
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 73 30 87 30 46 30 44 30 6a 30 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_40:
+    Contents: "<Tag_0><Tag_1>今 クッパ<Tag_2>様が\n<Tag_3>苦労して ほっていった<Tag_4>道が\nくずれてうまって しまいました！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4f 30 8d 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 61 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_41:
+    Contents: "<Tag_0><Tag_1>ぐううううううう！！<Tag_2><Tag_3><Tag_4>１<Tag_5><Tag_6><Tag_7>分<Tag_8><Tag_9>３０<Tag_10><Tag_11><Tag_12>秒以内に キノコタウンまで\nたどりつけば いいんだろ！！<Tag_13><Tag_14><Tag_15>やってやるわ！！<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 77 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 73 30 87 30 46 30 44 30 6a 30 44 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_42:
+    Contents: "<Tag_0>ぐむむむ！ ワガハイも\n<Tag_1>持ち<Tag_2>合わせが ないぞ！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_43:
+    Contents: "<Tag_0>じゃあ ここは<Tag_1>私が\nたてかえておきます…<Tag_2><Tag_3><Tag_4>あとで はらってくださいね…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_work_omit_06:
+    Contents: "<Tag_0><Tag_1>ミニゲーム失敗\n<Tag_2>ミニゲーム成功<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_10:
+    Contents: "<Tag_0>クッパ<Tag_1>様が ピーチ<Tag_2>姫を\n<Tag_3>連れさったとき <Tag_4>逃げやすいように\n<Tag_5>地下トンネルを<Tag_6>作れと…<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 64 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_11:
+    Contents: "<Tag_0><Tag_1>ひみつトンネル<Tag_2>作り…\n<Tag_3>名づけて プロジェクトK！<Tag_4><Tag_5>その プロジェクトに\n<Tag_6>我々 チョロプー<Tag_7>兄弟が\n<Tag_8>任命されたであります！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 65 30 4f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8f 30 8c 30 8f 30 8c 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 87 30 46 30 60 30 44 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6b 30 93 30 81 30 44 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_12:
+    Contents: "<Tag_0>そういえば そんなことを\n<Tag_1>言ったような <Tag_2>気もするな。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_13:
+    Contents: "<Tag_0>しかし オマエ<Tag_1>達\nさっきから <Tag_2>見てたが\nぜんぜん <Tag_3>進んでないじゃないか！<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8>気合いが <Tag_9>足らんぞ！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 4d 30 42 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_14:
+    Contents: "<Tag_0><Tag_1>ももも… <Tag_2>申しわけありません！<Tag_3><Tag_4>ここを <Tag_5>進んでいけば\n<Tag_6>キノコタウン<Tag_7><Tag_8>の<Tag_9>地下に\nつながるはずなんですが…<Tag_10><Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4b 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_15:
+    Contents: "<Tag_0><Tag_1>土が かたすぎて\n<Tag_2>行きづまっているであります！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_16:
+    Contents: "<Tag_0>この<Tag_1>先は <Tag_2>キノコタウン<Tag_3><Tag_4>に\nつながっているのか！？<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_17:
+    Contents: "<Tag_0>はい！<Tag_1> <Tag_2>一直線に\n<Tag_3>進むだけであります！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 44 30 63 30 61 30 87 30 4f 30 5b 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_18:
+    Contents: "<Tag_0>そうか！<Tag_1> それなら\nさっさと ほりまくるのだ！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_19:
+    Contents: "<Tag_0>ですから\n<Tag_1>土が かたくて…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 61 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_31:
+    Contents: "<Tag_0><Tag_1>１<Tag_2><Tag_3><Tag_4>分<Tag_5><Tag_6>３０<Tag_7><Tag_8><Tag_9>秒しかもたない <Tag_10>電池なんて\n<Tag_11>聞いたことないぞ！！<Tag_12><Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 77 30 93 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 67 30 93 30 61 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_32:
+    Contents: "<Tag_0>なにぶん ドリルマシンの\nパワーが <Tag_1>強力なもんで…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 4d 30 87 30 46 30 8a 30 87 30 4f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_33:
+    Contents: <Tag_0>はやく とりかえろ！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_34:
+    Contents: "<Tag_0><Tag_1>え～っと クッパ<Tag_2>様…<Tag_3><Tag_4>ドリルマシンの<Tag_5>電池\n１つ <Tag_6>５０<Tag_7><Tag_8>コインします…<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 67 30 93 30 61 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_35:
+    Contents: "<Tag_0>ええい！ はらってやるから\nさっさと <Tag_1>続けるぞ！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_36:
+    Contents: <Tag_0>どうした！？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_37:
+    Contents: <Tag_0>オマエ！<Tag_1> <Tag_2>様子を<Tag_3>見てこい！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 59 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_38:
+    Contents: "<Tag_0>まさか <Tag_1>今 クッパ<Tag_2>様が\n<Tag_3>苦労して ほっていった<Tag_4>道が\nくずれてうまって しまった… とか。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4f 30 8d 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 61 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_39:
+    Contents: <Tag_0><Tag_1>大変です！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 78 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_Chika_09_before_Chika_drill_macine_01:
+    Contents: "<Tag_0>お～い！<Tag_1> さっきから\nぜんぜん <Tag_2>進んでね～ぞ～！<Tag_3><Tag_4>ドリルのパワーを もっと\n<Tag_5>上げるんだ～～！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_Chika_09_before_Chika_drill_macine_02:
+    Contents: "<Tag_0>も<Tag_1> もうこれが\n<Tag_2>限界ですぜ～！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 4b 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_03:
+    Contents: "<Tag_0>あきらめるな～！\n<Tag_1>最後まで <Tag_2>希望を<Tag_3>捨てるな～！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 44 30 54 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 7c 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_Chika_09_before_Chika_drill_macine_04:
+    Contents: "<Tag_0>オレ<Tag_1>達は クッパ<Tag_2>様に<Tag_3>選ばれた\nエリート<Tag_4>中の エリートなんだぞ～！<Tag_5><Tag_6>こんなことくらいで\nあきらめるな～！！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 61 30 85 30 46 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_Chika_09_before_Chika_drill_macine_05:
+    Contents: <Tag_0>おい！<Tag_1> なにやってるんだ！？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_06:
+    Contents: <Tag_0>ク<Tag_1> クッパ<Tag_2>様！？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Chika_09_before_Chika_drill_macine_07:
+    Contents: "<Tag_0>オ<Tag_1> オマエ<Tag_2>達！<Tag_3>\nいったん <Tag_4>作業中止～！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 55 30 4e 30 87 30 46 30 61 30 85 30 46 30 57 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

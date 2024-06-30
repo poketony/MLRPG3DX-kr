@@ -1,0 +1,347 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  Kjrpg_03_Gepu_op01_07_2:
+    Contents: "<Tag_0>７<Tag_1>人衆も\nこの<Tag_2>２人だけじゃ…<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 6b 30 93 30 57 30 85 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_10:
+    Contents: "<Tag_0>わたしは しばらく\nぼっちゃんを<Tag_1>見ていよう。<Tag_2><Tag_3>クッパ<Tag_4>様…<Tag_5>\nどうか ご<Tag_6>無事で…<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 76 30 58 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_12:
+    Contents: "<Tag_0><Tag_1>なかなか おもしろいぞ！<Tag_2><Tag_3>おい！<Tag_4> これで\nワガハイを クッパ<Tag_5>城まで…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_06_01:
+    Contents: "<Tag_0>そうか。<Tag_1>\nわかった。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_06_02:
+    Contents: "<Tag_0>た～<Tag_1>まの<Tag_2>根っこ♪<Tag_3>\nた～<Tag_4>まの<Tag_5>根っこ♪<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6d 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6d 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_01_01:
+    Contents: <Tag_0>はあ…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_01_02:
+    Contents: "<Tag_0>「ゲプーキュウコン」って<Tag_1>名前で\nどこにあるか わからないかねぇ…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 7e 30 48 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_02:
+    Contents: <Tag_0>なんか<Tag_1> <Tag_2>言ったか～？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_03:
+    Contents: "<Tag_0>いえいえ！<Tag_1><Tag_2>さて…<Tag_3>\nキュウコンですよね…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_04:
+    Contents: "<Tag_0>なあ モートン。<Tag_1>\nキュウコンってなんだ？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_05:
+    Contents: "<Tag_0>キュウコン…<Tag_1>\n<Tag_2>球の<Tag_3>根っこ。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6d 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_07:
+    Contents: "<Tag_0><Tag_1>はあ… <Tag_2><Tag_3><Tag_4>クッパ<Tag_5>様も\nクッパ<Tag_6>城も<Tag_7>心配だけど…<Tag_8><Tag_9>やっぱり ぼっちゃんが\n<Tag_10>一番心配だね…<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 71 30 44 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 44 30 61 30 70 30 93 30 57 30 93 30 71 30 44 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_08:
+    Contents: <Tag_0>ワシャシャ…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Gepu_op01_09:
+    Contents: <Tag_0>アハハ～☆<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

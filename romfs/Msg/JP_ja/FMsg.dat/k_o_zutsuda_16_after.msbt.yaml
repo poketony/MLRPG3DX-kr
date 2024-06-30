@@ -1,0 +1,191 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  Kjrpg_09_Zutsuda_qst07_04:
+    Contents: "<Tag_0>クッパ<Tag_1>様！<Tag_2>\n<Tag_3>大丈夫ですか！？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 18 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 60 30 44 30 58 30 87 30 46 30 76 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_09_Zutsuda_qst07_05:
+    Contents: <Tag_0>クッパ<Tag_1>様～！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_09_Zutsuda_qst07_06:
+    Contents: "<Tag_0>ラリー！<Tag_1>\nレミー！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0c 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_09_Zutsuda_qst07_07:
+    Contents: "<Tag_0>は！<Tag_1>\nぼっちゃん！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0e 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_09_Zutsuda_qst07_08:
+    Contents: "<Tag_0>ぼっちゃん！<Tag_1>\n<Tag_2>大変なんです！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 10 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 78 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_09_Zutsuda_qst07_09:
+    Contents: "<Tag_0>クッパ<Tag_1>様が このデッカいのに\n<Tag_2>潰されちゃったんです！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 76 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_09_Zutsuda_qst07_10:
+    Contents: <Tag_0>ええええ！？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_09_Zutsuda_qst07_11:
+    Contents: <Tag_0>うわわわわわ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  Kjrpg_09_Zutsuda_qst07_12:
+    Contents: <Tag_0>ぼっちゃん！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  Kjrpg_09_Zutsuda_qst07_13:
+    Contents: "<Tag_0>ここは<Tag_1>危険です。<Tag_2>\n<Tag_3>離れましょう！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 51 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9

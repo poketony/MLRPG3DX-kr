@@ -1,0 +1,1018 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SPeach_1F_09_SP1F_09_koopa_01:
+    Contents: <Tag_0><Tag_1><Tag_2>おい！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_SPeach_1F_09_SP1F_09_koopa_02:
+    Contents: <Tag_0><Tag_1><Tag_2>ふん！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_koopa_03:
+    Contents: "<Tag_0><Tag_1>あんなもので\nくたばってたまるか！<Tag_2><Tag_3><Tag_4>ワガハイを だれだと<Tag_5>思ってるんだ。\n<Tag_6>大魔王 クッパ<Tag_7>様だぞ！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 60 30 44 30 7e 30 4a 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_koopa_04:
+    Contents: "<Tag_0><Tag_1>ふん！ オマエごときが\n<Tag_2>世界を <Tag_3>支配しようなどと\n１００<Tag_4>年 はやいわ！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5b 30 4b 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 6f 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_koopa_05:
+    Contents: <Tag_0><Tag_1><Tag_2>マリオと いっしょにするな！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_koopa_06:
+    Contents: "<Tag_0><Tag_1>ふん！ あんなやつ\nワガハイの<Tag_2>敵ではないわ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_koopa_07:
+    Contents: "<Tag_0><Tag_1>そのようだが…<Tag_2>\nそれが どうした？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_ystar_02_2:
+    Contents: "<Tag_0><Tag_1><Tag_2>でも…<Tag_3> そういえば…<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8>ゲラコビッツは <Tag_9>暗黒パワーを\n<Tag_10>吸い<Tag_11>取って いたわよね…？<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 53 30 4f 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_koopa_08:
+    Contents: "<Tag_0><Tag_1>ふむ。それは<Tag_2>確かに\nやっかいかもしれんな。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 57 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_koopa_09:
+    Contents: "<Tag_0><Tag_1>まあ ワガハイの<Tag_2>敵では\nないことに <Tag_3>変わりはないがな！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_geraco_01:
+    Contents: <Tag_0><Tag_1><Tag_2>ふるる～♪<Tag_3><Tag_4><Tag_5><Tag_6>どこるる～♪<Tag_7>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_geraco_02:
+    Contents: <Tag_0><Tag_1><Tag_2>ダークスターは どこるる～♪<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_geraco_03:
+    Contents: <Tag_0><Tag_1>ワレの <Tag_2>暗黒パワーは～♪<Tag_3><Tag_4><Tag_5>ど～<Tag_6>こ～<Tag_7>る～<Tag_8>る～♪<Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 53 30 4f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_geraco_04:
+    Contents: "<Tag_0><Tag_1>ふる！！\nまだ くたばってなかったるるか！<Tag_2><Tag_3><Tag_4>とことん しぶとい やつるるね！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_geraco_05:
+    Contents: "<Tag_0><Tag_1>ワレは <Tag_2>世界の<Tag_3>支配者\nゲラコビッツ<Tag_4>様るる！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5b 30 4b 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 57 30 6f 30 44 30 57 30 83 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_SPeach_1F_09_SP1F_09_geraco_06:
+    Contents: <Tag_0><Tag_1><Tag_2>ふるる…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_geraco_07:
+    Contents: "<Tag_0><Tag_1>オマエは <Tag_2>暗黒パワーを\n<Tag_3>吸い<Tag_4>取った ワレを\nみくびっているるるね。<Tag_5><Tag_6><Tag_7>まだ<Tag_8>半分しか\n<Tag_9>吸い<Tag_10>取ってないるるが\nオマエを<Tag_11>倒すには <Tag_12>十分るる！<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 53 30 4f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 76 30 93 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 85 30 46 30 76 30 93 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_geraco_08:
+    Contents: "<Tag_0><Tag_1>オマエには さんざん\nジャマを されてきたるる…<Tag_2><Tag_3><Tag_4><Tag_5>赤と<Tag_6>緑のヒゲにも\nジャマを されてきたるる…<Tag_7><Tag_8><Tag_9>もう <Tag_10>顔も<Tag_11>見たくないるる…<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 4a 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_geraco_09:
+    Contents: <Tag_0><Tag_1><Tag_2>でも…<Tag_3> ここで…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_koopa_10:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ガハハハハ！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_SPeach_1F_09_SP1F_09_koopa_07_2:
+    Contents: <Tag_0><Tag_1><Tag_2>悪い<Tag_3>予感？<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 4b 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_ystar_01:
+    Contents: "<Tag_0><Tag_1>ゲラコビッツを\nやっつけたのね。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_ystar_02:
+    Contents: "<Tag_0><Tag_1>まあ これで ゲラコビッツも\nおとなしく なるかしらね…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_ystar_03:
+    Contents: "<Tag_0><Tag_1>だとしたら…<Tag_2>\n<Tag_3>悪い<Tag_4>予感が するわ…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 4b 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_ystar_04:
+    Contents: "<Tag_0><Tag_1><Tag_2>今 <Tag_3>暗黒パワーはゲラコビッツと\nダーククッパが それぞれ\n<Tag_4>吸収して いるのよね？<Tag_5><Tag_6><Tag_7>それで…<Tag_8> もしも…<Tag_9>\nもしもよ…<Tag_10><Tag_11><Tag_12>ダーククッパが ゲラコビッツを\n<Tag_13>吸収したら…<Tag_14><Tag_15><Tag_16><Tag_17>暗黒パワーが\n<Tag_18>完全なものに なってしまうわ！<Tag_19><Tag_20><Tag_21>ただでさえ あなたの<Tag_22>能力を\nコピーしてるのに そこに\n<Tag_23>完全な <Tag_24>暗黒パワーがそろったら…<Tag_25>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 53 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 4d 30 85 30 46 30 57 30 85 30 46 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 4d 30 85 30 46 30 57 30 85 30 46 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 53 30 4f 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5c 30 93 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 6e 30 46 30 8a 30 87 30 4f 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5c 30 93 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 53 30 4f 30
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_koopa_05_1:
+    Contents: <Tag_0><Tag_1><Tag_2>あわれな やつめ…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_ystar_05:
+    Contents: "<Tag_0> \n <Tag_1><Tag_2><Tag_3>だと いいんだけどね…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_geraco_10:
+    Contents: "<Tag_0><Tag_1>オマエの\n<Tag_2>顔を<Tag_3>見るのも <Tag_4>最後るる！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 4a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 44 30 54 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_SPeach_1F_09_SP1F_09_geraco_11:
+    Contents: "<Tag_0><Tag_1>クッパ！\nワレのチカラを…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_1F_09_SP1F_09_geraco_12:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>おもいしるが いいるる！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_SPeach_1F_09_SP1F_09_geraco_13:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ふぎゃやややややや！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_SPeach_1F_09_SP1F_09_geraco_14:
+    Contents: <Tag_0><Tag_1><Tag_2>フリュ？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 5
+  MES_SPeach_1F_09_SP1F_09_geraco_13_1:
+    Contents: <Tag_0><Tag_1><Tag_2>フリュルルルルル？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 5

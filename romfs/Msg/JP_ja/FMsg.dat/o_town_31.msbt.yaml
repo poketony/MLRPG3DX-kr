@@ -1,0 +1,3804 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_TKinoko_31_Kinoko_street_05:
+    Contents: <Tag_0>あそこにある <Tag_1>高級そうなお<Tag_2>店…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 53 30 46 30 4d 30 85 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_06:
+    Contents: "<Tag_0>この３つのお<Tag_1>店で\n<Tag_2>そうび<Tag_3>品<Tag_4><Tag_5>が <Tag_6>買えますよ。<Tag_7><Tag_8>どんなものが <Tag_9>買えるかは\n<Tag_10>行ってからの お<Tag_11>楽しみです！<Tag_12><Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_07:
+    Contents: "<Tag_0>では <Tag_1>他の<Tag_2>場所も\n<Tag_3>説明しますね。<Tag_4>\n<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>いいえ<Tag_10><Tag_11>はい<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_08:
+    Contents: "<Tag_0>あそこにあるのが\nティーカウンターです。<Tag_1><Tag_2><Tag_3>今 <Tag_4>人気なのが\nロイヤルキノコティー！<Tag_5><Tag_6>１<Tag_7>度 ためしてみては\nどうですか？<Tag_8><Tag_9>ちなみに <Tag_10>横のどかんからは\nタウンの<Tag_11>地下に <Tag_12>行けますよ。<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6b 30 93 30 4d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 53 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4b 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_meta_cure_31_2:
+    Contents: "<Tag_0>スレンダーボディに もとどおり！\nうれしいな～！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_20:
+    Contents: "<Tag_0>あ！<Tag_1> マリオさん！\nロイヤルキノコティーは\nもう<Tag_2>飲みましたか？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_10:
+    Contents: <Tag_0><Tag_1>コイン<Tag_2>２００<Tag_3>まい<Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_21:
+    Contents: "<Tag_0>あ！<Tag_1> マリオさん！\nバッジ<Tag_2>屋さんには <Tag_3>行きましたか？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 84 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_11:
+    Contents: <Tag_0><Tag_1>スーパーナッツ<Tag_2>５<Tag_3><Tag_4>個<Tag_5>を<Tag_6>手に<Tag_7>入れた！！<Tag_8><Tag_9><Tag_10>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_22:
+    Contents: "<Tag_0>あ！<Tag_1> マリオさん！\nアイテム<Tag_2>屋さんには <Tag_3>行きましたか？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 84 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_12:
+    Contents: <Tag_0><Tag_1>コイン<Tag_2>３００<Tag_3>まい<Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_23:
+    Contents: "<Tag_0>あ！<Tag_1> マリオさん！\nブティック キノダには\n<Tag_2>行きましたか？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_13:
+    Contents: <Tag_0><Tag_1>１UPキノコ<Tag_2>５<Tag_3><Tag_4>個<Tag_5>を<Tag_6>手に<Tag_7>入れた！！<Tag_8><Tag_9><Tag_10>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_24:
+    Contents: "<Tag_0>マリオさん！<Tag_1> そうび<Tag_2>品は\nちゃんと つけていますか？<Tag_3><Tag_4>そうび<Tag_5>品を <Tag_6>上手に\n<Tag_7>組み<Tag_8>合わせて つければ…<Tag_9><Tag_10>バトルを<Tag_11>有利に\n<Tag_12>進められますよ！<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 87 30 46 30 5a 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 86 30 46 30 8a 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_14:
+    Contents: <Tag_0><Tag_1>コイン<Tag_2>５００<Tag_3>まい<Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_sp_15:
+    Contents: <Tag_0><Tag_1><Tag_2>シールドバッジ<Tag_3><Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_26:
+    Contents: "<Tag_0>うーん ロイヤルキノコティーの\nシロップたっぷりな <Tag_1>甘みと\nキノコの<Tag_2>風味が <Tag_3>合わさって…<Tag_4><Tag_5>こころが いやされますよ～\n<Tag_6>って <Tag_7>体もいやしてほしい～！<Tag_8>\nボクの スレンダーボディ<Tag_9>返せ～！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 46 30 7f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 48 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_16:
+    Contents: "<Tag_0><Tag_1>キノコボール<Tag_2>は\nまだ かくされていますよ！<Tag_3><Tag_4><Tag_5>あと <Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>個ありますね！<Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_27:
+    Contents: "<Tag_0><Tag_1>マリオさん！\nちょっと <Tag_2>一息ついて\n<Tag_3>元気に なってくださいな！！<Tag_4><Tag_5><Tag_6><Tag_7>いらない\n<Tag_8><Tag_9>キノコティー<Tag_10><Tag_11>５<Tag_12>コイン\n<Tag_13><Tag_14>ミルクキノコティー<Tag_15><Tag_16>８<Tag_17>コイン\n<Tag_18><Tag_19>ロイヤルキノコティー <Tag_20>１０<Tag_21>コイン<Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 68 30 44 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 52 30 93 30 4d 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 6
+        Type: 0
+        Parameters: 55 00
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_15:
+        Group: 6
+        Type: 0
+        Parameters: 25 00
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_15_a:
+    Contents: <Tag_0><Tag_1>コイン<Tag_2>１０００<Tag_3>まい<Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_sp_17:
+    Contents: "<Tag_0>うわー！ さすがマリオさん！<Tag_1>\nこれが このイベントの<Tag_2>目玉！<Tag_3><Tag_4><Tag_5><Tag_6>おめでとうございます！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 81 30 60 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_15_b:
+    Contents: "<Tag_0><Tag_1>ハートマメ<Tag_2>５<Tag_3><Tag_4>個<Tag_5>を<Tag_6>手に<Tag_7>入れた！！\n<Tag_8>ディフェンスマメ<Tag_9>５<Tag_10><Tag_11>個を<Tag_12>手に<Tag_13>入れた！！<Tag_14><Tag_15><Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_sp_18:
+    Contents: "<Tag_0><Tag_1><Tag_2>イベントは<Tag_3>終了です！<Tag_4><Tag_5><Tag_6>マリオさんの おかげで\nとても もり<Tag_7>上がりました！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 57 30 85 30 46 30 8a 30 87 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_15_c:
+    Contents: "<Tag_0><Tag_1>スペシャルマメ<Tag_2>５<Tag_3><Tag_4>個<Tag_5>を<Tag_6>手に<Tag_7>入れた！！\n<Tag_8>ジェントルマメ<Tag_9>５<Tag_10><Tag_11>個を<Tag_12>手に<Tag_13>入れた！！<Tag_14><Tag_15><Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_sp_19:
+    Contents: "<Tag_0>あ！ <Tag_1>キノコボール<Tag_2>！<Tag_3>\n<Tag_4><Tag_5>個 <Tag_6>持ってるんですね！<Tag_7><Tag_8>では さっそく\n<Tag_9>開けて <Tag_10>中身を<Tag_11>見てみましょう！<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7f 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_15_d:
+    Contents: "<Tag_0><Tag_1>パワーマメ<Tag_2>５<Tag_3><Tag_4>個<Tag_5>を<Tag_6>手に<Tag_7>入れた！！\n<Tag_8>スピードマメ<Tag_9>５<Tag_10><Tag_11>個を<Tag_12>手に<Tag_13>入れた！！<Tag_14><Tag_15><Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_sp_15_e:
+    Contents: <Tag_0><Tag_1>コイン<Tag_2>２０００<Tag_3>まい<Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_sp_15_f:
+    Contents: <Tag_0><Tag_1><Tag_2>オタカラメガネ<Tag_3><Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_40:
+    Contents: "<Tag_0>うわ～！<Tag_1> <Tag_2>見つかっちゃった！\nさすが マリオさん！<Tag_3><Tag_4><Tag_5>次は <Tag_6>見つからないよ～\nよーい<Tag_7> はじめ～！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0b 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_26_2:
+    Contents: "<Tag_0><Tag_1>入り<Tag_2>口まで がんばって\nころがって きたけど…<Tag_3><Tag_4>もうダメだ！\nこれ<Tag_5>以上 <Tag_6>動けない～！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 50 30 61 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 58 30 87 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_26_3:
+    Contents: "<Tag_0>ジャマですか～？\nでも <Tag_1>動けないんです～<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_03_pl:
+    Contents: "<Tag_0>どうですか？ マリオさん。\n<Tag_1>キノコボール<Tag_2> <Tag_3>見つかりました？<Tag_4><Tag_5><Tag_6>見えないブロック…\n<Tag_7>地面の<Tag_8>中… かべの<Tag_9>裏…<Tag_10><Tag_11>あやしい<Tag_12>場所に <Tag_13>行けば\nきっと <Tag_14>気づくはずですよ。<Tag_15><Tag_16><Tag_17>地面の<Tag_18>中のは <Tag_19>もぐれる<Tag_20><Tag_21>ように\nならないと <Tag_22>取れませんけどね。<Tag_23><Tag_24><Tag_25>あ！ <Tag_26><Tag_27>キノコボール<Tag_28><Tag_29>は<Tag_30>全部で\n<Tag_31><Tag_32>１６<Tag_33><Tag_34><Tag_35>個 ありますよ！<Tag_36><Tag_37><Tag_38>あと <Tag_39><Tag_40><Tag_41><Tag_42><Tag_43><Tag_44>個ありますね！<Tag_45><Tag_46>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 89 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_33:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_36:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_38:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_39:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_40:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_41:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_42:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_43:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_44:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_45:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_46:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_16_pl:
+    Contents: "<Tag_0><Tag_1>キノコボール<Tag_2>は\nまだ かくされていますよ！<Tag_3><Tag_4><Tag_5>あと <Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>個ありますね！<Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_01:
+    Contents: "<Tag_0>マリオさん！ ルイージさん！<Tag_1>\nショッピングモール<Tag_2>完成記念の\n<Tag_3>面白いイベントを やってるんです！<Tag_4><Tag_5><Tag_6>どんな イベントか<Tag_7>聞きたいですか？<Tag_8>\n<Tag_9><Tag_10>またこんど<Tag_11><Tag_12><Tag_13>聞きたい<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0e 00 4b 30 93 30 5b 30 44 30 4d 30 6d 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 82 30 57 30 8d 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_12:
+    Contents: "<Tag_0>コキノ<Tag_1>先生は ふしぎなチカラを\n<Tag_2>持っているって ウワサですよ。<Tag_3><Tag_4>なんでも キノコ<Tag_5>王国のことで\nわからないことは ないんだとか…<Tag_6><Tag_7>なにか こまったことがあったら\nコキノ<Tag_8>先生に <Tag_9>聞くといいですよ。<Tag_10><Tag_11><Tag_12>説明は<Tag_13>以上です。いろいろと\n<Tag_14>歩き<Tag_15>回って <Tag_16>楽しんでくださいね。<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 5b 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 5b 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 58 30 87 30 46 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 8b 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_02:
+    Contents: "<Tag_0><Tag_1><Tag_2>キノコボールを<Tag_3>探せ！<Tag_4><Tag_5>って\nイベントなんですけどね…<Tag_6><Tag_7>ショッピングモールの<Tag_8>中に\nかくれている <Tag_9><Tag_10>キノコボール<Tag_11><Tag_12>を\nボクのところに <Tag_13>持ってきてください！<Tag_14><Tag_15><Tag_16>ボールの<Tag_17>中身を\nプレゼントしちゃいます！<Tag_18><Tag_19><Tag_20>なにが<Tag_21>入っているかは\n<Tag_22>開けてからの お<Tag_23>楽しみです！<Tag_24><Tag_25><Tag_26><Tag_27><Tag_28>キノコボール<Tag_29><Tag_30>は\n<Tag_31>必ず <Tag_32><Tag_33><Tag_34>見えない<Tag_35><Tag_36>ところにありますよ！<Tag_37><Tag_38><Tag_39><Tag_40>見えないブロック…\n<Tag_41>地面の<Tag_42>中… かべの<Tag_43>裏…<Tag_44><Tag_45>カンのいい マリオさんなら\nあやしい<Tag_46>場所に<Tag_47>行くと\n<Tag_48>気づいちゃうかも…<Tag_49><Tag_50><Tag_51><Tag_52>地面の<Tag_53>中のは <Tag_54><Tag_55>もぐれる<Tag_56><Tag_57>ように\nならないと <Tag_58>取れませんけどね。<Tag_59><Tag_60>とにかく いろんな<Tag_61>場所に\nたくさん かくれていますから\nどんどん <Tag_62>探してくださいね！<Tag_63><Tag_64><Tag_65>あ！ <Tag_66><Tag_67>キノコボール<Tag_68><Tag_69>は<Tag_70>全部で\n<Tag_71><Tag_72>１６<Tag_73><Tag_74><Tag_75>個 ありますよ！<Tag_76><Tag_77>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7f 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_26:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 6a 30 89 30
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_33:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_35:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_37:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_38:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_39:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_40:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_42:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_43:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 89 30
+      Tag_44:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_45:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_46:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_47:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_48:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_49:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_50:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_51:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_52:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_53:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_54:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_55:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_56:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_57:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_58:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_59:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_60:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_61:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_62:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_63:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_64:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_65:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_66:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_67:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_68:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_69:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_70:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_71:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_72:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_73:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_74:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_75:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_76:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_77:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_get_cap_01:
+    Contents: <Tag_0><Tag_1><Tag_2>キノコボール<Tag_3><Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_13:
+    Contents: "<Tag_0>ショッピングモールで <Tag_1>迷ったら\nボクのところに きてください。<Tag_2><Tag_3><Tag_4>いつでも <Tag_5>説明しますよ。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 88 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_03:
+    Contents: "<Tag_0>どうですか？ マリオさん。\n<Tag_1>キノコボール<Tag_2> <Tag_3>見つかりました？<Tag_4><Tag_5><Tag_6>見えないブロック…\n<Tag_7>地面の<Tag_8>中… かべの<Tag_9>裏…<Tag_10><Tag_11>あやしい<Tag_12>場所に <Tag_13>行けば\nきっと <Tag_14>気づくはずですよ。<Tag_15><Tag_16><Tag_17>地面の<Tag_18>中のは <Tag_19>もぐれる<Tag_20><Tag_21>ように\nならないと <Tag_22>取れませんけどね。<Tag_23><Tag_24><Tag_25>あ！ <Tag_26><Tag_27>キノコボール<Tag_28><Tag_29>は<Tag_30>全部で\n<Tag_31><Tag_32>１６<Tag_33><Tag_34><Tag_35>個 ありますよ！<Tag_36><Tag_37><Tag_38>あと <Tag_39><Tag_40><Tag_41><Tag_42><Tag_43><Tag_44>個ありますね！<Tag_45><Tag_46>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 89 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_33:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_36:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_38:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_39:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_40:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_41:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_42:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_43:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_44:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_45:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_46:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_14:
+    Contents: "<Tag_0>ショッピングモールの\n<Tag_1>説明をしましょうか？<Tag_2>\n<Tag_3><Tag_4>いいえ<Tag_5><Tag_6>はい<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_04:
+    Contents: "<Tag_0>あ！ <Tag_1>キノコボール<Tag_2>！<Tag_3>\n<Tag_4><Tag_5>個 <Tag_6>持ってるんですね！<Tag_7><Tag_8>では さっそく\n<Tag_9>開けて <Tag_10>中身を<Tag_11>見てみましょう！<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7f 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_15:
+    Contents: "<Tag_0><Tag_1><Tag_2>今日も <Tag_3>最高のお<Tag_4>買いものが\nできたざますわ～<Tag_5><Tag_6><Tag_7>おまけに マッサージまで\nしてもらっちゃって…<Tag_8><Tag_9>ワタクシのような\n<Tag_10>最高のランクのキノピオに\nピッタリざますわ～<Tag_11> "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 53 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 53 30 46 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_05:
+    Contents: <Tag_0>はい！<Tag_1> どうぞ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_16:
+    Contents: "<Tag_0>ここから<Tag_1>東に <Tag_2>行っても\nショッピングモールは <Tag_3>続きます。<Tag_4><Tag_5>キノコタウンから <Tag_6>出たいのなら\nさらに<Tag_7>東に <Tag_8>行けばいいのですが…<Tag_9><Tag_10><Tag_11>今は <Tag_12>工事中なんですよ…\n<Tag_13>工事中が <Tag_14>多いんだよなぁ…<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 4c 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 4c 30 57 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 53 30 46 30 58 30 61 30 85 30 46 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 53 30 46 30 58 30 61 30 85 30 46 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_06:
+    Contents: <Tag_0><Tag_1>コイン<Tag_2>５０<Tag_3>まい<Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_17:
+    Contents: "<Tag_0>ここから<Tag_1>東に <Tag_2>行っても\nショッピングモールは <Tag_3>続きます。<Tag_4><Tag_5>キノコタウンから <Tag_6>出たいのなら\nさらに<Tag_7>東に <Tag_8>行くといいですよ。<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 4c 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 4c 30 57 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_07:
+    Contents: <Tag_0><Tag_1>スーパーキノコ<Tag_2>５<Tag_3><Tag_4>個<Tag_5>を<Tag_6>手に<Tag_7>入れた！！<Tag_8><Tag_9><Tag_10>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_18:
+    Contents: "<Tag_0><Tag_1>世の<Tag_2>中 コインだけじゃ\n<Tag_3>生きていけないんだ！<Tag_4><Tag_5>コインなんかなくても\n<Tag_6>生きていけるんだ！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_08:
+    Contents: <Tag_0><Tag_1>コイン<Tag_2>１００<Tag_3>まい<Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_19:
+    Contents: "<Tag_0>あ！<Tag_1> マリオさん！\nコキノ<Tag_2>先生には もう<Tag_3>会いましたか？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 5b 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_09:
+    Contents: "<Tag_0><Tag_1>スーパーシロップ<Tag_2>５<Tag_3><Tag_4>個<Tag_5>を\n<Tag_6>手に<Tag_7>入れた！！<Tag_8><Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_sp_16_a:
+    Contents: "<Tag_0><Tag_1>次はきっと もっと\nいいものが <Tag_2>入ってますよ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_16_b:
+    Contents: "<Tag_0>まだ <Tag_1>目玉商品は\n<Tag_2>出ていませんよ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 81 30 60 30 7e 30 57 30 87 30 46 30 72 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_16_c:
+    Contents: "<Tag_0>どうですか？ マリオさんなら\nかんたんに <Tag_1>見つけられるかな？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_16_d:
+    Contents: "<Tag_0><Tag_1>見えないブロックは\nルイージさんでも <Tag_2>叩けますよ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_16_e:
+    Contents: "<Tag_0><Tag_1>右の<Tag_2>地区にも\nボールは かくれてますよ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 4e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_16_f:
+    Contents: "<Tag_0>お<Tag_1>店のまわりとか…\nあやしい… かもしれません！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_31:
+    Contents: "<Tag_0>コインの<Tag_1>使いかたは\n<Tag_2>大事ですよ！<Tag_3><Tag_4>そうび<Tag_5>品を<Tag_6>買ったら\nアイテムを<Tag_7>買えなくなった…<Tag_8><Tag_9>バッジを<Tag_10>買ったら\nアイテムを<Tag_11>買えなくなった…<Tag_12><Tag_13>なんて ならないように\nかしこい <Tag_14>買いものをしましょう！<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 58 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_16_g:
+    Contents: <Tag_0>がんばって <Tag_1>探してくださいね！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_16_h:
+    Contents: "<Tag_0>ジャンプしまくる…ってのも\nいいかもしれませんね！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_16_i:
+    Contents: "<Tag_0>なかなか <Tag_1>集まってますね！\nがんばってください！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_27_1:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>HP<Tag_4>全回復！！<Tag_5><Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 5c 30 93 30 4b 30 44 30 75 30 4f 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_27_2:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>BP<Tag_4>全回復！！<Tag_5><Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 5c 30 93 30 4b 30 44 30 75 30 4f 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_27_3:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>HPとBP<Tag_4>全回復！！<Tag_5><Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 5c 30 93 30 4b 30 44 30 75 30 4f 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_31_Kinoko_street_27_4:
+    Contents: "<Tag_0>マリオさん！<Tag_1>\nコインが たりません…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_27_5:
+    Contents: "<Tag_0>いらっしゃいませ！\nマリオさん！ ルイージさん！<Tag_1><Tag_2><Tag_3>ここは ティーカウンターです！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_27_6:
+    Contents: "<Tag_0><Tag_1><Tag_2>HP<Tag_3><Tag_4>が <Tag_5>減っているみたいですね！<Tag_6><Tag_7>そんなときは\n<Tag_8><Tag_9>キノコティー<Tag_10><Tag_11>が オススメですよ！<Tag_12><Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_27_7:
+    Contents: "<Tag_0><Tag_1><Tag_2>BP<Tag_3><Tag_4>が <Tag_5>減っているみたいですね！<Tag_6><Tag_7>そんなときは\n<Tag_8><Tag_9>ミルクキノコティー<Tag_10><Tag_11>が いいですよ！<Tag_12><Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_27_8:
+    Contents: "<Tag_0><Tag_1>HP<Tag_2><Tag_3>も <Tag_4><Tag_5>BP<Tag_6><Tag_7>も<Tag_8>減って\n<Tag_9>元気がない みたいですね！<Tag_10><Tag_11>そんなときは\n<Tag_12><Tag_13>ロイヤルキノコティー<Tag_14><Tag_15>で <Tag_16>決まり！！<Tag_17><Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 52 30 93 30 4d 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_27_9:
+    Contents: "<Tag_0><Tag_1>HP<Tag_2><Tag_3>も<Tag_4><Tag_5>BP<Tag_6><Tag_7>も マンタンで\nとても <Tag_8>元気みたいですね！<Tag_9><Tag_10>もし <Tag_11>元気がなくなったら\nぜひ <Tag_12>飲んでみてくださいね！！<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 52 30 93 30 4d 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 52 30 93 30 4d 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_sp_04_pl:
+    Contents: "<Tag_0>あ！ <Tag_1>キノコボール<Tag_2>！<Tag_3>\n<Tag_4><Tag_5>個 <Tag_6>持ってるんですね！<Tag_7><Tag_8>では さっそく\n<Tag_9>開けて <Tag_10>中身を<Tag_11>見てみましょう！<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7f 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_01:
+    Contents: "<Tag_0><Tag_1>あ！ マリオさん！<Tag_2>\nようこそ ショッピングモールへ！<Tag_3><Tag_4><Tag_5>できたばかりなのに\nたくさんの<Tag_6>人が きてますよ！<Tag_7><Tag_8>よかったら ショッピングモールの\n<Tag_9>説明をしましょうか？<Tag_10>\n<Tag_11><Tag_12>いいえ<Tag_13><Tag_14>はい<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_14:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_02:
+    Contents: "<Tag_0>ではまず <Tag_1>そうび<Tag_2>品<Tag_3><Tag_4>が\n<Tag_5>買えるお<Tag_6>店を <Tag_7>教えますね。<Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_03:
+    Contents: <Tag_0>あそこにある <Tag_1>小さなお<Tag_2>店…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_31_Kinoko_street_04:
+    Contents: <Tag_0>あそこにある ちょっと<Tag_1>大きなお<Tag_2>店…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

@@ -1,0 +1,211 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Ekubon_09_2_Ekubon_koopa_giant_18:
+    Contents: "<Tag_0>す<Tag_1> すごいぞ！<Tag_2>\nワガハイの<Tag_3>体に\nなにが<Tag_4>起きたんだ！？<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_09_2_Ekubon_koopa_giant_19:
+    Contents: "<Tag_0><Tag_1>危険な<Tag_2>状態になった あなたの\n<Tag_3>体の<Tag_4>中で いろいろとシゲキを\nあたえてみたんだけど…<Tag_5><Tag_6><Tag_7>それが<Tag_8>原因で ケタちがいに\n<Tag_9>体が <Tag_10>大きくなったみたい。<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 51 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 5f 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 44 30 93 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_09_2_Ekubon_koopa_giant_20:
+    Contents: "<Tag_0><Tag_1>本当か！？<Tag_2> それなら\nゲラコビッツの やつも\nイチコロで <Tag_3>倒せるではないか！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_09_2_Ekubon_koopa_giant_21:
+    Contents: "<Tag_0><Tag_1>残念だけど <Tag_2>本当に\n<Tag_3>危ない<Tag_4>状態 じゃないと\nムリみたい…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 56 30 93 30 6d 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 76 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 5f 30 44 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_09_2_Ekubon_koopa_giant_22:
+    Contents: "<Tag_0><Tag_1>そうか。<Tag_2>まあ よいわ！<Tag_3><Tag_4><Tag_5>大きくなくても ワガハイなら\nどんな<Tag_6>相手でも イチコロだ！！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_09_2_Ekubon_koopa_giant_23:
+    Contents: "<Tag_0>ワガハイの<Tag_1>城まで もうすぐだ！<Tag_2>\nいっきに <Tag_3>攻め<Tag_4>込むぞ！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

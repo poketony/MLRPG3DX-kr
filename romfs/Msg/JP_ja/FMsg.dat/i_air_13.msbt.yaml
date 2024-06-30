@@ -1,0 +1,910 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KAir_13_KAir_13_mes_1:
+    Contents: "<Tag_0><Tag_1>下に<Tag_2>見えるのは <Tag_3>我ら\nヘモグロびんの <Tag_4>突然変異…<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>リフトロびん<Tag_10><Tag_11>びん！<Tag_12><Tag_13><Tag_14>この<Tag_15><Tag_16>リフトロびん<Tag_17><Tag_18>は <Tag_19>我らのように\n<Tag_20>言葉を<Tag_21>使うことは できないびんが…<Tag_22><Tag_23>アイススモークで <Tag_24>冷えてかたまると\n<Tag_25>動かせる <Tag_26>特性があるびん！<Tag_27><Tag_28>まずは アイススモークで\n<Tag_29><Tag_30><Tag_31>冷やして<Tag_32>上に<Tag_33>乗ってみる<Tag_34><Tag_35>びん。<Tag_36><Tag_37>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0e 00 68 30 64 30 5c 30 93 30 78 30 93 30 44 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 68 30 70 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 5b 30 44 30
+      Tag_27:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_35:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_36:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_2:
+    Contents: "<Tag_0><Tag_1><Tag_2>そうびん！ そうびん！<Tag_3><Tag_4><Tag_5><Tag_6>冷えてかたまった リフトロびんに\n<Tag_7>乗ったら <Tag_8>タッチペン<Tag_9><Tag_10>で\nリフトロびんに <Tag_11>指示を<Tag_12>出すびん！<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 57 30 58 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_3:
+    Contents: "<Tag_0><Tag_1>例えば こんなふうに\nリフトロびんを なぞって\n<Tag_2>行きたい<Tag_3>方向を <Tag_4>知らせると…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 68 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 53 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_4:
+    Contents: <Tag_0>なぞった<Tag_1>方向へ <Tag_2>動き<Tag_3>出すびん！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 53 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_5:
+    Contents: "<Tag_0><Tag_1>動いている リフトロびんに\n<Tag_2>止まってほしいときは\n<Tag_3>軽くタッチしてあげるびん！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 8b 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_6:
+    Contents: "<Tag_0>ちなみに リフトロびんは\nある<Tag_1>程度の <Tag_2>重さを<Tag_3>感じないと\n<Tag_4>動いてくれないびん。<Tag_5><Tag_6><Tag_7><Tag_8>君達１人が <Tag_9>乗ったぐらいでは\nおそらく <Tag_10>重さを<Tag_11>感じないびん…<Tag_12><Tag_13><Tag_14>リフトロびんに <Tag_15>動いてほしいときは\n<Tag_16><Tag_17>必ず<Tag_18>２人で<Tag_19>乗る<Tag_20><Tag_21>びんよ！<Tag_22><Tag_23>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 66 30 44 30 69 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0e 00 4d 30 7f 30 5f 30 61 30 72 30 68 30 8a 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 93 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 6a 30 89 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_7:
+    Contents: "<Tag_0><Tag_1>それと… リフトロびんは\n<Tag_2>１人ぼっちが キライびん。<Tag_3><Tag_4>リフトロびんを おいて\n<Tag_5>遠くはなれると <Tag_6>最初に<Tag_7>自分がいた\n<Tag_8>場所に もどってしまうびん。<Tag_9><Tag_10>リフトロびんが どこに<Tag_11>行ったのか\nわからなくなったら ここに\nもどってくると いいびん！<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 72 30 68 30 8a 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4a 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 57 30 87 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_8:
+    Contents: "<Tag_0><Tag_1>リフトロびんを うまく\n<Tag_2>乗りこなしているびん？<Tag_3><Tag_4>リフトロびんの <Tag_5>乗りこなしかたを\nもう１<Tag_6>度 <Tag_7>聞いておくびん？<Tag_8>\n<Tag_9><Tag_10>いいえ<Tag_11><Tag_12>はい<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_9:
+    Contents: "<Tag_0><Tag_1>なにについて <Tag_2>聞くびん？<Tag_3>\n<Tag_4><Tag_5><Tag_6>動かしかたについて\n<Tag_7><Tag_8><Tag_9>止めかたについて\n<Tag_10><Tag_11>その<Tag_12>他について\n<Tag_13><Tag_14>やっぱり<Tag_15>聞かない<Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_10:
+    Contents: "<Tag_0>アイススモークで <Tag_1>冷やしてかため\n<Tag_2>タッチペン<Tag_3><Tag_4>で リフトロびんを<Tag_5><Tag_6>なぞる<Tag_7><Tag_8>と\nその<Tag_9>方向へ <Tag_10>動き<Tag_11>出すびん。<Tag_12><Tag_13>リフトロびんは <Tag_14>２人分の<Tag_15>重さを\n<Tag_16>感じないと <Tag_17>動かないから\n<Tag_18><Tag_19><Tag_20>必ず<Tag_21>２人で<Tag_22>乗る<Tag_23><Tag_24>びんよ。<Tag_25><Tag_26>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 53 30 46 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 75 30 5f 30 8a 30 76 30 93 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 93 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 6a 30 89 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_11:
+    Contents: "<Tag_0><Tag_1>動いている リフトロびんに\n<Tag_2>止まってほしいときは\n<Tag_3><Tag_4>軽くタッチ<Tag_5><Tag_6>してあげるびん！<Tag_7><Tag_8><Tag_9>動いているとちゅうで\nリフトロびんから おりたり\nジャンプしても <Tag_10>止まるびん。<Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 8b 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_12:
+    Contents: "<Tag_0><Tag_1>リフトロびんは<Tag_2> １人ぼっちが\nキライびん。<Tag_3><Tag_4>リフトロびんを おいて\n<Tag_5>遠くはなれると <Tag_6>最初にリフトロびんが\nいた<Tag_7>場所に もどってしまうびん。<Tag_8><Tag_9>リフトロびんが <Tag_10>画面から\n<Tag_11>見えなくならないよう\n<Tag_12>気をつけると いいびん。<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 06 00 72 30 68 30 8a 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4a 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 57 30 87 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4c 30 81 30 93 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KAir_13_KAir_13_mes_13:
+    Contents: "<Tag_0><Tag_1><Tag_2>他にも <Tag_3>聞くびんか？<Tag_4>\n<Tag_5><Tag_6><Tag_7>動かしかたについて\n<Tag_8><Tag_9><Tag_10>止めかたについて\n<Tag_11><Tag_12>その<Tag_13>他について\n<Tag_14><Tag_15>やっぱり<Tag_16>聞かない<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_14:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6

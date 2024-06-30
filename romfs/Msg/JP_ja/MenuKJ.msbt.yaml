@@ -1,0 +1,2988 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  Menu_KJ_record_title_00:
+    Contents: <Tag_0>クエストクリア回数
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_17_00:
+    Contents: "<Tag_0><Tag_1>前の<Tag_2>列にいると<Tag_3>苦手なとつげきタイプと\nすぐ<Tag_4>戦うことになっちゃう。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 64 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6b 30 4c 30 66 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 5f 30 5f 30 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_record_title_01:
+    Contents: <Tag_0>バトルで勝った回数
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_record_title_02:
+    Contents: <Tag_0>やっつけた敵の数
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  'Menu_KJ_com_sub_morton ':
+    Contents: <Tag_0>むてきの
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_record_title_03:
+    Contents: <Tag_0>Excellent回数
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_result_save:
+    Contents: "<Tag_0><Tag_1><Tag_2>セーブ<Tag_3>中です。\n<Tag_4>電源をOFFにしないでください。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 61 30 85 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 67 30 93 30 52 30 93 30
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_record_title_04:
+    Contents: <Tag_0>仲間にした数
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_h08:
+    Contents: "<Tag_0><Tag_1>ぐんだんメニューガイド<Tag_2>に\n<Tag_3>項目が<Tag_4>追加されました！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 82 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 64 30 44 30 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_manu_gide_20:
+    Contents: "<Tag_0><Tag_1><Tag_2>配置によっては<Tag_3>何か<Tag_4>発動する<Tag_5>とか\nルドウィッグが<Tag_6>言ってた<Tag_7>気もするけれど…<Tag_8><Tag_9><Tag_10>忘れちゃった。\nイロイロとやってみてよ。<Tag_11><Tag_12><Tag_13>配置が<Tag_14>決まったら また\n<Tag_15><Tag_16>ボタンで<Tag_17>戻ってね。じゃあね！<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 44 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 6b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 64 30 69 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 44 30 61 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 69 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_32_00:
+    Contents: <Tag_0><Tag_1><Tag_2>ボタンで はいちがえを<Tag_3>選んで。
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_21:
+    Contents: "<Tag_0>バトル<Tag_1>参加メンバーは<Tag_2><Tag_3><Tag_4>最大９<Tag_5>体<Tag_6><Tag_7>だよ<Tag_8><Tag_9>。\n…ありゃ <Tag_10>もうイッパイだね。<Tag_11><Tag_12>とつげきタイプと<Tag_13>入れかえよう。\nヘイホーを クリボーの<Tag_14>上に<Tag_15>移動するね。<Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 93 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 60 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 69 30 46 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  'Menu_KJ_com_sub_iggy ':
+    Contents: <Tag_0>トリッキー
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_record_title:
+    Contents: <Tag_0>レコード
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+    Attribute: 00000000
+    StyleID: 4
+  Menu_KJ_organize_leader_type_change:
+    Contents: <Tag_0><Tag_1>タイプがえ<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff fa f1 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 0
+  Menu_KJ_organize_divorce_exp:
+    Contents: <Tag_0><Tag_1>本当にわかれますか？
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_organize_return_exp:
+    Contents: "<Tag_0><Tag_1>変更を<Tag_2>反映せずに<Tag_3>戻ります。\nよろしいですか？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 78 30 93 30 53 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 48 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 69 30
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_result_get_challenge:
+    Contents: <Tag_0><Tag_1>チャレンジたっせい！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff fa f1 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_quest_config_title:
+    Contents: <Tag_0>１<Tag_1>度<Tag_2>見たイベントを<Tag_3>再生する
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 5b 30 44 30
+    Attribute: 00000000
+    StyleID: 4
+  Menu_KJ_result_challenge_ex:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>レコードの<Tag_4>チャレンジ<Tag_5>で\n<Tag_6>内容を<Tag_7>確認することができます。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff fa f1 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 44 30 88 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 4f 30 6b 30 93 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_manu_gide_40:
+    Contents: "<Tag_0>さあここからは ぼっちゃんが\nへんせいしてみてください！<Tag_1><Tag_2><Tag_3>次はとつげきタイプが<Tag_4>多いので\nひこうタイプを<Tag_5>入れるのがいいでしょう。<Tag_6><Tag_7>さっき<Tag_8>仲間になったテレサが\n３<Tag_9>体もいれば まあ<Tag_10>十分勝てる…<Tag_11><Tag_12>…っと もう<Tag_13>分かってますよね。\nそれでは よろしくお<Tag_14>願いします。<Tag_15><Tag_16><Tag_17>得意な<Tag_18>相手と<Tag_19>戦えるよう<Tag_20>味方を\n<Tag_21>配置をすることをお<Tag_22>忘れなく！<Tag_23>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7e 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 44 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 58 30 85 30 46 30 76 30 93 30 4b 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 8f 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 68 30 4f 30 44 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 5f 30 5f 30 4b 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7f 30 4b 30 5f 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 44 30 61 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_quest_config_title2:
+    Contents: <Tag_0>せいとんのルール
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+    Attribute: 00000000
+    StyleID: 4
+  Menu_KJ_manu_gide_41:
+    Contents: <Tag_0><Tag_1>アイテムを１つも<Tag_2>持っていません。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_item_get_la:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>は\n「<Tag_4>」を<Tag_5>覚えた！<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+      Tag_4:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 01 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 7c 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_quest_musshiba_clear:
+    Contents: "<Tag_0><Tag_1>クッパ<Tag_2>城<Tag_3>に <Tag_4>新たなクエストが<Tag_5>出現しました！\nメンバーを<Tag_6>揃えて<Tag_7>挑戦してみましょう！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 89 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 85 30 64 30 52 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 8d 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 61 30 87 30 46 30 5b 30 93 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_com_sub_kameck_bl:
+    Contents: <Tag_0>わるがしこい
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_com_sub_ludwig:
+    Contents: <Tag_0>知てきな
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_manu_gide_34_00:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>ボタン<Tag_5><Tag_6><Tag_7>で<Tag_8>戻<Tag_9>ってみて。
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 69 30
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_result_add_member:
+    Contents: "<Tag_0><Tag_1><Tag_2>仲間にできる<Tag_3>数が\n<Tag_4>から<Tag_5>になりました！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5a 30
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 00 00 00 00
+      Tag_5:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 00 00 01 00
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_com_party_num_01:
+    Contents: '<Tag_0>１. '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_result_up_lp:
+    Contents: <Tag_0><Tag_1><Tag_2>はLPが<Tag_3><Tag_4>増えた！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff fa f1 ff
+      Tag_2:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+      Tag_3:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 00 00 01 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 75 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_com_party_num_02:
+    Contents: '<Tag_0>２. '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_com_party_num_03:
+    Contents: '<Tag_0>３. '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_com_party_num_04:
+    Contents: '<Tag_0>４. '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_com_party_num_05:
+    Contents: '<Tag_0>５. '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_com_party_num_06:
+    Contents: '<Tag_0>６. '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_com_party_num_07:
+    Contents: '<Tag_0>７. '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_com_party_num_08:
+    Contents: '<Tag_0>８. '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_com_party_num_09:
+    Contents: '<Tag_0>９. '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_manu_gide_10:
+    Contents: "<Tag_0>ルドウィッグが\n「バトンタッチだ…」だってさ。<Tag_1><Tag_2>ぼっちゃん <Tag_3>聞いてるー？\n<Tag_4><Tag_5>参加メンバーの<Tag_6>変え<Tag_7>方<Tag_8> <Tag_9>教えるよ。<Tag_10><Tag_11><Tag_12>次のクエストに<Tag_13>出てくるのは…<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 93 30 4b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_11:
+    Contents: <Tag_0><Tag_1>飛んでいる<Tag_2>敵だね。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_result_get_item:
+    Contents: <Tag_0><Tag_1>アイテムかくとく！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff fa f1 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_manu_gide_12:
+    Contents: "<Tag_0>ここではバトルに<Tag_1>参加させるメンバーを\n<Tag_2>入れかえることができるんだ。<Tag_3><Tag_4><Tag_5>次のクエストには\nひこうタイプの<Tag_6>敵が<Tag_7>出てくる。<Tag_8><Tag_9>ひこうタイプに<Tag_10>強い\nえんきょりタイプを<Tag_11>入れよう。<Tag_12><Tag_13><Tag_14>明るくなっているヘイホーを\n<Tag_15><Tag_16>ボタンで<Tag_17>選んでくれる？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 93 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_com_enemy_detail:
+    Contents: <Tag_0><Tag_1>くわしく<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff fa f1 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 0
+  Menu_KJ_manu_gide_13:
+    Contents: "<Tag_0><Tag_1><Tag_2>ボタンで ヘイホーとクリボーを\n<Tag_3>入れかえてみて。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_quest_koopa_clear:
+    Contents: "<Tag_0><Tag_1>ムッシーバビーチ<Tag_2>に\n<Tag_3>新たなクエストが<Tag_4>出現しました！\nレベルを<Tag_5>上げて<Tag_6>挑戦してみましょう！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 89 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 85 30 64 30 52 30 93 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 61 30 87 30 46 30 5b 30 93 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_manu_gide_14:
+    Contents: "<Tag_0>えんきょりタイプが<Tag_1>増えたね。\nひこうタイプの<Tag_2>敵に さらに<Tag_3>有利になったよ。<Tag_4><Tag_5>へんせいに<Tag_6>入れた<Tag_7>仲間を\nリストに<Tag_8>戻したいという<Tag_9>時は…<Tag_10><Tag_11><Tag_12>下画面で<Tag_13>外す<Tag_14>仲間を<Tag_15>選んで \n<Tag_16><Tag_17>ボタンを<Tag_18>押せば <Tag_19>戻ってくるからね。<Tag_20><Tag_21>へんせいのやり<Tag_22>方は<Tag_23>分かった？\n<Tag_24>色々試してみてね！<Tag_25>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 75 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 86 30 46 30 8a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7e 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 69 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4d 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 57 30 5f 30 4c 30 81 30 93 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 5a 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7e 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 69 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 8f 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 44 30 8d 30 44 30 8d 30 5f 30 81 30
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_33_00:
+    Contents: "<Tag_0>ここに \nアタシを<Tag_1>入れて。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_it_open:
+    Contents: "<Tag_0><Tag_1>キャラクターの<Tag_2>強化<Tag_3>ができるようになりました！\nバトルで<Tag_4>マメ<Tag_5>など<Tag_6>アイテム<Tag_7>を<Tag_8>手に<Tag_9>入れたら\n<Tag_10>軍団キャラクターに<Tag_11>使ってみましょう。<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4d 30 87 30 46 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: f0 f0 f0 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_manu_gide_15:
+    Contents: <Tag_0>あー！ <Tag_1>忘れてた！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  Menu_KJ_manu_gide_16:
+    Contents: "<Tag_0>これは\nこれから<Tag_1>戦う<Tag_2>敵の<Tag_3>配置図だよ。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 5f 30 5f 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 08 00 6f 30 44 30 61 30 5a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_17:
+    Contents: <Tag_0>いま<Tag_1>入れたヘイホーなんだけど…<Tag_2><Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_typechg_01:
+    Contents: "<Tag_0><Tag_1>軍団へんせいで クッパJr. を\n<Tag_2>えんきょりタイプ<Tag_3>に<Tag_4>変えられるようになった！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 70 70 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_manu_gide_18:
+    Contents: "<Tag_0><Tag_1>前の<Tag_2>列にいるヘイホーを<Tag_3><Tag_4>ボタンで\nつかんで <Tag_5>後ろの<Tag_6>列に<Tag_7>移動しよう。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 64 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 57 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 64 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 69 30 46 30
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_typechg_02:
+    Contents: "<Tag_0><Tag_1>軍団へんせいで クッパJr. を\n<Tag_2>ひこうタイプ<Tag_3>に<Tag_4>変えられるようになった！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 70 70 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_manu_gide_19:
+    Contents: "<Tag_0>オッケー！ <Tag_1>\nこれでヘイホー<Tag_2>達は\nぞんぶんにチカラを<Tag_3>発揮できるぞ！<Tag_4><Tag_5>へんせいした<Tag_6>味方を どの<Tag_7>列に<Tag_8>置くか…<Tag_9>\nけっこう <Tag_10>大事だよ。<Tag_11><Tag_12><Tag_13>敵のじょうほうを<Tag_14>見て\n<Tag_15><Tag_16>味方が<Tag_17>相性のよい<Tag_18>敵に<Tag_19>当たる<Tag_20>ように\n<Tag_21>調整してね。<Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 63 30 4d 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7f 30 4b 30 5f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 64 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 58 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7f 30 4b 30 5f 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 42 30 44 30 57 30 87 30 46 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 61 30 87 30 46 30 5b 30 44 30
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_typechg_03:
+    Contents: "<Tag_0>クッパJr.を<Tag_1>選んで <Tag_2><Tag_3>ボタンを<Tag_4>押せば\nクッパJr.のタイプを<Tag_5>変えられます。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 70 70 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_com_party_name_a:
+    Contents: <Tag_0><Tag_1><Tag_2>とつげき隊
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+      Tag_2:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_organize_leader_rearrange:
+    Contents: <Tag_0><Tag_1>はいちがえ<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff fa f1 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 0
+  Menu_KJ_com_sub_larry:
+    Contents: <Tag_0>必中の
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_com_sub_roy:
+    Contents: <Tag_0>パワフル
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_manu_gide_31_00:
+    Contents: "<Tag_0>アタシを\nへんせいに<Tag_1>入れて。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_com_sub_wendy:
+    Contents: <Tag_0>オトメな
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_com_party_name_f:
+    Contents: <Tag_0><Tag_1><Tag_2>ひこう隊
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+      Tag_2:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_manu_gide_11_00:
+    Contents: "<Tag_0>STARTボタンか タッチで\n<Tag_1><Tag_2>軍団へんせい<Tag_3>を<Tag_4>選んで。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_quest_exit_warning:
+    Contents: "<Tag_0>クッパJr.RPGを<Tag_1>終了します。\nよろしいですか？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 57 30 85 30 46 30 8a 30 87 30 46 30
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_manu_gide_30:
+    Contents: "<Tag_0>ルドウィッグ… <Tag_1>様子が<Tag_2>変だったわ…\nなにか<Tag_3>胸騒ぎがする…<Tag_4><Tag_5>ぼっちゃん。\n<Tag_6>少し<Tag_7>気を<Tag_8>引き<Tag_9>締めていきましょう。<Tag_10><Tag_11><Tag_12><Tag_13>サブリーダー<Tag_14><Tag_15>について<Tag_16>教えるわ。<Tag_17><Tag_18><Tag_19>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 59 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 78 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 80 30 6a 30 55 30 8f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_quest_Farewell:
+    Contents: "<Tag_0><Tag_1>メニュー<Tag_2>の<Tag_3>中にある<Tag_4>「キャラクターおわかれ」\n<Tag_5>から<Tag_6>仲間にしたキャラクターと\n<Tag_7>お<Tag_8>別れが<Tag_9>できるようになりました。<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7e 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: f0 f0 f0 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_manu_gide_31:
+    Contents: <Tag_0><Tag_1>軍団へんせいを<Tag_2>選んで。
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_record_form_num:
+    Contents: <Tag_0><Tag_1>（<Tag_2><Tag_3>体）<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 00 00 00 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 13
+  Menu_KJ_manu_gide_32:
+    Contents: "<Tag_0>アタシ<Tag_1>達 ７<Tag_2>人衆が\nぼっちゃんのサポートに<Tag_3>回ります。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 6b 30 93 30 57 30 85 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_33:
+    Contents: <Tag_0>ここが“<Tag_1>サブリーダー<Tag_2>”のマスよ。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_record_invalid:
+    Contents: <Tag_0>？？？？
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  Menu_KJ_com_party_name_l:
+    Contents: <Tag_0><Tag_1><Tag_2>えんきょり隊
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+      Tag_2:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_manu_gide_34:
+    Contents: "<Tag_0>ここはアタシ<Tag_1>達７<Tag_2>人衆クラスしか\n<Tag_3>入れられない<Tag_4>特別なマスなの。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 6b 30 93 30 57 30 85 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 79 30 64 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_com_party_name_m:
+    Contents: <Tag_0><Tag_1><Tag_2>こんせい隊
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+      Tag_2:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_manu_gide_35:
+    Contents: "<Tag_0>これが <Tag_1>サブリーダースキル<Tag_2>。\nサブリーダーを<Tag_3>誰にするかによって\nスキルの<Tag_4>内容が<Tag_5>変わるわ。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 60 30 8c 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 44 30 88 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_36:
+    Contents: "<Tag_0><Tag_1>敵のリーダーのタイプに<Tag_2>合わせて\n<Tag_3>他のメンバーも<Tag_4>試すといいわね。<Tag_5><Tag_6>あ… <Tag_7>そうそう！<Tag_8><Tag_9>ついでに <Tag_10>便利な\nコマンドを<Tag_11>教えておくわね！<Tag_12><Tag_13><Tag_14><Tag_15>ボタンを<Tag_16>同時押しすると\n<Tag_17>へんせいをリセット<Tag_18>できるの。<Tag_19><Tag_20>イチからへんせいをやり<Tag_21>直したい\n<Tag_22>時なんかに<Tag_23>使うといいわ。<Tag_24><Tag_25>さ！ <Tag_26>先を<Tag_27>急ぎましょ！<Tag_28>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 81 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 79 30 93 30 8a 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 08 00 69 30 46 30 58 30 4a 30
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4a 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4d 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5d 30
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_result_get_army:
+    Contents: <Tag_0><Tag_1>なかまがふえた！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff fa f1 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_organize_wnd_warning_00:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>軍団の<Tag_4>数がいっぱいです。\n<Tag_5>誰かとおわかれしなければなりません。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5a 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 60 30 8c 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_organize_wnd_warning_01:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4><Tag_5>は<Tag_6><Tag_7><Tag_8><Tag_9>体までしか\n<Tag_10>仲間にできません。\nおわかれしなければなりません。<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_7:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 00 00 01 00
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 44 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7e 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_result_add_party_firsttime:
+    Contents: "<Tag_0><Tag_1> <Tag_2>ボタンで<Tag_3>上画面のパーティを\n<Tag_4>切り<Tag_5>替えることができます。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 46 30 48 30 4c 30 81 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_result_get_la:
+    Contents: <Tag_0><Tag_1><Tag_2>は「<Tag_3>」を覚えた！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff fa f1 ff
+      Tag_2:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+      Tag_3:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 01 00
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_manu_gide_15_00:
+    Contents: <Tag_0><Tag_1>メンバーの<Tag_2>配置<Tag_3>も<Tag_4>変えられるよ！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 44 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_organize_warning_01:
+    Contents: "<Tag_0>メンバーが９<Tag_1>体そろっていませんが\nよろしいですか？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 44 30
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_item_up_lp:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>は\nLPが<Tag_4><Tag_5>増えた！<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 00 00 01 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 75 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_manu_gide_15_01:
+    Contents: <Tag_0><Tag_1><Tag_2>ボタンを<Tag_3>押してみて！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_organize_warning_02:
+    Contents: "<Tag_0><Tag_1><Tag_2>クッパJr.<Tag_3>以外の<Tag_4>参加メンバーを\nすべてはずしますか？\n<Tag_5><Tag_6>いいえ<Tag_7><Tag_8>はい"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 4c 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 93 30 4b 30
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 0
+        Parameters: 20 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_com_sub_lemmy:
+    Contents: <Tag_0>スピーディな
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  Menu_KJ_organize_wnd_divorce_bonus_00:
+    Contents: "<Tag_0><Tag_1>は\n<Tag_2><Tag_3><Tag_4>を\n<Tag_5>置いて<Tag_6>去っていきました。<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 00 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 3
+        Type: 1
+        Parameters: 00 00 00 00 01 00
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 55 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_record_medal_00:
+    Contents: <Tag_0>ゴールド
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_com_enemy_detail_close:
+    Contents: <Tag_0><Tag_1>とじる<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff fa f1 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 0
+  Menu_KJ_record_medal_01:
+    Contents: <Tag_0>シルバー
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_manu_gide_00:
+    Contents: "<Tag_0>ぼっちゃん。<Tag_1>軍団を<Tag_2>率いるためです。\n<Tag_3>今から<Tag_4>話すことを しっかり<Tag_5>聞いてください。<Tag_6><Tag_7><Tag_8>上画面ではバトルに<Tag_9>参加する\nメンバーの<Tag_10>強さを<Tag_11>見ることができます。<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 46 30 48 30 4c 30 81 30 93 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 93 30 4b 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_record_medal_02:
+    Contents: <Tag_0>ブロンズ
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_manu_gide_01:
+    Contents: "<Tag_0>これが<Tag_1><Tag_2>軍団のレベル<Tag_3>です。<Tag_4><Tag_5>メンバーが<Tag_6>強くなると\nこのレベルも<Tag_7>上がります。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_result_add_party:
+    Contents: "<Tag_0><Tag_1><Tag_2>保存できるパーティの<Tag_3>数が\n<Tag_4>から<Tag_5>になりました！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7b 30 5e 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5a 30
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 00 00 00 00
+      Tag_5:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 00 00 01 00
+    Attribute: 00000000
+    StyleID: 12
+  Menu_KJ_manu_gide_02:
+    Contents: "<Tag_0><Tag_1>下画面で<Tag_2>次に<Tag_3>進むクエストを<Tag_4>選びます。\nこのときに…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 57 30 5f 30 4c 30 81 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_03:
+    Contents: "<Tag_0>これが<Tag_1>登場する<Tag_2><Tag_3>敵のレベル<Tag_4>…\n<Tag_5>敵の<Tag_6>強さの<Tag_7>目安になりますね。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 68 30 46 30 58 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 81 30 84 30 59 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_04:
+    Contents: "<Tag_0><Tag_1>少し<Tag_2>位 <Tag_3>負けていても\nへんせいに<Tag_4>自信があるなら\n<Tag_5>思いきって<Tag_6>進むのもいいでしょう。<Tag_7><Tag_8>それでも<Tag_9>勝てない<Tag_10>時は\n<Tag_11>前のクエストで なかま<Tag_12>集めや\nレベルを<Tag_13>上げてみるのもいいですね。<Tag_14><Tag_15><Tag_16>他にも<Tag_17>相手の<Tag_18>情報がほしい<Tag_19>場合は…<Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4f 30 89 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 57 30 93 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4d 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 42 30 44 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_05:
+    Contents: "<Tag_0><Tag_1>敵をタッチすると\n<Tag_2><Tag_3>敵のプロフィール<Tag_4>が<Tag_5>見られます。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_06:
+    Contents: "<Tag_0><Tag_1><Tag_2>ボタンで <Tag_3><Tag_4>敵のじょうほう<Tag_5>を\n<Tag_6>確認するのもいいでしょう。<Tag_7><Tag_8><Tag_9>敵の<Tag_10>配置やバトルの<Tag_11>回数など…\n<Tag_12>色々なことが<Tag_13>分かります。<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 4f 30 6b 30 93 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 44 30 61 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 59 30 46 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 8d 30 44 30 8d 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 8f 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Menu_KJ_manu_gide_07:
+    Contents: "<Tag_0>ぼっちゃん…\n<Tag_1>聞いてます…<Tag_2>よね？<Tag_3><Tag_4><Tag_5>…<Tag_6>それでは。<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 2
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 2
+        Parameters: 64 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

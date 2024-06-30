@@ -1,0 +1,201 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_TKinoko_08_Kinoko_town_chka_ml_01_2:
+    Contents: "<Tag_0><Tag_1>ダークスター<Tag_2><Tag_3>でしょ！？<Tag_4>\nねえ！<Tag_5> ゲラコビッツこなかった？<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_08_Kinoko_town_chka_ml_01_3:
+    Contents: <Tag_0>ゲラコビッツ？<Tag_1> だれですか？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_08_Kinoko_town_chka_ml_01_4:
+    Contents: "<Tag_0>おかしいわね… この<Tag_1>地下にいる\nへんなやつらは なんなの？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4b 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_08_Kinoko_town_chka_ml_01_5:
+    Contents: "<Tag_0>へんなやつら？<Tag_1>\nへんなやつらって…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_08_Kinoko_town_chka_ml_01_6:
+    Contents: <Tag_0>こんなやつらでしたか！？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_TKinoko_08_Kinoko_town_chka_ml_01_7:
+    Contents: <Tag_0>ふるるるるる！！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_TKinoko_08_Kinoko_town_chka_ml_01:
+    Contents: "<Tag_0>マリオさん！<Tag_1> この<Tag_2>先は\nいくら マリオさんでも<Tag_3>通せませんよ！<Tag_4><Tag_5><Tag_6>大事な <Tag_7>大事なものが\n<Tag_8>保管されているんですから！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 58 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 58 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7b 30 4b 30 93 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SAVE_BLOCK_recovery:
+    Contents: "<Tag_0><Tag_1><Tag_2>HPとBPの<Tag_3>回復も\n<Tag_4>忘れないようにしましょう。<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 75 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12

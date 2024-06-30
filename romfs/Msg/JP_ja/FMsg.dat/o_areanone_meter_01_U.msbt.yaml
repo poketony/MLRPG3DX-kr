@@ -1,0 +1,108 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EMesMic_ML_start_a:
+    Contents: <Tag_0>はい <Tag_1>軽く<Tag_2>息を<Tag_3>吸って～<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 8b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesMic_ML_start_b:
+    Contents: <Tag_0><Tag_1>準備は いいですか～？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 85 30 93 30 73 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesMic_Luigi_run:
+    Contents: <Tag_0>ドーンと はいて～！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesMic_ML_run:
+    Contents: <Tag_0>はい <Tag_1>息をはいて～
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 4d 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesMic_Luigi_start:
+    Contents: <Tag_0>もう１<Tag_1>度 いきますよ～<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesMic_Luigi_end:
+    Contents: <Tag_0>むむむ… ぜんぜんダメですね。
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesMic_Mario_end:
+    Contents: <Tag_0>はい。OK～
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6

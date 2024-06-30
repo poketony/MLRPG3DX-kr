@@ -1,0 +1,482 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SKoopa_14_Skoopa_killer_come_04:
+    Contents: "<Tag_0>はい！<Tag_1> ドカーン！<Tag_2>\nガツーン！<Tag_3> とぶつかって\n<Tag_4>城が こわされるかも しれません！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_Skoopa_killer_come_05:
+    Contents: "<Tag_0>ソレナラ…<Tag_1>\nアノ サクセンデ イク ノダ！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_Skoopa_killer_come_06:
+    Contents: <Tag_0>ブハハハハハ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_SKoopa_14_Skoopa_killer_come_07:
+    Contents: "<Tag_0>コノママ モリへ\nムカウ ノダ！！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_SK14_EO31_EV_01:
+    Contents: "<Tag_0><Tag_1>ノコノコト アラワレタナ\nイイ ドキョウ ダ クッパ！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_SK14_EO31_EV_02:
+    Contents: <Tag_0><Tag_1><Tag_2>ノコノコ…？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 5
+  MES_SKoopa_14_SK14_EO31_EV_03:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>呼びましたか？<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_SK14_EO31_EV_04:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ヨンデナイッ！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_SKoopa_14_SK14_EO31_EV_05:
+    Contents: "<Tag_0><Tag_1>クッパ！ コンドコソ\nケチョンケチョン ノ ケロンケロン ノ\nカロンカロン ニ シテヤル！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_SK14_EO31_EV_06:
+    Contents: <Tag_0><Tag_1><Tag_2>カロン…？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 5
+  MES_SKoopa_14_SK14_EO31_EV_07:
+    Contents: "<Tag_0><Tag_1>あの～<Tag_2>\nもしかして <Tag_3>呼んで…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_SK14_EO31_EV_08:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ナイッ！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_SKoopa_14_SK14_EO31_EV_09:
+    Contents: <Tag_0><Tag_1>ですよね～<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_SK14_EO27_EV_01:
+    Contents: "<Tag_0><Tag_1>メタボス<Tag_2>様！\nクッパがやってきました！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_SK14_EO27_EV_02:
+    Contents: <Tag_0><Tag_1><Tag_2>ブフゥゥゥ！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_SKoopa_14_SK14_EO27_EV_03:
+    Contents: "<Tag_0><Tag_1>サッキノ\nカリヲ カエス！<Tag_2><Tag_3><Tag_4>サクセン ソノ２！\nハイチニ ツクノダ！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_SK14_EO27_EV_04:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ラジャー！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_SKoopa_14_Skoopa_killer_come_04_2:
+    Contents: "<Tag_0><Tag_1>城の<Tag_2>中にいる ゲラコビッツ<Tag_3>様が\nおケガでも されたら<Tag_4>大変です！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 78 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_Skoopa_killer_come_01:
+    Contents: "<Tag_0><Tag_1>大変です メタボス<Tag_2>様！<Tag_3>\nこの<Tag_4>城に <Tag_5>向かって\nマグナムキラーが <Tag_6>接近中です！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 78 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 80 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 5b 30 63 30 4d 30 93 30 61 30 85 30 46 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_Skoopa_killer_come_02:
+    Contents: "<Tag_0><Tag_1>方向からして エクボンの<Tag_2>森から\n<Tag_3>発射されたと <Tag_4>思われます！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 53 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 63 30 57 30 83 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_14_Skoopa_killer_come_03:
+    Contents: "<Tag_0>ナニ？<Tag_1> コノ シロニ\nブツカル ノカ？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

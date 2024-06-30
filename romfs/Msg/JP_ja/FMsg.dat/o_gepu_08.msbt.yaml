@@ -1,0 +1,1000 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Gepu_08_K_warp_tut_01:
+    Contents: <Tag_0><Tag_1>そこの でっかいの～<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_02:
+    Contents: <Tag_0><Tag_1> あんたや あんた。<Tag_2><Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_03:
+    Contents: <Tag_0>なんだ？ どこにいる？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_08_K_warp_tut_04:
+    Contents: "<Tag_0>あ。<Tag_1><Tag_2>探してもムダやで。\nワシ そこにおらんねん<Tag_3> と。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_05:
+    Contents: "<Tag_0>まあ なんちゅーか…<Tag_1>\n<Tag_2>天の<Tag_3>声… といったらええか。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 48 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_06:
+    Contents: <Tag_0>うるさい！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_08_K_warp_tut_07:
+    Contents: "<Tag_0>あ～ あかんで～\nそないな <Tag_1>態度とったら～<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5f 30 44 30 69 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_08:
+    Contents: <Tag_0>ぬが～！<Tag_1> やかましい！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_08_K_warp_tut_09:
+    Contents: <Tag_0><Tag_1> まあ <Tag_2>悪いようにはせんて。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_28_2:
+    Contents: "<Tag_0>この<Tag_1>先も <Tag_2>チャクラ<Tag_3><Tag_4>を\n<Tag_5>見つけたら さわってみ～や。<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_28_3:
+    Contents: "<Tag_0>ただし <Tag_1>チャクラ<Tag_2><Tag_3>は\n<Tag_4>歩いているだけじゃ <Tag_5>見つからん。<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 8b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_28_4:
+    Contents: "<Tag_0><Tag_1>気となり <Tag_2>波動となり エネルギーと\nなって かくれとるんや。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 69 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_28_5:
+    Contents: <Tag_0><Tag_1> いろいろと こわしてみるんやな。<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_26_2:
+    Contents: "<Tag_0><Tag_1>飛んでいけるのは <Tag_2>見つけた\n<Tag_3>チャクラ<Tag_4><Tag_5>のところだけや。<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_26_3:
+    Contents: "<Tag_0>まだ <Tag_1>見つけてない<Tag_2>チャクラ<Tag_3><Tag_4>の\nところへは <Tag_5>飛んでいけへんで。<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_26_4:
+    Contents: <Tag_0><Tag_1> なにごとも <Tag_2>意識のつながりや…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 57 30 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_24:
+    Contents: "<Tag_0>かっかっか。<Tag_1>おもろいな～\nびっくりしたやろ～<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_26_5:
+    Contents: "<Tag_0><Tag_1>チャクラ<Tag_2><Tag_3>を<Tag_4>見つけて そこの<Tag_5>大地と\n<Tag_6>宇宙の <Tag_7>意識がつながれば…<Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 61 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 46 30 61 30 85 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 57 30 4d 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_25:
+    Contents: "<Tag_0><Tag_1>なかなか おもしろいぞ！<Tag_2><Tag_3>おい！<Tag_4> これで\nワガハイを クッパ<Tag_5>城まで<Tag_6>飛ばせ！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_08_K_warp_tut_26_6:
+    Contents: <Tag_0><Tag_1> <Tag_2>飛んでいけるんや。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_26:
+    Contents: <Tag_0><Tag_1> <Tag_2>残念やけどそれは できん。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 56 30 93 30 6d 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_27:
+    Contents: <Tag_0>むずかしくて よくわからん！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_08_K_warp_tut_28:
+    Contents: <Tag_0><Tag_1> まあ シロートやからな。<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_29:
+    Contents: <Tag_0>どうでもいいが オマエは<Tag_1>何者だ！？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 6b 30 82 30 6e 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_08_K_warp_tut_09_2:
+    Contents: "<Tag_0>ワシの<Tag_1>意識に ひっかかったんや。\nこんなこと めずらしいんやで。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 57 30 4d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_09_3:
+    Contents: <Tag_0><Tag_1> せっかくやから ええこと<Tag_2>教えたる。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_07_2:
+    Contents: "<Tag_0>あんたが どこにいても\nず～っと しゃべり<Tag_1>倒すで～<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_05_2:
+    Contents: <Tag_0><Tag_1>つまり あんたの<Tag_2>意識…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 57 30 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_05_3:
+    Contents: "<Tag_0>わかりやすく<Tag_1>言うと あんたの\nこころに <Tag_2>語りかけとんねん。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_05_4:
+    Contents: "<Tag_0>ほいでな あんた ワシの\n<Tag_1>意識に ひっかかったんや。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 57 30 4d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_05_5:
+    Contents: <Tag_0><Tag_1> ちょっと つきあってくれんか？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_12_1:
+    Contents: "<Tag_0>なんのことだか さっぱりわからんぞ！\n<Tag_1>難しいことばかり <Tag_2>言うな！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 80 30 5a 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_08_K_warp_tut_12_2:
+    Contents: "<Tag_0><Tag_1>宇宙と<Tag_2>大地から <Tag_3>流れてくる\n<Tag_4>特別な<Tag_5>波動の <Tag_6>出入り<Tag_7>口やで。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 46 30 61 30 85 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 79 30 64 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 69 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 67 30 44 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 50 30 61 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_10:
+    Contents: <Tag_0>なんだ！ はやく<Tag_1>言え！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_08_K_warp_tut_11:
+    Contents: "<Tag_0>そこの<Tag_1>岩 こわしてみ～\nあんたなら できるやろ～<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_12:
+    Contents: "<Tag_0>おお あったあった。<Tag_1>\nそれは <Tag_2>チャクラ<Tag_3><Tag_4>というんや。<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_13:
+    Contents: "<Tag_0>まぁ ええわ。<Tag_1>ほんなら\nその<Tag_2>チャクラ<Tag_3><Tag_4>に さわってみ～<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_14:
+    Contents: "<Tag_0>じっと しといてな～\n<Tag_1>動いたら あかんねん<Tag_2> と。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_K_warp_decicde:
+    Contents: "<Tag_0><Tag_1> なんや～ <Tag_2>飛びたいんか～？<Tag_3>\n<Tag_4><Tag_5><Tag_6>飛ばない<Tag_7><Tag_8><Tag_9>飛ぶ<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_5:
+        Group: 4
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_7:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_8:
+        Group: 4
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_30:
+    Contents: <Tag_0> さぁ だれやろうね…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_31:
+    Contents: <Tag_0> ほな またな～<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_08_K_warp_tut_32:
+    Contents: <Tag_0>おいっ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_08_K_warp_tut_30_2:
+    Contents: "<Tag_0>まぁ この<Tag_1>国のどこかに\nいることだけは <Tag_2>確かやで！<Tag_3> と。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 6b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 57 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4

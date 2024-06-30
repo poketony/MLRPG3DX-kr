@@ -1,0 +1,250 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SPeach_3F_15_SP3F_15_koopa_01_2:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ぬうううう！！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_SPeach_3F_15_SP3F_15_koopa_01:
+    Contents: "<Tag_0><Tag_1>ぐおお！！<Tag_2>\n<Tag_3>熱い！！ <Tag_4>熱いぞ！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_3F_15_SP3F_15_koopa_02:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ガハハハハ！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_SPeach_3F_15_SP3F_15_koopa_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>燃えている ワガハイも\nなかなか イケテルな！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_3F_15_SP3F_15_gera_01:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ふるるるる！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_SPeach_3F_15_SP3F_15_gera_02:
+    Contents: "<Tag_0><Tag_1>どうるる？\nワレの <Tag_2>育てた\n<Tag_3>巨大ファイアパックンは？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4d 30 87 30 60 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_3F_15_SP3F_15_gera_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>近寄るものは なんでも\n<Tag_3>燃やして <Tag_4>黒こげに\nするるるよ！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 61 30 4b 30 88 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 8d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_3F_15_SP3F_15_gera_04:
+    Contents: "<Tag_0><Tag_1>くやしかったら <Tag_2>空を<Tag_3>飛んで\n<Tag_4>巨大ファイアパックンに <Tag_5>体当たりでも\nしてみるるるね。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 89 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4d 30 87 30 60 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5f 30 44 30 42 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SPeach_3F_15_SP3F_15_gera_05:
+    Contents: "<Tag_0><Tag_1>ふるるる！！\n<Tag_2>空を<Tag_3>飛べない クッパには\nムリな<Tag_4>話るるか！？<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 89 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

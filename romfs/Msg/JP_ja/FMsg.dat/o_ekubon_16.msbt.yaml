@@ -1,0 +1,211 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Ekubon_16_Ekubon_opening_01:
+    Contents: <Tag_0>えいっ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_16_Ekubon_opening_02:
+    Contents: <Tag_0>それ～っ！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_16_Ekubon_opening_03:
+    Contents: <Tag_0>これで もうだいじょうぶです。<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_16_Ekubon_opening_04:
+    Contents: "<Tag_0>まったく あたまにくるやつらだ！\nこのままでは <Tag_1>終わらせないぞ！<Tag_2><Tag_3><Tag_4>今すぐ ピーチ<Tag_5>城にもどって\n<Tag_6>次こそ ピーチ<Tag_7>姫をさらってやる！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_16_Ekubon_opening_05:
+    Contents: "<Tag_0>しかし… マリオがいては\nまた <Tag_1>同じ<Tag_2>目に…<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 6a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_16_Ekubon_opening_06:
+    Contents: <Tag_0>その<Tag_1>名前を <Tag_2>言うな～！！！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 7e 30 48 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_16_Ekubon_opening_07:
+    Contents: "<Tag_0><Tag_1>思い<Tag_2>出しただけでも\nハラが<Tag_3>立つわ！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_16_Ekubon_opening_08:
+    Contents: <Tag_0>ひ～<Tag_1> こわいこわい…<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_16_Ekubon_opening_09:
+    Contents: "<Tag_0>ふん！<Tag_1> さっそく\nピーチ<Tag_2>城へ<Tag_3>行くぞ！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_16_Ekubon_opening_10:
+    Contents: <Tag_0>それにしても ここはどこだ？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

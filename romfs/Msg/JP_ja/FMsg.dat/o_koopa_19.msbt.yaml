@@ -1,0 +1,469 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SKoopa_19_Koopa_statue_10:
+    Contents: <Tag_0>ど<Tag_1> どうするんだよ！<Tag_2><Tag_3><Tag_4>相手 <Tag_5>強そうだぞ！！<Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_11:
+    Contents: "<Tag_0><Tag_1>城内にいる<Tag_2>連中を\n<Tag_3>集めてこい！！<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8>急げ！！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 6a 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8c 30 93 30 61 30 85 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5d 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_12:
+    Contents: <Tag_0>い<Tag_1> いくぞーー！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_13:
+    Contents: <Tag_0>そりゃーーー！！！！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_SKoopa_19_Koopa_statue_15:
+    Contents: <Tag_0>ふんばれ～～！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_18:
+    Contents: <Tag_0>このまま <Tag_1>落としちゃえ～！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_19:
+    Contents: <Tag_0><Tag_1>落とされてたまるか～！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_work_omit_06:
+    Contents: "<Tag_0><Tag_1>ミニゲーム失敗\n<Tag_2>ミニゲーム成功<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_03:
+    Contents: "<Tag_0>シュミのわるい<Tag_1>像を\n<Tag_2>作りおって！！<Tag_3><Tag_4><Tag_5>ぶちこわしてやる！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5e 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_04:
+    Contents: <Tag_0>ん…？<Tag_1> <Tag_2>待てよ…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_05:
+    Contents: <Tag_0><Tag_1>確か あの<Tag_2>下あたりに…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_06:
+    Contents: <Tag_0>あれは！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_07:
+    Contents: "<Tag_0><Tag_1>大変だ！<Tag_2>\nゲラコビッツ<Tag_3>様の<Tag_4>像が！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 78 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5e 30 46 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_08:
+    Contents: <Tag_0>ぬおおおおおおお！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_SKoopa_19_Koopa_statue_09:
+    Contents: "<Tag_0>メタボス<Tag_1>様も\nゲラコビッツ<Tag_2>様もいない！<Tag_3><Tag_4>ここは オレ<Tag_5>達だけで\n<Tag_6>食い<Tag_7>止めるんだ！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_20:
+    Contents: "<Tag_0>このまま いっきに\n<Tag_1>押し<Tag_2>出してやるわーー！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_SKoopa_19_Koopa_statue_21:
+    Contents: <Tag_0>のわーーーー！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_SKoopa_19_Koopa_statue_22:
+    Contents: <Tag_0>オマエら…<Tag_1> <Tag_2>目を<Tag_3>覚ませ～！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 55 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_SKoopa_19_Koopa_statue_23:
+    Contents: <Tag_0><Tag_1>負けるな～！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_19_Koopa_statue_25:
+    Contents: "<Tag_0><Tag_1>おい！<Tag_2> また<Tag_3>来たぞ！<Tag_4><Tag_5>こりないやつだ！<Tag_6>\nいくぞ～！！！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

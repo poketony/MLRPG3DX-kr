@@ -1,0 +1,72 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  ' Kjrpg_11_Koopa_qst08_17_01':
+    Contents: <Tag_0>クッパ<Tag_1>軍団だ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  ' Kjrpg_11_Koopa_qst08_17_02':
+    Contents: <Tag_0>ボクはクッパJr.！<Tag_1><Tag_2>クッパ<Tag_3>軍団は…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  ' Kjrpg_11_Koopa_qst08_17_03':
+    Contents: <Tag_0>ボクとお<Tag_1>父さんの<Tag_2>軍団だ！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10

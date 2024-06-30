@@ -1,0 +1,290 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_TKinoko_25_before_Opening_Tkinoko_10:
+    Contents: <Tag_0>どうしたの！？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_25_before_Opening_Tkinoko_11:
+    Contents: "<Tag_0>お<Tag_1>父さんが！！<Tag_2>\nお<Tag_3>父さんがっ！！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_25_before_Opening_Tkinoko_12:
+    Contents: <Tag_0><Tag_1>イヤーー！！ あなたーー！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  MES_TKinoko_25_before_Opening_Tkinoko_01:
+    Contents: <Tag_0>お<Tag_1>母さん ただいま～！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 42 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_25_before_Opening_Tkinoko_02:
+    Contents: "<Tag_0>おかえりなさい。\n<Tag_1>今日は はやかったのねぇ？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 87 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_25_before_Opening_Tkinoko_03:
+    Contents: "<Tag_0>だって キノノ<Tag_1>先生のお<Tag_2>話\nすーっごく <Tag_3>長いんだもん。<Tag_4><Tag_5>ボク こっそり\n<Tag_6>抜け<Tag_7>出して きちゃった！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 5b 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6c 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_25_before_Opening_Tkinoko_04:
+    Contents: "<Tag_0><Tag_1>まぁ！ いけない<Tag_2>子ね！<Tag_3><Tag_4>そんなことじゃ りっぱな\nキノピオに なれませんよ。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_25_before_Opening_Tkinoko_05:
+    Contents: <Tag_0>は～い わかりました～<Tag_1><Tag_2>ねぇねぇ ごはんまだぁ？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_25_before_Opening_Tkinoko_06:
+    Contents: "<Tag_0><Tag_1>はいはい <Tag_2>今できますよ。<Tag_3><Tag_4>その<Tag_5>前に お<Tag_6>父さんを\n<Tag_7>呼んできてちょうだいな。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_25_before_Opening_Tkinoko_07:
+    Contents: <Tag_0>わかった～！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_25_before_Opening_Tkinoko_08:
+    Contents: "<Tag_0>お<Tag_1>父さ～ん！！<Tag_2>\nごはんだよ～！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_25_before_Opening_Tkinoko_09:
+    Contents: <Tag_0>キャーーーーーー！！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_TKinoko_25_before_Opening_Tkinoko_08_2:
+    Contents: <Tag_0>お<Tag_1>父さ～ん？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

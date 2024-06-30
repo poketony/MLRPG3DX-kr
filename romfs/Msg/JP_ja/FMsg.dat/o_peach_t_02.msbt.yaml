@@ -1,0 +1,104 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_TPeach_02_TP_dkoopa_01:
+    Contents: "<Tag_0><Tag_1>オマエの<Tag_2>能力は すべてコピーした。\nオマエに もう <Tag_3>用はない。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 6e 30 46 30 8a 30 87 30 4f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TPeach_02_TP_koopa_01:
+    Contents: "<Tag_0><Tag_1>おい！ <Tag_2>逃げるな！<Tag_3><Tag_4><Tag_5>ピーチ<Tag_6>姫と\nその <Tag_7>暗黒パワーとやらを よこせ！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 53 30 4f 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TPeach_02_TP_koopa_02:
+    Contents: "<Tag_0><Tag_1>どこまで <Tag_2>逃げる<Tag_3>気だ！！\nかかってこい！ おくびょう<Tag_4>者め！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 6e 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

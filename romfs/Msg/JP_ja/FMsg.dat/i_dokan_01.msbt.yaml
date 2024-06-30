@@ -1,0 +1,1405 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KHatena_e_01_hemoguro_up_01:
+    Contents: "<Tag_0><Tag_1><Tag_2>私は <Tag_3>親切な ヘモグロびん。\nどかんの つながっている<Tag_4>先を\n<Tag_5>教えるびん。<Tag_6><Tag_7><Tag_8>どう？ <Tag_9>教えてほしいびん？<Tag_10>\n<Tag_11><Tag_12>ほしくない<Tag_13><Tag_14>ほしい<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 5b 30 64 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_14:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_hemoguro_up_02:
+    Contents: "<Tag_0><Tag_1>こっちの <Tag_2>青色のどかんは\n<Tag_3>ヅツーダレイク<Tag_4><Tag_5><Tag_6>行き びんよ。<Tag_7><Tag_8><Tag_9><Tag_10>下のヅツーダレイク<Tag_11>行きの どかんとは\nちがう<Tag_12>場所に つながるから\n<Tag_13>気をつけるびん。<Tag_14><Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 4a 30 44 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE1_block_ystar_2:
+    Contents: "<Tag_0><Tag_1><Tag_2>え？ <Tag_3>外に<Tag_4>出たいの？<Tag_5><Tag_6><Tag_7><Tag_8>そうねぇ… <Tag_9>体内の<Tag_10>反応が<Tag_11>消えたら\n<Tag_12>出てもいいと <Tag_13>思うんだけど…<Tag_14><Tag_15><Tag_16><Tag_17>反応が<Tag_18>出てる<Tag_19>間は そのスペースに\n<Tag_20>行ってみましょうよ！<Tag_21>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 68 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 6a 30 44 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 6e 30 46 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 6e 30 46 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 44 30 60 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_hemoguro_up_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>緑色のどかんは\n<Tag_3>エクボンの<Tag_4>森<Tag_5><Tag_6>に つながるびんよ。<Tag_7><Tag_8><Tag_9>そして <Tag_10>黒のどかんは\nわが<Tag_11>宿主 クッパのお<Tag_12>城！\nご<Tag_13>存知 <Tag_14><Tag_15>クッパ<Tag_16>城<Tag_17><Tag_18>！ びん。<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 7f 30 69 30 8a 30 44 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 8d 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 84 30 69 30 6c 30 57 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5e 30 93 30 58 30
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_hemoguro_up_04:
+    Contents: "<Tag_0><Tag_1>ピンク<Tag_2>色の おしゃれなどかんは\nおしゃれな <Tag_3>ピーチ<Tag_4>城<Tag_5><Tag_6>に\nつながるびん。<Tag_7><Tag_8><Tag_9><Tag_10>今は ゲラコビッツに あらされて\nあんまり おしゃれじゃないかも\nしれないびん…<Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_hemoguro_up_05:
+    Contents: "<Tag_0><Tag_1><Tag_2>下の<Tag_3>方のどかんは\n<Tag_4>下にいる ヘモグロびんに\n<Tag_5>聞くと いいびん。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_hemoguro_btm_02_a:
+    Contents: "<Tag_0><Tag_1>むらさき<Tag_2>色のどかんは\n<Tag_3>キノコタウン<Tag_4><Tag_5>の<Tag_6>地下に\nつながるびんよ。<Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4b 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE1_block_ystar:
+    Contents: "<Tag_0><Tag_1>マリオ！\n<Tag_2>体内に<Tag_3>反応が <Tag_4>出てるところがあるわ！\nそこへ <Tag_5>行ってみましょう！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 6a 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 6e 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE1_return_ystar_01:
+    Contents: "<Tag_0><Tag_1><Tag_2>待って！！\nどこへ<Tag_3>行くの！！<Tag_4><Tag_5><Tag_6>はやく あのイモムシを\n<Tag_7>追いかけるわよ！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_hemoguro_up_04_before:
+    Contents: "<Tag_0><Tag_1>ピンク<Tag_2>色の おしゃれなどかんは\nおしゃれな <Tag_3>ピーチ<Tag_4>城<Tag_5><Tag_6>に\nつながるびん。<Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_kinoku_01:
+    Contents: <Tag_0><Tag_1><Tag_2>あ！ マリオさん！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_kinoku_02:
+    Contents: "<Tag_0><Tag_1>さっきの はげしい しょうげきで\n<Tag_2>奥まで <Tag_3>入れるように\nなったみたいですよ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_kinoku_03:
+    Contents: <Tag_0><Tag_1>ちょっと <Tag_2>見てください！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_ystar_01:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>待って！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_kinoku_04:
+    Contents: "<Tag_0><Tag_1>この<Tag_2>部屋には クッパが<Tag_3>吸い<Tag_4>込んだ\nどかんが たまってるようです。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_ystar_02:
+    Contents: "<Tag_0><Tag_1>あなたが <Tag_2>１人目の<Tag_3>賢者ね？\n<Tag_4>私達 あなたに<Tag_5>話があるの！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 08 00 72 30 68 30 8a 30 81 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 93 30 58 30 83 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8f 30 5f 30 57 30 5f 30 61 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_hemoguro_btm_01:
+    Contents: "<Tag_0><Tag_1><Tag_2>私は <Tag_3>親切なヘモグロびん。\nどかんの つながっている<Tag_4>先を\n<Tag_5>教えるびん。<Tag_6><Tag_7><Tag_8>どう？ <Tag_9>教えてほしいびん？<Tag_10>\n<Tag_11><Tag_12>ほしくない<Tag_13><Tag_14>ほしい<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 5b 30 64 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_14:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_kinoku_05:
+    Contents: <Tag_0><Tag_1><Tag_2>そうなんです！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_ystar_03:
+    Contents: "<Tag_0><Tag_1>マリオ！<Tag_2> ルイージ！<Tag_3>\nしっかりして！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_hemoguro_btm_02:
+    Contents: "<Tag_0><Tag_1><Tag_2>黄色とむらさき<Tag_3>色のどかんは\n<Tag_4>キノコタウン<Tag_5><Tag_6>に つながるびん。<Tag_7><Tag_8><Tag_9>むらさき<Tag_10>色の<Tag_11>方は <Tag_12>地下に<Tag_13>行くびん。\n<Tag_14>買い<Tag_15>物をしたいなら\n<Tag_16>黄色のどかんに <Tag_17>飛び<Tag_18>込むびん。<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 44 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8d 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8d 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 46 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4b 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 6e 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 44 30 8d 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_kinoku_06:
+    Contents: "<Tag_0><Tag_1>ここにあるどかんは キノコ<Tag_2>王国中へ\nワープできるもののようです。<Tag_3><Tag_4><Tag_5>これを <Tag_6>使えば\n<Tag_7>外へ <Tag_8>出ていけるはずです！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 4a 30 46 30 53 30 4f 30 58 30 85 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 68 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_ystar_04:
+    Contents: <Tag_0><Tag_1><Tag_2>あのイモムシを <Tag_3>追いかけるわよ！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_hemoguro_btm_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>青色のどかんは\n<Tag_3>ヅツーダレイク<Tag_4><Tag_5>に つながるびん。<Tag_6><Tag_7><Tag_8>レイクのほとりで <Tag_9>日光浴…\nうらやましいびん…<Tag_10><Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 4a 30 44 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 6b 30 63 30 53 30 46 30 88 30 4f 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_kinoku_07:
+    Contents: "<Tag_0><Tag_1>さっそく このどかんに<Tag_2>入って\nみてください！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE1_block_ystar02:
+    Contents: "<Tag_0><Tag_1>クッパが\nなにか しようとしてるわ。<Tag_2><Tag_3><Tag_4><Tag_5>少し このまま\n<Tag_6>様子を<Tag_7>見てみましょう。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 59 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_hemoguro_btm_04:
+    Contents: "<Tag_0><Tag_1><Tag_2>上の<Tag_3>方のどかんは\n<Tag_4>上にいる ヘモグロびんに\n<Tag_5>聞くと いいびん。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE01_kinoku_08:
+    Contents: <Tag_0><Tag_1><Tag_2>ほらほら！ はやく！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE1_block_ystar_light_01:
+    Contents: "<Tag_0><Tag_1>マリオ！ クッパが\nなにか しようとしてるわ。<Tag_2><Tag_3><Tag_4><Tag_5>少し このまま\n<Tag_6>様子を <Tag_7>見てみない？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 59 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE1_block_ystar_light_02:
+    Contents: "<Tag_0><Tag_1>マリオ！ クッパが\nなにか しようとしてるわ。<Tag_2><Tag_3><Tag_4><Tag_5>体内に<Tag_6>反応も <Tag_7>出てるみたいね。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 6a 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 6e 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE1_block_ystar_light_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>え？ <Tag_3>外に<Tag_4>出たいの？<Tag_5><Tag_6><Tag_7><Tag_8>そうねぇ… クッパが あのへんな\nマシンから おりてからなら\nいいと<Tag_9>思うけど…<Tag_10><Tag_11><Tag_12>なにか しようと しているうちは\n<Tag_13>少し <Tag_14>様子を<Tag_15>見てみましょうよ。<Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 68 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 59 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE1_block_ystar_fat1_01:
+    Contents: "<Tag_0><Tag_1>マリオ！ どうしたの？\n<Tag_2>外に<Tag_3>出たいの？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_e_01_KHE1_block_ystar_fat1_02:
+    Contents: "<Tag_0><Tag_1><Tag_2>そうよね…<Tag_3><Tag_4><Tag_5><Tag_6>でも クッパが あんなに\nブクブクの ままじゃ…<Tag_7><Tag_8><Tag_9>クッパが もとにもどるまで\n<Tag_10>待ってみましょうよ。<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

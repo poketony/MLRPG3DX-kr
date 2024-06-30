@@ -1,0 +1,540 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EVnog_kinoko_all_map_bcat_Ekubon_brilock_shop_05_10:
+    Contents: "<Tag_0><Tag_1>全部 <Tag_2>集めてくれたら なーんと\n<Tag_3>ブロドッグ<Tag_4><Tag_5>ちゃんを <Tag_6>仲間に！<Tag_7><Tag_8>ブロキャットちゃんの かわりに\nお<Tag_9>外で おおあばれしてもらいます！！<Tag_10><Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7e 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 68 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EVnog_kinoko_all_map_bcat_Ekubon_brilock_shop_05_11:
+    Contents: "<Tag_0>いまみたいに <Tag_1>目の<Tag_2>前の<Tag_3>相手を\nボコスカ やっつけてくれます！<Tag_4><Tag_5>とにかく <Tag_6>強い！\nとにかく ストロング！！<Tag_7><Tag_8>ムッシュ～の バトルも\n<Tag_9>楽勝になること まちがいなし！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 89 30 4f 30 57 30 87 30 46 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EVnog_kinoko_all_map_bcat_Ekubon_brilock_shop_05_1:
+    Contents: "<Tag_0><Tag_1>ブロキャット<Tag_2><Tag_3>ちゃんとは\nスーパーレアな ブロックのことです！<Tag_4><Tag_5>キューティー アンド プリティー！\nぜひとも お<Tag_6>店番にウォンテッド！！<Tag_7><Tag_8><Tag_9>全部で<Tag_10><Tag_11>１５<Tag_12><Tag_13><Tag_14>匹！\nキノコ<Tag_15>王国中に います！！<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7f 30 5b 30 70 30 93 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 4d 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 4a 30 46 30 53 30 4f 30 58 30 85 30 46 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EVnog_kinoko_all_map_bcat_Ekubon_brilock_shop_05_2:
+    Contents: "<Tag_0>どこにいるのか？<Tag_1> なんとサプライズ！\n<Tag_2>モンスターの<Tag_3>中<Tag_4><Tag_5> にいるのです！<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EVnog_kinoko_all_map_bcat_Ekubon_brilock_shop_05_3:
+    Contents: "<Tag_0>ここが ブロックコレクターの\nつらいところ！！<Tag_1><Tag_2>ミーは とてもじゃないけど\nモンスターとは <Tag_3>戦えません！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 5f 30 5f 30 4b 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EVnog_kinoko_all_map_bcat_Ekubon_brilock_shop_05_4:
+    Contents: "<Tag_0><Tag_1>強いモンスターの <Tag_2>体の<Tag_3>中に\n<Tag_4>入り<Tag_5>込んじゃう <Tag_6>ブロキャット<Tag_7><Tag_8>ちゃん！<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EVnog_kinoko_all_map_bcat_Ekubon_brilock_shop_05_5:
+    Contents: "<Tag_0>どうやって ゲットするのか…？<Tag_1>\nそう <Tag_2><Tag_3>吸い<Tag_4>込む<Tag_5><Tag_6>のです！ ザッツイット！<Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EVnog_kinoko_all_map_bcat_Ekubon_brilock_shop_05_6:
+    Contents: "<Tag_0>モンスターを<Tag_1>見たら <Tag_2><Tag_3>吸い<Tag_4>込む<Tag_5><Tag_6>のです！\nとにかく ザッツイット！<Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EVnog_kinoko_all_map_bcat_Ekubon_brilock_shop_05_7:
+    Contents: "<Tag_0>こわ～いモンスターから\n<Tag_1>ブロキャット<Tag_2><Tag_3>ちゃんを <Tag_4>吸い<Tag_5>込む…<Tag_6><Tag_7><Tag_8><Tag_9>バキュームブロック<Tag_10><Tag_11>を <Tag_12>持つ\nムッシュ～なら できるはず！<Tag_13><Tag_14>ゲットした <Tag_15><Tag_16>ブロキャット<Tag_17><Tag_18>ちゃんは\nミーのもとへ シルブプレ～<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EVnog_kinoko_all_map_bcat_Ekubon_brilock_shop_05_8:
+    Contents: "<Tag_0>お<Tag_1>礼は もちろん\nはずみますよ！ アイプロミス！！<Tag_2><Tag_3>お<Tag_4>店にも <Tag_5>並べていない\n<Tag_6>レアなそうび<Tag_7>品<Tag_8><Tag_9>を プレゼント！！<Tag_10><Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 89 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EVnog_kinoko_all_map_bcat_Ekubon_brilock_shop_05_9:
+    Contents: "<Tag_0>アーンド モア！<Tag_1>\nさらにさらに！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

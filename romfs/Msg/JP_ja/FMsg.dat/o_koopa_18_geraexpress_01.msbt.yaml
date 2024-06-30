@@ -1,0 +1,1054 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EV_SKoopa_18_EVSK18_koopa_01:
+    Contents: "<Tag_0><Tag_1><Tag_2>のわ～～～～～～っ！！\nなんだこれは～～～～っ！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_EV_SKoopa_18_EVSK18_koopa_02:
+    Contents: <Tag_0><Tag_1><Tag_2>いつのまに こんなものを！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_koopa_03:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>無事なもんか！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 76 30 58 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_koopa_04:
+    Contents: "<Tag_0><Tag_1>オ<Tag_2> オマエら！！\nこれはいったい どういうことだっ！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_koopa_05:
+    Contents: <Tag_0><Tag_1><Tag_2>くっ！<Tag_3> <Tag_4>確かにそうだったが…<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 57 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_koopa_06:
+    Contents: "<Tag_0><Tag_1>しかし こんなところに\n<Tag_2>線路を <Tag_3>作れなどと\n<Tag_4>言った<Tag_5>覚えはないぞ！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5b 30 93 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 7c 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_koopa_07:
+    Contents: <Tag_0><Tag_1><Tag_2>すっかり あやつられおって！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_koopa_08:
+    Contents: "<Tag_0><Tag_1>そうだ！ <Tag_2>スターワクチン<Tag_3><Tag_4>だ！\nこの<Tag_5>部屋にあるはずだ！<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_koopa_09:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>金庫だと？ どこだ！？<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 93 30 53 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_koopa_03_2:
+    Contents: <Tag_0><Tag_1><Tag_2>このレールを <Tag_3>見てみろ！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_01:
+    Contents: <Tag_0><Tag_1><Tag_2>クッパ<Tag_3>城～<Tag_4> クッパ<Tag_5>城～<Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_02:
+    Contents: "<Tag_0><Tag_1><Tag_2>古くなって <Tag_3>建てなおしが<Tag_4>必要なのに\nケチンボ<Tag_5>大魔王のせいで いつまでも\nボロいままの クッパ<Tag_6>城に<Tag_7>到着～！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 8b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 64 30 88 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 60 30 44 30 7e 30 4a 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 68 30 46 30 61 30 83 30 4f 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_03:
+    Contents: <Tag_0><Tag_1><Tag_2>どうと<Tag_3>言われても…<Tag_4> ねぇ。<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_04:
+    Contents: "<Tag_0><Tag_1>ごらんのとおり あんたの\n<Tag_2>命令どおりの ひみつトンネルが\n<Tag_3>完成したってことよ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 81 30 44 30 8c 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_05:
+    Contents: "<Tag_0><Tag_1>あんただって いっしょにドリルで\n<Tag_2>穴を ほったじゃねぇか！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 6a 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_06:
+    Contents: <Tag_0><Tag_1><Tag_2>ふん！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_07:
+    Contents: "<Tag_0><Tag_1>その ひみつトンネルを\nゲラコビッツ<Tag_2>財団が <Tag_3>買い<Tag_4>取ったのさ！<Tag_5><Tag_6><Tag_7>バイシューってやつだよ！\nわかるかい？<Tag_8> バ<Tag_9>・イ<Tag_10>・シュー！<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 56 30 44 30 60 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_08:
+    Contents: "<Tag_0><Tag_1>おかげで <Tag_2>穴ほりの<Tag_3>仕事を\n<Tag_4>他のやつらに まかせられるように\nなったんだよ！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 6a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 54 30 68 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_09:
+    Contents: "<Tag_0><Tag_1><Tag_2>今じゃオレ<Tag_3>達\nゲラエクスプレスの エリート<Tag_4>社員さ！！\n<Tag_5>給料も いいんだぜ！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 83 30 44 30 93 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 4d 30 85 30 46 30 8a 30 87 30 46 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_patabon_01:
+    Contents: "<Tag_0><Tag_1>クッパ<Tag_2>様～！！\nまたお<Tag_3>会いできて <Tag_4>光栄です～！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 48 30 44 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_patabon_02:
+    Contents: <Tag_0><Tag_1><Tag_2>そうです！ そうです！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_patabon_03:
+    Contents: "<Tag_0><Tag_1>それよりも <Tag_2>スターワクチン<Tag_3><Tag_4>を\n<Tag_5>探しにきたのですよね？<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_kuriki_01:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>クッパ<Tag_4>様！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_EV_SKoopa_18_EVSK18_kuriki_02:
+    Contents: "<Tag_0><Tag_1>パタボンと ヘイファーが\n<Tag_2>見つかりました！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_koopa_10:
+    Contents: <Tag_0><Tag_1><Tag_2>あれか！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_kuriki_03:
+    Contents: <Tag_0><Tag_1><Tag_2>うわっ！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_koopa_11:
+    Contents: <Tag_0><Tag_1><Tag_2>のわ～～！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_EV_SKoopa_18_EVSK18_kuriki_04:
+    Contents: "<Tag_0><Tag_1>だれが こんなところに\n<Tag_2>線路を <Tag_3>敷いたんだ！？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5b 30 93 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_kuriki_05:
+    Contents: <Tag_0><Tag_1><Tag_2>クッパ<Tag_3>様！ クッパ<Tag_4>様！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_kuriki_06:
+    Contents: "<Tag_0><Tag_1>あんなやつら <Tag_2>相手に\nしちゃいけません！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_10:
+    Contents: "<Tag_0><Tag_1>ゲラコビッツ<Tag_2>様が <Tag_3>作った\nこのゲラエクスプレスは <Tag_4>最高さ～！\nあんたも <Tag_5>乗ってみるかい？<Tag_6><Tag_7><Tag_8>おっと…<Tag_9>\nそういえば <Tag_10>乗車料金は\nと～っても <Tag_11>高かったよね～？<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 53 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 14 00 58 30 87 30 46 30 57 30 83 30 8a 30 87 30 46 30 4d 30 93 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_11:
+    Contents: "<Tag_0><Tag_1>このボロっちい<Tag_2>城を <Tag_3>売っても\nはらいきれない だろうね～<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_heyfa_01:
+    Contents: "<Tag_0><Tag_1>この<Tag_2>城も <Tag_3>無事のようで\n<Tag_4>安心しました～！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 76 30 58 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 57 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_12:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ワハハハハハハ！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_EV_SKoopa_18_EVSK18_heyfa_02:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>スターワクチン<Tag_4><Tag_5>なら <Tag_6>確か…<Tag_7><Tag_8>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 57 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_cholopu_13:
+    Contents: <Tag_0><Tag_1><Tag_2>ゲラエクスプレス <Tag_3>出発～～！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 85 30 63 30 71 30 64 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_18_EVSK18_heyfa_03:
+    Contents: "<Tag_0><Tag_1>あの<Tag_2>金庫の<Tag_3>中に しまって\nあるはずです！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 93 30 53 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

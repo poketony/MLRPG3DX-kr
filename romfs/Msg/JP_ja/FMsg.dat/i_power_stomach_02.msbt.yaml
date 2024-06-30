@@ -1,0 +1,265 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SA_SUB_KPower_stomach_02_Kpower_stomach_mes_01:
+    Contents: <Tag_0><Tag_1>ねえ！ あれ！<Tag_2><Tag_3><Tag_4><Tag_5>スターワクチン<Tag_6><Tag_7>じゃない！？<Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_stomach_02_Kpower_stomach_mes_02:
+    Contents: "<Tag_0><Tag_1><Tag_2>２つ<Tag_3>目の<Tag_4>スターワクチン<Tag_5><Tag_6>を\n<Tag_7>手に<Tag_8>入れた！<Tag_9><Tag_10><Tag_11><Tag_12><Tag_13>クッパの<Tag_14>胃液に まみれて\nネットリ ドロドロしている…<Tag_15><Tag_16><Tag_17><Tag_18><Tag_19><Tag_20>あとで よ～く <Tag_21>洗っておこう…<Tag_22><Tag_23><Tag_24>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 48 30 4d 30
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_19:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 89 30
+      Tag_22:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_SA_SUB_KPower_stomach_02_Kpower_stomach_mes_03:
+    Contents: "<Tag_0>クッパには <Tag_1>悪いけど\n<Tag_2>私達は <Tag_3>外へ<Tag_4>出ましょう。<Tag_5><Tag_6><Tag_7><Tag_8>もうここに <Tag_9>用はないわ。<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8f 30 5f 30 57 30 5f 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 68 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 46 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_stomach_02_Kpower_stomach_mes_04:
+    Contents: "<Tag_0><Tag_1><Tag_2>スターワクチンも のこりあと１つ…<Tag_3><Tag_4><Tag_5>そろそろ Dr.コキノも\n３<Tag_6>人目の<Tag_7>賢者が どこにいるか\nわかったかも しれないわね。<Tag_8><Tag_9><Tag_10><Tag_11>キノコタウンへ もどってみましょう。<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6b 30 93 30 81 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 93 30 58 30 83 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

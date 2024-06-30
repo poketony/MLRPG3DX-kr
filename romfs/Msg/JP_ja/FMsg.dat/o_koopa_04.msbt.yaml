@@ -1,0 +1,143 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SKoopa_04_SK04_kanban:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>シアター<Tag_4>入り<Tag_5>口はこちら。\n<Tag_6>混んでいる<Tag_7>時には ゆずりあって\nお<Tag_8>進み ください。<Tag_9><Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>気分がわるくなった <Tag_15>場合には\n<Tag_16>左手奥の トビラから<Tag_17>行ける\n<Tag_18>バルコニー<Tag_19><Tag_20>で お<Tag_21>休みください。<Tag_22><Tag_23>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 50 30 61 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4d 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 76 30 93 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 42 30 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 72 30 60 30 8a 30 66 30 4a 30 4f 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 84 30 59 30
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_SAVE_BLOCK_recovery:
+    Contents: "<Tag_0><Tag_1><Tag_2>HPとBPの<Tag_3>回復も\n<Tag_4>忘れないようにしましょう。<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 75 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12

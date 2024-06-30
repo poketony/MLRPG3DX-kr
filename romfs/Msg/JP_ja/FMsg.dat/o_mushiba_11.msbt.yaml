@@ -1,0 +1,1390 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Mushiba_11_Kpump_01_koopa_08:
+    Contents: "<Tag_0><Tag_1>そうか！ それなら いくらでも\n<Tag_2>水を<Tag_3>飲んでやるぞ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushi_11_koopa_01:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ムッ！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_01:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ムッ！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_02:
+    Contents: <Tag_0><Tag_1><Tag_2>なんだこれは？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>マリンパイプの<Tag_3>像<Tag_4><Tag_5>？\n<Tag_6>なんだ それは？<Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5e 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_04:
+    Contents: "<Tag_0><Tag_1>ヒーローだと？<Tag_2>\nということは…<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_05:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>まったく <Tag_4>似ていないぞー！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  MES_EV_Mushiba_11_Mushi_11_koopa_06:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ふん！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  MES_EV_Mushiba_11_Mushi_11_koopa_07:
+    Contents: "<Tag_0><Tag_1>ワガハイは もっと\nりりしい<Tag_2>目を しているぞ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_08:
+    Contents: "<Tag_0><Tag_1>なんだ！\n<Tag_2><Tag_3>石像が <Tag_4>動き<Tag_5>出したぞ！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 4d 30 5e 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushi_11_koopa_20:
+    Contents: "<Tag_0><Tag_1>…<Tag_2>そういえば\nノドが かわいたな。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_04_2:
+    Contents: "<Tag_0><Tag_1>ワガハイが モデル\nということだな！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_04_3:
+    Contents: <Tag_0><Tag_1><Tag_2>フンガーーーー！！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  MES_EV_Mushiba_11_Mushi_11_koopa_02_2:
+    Contents: <Tag_0><Tag_1><Tag_2>へんな<Tag_3>形の <Tag_4>石像があるぞ！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 5f 30 61 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 4d 30 5e 30 46 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushiba_koopa_fire_01:
+    Contents: "<Tag_0>どうしたんだ？ <Tag_1>急にほのおが\nはけるようになったぞ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4d 30 85 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushiba_koopa_fire_02:
+    Contents: <Tag_0><Tag_1><Tag_2>なんだと！？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushiba_koopa_fire_03:
+    Contents: "<Tag_0><Tag_1>なんだ オマエ\n<Tag_2>気がきくではないか！<Tag_3><Tag_4>ワガハイの<Tag_5>子分に\nしてやっても いいぞ！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 76 30 93 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_ystar_02:
+    Contents: "<Tag_0><Tag_1><Tag_2>海のヒーローを\nたたえた <Tag_3>石像よ。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 7f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 4d 30 5e 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushiba_koopa_fire_04:
+    Contents: "<Tag_0>ふん！\nあとで こうかいするなよ。<Tag_1><Tag_2><Tag_3>オマエ なんという<Tag_4>名前だ？<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 7e 30 48 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_ystar_03:
+    Contents: "<Tag_0><Tag_1>ちょっと！\n<Tag_2><Tag_3>乱暴なことは やめなさい！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 89 30 93 30 7c 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushiba_koopa_fire_05:
+    Contents: <Tag_0>そうだ。なんという<Tag_1>名前だ？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 7e 30 48 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_ystar_04:
+    Contents: "<Tag_0><Tag_1>え！？<Tag_2> <Tag_3>動いた！？<Tag_4>\nそんなはずはないわ！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushiba_koopa_fire_06:
+    Contents: "<Tag_0>チッピー？\nへんな <Tag_1>名前だな…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 7e 30 48 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_ystar_05:
+    Contents: "<Tag_0><Tag_1>とりあえず その<Tag_2>石像を\nなんとかするしか なさそうね。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 4d 30 5e 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushiba_koopa_fire_07:
+    Contents: "<Tag_0><Tag_1>それと チッピー！<Tag_2><Tag_3>さっき わたし<Tag_4>達…\nって <Tag_5>言ってたな？<Tag_6><Tag_7>ワガハイの <Tag_8>体の<Tag_9>中に\n<Tag_10>他にもだれか いるのか？<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushiba_koopa_fire_08:
+    Contents: "<Tag_0><Tag_1>まあ どうでもいいわ。<Tag_2><Tag_3>それよりやっと ほのおが\nはけるようになったんだ！<Tag_4><Tag_5>ワガハイの <Tag_6>本当の<Tag_7>強さを\n<Tag_8>見せつけてくれるわ～っ！！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushiba_koopa_fire_09:
+    Contents: "<Tag_0>やはり <Tag_1><Tag_2><Tag_3>ボタンで はく\nほのおは <Tag_4>気持ちがいいぞ！！<Tag_5><Tag_6>これで じゃまなモノを\n<Tag_7>黒こげにしてくれるわ！<Tag_8><Tag_9>まずは このへんにある<Tag_10>木を\n<Tag_11>全部 <Tag_12>燃やしてみるか！<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 96 00 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 4d 30 82 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 8d 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Kpump_01_koopa_01_2:
+    Contents: <Tag_0><Tag_1><Tag_2>ちょっと <Tag_3>飲みすぎたか…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_13_2:
+    Contents: "<Tag_0><Tag_1>あっというまに\nたどりついて くれるわ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushi_11_koopa_14:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ガハハハハハハ！！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  MES_Mushiba_11_Mushi_11_koopa_17:
+    Contents: "<Tag_0><Tag_1>こんな <Tag_2>子供だましで\nワガハイの ジャマが\nできるとでも <Tag_3>思ったか！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 69 30 82 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_10:
+    Contents: "<Tag_0><Tag_1>おいっ！\nなんなんだ！ この<Tag_2>石像は！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 4d 30 5e 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushi_11_koopa_18:
+    Contents: <Tag_0><Tag_1><Tag_2>またか！？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_11:
+    Contents: <Tag_0><Tag_1><Tag_2>その<Tag_3>声は！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 48 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushi_11_koopa_19:
+    Contents: <Tag_0><Tag_1><Tag_2>なんだ <Tag_3>水か。<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_12:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ふん！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_13:
+    Contents: "<Tag_0><Tag_1>ジャマをする つもりだろうが\nワガハイを なめるなよ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_14:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ガハハハハハハ！！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  MES_EV_Mushiba_11_Mushi_11_koopa_15:
+    Contents: "<Tag_0><Tag_1>ちょうど\nひとあばれしたかった ところだ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_koopa_16:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>相手に なってやるわ！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_gerapato_01:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ふるるるるる！！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  MES_EV_Mushiba_11_Mushi_11_gerapato_02:
+    Contents: "<Tag_0><Tag_1>その<Tag_2>石像には ワレが<Tag_3>少しばかり\n<Tag_4>手を <Tag_5>加えたるるよ！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 4d 30 5e 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 8f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_gerapato_03:
+    Contents: "<Tag_0><Tag_1>どうやら クッパ<Tag_2>城に\n<Tag_3>来るつもり らしいるるが\n<Tag_4>簡単には <Tag_5>来られないるるよ。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5f 30 93 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_gerapato_04:
+    Contents: <Tag_0><Tag_1><Tag_2>というより <Tag_3>来させないるる！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_Mushiba_11_Mushi_11_gerapato_05:
+    Contents: "<Tag_0><Tag_1>ふる ふる…\n<Tag_2>長い<Tag_3>人生 より<Tag_4>道も<Tag_5>必要るるよ。<Tag_6><Tag_7><Tag_8>そんなに あせらないで\nワレが<Tag_9>改造した その<Tag_10>石像と\n<Tag_11>遊んでいくが いいるるよ！<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 93 30 5b 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 61 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 64 30 88 30 46 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 5e 30 46 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 4d 30 5e 30 46 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 5d 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Kpump_01_koopa_01:
+    Contents: "<Tag_0><Tag_1>あ～<Tag_2> ハラの<Tag_3>中が\nちゃぽん ちゃぽんだ。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Kpump_01_koopa_02:
+    Contents: <Tag_0><Tag_1><Tag_2>なんだ？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Kpump_01_koopa_03:
+    Contents: "<Tag_0><Tag_1>なんだと？<Tag_2>\nどうしてだ？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Kpump_01_koopa_04:
+    Contents: <Tag_0><Tag_1><Tag_2>なに？ よごれがとれる？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Kpump_01_koopa_05:
+    Contents: "<Tag_0><Tag_1>じゃあ <Tag_2>体の<Tag_3>悪いところが\nなおるのか？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8b 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Kpump_01_koopa_06:
+    Contents: <Tag_0><Tag_1><Tag_2>ほのおも はけるようになるのか！？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_11_Mushiba_koopa_fire_10:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ガハハハハ！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_Mushiba_11_Kpump_01_koopa_07:
+    Contents: <Tag_0><Tag_1><Tag_2>マリオにも かてるのか！？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 7

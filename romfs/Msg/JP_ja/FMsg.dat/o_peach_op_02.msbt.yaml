@@ -1,0 +1,290 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_OPeach_02_Opening_tut_10:
+    Contents: "<Tag_0>あ <Tag_1>ルイージ<Tag_2><Tag_3>さん！<Tag_4>\nおひさしぶりです！<Tag_5><Tag_6><Tag_7>今日は おるすばんじゃ\nないんですね！！<Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 87 30 46 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_02_Opening_tut_05:
+    Contents: "<Tag_0>マリオさん！ <Tag_1>今日も<Tag_2>元気に\n<Tag_3>ジャンプ<Tag_4><Tag_5> しまくりですか？<Tag_6><Tag_7><Tag_8><Tag_9>マリオ<Tag_10><Tag_11>さんは <Tag_12><Tag_13><Tag_14><Tag_15>ボタン！\n<Tag_16><Tag_17>ルイージ<Tag_18><Tag_19>さんは <Tag_20><Tag_21><Tag_22><Tag_23>ボタンですよね！<Tag_24><Tag_25>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 52 30 93 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_02_Opening_tut_07:
+    Contents: "<Tag_0><Tag_1>話を <Tag_2>聞きたいときは\n<Tag_3><Tag_4><Tag_5>ボタンで <Tag_6>話しかけてくださいね。<Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_02_Opening_tut_08:
+    Contents: "<Tag_0>ご<Tag_1>存知のとおり\nここは <Tag_2>ピーチ<Tag_3>城<Tag_4><Tag_5>ですよ！<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5e 30 93 30 58 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_02_Opening_tut_09:
+    Contents: "<Tag_0><Tag_1>あ～ マリオさ～ん！<Tag_2><Tag_3>やった～！<Tag_4> マリオさんなら\nこの<Tag_5>体 治してくれますよね～！<Tag_6><Tag_7><Tag_8>期待して <Tag_9>待ってますよ～！\nがんばってください～！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 4b 30 89 30 60 30 6a 30 4a 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 5f 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

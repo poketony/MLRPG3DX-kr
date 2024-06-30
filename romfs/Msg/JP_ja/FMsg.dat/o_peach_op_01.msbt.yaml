@@ -1,0 +1,185 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_OPeach_01_Opening_tut_01:
+    Contents: "<Tag_0>あ！ <Tag_1>マリオ<Tag_2><Tag_3>さん！<Tag_4>\nはやく はやく！！<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_01_Opening_tut_02:
+    Contents: "<Tag_0><Tag_1>会議ですよ！\n<Tag_2>会議！！<Tag_3> <Tag_4>急いでください！<Tag_5><Tag_6>みなさん <Tag_7><Tag_8>会議<Tag_9>室<Tag_10><Tag_11>で\nマリオさんを <Tag_12>待っていますよ。<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 64 30
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_01_Opening_tut_03:
+    Contents: "<Tag_0>…あ。<Tag_1>ルイージ<Tag_2><Tag_3>さんが\nくるのも ね。<Tag_4><Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_01_Opening_tut_04:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>会議<Tag_4>室<Tag_5><Tag_6>は この<Tag_7>奥ですよ。\n<Tag_8>急いでください！！<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 64 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4f 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5d 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6

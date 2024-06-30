@@ -1,0 +1,2749 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_TKinoko_33_Kinoko_town_clinic_b_30:
+    Contents: "<Tag_0><Tag_1>ありがとう\nマリオさん ルイージさん。<Tag_2><Tag_3>さっきの ふうせんみたいなの…\nいろんな<Tag_4>場所で\n<Tag_5>使えるんじゃないかしら？<Tag_6><Tag_7><Tag_8>空気がふきでている\n<Tag_9>場所があったら\n<Tag_10>吸い<Tag_11>込んでみれば？<Tag_12><Tag_13><Tag_14><Tag_15>次に <Tag_16>行く<Tag_17>場所は\n<Tag_18>ムッシーバビーチ<Tag_19><Tag_20>でしたっけ？<Tag_21><Tag_22><Tag_23>それなら ヅツーダレイクから\n<Tag_24>南に<Tag_25>行くといいわ。<Tag_26><Tag_27><Tag_28>がんばって スターワクチンを\n<Tag_29>集めてくださいね！<Tag_30><Tag_31>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4f 30 46 30 4d 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 6a 30 7f 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_30:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_31:
+    Contents: "<Tag_0>マリオさんなら <Tag_1>高いところに\nジャンプして つかまえられるでしょ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_32:
+    Contents: "<Tag_0>まさか クリニックに\n<Tag_1>閉じ<Tag_2>込められるとは…<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_35:
+    Contents: "<Tag_0>コッキーちゃんのこと\nよろしく お<Tag_1>願いします！！<Tag_2><Tag_3>がんばってくださいね！\nマリオさん ルイージさん！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_36:
+    Contents: "<Tag_0><Tag_1><Tag_2>ピーチ<Tag_3>城<Tag_4><Tag_5>に <Tag_6>行くんですか？<Tag_7><Tag_8>がんばってくださいね！\nマリオさん ルイージさん！<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_37:
+    Contents: "<Tag_0>がんばってくださいね！\nマリオさん ルイージさん！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_38:
+    Contents: <Tag_0>おしらせ！ おしらせ～！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_39:
+    Contents: "<Tag_0>まあ コッキーちゃん！\nなにしてるの！<Tag_1><Tag_2><Tag_3>こっち いらっしゃい！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_10:
+    Contents: "<Tag_0><Tag_1><Tag_2>そういえば！！！<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>高くジャンプ<Tag_8><Tag_9> できないと\n<Tag_10>入れないところだった！<Tag_11><Tag_12>そんなことしか <Tag_13>思い<Tag_14>出せない…<Tag_15>\nうーん… まいった…<Tag_16><Tag_17><Tag_18>くやしい～～～！！<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_13:
+    Contents: "<Tag_0>マリオさーん。\nルイージさーん。<Tag_1><Tag_2><Tag_3>こちらへどうぞ～<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_14:
+    Contents: "<Tag_0><Tag_1>コキノ<Tag_2>先生から <Tag_3>聞いてますね～？<Tag_4><Tag_5>はい。こちらが\n<Tag_6>ブラザーアタック<Tag_7><Tag_8>になります～<Tag_9><Tag_10>BPに<Tag_11>気をつけて\nバトル<Tag_12>中に お<Tag_13>使いください～<Tag_14><Tag_15><Tag_16>夜は なるべく<Tag_17>早めに\nねてくださいね～<Tag_18><Tag_19><Tag_20>食事も キノコばかりに\nかたよるのは さけてください。<Tag_21><Tag_22>では お<Tag_23>大事に～\n…<Tag_24>なんてね。<Tag_25><Tag_26>これからも\nがんばってくださいね！<Tag_27><Tag_28>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 5b 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 61 30 85 30 46 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 8b 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 87 30 4f 30 58 30
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 58 30
+      Tag_24:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_27:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_c_21:
+    Contents: "<Tag_0><Tag_1><Tag_2>クリニックのアタックパーツを\nいっぺんに<Tag_3>１０<Tag_4><Tag_5>個 もらった！<Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>クリニックのアタックパーツが\n<Tag_11>全部 そろった！！<Tag_12><Tag_13><Tag_14><Tag_15><Tag_16><Tag_17>新しい <Tag_18>ブラザーアタック<Tag_19><Tag_20><Tag_21>が\n<Tag_22>完成するぞ！！<Tag_23><Tag_24><Tag_25><Tag_26>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_16:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_33_Kinoko_town_clinic_b_27_2:
+    Contents: "<Tag_0>なにやってるの！？\nマリオさん！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_27_3:
+    Contents: "<Tag_0>あららら！\nふうせんみたい！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_27_4:
+    Contents: "<Tag_0>そっか！<Tag_1> それで\n<Tag_2>ルイージ<Tag_3><Tag_4>さんが<Tag_5><Tag_6>ジャンプ<Tag_7><Tag_8>すれば…<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_27_5:
+    Contents: "<Tag_0>いつもより <Tag_1>高～く\nジャンプできるのね！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_27_6:
+    Contents: "<Tag_0>それで… どうやって\nもとにもどるの…？<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_27_7:
+    Contents: "<Tag_0>マリオさんが\nふうせんみたいになったら…<Tag_1><Tag_2><Tag_3><Tag_4>ボタンでいつもより\n<Tag_5>高～くジャンプできるのね！<Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>ボタンを<Tag_11>押せば\nマリオさんが <Tag_12>空気をはいて\nもとにもどるのね。<Tag_13><Tag_14>やった！\nこれなら コッキーちゃんを\nつかまえられるかも！！<Tag_15><Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4f 30 46 30 4d 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_05_2:
+    Contents: "<Tag_0>あれは ぜったいに\n<Tag_1>アタックパーツ<Tag_2><Tag_3>だった！<Tag_4><Tag_5>ボクが いままで<Tag_6>見た<Tag_7>中でも\nとびぬけて かがやいてたよ！<Tag_8><Tag_9>きっと <Tag_10>超強力なアタックに\nなるに ちがいないぞ！！<Tag_11><Tag_12>でも かんじんなことが\n<Tag_13>思い<Tag_14>出せない～<Tag_15><Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 12 00 61 30 87 30 46 30 4d 30 87 30 46 30 8a 30 87 30 4f 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_a_10:
+    Contents: "<Tag_0><Tag_1>大変！<Tag_2> <Tag_3>２人とも\nメタコロ<Tag_4>病になったら\nキノコ<Tag_5>王国の ピンチよね！<Tag_6><Tag_7><Tag_8>２人 まとめて\n<Tag_9>先生に みてもらいましょう！<Tag_10>\nさあ どうぞこちらへ！<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 78 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 5b 30 44 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_25:
+    Contents: "<Tag_0>コッキーちゃ～ん！<Tag_1>\nおりてらっしゃ～い！！<Tag_2><Tag_3><Tag_4>も～う！<Tag_5> こんなときに<Tag_6>限って\nキゲンわるくなるんだから！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 4e 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_26:
+    Contents: "<Tag_0><Tag_1>おしらせ！<Tag_2> おしらせ！\nおしらせ～！！<Tag_3><Tag_4>もうイヤだ！ はたらきたくない！<Tag_5>\nおウチに <Tag_6>帰りた～い！<Tag_7><Tag_8>はたらきすぎ ハンタイ！<Tag_9>\nはたらきすぎ ハンタイ！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 48 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_27:
+    Contents: "<Tag_0>マリオさん！ ルイージさん！\nコッキーちゃんを つかまえて！<Tag_1><Tag_2><Tag_3>出口のトビラを <Tag_4>閉めて\nカギを <Tag_5>持ってっちゃったのよ！<Tag_6><Tag_7>これじゃあ <Tag_8>修理を<Tag_9>頼みにも\n<Tag_10>行けないわ！！<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 67 30 50 30 61 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 85 30 46 30 8a 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_29:
+    Contents: "<Tag_0>お<Tag_1>願い～！ マリオさん！\nコッキーちゃんを つかまえて！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_01:
+    Contents: "<Tag_0>コキノ<Tag_1>先生は お<Tag_2>医者様であり\n<Tag_3>有名な うらない<Tag_4>師でもあるんです。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 5b 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 44 30 57 30 83 30 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 86 30 46 30 81 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_02:
+    Contents: "<Tag_0>メタコロ<Tag_1>病のせいで\nこのクリニックも <Tag_2>満員です…<Tag_3><Tag_4><Tag_5>奥の<Tag_6>部屋に\n<Tag_7>入ってみましたか？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7e 30 93 30 44 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_01:
+    Contents: "<Tag_0><Tag_1>ムッシーバビーチ<Tag_2><Tag_3>で\nへんな<Tag_4>家を<Tag_5>見つけて…<Tag_6><Tag_7><Tag_8><Tag_9>ムッシーバビーチ<Tag_10><Tag_11>で\nへんな<Tag_12>家を<Tag_13>見つけて～<Tag_14><Tag_15>ん～！！ その<Tag_16>先が\nどうしても <Tag_17>思い<Tag_18>出せない！<Tag_19><Tag_20>それと <Tag_21><Tag_22>クッパ<Tag_23>城<Tag_24><Tag_25>！！<Tag_26>\n<Tag_27><Tag_28>クッパ<Tag_29>城<Tag_30><Tag_31>の <Tag_32>寒い<Tag_33>部屋！<Tag_34><Tag_35><Tag_36><Tag_37>クッパ<Tag_38>城<Tag_39><Tag_40>の <Tag_41>寒い<Tag_42>部屋で…<Tag_43>\nキノコ<Tag_44>型の… キノコ…<Tag_45><Tag_46>ん～！！ その<Tag_47>先が\nどうしても <Tag_48>思い<Tag_49>出せない！<Tag_50><Tag_51><Tag_52>くやしい～～～！！<Tag_53><Tag_54>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 48 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 48 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 80 30
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_34:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_35:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_37:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_38:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_39:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_40:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 80 30
+      Tag_42:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_43:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_44:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4c 30 5f 30
+      Tag_45:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_46:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_47:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_48:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_49:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_50:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_51:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_52:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_53:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_54:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_03:
+    Contents: "<Tag_0>メタコロ<Tag_1>病の <Tag_2>患者さんが\n<Tag_3>治った そうですよ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 58 30 83 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_02:
+    Contents: "<Tag_0><Tag_1>ウチの<Tag_2>兄は <Tag_3>冒険家なんです。<Tag_4><Tag_5><Tag_6>アタックパーツ<Tag_7><Tag_8>ってのを\n<Tag_9>探し<Tag_10>求めて いたんですが…<Tag_11><Tag_12><Tag_13>旅のあいだに うっかりキノコっていう\nキノコを <Tag_14>食べたらしくて…<Tag_15><Tag_16>いままでの <Tag_17>冒険のことを\n<Tag_18>忘れてしまったらしいの。<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 6b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 7c 30 46 30 51 30 93 30 4b 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 68 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 73 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7c 30 46 30 51 30 93 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_40:
+    Contents: <Tag_0>この<Tag_1>中 ぬくいぬくい！<Tag_2><Tag_3>ここで ぬくぬく<Tag_4>暮らす！！<Tag_5><Tag_6>けってい けってい～！！<Tag_7>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_03:
+    Contents: "<Tag_0>なんとか <Tag_1>思い<Tag_2>出させて\nあげたいんだけど…<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_12a:
+    Contents: "<Tag_0>やった！ マリオさんなら\nきっと <Tag_1>見つけられますよ！<Tag_2><Tag_3>きっと<Tag_4>超強力な アタックに\nなるはずですよ！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 12 00 61 30 87 30 46 30 4d 30 87 30 46 30 8a 30 87 30 4f 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_41:
+    Contents: "<Tag_0>もう！ しょうがないわね！\nわかったわよ！！<Tag_1><Tag_2>ちゃんと マリオさんに\n<Tag_3>道案内してあげてよ！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 7f 30 61 30 42 30 93 30 6a 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_04:
+    Contents: "<Tag_0>ねえ お<Tag_1>兄ちゃん ビーチと\nクッパ<Tag_2>城に なにがあったの？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6b 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_12b:
+    Contents: "<Tag_0><Tag_1>そ<Tag_2> そうですか…<Tag_3><Tag_4>きっと<Tag_5>超強力な アタックになると\n<Tag_6>思うんだけどなぁ…<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 12 00 61 30 87 30 46 30 4d 30 87 30 46 30 8a 30 87 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_42:
+    Contents: <Tag_0><Tag_1>了解！ <Tag_2>了解～！<Tag_3><Tag_4><Tag_5>道案内 とくい～！<Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8a 30 87 30 46 30 4b 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8a 30 87 30 46 30 4b 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 7f 30 61 30 42 30 93 30 6a 30 44 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_05:
+    Contents: "<Tag_0><Tag_1>ムッシーバビーチ<Tag_2><Tag_3>で\nへんな<Tag_4>家を<Tag_5>見つけて…<Tag_6><Tag_7>え～っと… へんな\nノコノコ…<Tag_8> ノコノコ…？<Tag_9><Tag_10><Tag_11>ノコノコが… パズル…？<Tag_12><Tag_13>あ～ どうしても\n<Tag_14>思い<Tag_15>出せない！！<Tag_16><Tag_17><Tag_18>くやしい～～～！！<Tag_19><Tag_20>マリオさん！ <Tag_21>行ってみてください！<Tag_22>\n<Tag_23><Tag_24>いいえ<Tag_25><Tag_26>はい<Tag_27><Tag_28>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 48 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_22:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_23:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_26:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_28:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_12c:
+    Contents: "<Tag_0>あ！ マリオさん！\nアタックパーツ <Tag_1>見つけたんですね！！<Tag_2><Tag_3>あと <Tag_4>クッパ<Tag_5>城<Tag_6><Tag_7>の <Tag_8>寒い<Tag_9>部屋に\nあるはずなんですよ！！<Tag_10><Tag_11>クッパ<Tag_12>城の<Tag_13>地下の…\nなかなか<Tag_14>入れない… <Tag_15>寒い<Tag_16>部屋…！<Tag_17><Tag_18>で…<Tag_19> えーっと…<Tag_20>\nあ～ <Tag_21>思い<Tag_22>出せない！<Tag_23><Tag_24>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 80 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4b 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 80 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_b_43:
+    Contents: "<Tag_0><Tag_1>ごめんなさいね… マリオさん。<Tag_2><Tag_3>コッキーちゃんを\nよろしく お<Tag_4>願いします！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_06:
+    Contents: "<Tag_0>え～っと…<Tag_1>\nう～んと…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_12d:
+    Contents: "<Tag_0>あ！ マリオさん！\nアタックパーツ <Tag_1>見つけたんですね！！<Tag_2><Tag_3>あと <Tag_4>ムッシーバビーチ<Tag_5><Tag_6>に\nあるはずなんですよ！！<Tag_7><Tag_8><Tag_9>ビーチのへんな<Tag_10>家…！<Tag_11><Tag_12>で…<Tag_13> えーっと…<Tag_14>\nあ～ <Tag_15>思い<Tag_16>出せない！<Tag_17><Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 48 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_07:
+    Contents: "<Tag_0>マリオさんも いろいろ\n<Tag_1>聞いてみて！<Tag_2><Tag_3><Tag_4><Tag_5>ムッシーバビーチ<Tag_6><Tag_7>と <Tag_8><Tag_9>クッパ<Tag_10>城<Tag_11><Tag_12>…<Tag_13><Tag_14>この２つの<Tag_15>場所に\nアタックパーツが あるらしいのよ！<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_12e:
+    Contents: "<Tag_0>あ！ マリオさん！\nアタックパーツ <Tag_1>見つけたんですね！！<Tag_2><Tag_3>あと…<Tag_4> どこにあったっけ…？\nあれ…？<Tag_5> もうなかったっけ…！？<Tag_6><Tag_7>あったっけ？ もうなかったっけ！？\nあ～ <Tag_8>思い<Tag_9>出せない！！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_08:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>ビーチの アタックパーツは？\n<Tag_5><Tag_6><Tag_7><Tag_8>クッパ<Tag_9>城の アタックパーツは？\n<Tag_10><Tag_11><Tag_12><Tag_13>なにも <Tag_14>聞かない<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_2:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_adv_09:
+    Contents: "<Tag_0><Tag_1>クッパ<Tag_2>城<Tag_3><Tag_4>の <Tag_5>寒い<Tag_6>部屋で\nアタックパーツを <Tag_7>見つけて…<Tag_8><Tag_9>むらさき<Tag_10>色の バケモノが…\nキノコ<Tag_11>型の バケモノが…<Tag_12><Tag_13>あ～！！ ダメだ！！<Tag_14>\n<Tag_15>思い<Tag_16>出せない！！<Tag_17><Tag_18><Tag_19>くやしい～～～！！<Tag_20><Tag_21>マリオさん！ <Tag_22>行ってみてください！<Tag_23>\n<Tag_24><Tag_25>いいえ<Tag_26><Tag_27>はい<Tag_28><Tag_29>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 80 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8d 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4c 30 5f 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_23:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_24:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_27:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_29:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_sys_guide_add:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>フィールドガイド<Tag_4>に\n<Tag_5>項目が<Tag_6>追加されました。<Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 82 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 64 30 44 30 4b 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_33_Kinoko_town_clinic_b_28_1:
+    Contents: <Tag_0><Tag_1><Tag_2>コッキーちゃんをつかまえた！<Tag_3><Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_33_Kinoko_town_clinic_a_01:
+    Contents: "<Tag_0>あたまのカサも すっかり\nもとどおりに なりましたなぁ。<Tag_1><Tag_2>コキノ<Tag_3>先生の おかげだぁ。\nありがたいこってす。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 5b 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_a_02:
+    Contents: "<Tag_0><Tag_1>先生がしばらく\n<Tag_2>様子をみたいそうなので\nまた <Tag_3>来週いらしてくださいね。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 5b 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 59 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 89 30 44 30 57 30 85 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_a_03:
+    Contents: <Tag_0>へぇへぇ またお<Tag_1>願いします～<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_a_04:
+    Contents: <Tag_0>はい！<Tag_1> <Tag_2>次の<Tag_3>方 どうぞ！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_a_05:
+    Contents: "<Tag_0>あら？<Tag_1> マリオさんに\nルイージさん！<Tag_2><Tag_3><Tag_4>今日は\nどうされましたか？<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 87 30 46 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_a_06:
+    Contents: "<Tag_0><Tag_1>先生は <Tag_2>１人ずつしか\nみてくれませんのよ。<Tag_3><Tag_4><Tag_5>１人ずつ <Tag_6>順番に\n<Tag_7>入ってくださいね。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 5b 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 72 30 68 30 8a 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 72 30 68 30 8a 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 85 30 93 30 70 30 93 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_a_07:
+    Contents: "<Tag_0>え？<Tag_1> <Tag_2>２人で\n<Tag_3>先生と <Tag_4>話をしたいですって？<Tag_5><Tag_6>こまったわね…<Tag_7> そういうことは\n<Tag_8>先に<Tag_9>予約しておいて もらわないと…<Tag_10><Tag_11>そもそも マリオさん\nどこがわるいの？<Tag_12><Tag_13>おヒゲも ツヤツヤだし\nとても <Tag_14>元気そうよ？<Tag_15><Tag_16>ルイージさんも\n<Tag_17>元気にジャンプしているし…<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 5b 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 84 30 4f 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 52 30 93 30 4d 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 52 30 93 30 4d 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_a_08:
+    Contents: "<Tag_0>あらヤダ！<Tag_1> もしかして\nメタコロ<Tag_2>病の <Tag_3>前ぶれ？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_33_Kinoko_town_clinic_a_09:
+    Contents: <Tag_0>まあ！<Tag_1> ルイージさんも！？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

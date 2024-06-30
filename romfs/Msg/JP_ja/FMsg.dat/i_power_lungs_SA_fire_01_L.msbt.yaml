@@ -1,0 +1,257 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SA_SUB_KPower_lungs_01_SA_LUG_TUT_8BT:
+    Contents: "<Tag_0>マリオ<Tag_1>達を いろんな<Tag_2>方向に\nはじいて クッパを\n<Tag_3>上まで <Tag_4>行かせましょう！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 53 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_lungs_01_SA_LUG_TUT_5T:
+    Contents: "<Tag_0><Tag_1>思いっきり <Tag_2>引っ<Tag_3>張れば\n<Tag_4>高く <Tag_5>飛べるんじゃない？ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 71 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_lungs_01_SA_LUG_TUT_7T:
+    Contents: <Tag_0>うまくいったわね！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_lungs_01_SA_LUG_TUT_02AT:
+    Contents: '<Tag_0>やっぱり そうだわ！ '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_lungs_01_SA_LUG_TUT_01BT:
+    Contents: "<Tag_0><Tag_1>今 クッパが ちょっと\nジャンプしなかった？ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_lungs_01_SA_LUG_TUT_8AT:
+    Contents: "<Tag_0>マリオ<Tag_1>達を はじいた<Tag_2>方向に\nクッパが <Tag_3>飛ぶみたいだから… "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 53 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_lungs_01_SA_LUG_TUT_4T:
+    Contents: "<Tag_0>タッチペンを はなすと\nマリオ<Tag_1>達が はじかれて\nクッパも <Tag_2>飛び<Tag_3>上がるわ！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_lungs_01_SA_LUG_TUT_6T:
+    Contents: <Tag_0>マリオ！ こっちよ！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_sys_minigame_relief_01:
+    Contents: "<Tag_0><Tag_1>クリアしたことにして\nお<Tag_2>話を <Tag_3>先に<Tag_4>進めますか？<Tag_5>\n<Tag_6><Tag_7>いいえ<Tag_8><Tag_9>はい"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 4
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_9:
+        Group: 4
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_SA_SUB_KPower_lungs_01_SA_LUG_TUT_01AT:
+    Contents: <Tag_0><Tag_1><Tag_2>ねえ！ <Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_lungs_01_SA_LUG_TUT_02BT:
+    Contents: "<Tag_0>マリオ<Tag_1>達を はじくと\nその<Tag_2>反動で クッパが\n<Tag_3>飛び<Tag_4>上がるのよ！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 69 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_lungs_01_SA_LUG_TUT_3T:
+    Contents: "<Tag_0>タッチペンで マリオ<Tag_1>達を\n<Tag_2>引っ<Tag_3>張って… "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 71 30
+    Attribute: 00000000
+    StyleID: 6

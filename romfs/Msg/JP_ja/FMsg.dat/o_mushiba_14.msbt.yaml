@@ -1,0 +1,250 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Mushiba_14_Kocky_mes_03:
+    Contents: "<Tag_0><Tag_1>ビーチについたでしょうか？<Tag_2><Tag_3>３つ<Tag_4>目のワクチンは\n<Tag_5>ガケの<Tag_6>上<Tag_7><Tag_8>にあるでしょう！<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_14_Kocky_mes_04:
+    Contents: <Tag_0>おしらせ！ おしらせ～！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_14_Kocky_mes_05:
+    Contents: <Tag_0><Tag_1>ガケ<Tag_2><Tag_3>は ここから<Tag_4><Tag_5><Tag_6>南<Tag_7><Tag_8>だよ～！<Tag_9><Tag_10>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 6a 30 7f 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_SAVE_BLOCK_recovery:
+    Contents: "<Tag_0><Tag_1><Tag_2>HPとBPの<Tag_3>回復も\n<Tag_4>忘れないようにしましょう。<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 75 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_Mushiba_14_Mushiba_14_kanban:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>この<Tag_4>先 <Tag_5>エクボンの<Tag_6>森<Tag_7><Tag_8><Tag_9><Tag_10><Tag_11>この<Tag_12>森の<Tag_13>木は <Tag_14>火をつけると\nとてもよく <Tag_15>燃えますが…<Tag_16><Tag_17><Tag_18><Tag_19>燃やしても ものすごい<Tag_20>生命力で\nいつか もとどおりになります。<Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 5b 30 44 30 81 30 44 30 8a 30 87 30 4f 30
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12

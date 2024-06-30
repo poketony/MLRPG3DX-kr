@@ -1,0 +1,561 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_TKinoko_06_Kinoko_town_chka_bridge_01:
+    Contents: "<Tag_0><Tag_1>うわ～<Tag_2> マリオさーん！<Tag_3><Tag_4><Tag_5>地下のガード<Tag_6>装置の <Tag_7>様子を\n<Tag_8>見にきたんですけど…<Tag_9><Tag_10><Tag_11>迷っちゃったし <Tag_12>橋は<Tag_13>動かせないし\n<Tag_14>帰れないんですよ～！<Tag_15><Tag_16><Tag_17><Tag_18>橋を<Tag_19>回す<Tag_20><Tag_21>には<Tag_22><Tag_23>レバー<Tag_24><Tag_25>を\n<Tag_26>叩いて<Tag_27>回せば いいんだけど…<Tag_28><Tag_29>レバーを<Tag_30>回す<Tag_31>道具を なくしちゃって\nどうしようも できないんですよ～<Tag_32><Tag_33>マリオさん <Tag_34><Tag_35><Tag_36>遠くのものを<Tag_37>叩く<Tag_38><Tag_39>\nアクション… できませんか～？<Tag_40><Tag_41>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5d 30 46 30 61 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 59 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 88 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 48 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 69 30 46 30 50 30
+      Tag_32:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_33:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_35:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_36:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4a 30
+      Tag_37:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_38:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_39:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_40:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_41:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_06_Kinoko_town_chka_bridge_02:
+    Contents: "<Tag_0><Tag_1>うわー！<Tag_2> マリオさーん！<Tag_3><Tag_4><Tag_5>地下のガード<Tag_6>装置の <Tag_7>様子を\n<Tag_8>見にきたんですけど…<Tag_9><Tag_10><Tag_11>迷っちゃったし <Tag_12>橋は<Tag_13>動かないし\n<Tag_14>帰れないんですよ～！<Tag_15><Tag_16><Tag_17><Tag_18>橋を<Tag_19>回す<Tag_20><Tag_21>には<Tag_22><Tag_23>レバー<Tag_24><Tag_25>を\n<Tag_26>叩いて<Tag_27>回せば いいんだけど…<Tag_28><Tag_29>レバーを<Tag_30>回す<Tag_31>道具を なくしちゃって\nどうしようも できないんですよ～<Tag_32><Tag_33><Tag_34><Tag_35>どうしよう…<Tag_36><Tag_37>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5d 30 46 30 61 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 59 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 88 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 48 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 69 30 46 30 50 30
+      Tag_32:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_33:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_34:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_35:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_36:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_06_Kinoko_town_chka_bridge_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>橋を<Tag_3>回す<Tag_4><Tag_5>には<Tag_6><Tag_7>レバー<Tag_8><Tag_9>を\n<Tag_10>叩いて<Tag_11>回せば いいんだけど…<Tag_12><Tag_13>レバーを<Tag_14>回す<Tag_15>道具を なくしちゃって\nどうしようも できないんですよ～<Tag_16><Tag_17>マリオさん どこかで<Tag_18><Tag_19><Tag_20>遠くのものを<Tag_21>叩く<Tag_22><Tag_23>\nアクションを <Tag_24>覚えてきてくれませんか？<Tag_25><Tag_26><Tag_27>お<Tag_28>願いします！<Tag_29><Tag_30>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 69 30 46 30 50 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4a 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 7c 30
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_27:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_30:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_06_Kinoko_town_chka_bridge_04:
+    Contents: "<Tag_0><Tag_1><Tag_2>橋を<Tag_3>回す<Tag_4><Tag_5>には<Tag_6><Tag_7>レバー<Tag_8><Tag_9>を\n<Tag_10>叩いて<Tag_11>回せば いいんだけど…<Tag_12><Tag_13>レバーを<Tag_14>回す<Tag_15>道具を なくしちゃって\nどうしようも できないんですよ～<Tag_16><Tag_17><Tag_18><Tag_19>どうしよう…<Tag_20><Tag_21>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 69 30 46 30 50 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6

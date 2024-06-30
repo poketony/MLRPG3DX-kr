@@ -1,0 +1,82 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  Kjrpg_07_Mushiba_qst05_19:
+    Contents: "<Tag_0><Tag_1><Tag_2>ああ チャーリーはワシの<Tag_3>孫での。\n<Tag_4>今は <Tag_5>記憶を<Tag_6>失っているようでな。<Tag_7><Tag_8><Tag_9><Tag_10>何を<Tag_11>聞いても ここはどこ？<Tag_12>\nボクチャンはダレ？<Tag_13> としか<Tag_14>言わんでのう。<Tag_15><Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 54 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 4a 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 46 30 57 30 6a 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 6b 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6

@@ -1,0 +1,818 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Gepu_02_Gepu_koopa_19:
+    Contents: <Tag_0>ちょっと <Tag_1>待って！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_02_Gepu_koopa_20_2:
+    Contents: "<Tag_0><Tag_1>聞いてる？\n<Tag_2>マリオ<Tag_3><Tag_4><Tag_5> <Tag_6><Tag_7>ルイージ<Tag_8><Tag_9>。<Tag_10><Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_02_K_warp_tut_20:
+    Contents: "<Tag_0>ふざけるな！！<Tag_1>\nさっさと もどせ！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_02_Gepu_koopa_30:
+    Contents: "<Tag_0>なんだ！？ さっきから\nなにを ブツブツ<Tag_1>言ってるんだ？<Tag_2><Tag_3><Tag_4><Tag_5>とっとと <Tag_6>行くぞ！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_02_K_warp_tut_21:
+    Contents: <Tag_0><Tag_1> そんな <Tag_2>怒んなさんな～<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 53 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_02_Gepu_koopa_35:
+    Contents: "<Tag_0><Tag_1><Tag_2>この<Tag_3>船は <Tag_4>最新技術のきわみ\nその<Tag_5>名も ヴィンテージ<Tag_6>号である。<Tag_7><Tag_8><Tag_9><Tag_10>トビラを <Tag_11>開けたければ\n<Tag_12><Tag_13><Tag_14>左の<Tag_15>柱のスイッチ<Tag_16>を<Tag_17>押すである。<Tag_18><Tag_19><Tag_20><Tag_21>スイッチに <Tag_22>手がとどかなければ\nなにかを <Tag_23>ぶち<Tag_24>当てる<Tag_25>である。<Tag_26><Tag_27><Tag_28><Tag_29>ちょっとや そっとのことでは\nこの<Tag_30>船は こわれないのである。<Tag_31><Tag_32>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 6d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 55 30 44 30 57 30 93 30 4e 30 58 30 85 30 64 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6a 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 54 30 46 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 60 30 8a 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 57 30 89 30
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_21:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_29:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 6d 30
+      Tag_31:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_Gepu_02_K_warp_tut_21_2:
+    Contents: <Tag_0><Tag_1> ほんなら また<Tag_2>チャクラ<Tag_3><Tag_4>にさわりや～<Tag_5><Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_02_K_warp_tut_19_2:
+    Contents: "<Tag_0>あんたの <Tag_1>意識にきざまれている\n<Tag_2>場所へ<Tag_3>飛ばしたったんや。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 57 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_02_K_warp_tut_19_3:
+    Contents: "<Tag_0>わからんか？<Tag_1>\nまあ シロートやからな。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_Gepu_02_Gepu_koopa_20:
+    Contents: <Tag_0>なんだ？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_02_Gepu_koopa_21:
+    Contents: "<Tag_0><Tag_1><Tag_2>大事なこと <Tag_3>言い<Tag_4>忘れたわ。<Tag_5><Tag_6><Tag_7>今は で\n<Tag_8>クッパ<Tag_9><Tag_10>が<Tag_11>動いているわよね。<Tag_12><Tag_13><Tag_14><Tag_15><Tag_16><Tag_17>ボタンか<Tag_18><Tag_19><Tag_20><Tag_21>ボタンを<Tag_22>押すと\n<Tag_23><Tag_24>マリオ<Tag_25><Tag_26>達<Tag_27>が <Tag_28>動けるようになるの。<Tag_29><Tag_30>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 58 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: ff 96 00 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_29:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_02_Gepu_koopa_22:
+    Contents: "<Tag_0><Tag_1>クッパ<Tag_2><Tag_3>を<Tag_4>動かしたいときは<Tag_5><Tag_6><Tag_7><Tag_8>ボタン。<Tag_9><Tag_10><Tag_11><Tag_12><Tag_13>明るくなっている<Tag_14><Tag_15><Tag_16>方が\n<Tag_17>今 <Tag_18>動かしているほうね。<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 96 00 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: ff 96 00 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 46 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_02_Gepu_koopa_23:
+    Contents: "<Tag_0><Tag_1>マリオ<Tag_2><Tag_3>達<Tag_4>が<Tag_5>動きたいときは\n<Tag_6><Tag_7><Tag_8><Tag_9>ボタンか<Tag_10><Tag_11><Tag_12><Tag_13>ボタン。<Tag_14><Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_02_Gepu_koopa_24:
+    Contents: "<Tag_0>とても<Tag_1>大事なことだから\nもう１<Tag_2>回 <Tag_3>言うわね。<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>ボタンでマリオ<Tag_10>達\n<Tag_11><Tag_12>ボタンでクッパを<Tag_13>動かすのよ。<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 58 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: ff 96 00 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_02_K_warp_tut_18:
+    Contents: <Tag_0>なんだ！？ さっききた<Tag_1>場所だぞ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Gepu_02_K_warp_tut_19:
+    Contents: "<Tag_0>ええやろ。カンゲキやろ～\n<Tag_1>宇宙と<Tag_2>大地のパワーやねん。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 46 30 61 30 85 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 61 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_K_warp_decicde:
+    Contents: "<Tag_0><Tag_1> なんや～ <Tag_2>飛びたいんか～？<Tag_3>\n<Tag_4><Tag_5><Tag_6>飛ばない<Tag_7><Tag_8><Tag_9>飛ぶ<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_5:
+        Group: 4
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_7:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_8:
+        Group: 4
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 4

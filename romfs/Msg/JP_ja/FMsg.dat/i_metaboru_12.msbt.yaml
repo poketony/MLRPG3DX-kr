@@ -1,0 +1,3325 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KMetaboru_06_Kmetaboru_06_quiz_24_01:
+    Contents: <Tag_0><Tag_1><Tag_2>第<Tag_3><Tag_4>問<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 60 30 44 30
+      Tag_3:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 01 00 00 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_24_02:
+    Contents: <Tag_0><Tag_1>それでは <Tag_2>最後の<Tag_3>問題！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 44 30 54 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 82 30 93 30 60 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_h_drink:
+    Contents: "<Tag_0><Tag_1>クッパ<Tag_2>城の <Tag_3>地下にある<Tag_4>金庫室には\nなにがあるでしょう？<Tag_5>\n<Tag_6><Tag_7><Tag_8>強引に<Tag_9>手に<Tag_10>入れた<Tag_11>宝物\n<Tag_12><Tag_13><Tag_14>勝手に<Tag_15>手に<Tag_16>入れた<Tag_17>宝物\n<Tag_18><Tag_19>ぐうぜん<Tag_20>手に<Tag_21>入れた<Tag_22>宝物\n<Tag_23><Tag_24>こっそり<Tag_25>手に<Tag_26>入れた<Tag_27>宝物<Tag_28>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 4d 30 93 30 53 30 57 30 64 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 54 30 46 30 44 30 93 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 63 30 66 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_18:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_23:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_28:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_m_health:
+    Contents: "<Tag_0><Tag_1>クッパは ゲラコビッツとのバトルを\nなにで <Tag_2>終わらせるつもりでしょう？<Tag_3>\n<Tag_4><Tag_5>パンチアタック\n<Tag_6><Tag_7>ファイアアタック\n<Tag_8><Tag_9>ボコスカアタック\n<Tag_10><Tag_11><Tag_12>吸い<Tag_13>込み<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_l_season:
+    Contents: "<Tag_0><Tag_1>クッパは チッピーのどこが\n<Tag_2>気に<Tag_3>入らないのでしょう？<Tag_4>\n<Tag_5><Tag_6>うるさく<Tag_7>言ってくること\n<Tag_8><Tag_9><Tag_10>何者かわからないこと\n<Tag_11><Tag_12><Tag_13>言うとおりにはたらかないこと\n<Tag_14><Tag_15>すべてが<Tag_16>気に<Tag_17>入らない<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 6b 30 82 30 6e 30
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_18:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_p_food:
+    Contents: "<Tag_0><Tag_1>クッパ<Tag_2>城の ゲラコビッツシアターは\n<Tag_3>昔は なんの<Tag_4>部屋だったでしょう？<Tag_5>\n<Tag_6><Tag_7>ベッドルーム\n<Tag_8><Tag_9>コンサートホール\n<Tag_10><Tag_11>トレーニングルーム\n<Tag_12><Tag_13><Tag_14>食堂<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 80 30 4b 30 57 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 87 30 4f 30 69 30 46 30
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_31:
+    Contents: <Tag_0><Tag_1>モンスター カモ～ン！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 23 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KMetaboru_06_Kmetaboru_06_quiz_32:
+    Contents: <Tag_0><Tag_1><Tag_2>やっちまいな！<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>びん。<Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 1
+        Parameters: 00 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 9
+  MES_KMetaboru_06_Kmetaboru_06_q_b_health:
+    Contents: "<Tag_0><Tag_1>クッパは <Tag_2>今の<Tag_3>体型では<Tag_4>特に\nだれに <Tag_5>会いたくないでしょう？<Tag_6>\n<Tag_7><Tag_8>だれにも<Tag_9>会いたくない\n<Tag_10><Tag_11>ピーチ<Tag_12>姫\n<Tag_13><Tag_14>マリオ\n<Tag_15><Tag_16>ルイージ<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 51 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_15:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_n_sports:
+    Contents: "<Tag_0><Tag_1>クッパは ゲラコビッツのチキンの\nなにを ほめているでしょう？<Tag_2>\n<Tag_3><Tag_4>まろやかさとコク\n<Tag_5><Tag_6>やきぐあいとボリューム\n<Tag_7><Tag_8>ジューシーさと<Tag_9>歯ごたえ\n<Tag_10><Tag_11>カラさとあぶらっぽさ<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6f 30
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_04_01:
+    Contents: "<Tag_0><Tag_1><Tag_2>今から クイズを<Tag_3>始めるびん！<Tag_4><Tag_5><Tag_6>ジャンルは クッパ！\nなにからなにまで クッパクッパ！<Tag_7><Tag_8>クッパについて ヘ～ なことから\nムフフ… キャッ！ なことまで\nつっこんだ<Tag_9>問題を <Tag_10>出すびん！<Tag_11><Tag_12><Tag_13>どうするびん？ <Tag_14>続けるびん？<Tag_15>\n<Tag_16><Tag_17>やっぱりやめる<Tag_18> <Tag_19><Tag_20>続けます<Tag_21>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 82 30 93 30 60 30 44 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_16:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_19:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_21:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_k_drink:
+    Contents: "<Tag_0><Tag_1>クッパは ゲラコビッツシアターを\nどうかえたいと <Tag_2>考えているでしょう？<Tag_3>\n<Tag_4><Tag_5>クッパスタジアムにかえる\n<Tag_6><Tag_7>クッパミュージアムにかえる\n<Tag_8><Tag_9>クッパスタジオにかえる\n<Tag_10><Tag_11>クッパシアターにかえる<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 93 30 4c 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_04_02:
+    Contents: "<Tag_0><Tag_1>またしても <Tag_2>知的でスリリングな\nクッパクイズを <Tag_3>始めるびん！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 61 30 66 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_04_03:
+    Contents: "<Tag_0><Tag_1>どうするびん？<Tag_2>\n<Tag_3><Tag_4><Tag_5><Tag_6>クッパに<Tag_7>質問する\n<Tag_8><Tag_9><Tag_10><Tag_11>すぐにクイズします\n<Tag_12><Tag_13><Tag_14><Tag_15>ルールを<Tag_16>確認する\n<Tag_17><Tag_18><Tag_19><Tag_20>やっぱりやめる<Tag_21>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 4f 30 6b 30 93 30
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_h_food:
+    Contents: "<Tag_0><Tag_1>クッパは このクッパ<Tag_2>城のデザインを\nどう<Tag_3>思っているでしょう？<Tag_4>\n<Tag_5><Tag_6>グレートでダイナミック\n<Tag_7><Tag_8>センセーショナルでクール\n<Tag_9><Tag_10>パワフルでゴージャス\n<Tag_11><Tag_12>パーフェクトでラブリー<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_aparts_get_pl:
+    Contents: "<Tag_0><Tag_1><Tag_2>メタボルスペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13>メタボルスペースのアタックパーツは\nのこりあと <Tag_14><Tag_15><Tag_16><Tag_17><Tag_18><Tag_19>個だ！<Tag_20><Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_16:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KMetaboru_06_Kmetaboru_06_q_o_drink:
+    Contents: "<Tag_0><Tag_1>クッパの <Tag_2>体の<Tag_3>調子は\n<Tag_4>本当は どんな<Tag_5>感じでしょう？<Tag_6>\n<Tag_7><Tag_8><Tag_9>調子は<Tag_10>最高にいい！\n<Tag_11><Tag_12><Tag_13>調子はよかったりわるかったり\n<Tag_14><Tag_15><Tag_16>調子はとてもわるい\n<Tag_17><Tag_18><Tag_19>調子はふつう<Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 93 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 53 30 46 30
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_14:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_17:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_02:
+    Contents: "<Tag_0>そうびんか そうびんか！\nなら <Tag_1>好きにするびん！<Tag_2><Tag_3>このあたりを グルグル グルグル\n<Tag_4>一生 さまよい<Tag_5>続けるがいいびん！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 44 30 63 30 57 30 87 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>オールアバウト\n<Tag_3>クッパクイズ～！<Tag_4><Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_05:
+    Contents: "<Tag_0><Tag_1><Tag_2>ルールの<Tag_3>確認をするびん！<Tag_4><Tag_5><Tag_6>まず クイズを<Tag_7>始める<Tag_8>前に\nクッパに いくつか<Tag_9>質問することが\nできるびん！<Tag_10><Tag_11><Tag_12><Tag_13>質問して クッパの<Tag_14>話を<Tag_15>聞いておくと\nクイズの<Tag_16>答えが わかるかも…<Tag_17><Tag_18><Tag_19>ちなみに<Tag_20>質問は １<Tag_21>回<Tag_22>５<Tag_23><Tag_24>コインの\n<Tag_25>手数料が かかるびん。<Tag_26><Tag_27><Tag_28>クイズは <Tag_29>全問正解でクリア！\n<Tag_30>進めるルートのヒントを <Tag_31>教えるびん！<Tag_32><Tag_33>もし１<Tag_34>問でも まちがったら\nそこで クイズ<Tag_35>終了！！\nヒントは <Tag_36>教えないびん！<Tag_37><Tag_38><Tag_39>おまけに ペナルティとして\nバトルしてもらうびん！<Tag_40><Tag_41>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 4f 30 6b 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 5f 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 66 30 59 30 46 30 8a 30 87 30 46 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 5c 30 93 30 82 30 93 30 5b 30 44 30 4b 30 44 30
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_32:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_33:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 93 30
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 57 30 85 30 46 30 8a 30 87 30 46 30
+      Tag_36:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_37:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_38:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_39:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_40:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_41:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_06:
+    Contents: "<Tag_0><Tag_1><Tag_2>それでは クイズスタート！<Tag_3>\n<Tag_4>の まえに…<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>いちおう クッパにいくつか\n<Tag_11>質問することが できるびん！<Tag_12><Tag_13><Tag_14><Tag_15>質問して クッパの<Tag_16>話を<Tag_17>聞いておくと\nクイズの<Tag_18>答えが わかるかも…<Tag_19><Tag_20><Tag_21>ちなみに<Tag_22>質問は １<Tag_23>回<Tag_24>５<Tag_25><Tag_26>コインの\n<Tag_27>手数料が かかるびん。<Tag_28><Tag_29><Tag_30>せちがらいのは…\n<Tag_31>外の<Tag_32>世界だけじゃ ないびん。<Tag_33><Tag_34>さあ どうする？\nクッパに <Tag_35>質問するびん？<Tag_36>\n<Tag_37><Tag_38>クイズします<Tag_39> <Tag_40><Tag_41>質問します<Tag_42><Tag_43><Tag_44>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_4:
+        Group: 0
+        Type: 1
+        Parameters: 00 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_10:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 5f 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 66 30 59 30 46 30 8a 30 87 30 46 30
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_30:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 68 30
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5b 30 4b 30 44 30
+      Tag_33:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_36:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_37:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_38:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_39:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_40:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_42:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_43:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_44:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_07:
+    Contents: "<Tag_0>それでは…\nクッパへの <Tag_1>質問タイム～！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_l_sports:
+    Contents: "<Tag_0><Tag_1>クッパが <Tag_2>特に<Tag_3>気に<Tag_4>入った\nゲラコビッツの<Tag_5>料理は どれでしょう？<Tag_6>\n<Tag_7><Tag_8>カラいチキン\n<Tag_9><Tag_10>さっぱりしたヌードル\n<Tag_11><Tag_12>こってりしたステーキ\n<Tag_13><Tag_14>ふわふわのケーキ<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8a 30 87 30 46 30 8a 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_l_food:
+    Contents: "<Tag_0><Tag_1>クッパの<Tag_2>体の<Tag_3>中で かわいてきた\nところは どこでしょう？<Tag_4>\n<Tag_5><Tag_6><Tag_7>目\n<Tag_8><Tag_9>はだ\n<Tag_10><Tag_11>ハナ\n<Tag_12><Tag_13>ノド<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_what_sick:
+    Contents: "<Tag_0><Tag_1>クッパは ゲラコビッツのマシンを\nなにで こわすつもりでしょう？<Tag_2>\n<Tag_3><Tag_4>ドッスン\n<Tag_5><Tag_6>ワンワン\n<Tag_7><Tag_8>キラー\n<Tag_9><Tag_10>ボムへい<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_12_Kmetaboru_12_quiz_29_01:
+    Contents: "<Tag_0>ここから <Tag_1>進むべきルートは…\n<Tag_2>右にある <Tag_3><Tag_4>赤いパイプ<Tag_5>器官<Tag_6><Tag_7>\nだび～～ん！<Tag_8><Tag_9>さらにその<Tag_10>先の パイプ<Tag_11>器官は…\n<Tag_12><Tag_13>緑のほう<Tag_14>に<Tag_15>入るびん！<Tag_16><Tag_17><Tag_18><Tag_19>赤い<Tag_20>のの<Tag_21>次に <Tag_22><Tag_23>緑<Tag_24>のに<Tag_25>入る… \n<Tag_26>繰り<Tag_27>返し<Tag_28>言いながら <Tag_29>進むびん！<Tag_30><Tag_31><Tag_32>ちょいワルな ワルグロびん\nウソつかない。<Tag_33><Tag_34>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 4e 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 4b 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 4b 30 93 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 48 30
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_30:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_31:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_32:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_33:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_dokidoki:
+    Contents: "<Tag_0><Tag_1>クッパは ゲラコビッツが<Tag_2>飛び<Tag_3>去ったら\nどの<Tag_4>軍団で <Tag_5>追うつもりでしょう？<Tag_6>\n<Tag_7><Tag_8>ジュゲム\n<Tag_9><Tag_10>キラー\n<Tag_11><Tag_12>パタパタ\n<Tag_13><Tag_14>テレサ<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 55 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_21:
+    Contents: "<Tag_0>どうするびん？<Tag_1>\n<Tag_2><Tag_3><Tag_4><Tag_5><Tag_6>やっぱりやめます<Tag_7><Tag_8>クイズします<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_01_01:
+    Contents: "<Tag_0><Tag_1>ちょいワルな ヘモグロびん…<Tag_2><Tag_3><Tag_4><Tag_5>名づけて ワルグロびん の\nちょいワルな <Tag_6>意見としては…<Tag_7><Tag_8>ここから<Tag_9>先は <Tag_10>迷路みたいに\n<Tag_11>複雑なんで <Tag_12>迷ってさまよって\n<Tag_13>一生 <Tag_14>出られなくなるびん。<Tag_15><Tag_16><Tag_17><Tag_18><Tag_19>進めばいいルート<Tag_20><Tag_21>を <Tag_22>教えてやっても\nいいびんけど…<Tag_23><Tag_24><Tag_25>ちょいワルとしては すなおに\n<Tag_26>教えるわけには いかないびん！<Tag_27><Tag_28>このワルグロびんと ちょいディープな\n<Tag_29>時間をすごすなら <Tag_30><Tag_31>どのルートを\n<Tag_32>進めばいいか<Tag_33><Tag_34> ヒントを<Tag_35>教えるびん！<Tag_36><Tag_37><Tag_38>おまけに ひょっとしたら\nすごくいいことが <Tag_39>起こるかもびん！<Tag_40><Tag_41><Tag_42>ちょいディープな <Tag_43>時間をすごすびん？<Tag_44>\n<Tag_45><Tag_46>やめておきます<Tag_47><Tag_48>すごします<Tag_49><Tag_50>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6a 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 51 30 93 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 81 30 44 30 8d 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 75 30 4f 30 56 30 64 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 88 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 44 30 63 30 57 30 87 30 46 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_27:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 4b 30 93 30
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_33:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_36:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_38:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_39:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_40:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_41:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_42:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_43:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 4b 30 93 30
+      Tag_44:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_45:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_46:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_47:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_48:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_49:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_50:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_01_02:
+    Contents: "<Tag_0>このワルグロびんと ちょいディープな\n<Tag_1>時間をすごすなら <Tag_2>どのルートを\n<Tag_3>進めばいいか<Tag_4><Tag_5> ヒントを<Tag_6>教えるびん！<Tag_7><Tag_8><Tag_9>ちょいディープな <Tag_10>時間をすごすびん？<Tag_11>\n<Tag_12><Tag_13>やめておきます<Tag_14><Tag_15>すごします<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 4b 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 4b 30 93 30
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_12:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_15:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_23:
+    Contents: "<Tag_0><Tag_1><Tag_2>オールアバウト\n<Tag_3>クッパクイズ～！<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8>スタート！！！<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_h_health:
+    Contents: "<Tag_0><Tag_1>クッパが<Tag_2>今の<Tag_3>体型のまま マリオと\n<Tag_4>戦ったら どんな<Tag_5>攻撃をするでしょう？<Tag_6>\n<Tag_7><Tag_8><Tag_9>押しつぶし<Tag_10>攻撃\n<Tag_11><Tag_12><Tag_13>地面グラグラ<Tag_14>攻撃\n<Tag_15><Tag_16>はね<Tag_17>飛ばし<Tag_18>攻撃\n<Tag_19><Tag_20>ファイア<Tag_21>攻撃<Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 51 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 5f 30 5f 30 4b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_15:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_19:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_22:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_aparts_comp:
+    Contents: "<Tag_0><Tag_1><Tag_2>メタボルスペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>メタボルスペースのアタックパーツが\n<Tag_15>全部 そろった！！<Tag_16><Tag_17><Tag_18><Tag_19><Tag_20><Tag_21>新しい <Tag_22><Tag_23>ブラザーアタック<Tag_24><Tag_25>が\n<Tag_26>完成するぞ！！<Tag_27><Tag_28><Tag_29>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_27:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KMetaboru_aparts_get:
+    Contents: "<Tag_0><Tag_1><Tag_2>メタボルスペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13>メタボルスペースのアタックパーツは\nのこりあと <Tag_14><Tag_15><Tag_16><Tag_17><Tag_18><Tag_19>個だ！<Tag_20><Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_16:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KMetaboru_06_Kmetaboru_06_quiz_26:
+    Contents: <Tag_0><Tag_1>クイズ <Tag_2>終了～！！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 57 30 85 30 46 30 8a 30 87 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_27_01:
+    Contents: "<Tag_0><Tag_1><Tag_2>全問正解\n<Tag_3>び～～～～～ん！！！<Tag_4><Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 5c 30 93 30 82 30 93 30 5b 30 44 30 4b 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 9
+  MES_KMetaboru_06_Kmetaboru_06_quiz_27_02:
+    Contents: "<Tag_0>まだまだ <Tag_1>甘いびん！\nきっと <Tag_2>努力がたりないびん！<Tag_3><Tag_4>ペナルティとして ここで\nバトルしてもらうびん！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 69 30 8a 30 87 30 4f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_27_03:
+    Contents: "<Tag_0><Tag_1>全問正解した あなたには\n<Tag_2>特別に <Tag_3><Tag_4><Tag_5><Tag_6>コインのボーナスが\nプレゼントされるびん！！<Tag_7><Tag_8>ワルグロびんと ちょいディープな\n<Tag_9>時間をすごすと <Tag_10>思いがけない\n<Tag_11>幸運が まいこんでくるびんよ！<Tag_12><Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 5c 30 93 30 82 30 93 30 5b 30 44 30 4b 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 79 30 64 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 03 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 4b 30 93 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 46 30 93 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_28:
+    Contents: "<Tag_0>…それでは <Tag_1>希望が<Tag_2>見える\n<Tag_3>進むべきルートを <Tag_4>教えるびん。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 7c 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_22_01:
+    Contents: "<Tag_0>それでは <Tag_1>３<Tag_2><Tag_3><Tag_4>問出題するびん！\n<Tag_5>全問正解で クリア！！\n<Tag_6>進めるルートのヒントを <Tag_7>教えるびん！<Tag_8><Tag_9>もし１<Tag_10>問でも まちがったら\nそこでクイズ<Tag_11>終了！！\nヒントは <Tag_12>教えないびん！<Tag_13><Tag_14>おまけに ペナルティとして\nバトルしてもらうびん！\n…それでは<Tag_15><Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 82 30 93 30 57 30 85 30 64 30 60 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 5c 30 93 30 82 30 93 30 5b 30 44 30 4b 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 93 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 57 30 85 30 46 30 8a 30 87 30 46 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_h_season:
+    Contents: "<Tag_0><Tag_1>クッパは チッピーに<Tag_2>対して\nどんなことで ムカつくでしょう？<Tag_3>\n<Tag_4><Tag_5><Tag_6>話を<Tag_7>聞いてくれないこと\n<Tag_8><Tag_9><Tag_10>何者なのか<Tag_11>教えないこと\n<Tag_12><Tag_13><Tag_14>失敗ばかりすること\n<Tag_15><Tag_16>エラそうにしゃべること<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 6b 30 82 30 6e 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 63 30 71 30 44 30
+      Tag_15:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_22_02:
+    Contents: "<Tag_0>それでは <Tag_1><Tag_2><Tag_3><Tag_4><Tag_5>問出題するびん！\n<Tag_6>全問正解で クリア！！\n<Tag_7>進めるルートのヒントを <Tag_8>教えるびん！<Tag_9><Tag_10>もし１<Tag_11>問でも まちがったら\nそこでクイズ<Tag_12>終了！！\n…それでは<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 01 00 00 00
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 82 30 93 30 57 30 85 30 64 30 60 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 5c 30 93 30 82 30 93 30 5b 30 44 30 4b 30 44 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4a 30 57 30 48 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 93 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 57 30 85 30 46 30 8a 30 87 30 46 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_25_01:
+    Contents: <Tag_0><Tag_1><Tag_2>正解！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 4b 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_l_drink:
+    Contents: "<Tag_0><Tag_1>クッパの お<Tag_2>腹がゴロゴロしてきた\n<Tag_3>原因は どれでしょう？<Tag_4>\n<Tag_5><Tag_6>バキュームブロック\n<Tag_7><Tag_8>ギガニンジン\n<Tag_9><Tag_10><Tag_11>大きなイモムシ\n<Tag_12><Tag_13>ゲラコビッツの<Tag_14>料理<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 44 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8a 30 87 30 46 30 8a 30
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_quiz_25_02:
+    Contents: <Tag_0><Tag_1>ハズレ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_h_sports:
+    Contents: "<Tag_0><Tag_1>クッパは ゲラコビッツのケーキの\nなにを ほめているでしょう？<Tag_2>\n<Tag_3><Tag_4>かざりつけと<Tag_5>大きさ\n<Tag_6><Tag_7>クリームとスポンジ\n<Tag_8><Tag_9>フルーツとかくし<Tag_10>味\n<Tag_11><Tag_12>やわらかさとコク<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 58 30
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_p_season:
+    Contents: "<Tag_0><Tag_1>クッパは チッピーにどうして\nほしいと <Tag_2>思っているでしょう？<Tag_3>\n<Tag_4><Tag_5>いなくなってほしい\n<Tag_6><Tag_7>もうしばらくはたらいてほしい\n<Tag_8><Tag_9>しずかにしていてほしい\n<Tag_10><Tag_11>もっとうるさく<Tag_12>言ってほしい<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_06_Kmetaboru_06_q_a_food:
+    Contents: "<Tag_0><Tag_1>クッパは <Tag_2>頭の<Tag_3>調子がどうなって\nきたと <Tag_4>感じているでしょう？<Tag_5>\n<Tag_6><Tag_7>クラクラしてきた\n<Tag_8><Tag_9>ボーッとしてきた\n<Tag_10><Tag_11>ボケーッとしてきた\n<Tag_12><Tag_13>ズキズキしてきた<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6

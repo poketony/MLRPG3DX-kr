@@ -1,0 +1,349 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EV_MAIN_TPeach_06_2_Last_battle_57:
+    Contents: "<Tag_0>んがああああああ\nああああああああ！！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_EV_MAIN_TPeach_06_2_Last_battle_59:
+    Contents: "<Tag_0>ワガハイの<Tag_1>体の<Tag_2>中で\n<Tag_3>勝手なことばかり しおって～！<Tag_4><Tag_5><Tag_6>絶対に <Tag_7>絶対に\n<Tag_8>絶対に ゆるさんぞ！！<Tag_9><Tag_10>そして こんどこそ\nピーチ<Tag_11>姫を <Tag_12>連れさってやるわ！！<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 63 30 66 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5c 30 63 30 5f 30 44 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5c 30 63 30 5f 30 44 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5c 30 63 30 5f 30 44 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 64 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_EV_MAIN_TPeach_06_2_Last_battle_42:
+    Contents: <Tag_0>ぐおおおおお！！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_EV_MAIN_TPeach_06_2_Last_battle_43:
+    Contents: <Tag_0>く<Tag_1> くるしい…<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_44:
+    Contents: <Tag_0>くるしいぞ…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_45:
+    Contents: <Tag_0>ぬがああぁぁぁぁ！！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_EV_MAIN_TPeach_06_2_Last_battle_60:
+    Contents: <Tag_0>かくごしろ！！！<Tag_1><Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  MES_EV_MAIN_TPeach_06_2_Last_battle_37:
+    Contents: "<Tag_0>そうだ。かなり\n<Tag_1>手ごわかったぞ。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_39:
+    Contents: "<Tag_0>そうだ！！<Tag_1>\nすっかり<Tag_2>忘れていたぞ！<Tag_3><Tag_4>ピーチ<Tag_5>姫を <Tag_6>連れさるには\n<Tag_7>今が チャンスではないか！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 64 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_52:
+    Contents: <Tag_0><Tag_1>い<Tag_2> いったい…<Tag_3><Tag_4><Tag_5><Tag_6>どういうことだーーーー！<Tag_7><Tag_8>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 9
+  MES_EV_MAIN_TPeach_06_2_Last_battle_53:
+    Contents: "<Tag_0>どうして ワガハイのクチから\nマリオや <Tag_1>緑のヒゲが<Tag_2>出てくるのだ！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_EV_MAIN_TPeach_06_2_Last_battle_55:
+    Contents: "<Tag_0><Tag_1><Tag_2>オ<Tag_3> オマエ！！<Tag_4><Tag_5><Tag_6><Tag_7>その<Tag_8>声は…<Tag_9><Tag_10><Tag_11><Tag_12>チッピーか！？<Tag_13><Tag_14><Tag_15>オマエが\nチッピーだったのか！？<Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 48 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

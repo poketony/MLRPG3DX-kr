@@ -1,0 +1,585 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_geraco_01:
+    Contents: "<Tag_0><Tag_1>か かんぺきに <Tag_2>脂肪だらけの\n<Tag_3>体になってしまった クッパ！！<Tag_4><Tag_5><Tag_6>オ オマエの<Tag_7>中にいた ピーチ<Tag_8>姫は\nワ ワレが もらっていくるる！！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 7c 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_geraco_02:
+    Contents: <Tag_0><Tag_1><Tag_2>お… <Tag_3>重いるる…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_geraco_03:
+    Contents: "<Tag_0><Tag_1>さあ！\nこれで <Tag_2>準備は<Tag_3>整ったるる！<Tag_4><Tag_5><Tag_6>ついに ワレの<Tag_7>時代が\nやってくるるるっ！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 85 30 93 30 73 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 68 30 68 30 6e 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 60 30 44 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_geraco_04:
+    Contents: <Tag_0><Tag_1><Tag_2>お… <Tag_3>重いるる…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_geraco_05:
+    Contents: <Tag_0><Tag_1><Tag_2>メ… メタボス！ <Tag_3>手伝うるる！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 66 30 64 30 60 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_geraco_06:
+    Contents: <Tag_0><Tag_1><Tag_2>ちょ！ メタボス！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_geraco_07:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>メタボスッ！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_10:
+    Contents: "<Tag_0><Tag_1>え～と なになに…<Tag_2><Tag_3><Tag_4>ボムへい <Tag_5>保管庫\n<Tag_6>火あそびは <Tag_7>絶対にダメ！！\nバクハツに<Tag_8>注意！！<Tag_9><Tag_10><Tag_11>…か。<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 08 00 7b 30 4b 30 93 30 53 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5c 30 63 30 5f 30 44 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 85 30 46 30 44 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_11:
+    Contents: "<Tag_0><Tag_1>うわ～～～～～～っ！！\n<Tag_2>待った！ <Tag_3>待った！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_12:
+    Contents: <Tag_0><Tag_1><Tag_2>ちょっと <Tag_3>待て～～！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_geraco_03_2:
+    Contents: "<Tag_0><Tag_1>クッパよ！ オマエはこれで\nダイエットでもしてるがいいるる！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_01:
+    Contents: <Tag_0><Tag_1><Tag_2>おおっ！？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_02:
+    Contents: "<Tag_0><Tag_1>はぁ…<Tag_2> はぁ…<Tag_3>\n<Tag_4>足が<Tag_5>勝手に<Tag_6> <Tag_7>走り<Tag_8>続けているぞ！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 57 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 63 30 66 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_03:
+    Contents: <Tag_0><Tag_1><Tag_2>まだまだ～！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_04:
+    Contents: <Tag_0><Tag_1><Tag_2>まだまだまだぁ～！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_05:
+    Contents: <Tag_0><Tag_1><Tag_2>ぬおぉ～～っ！！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_06:
+    Contents: "<Tag_0><Tag_1>ムッ！ <Tag_2>熱いぞ！！\nなにが <Tag_3>燃えてるんだ！？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_07:
+    Contents: "<Tag_0><Tag_1>ん？ ワガハイか？\nワガハイが <Tag_2>燃えてるのか！？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_08:
+    Contents: "<Tag_0><Tag_1>おお！！ <Tag_2>脂肪が！！\nワガハイの ムダについた<Tag_3>脂肪が\n<Tag_4>全部 <Tag_5>燃えてくぞ！！<Tag_6><Tag_7><Tag_8>ガハハハハハハ！！！\nダイエットに<Tag_9>成功だ～！！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 7c 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 7c 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 53 30 46 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_sub_EV_SK_13_sub_koopa_09:
+    Contents: "<Tag_0><Tag_1>そういえば\nここは なんの<Tag_2>部屋だったか…？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

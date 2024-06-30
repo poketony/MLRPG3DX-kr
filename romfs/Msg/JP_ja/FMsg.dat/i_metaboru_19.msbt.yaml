@@ -1,0 +1,788 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KMetaboru_19_KMetaboru_19_mes01:
+    Contents: "<Tag_0><Tag_1><Tag_2>おどろくでない。<Tag_3><Tag_4><Tag_5>われは このネンマク<Tag_6>床をおさめる\nネンマク<Tag_7>姫で あるぞよ。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 86 30 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes02:
+    Contents: "<Tag_0>そなた <Tag_1>今このネンマク<Tag_2>床に\nなにか<Tag_3>落とし<Tag_4>物を したであろう？<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 86 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 6e 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes03:
+    Contents: "<Tag_0>そなたが <Tag_1>落としたのは\nこちらの <Tag_2>すごくいい<Tag_3>宝物<Tag_4><Tag_5>か？<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes04:
+    Contents: "<Tag_0>それとも この\n<Tag_1>ヨレヨレになった<Tag_2>緑のヒゲ<Tag_3><Tag_4>か？<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes05:
+    Contents: "<Tag_0>どちらなのか <Tag_1>今から\n２<Tag_2>択で <Tag_3>聞くぞよ。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes06:
+    Contents: "<Tag_0><Tag_1>そなたが <Tag_2>落としたのは\nどちらぞよ？<Tag_3>\n<Tag_4><Tag_5>すごくいい<Tag_6>宝物\n<Tag_7><Tag_8>ヨレヨレの<Tag_9>緑のヒゲ<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_4:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_7:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes07:
+    Contents: "<Tag_0>あ！ そなた <Tag_1>今…<Tag_2><Tag_3><Tag_4>すごくいい<Tag_5>宝物<Tag_6><Tag_7> を<Tag_8>選びたい\nしょうどうに かられたぞよ？<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes08:
+    Contents: <Tag_0>ウソウソ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes09:
+    Contents: "<Tag_0><Tag_1>すごくいい<Tag_2>宝物<Tag_3><Tag_4>に\nこころひかれたのであろう！<Tag_5><Tag_6>そなたの ビミョーな<Tag_7>表情の\n<Tag_8>変化で わかったぞよ！<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 72 30 87 30 46 30 58 30 87 30 46 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 78 30 93 30 4b 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes20:
+    Contents: <Tag_0>まだなにか <Tag_1>入っているのかしら？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes10:
+    Contents: "<Tag_0><Tag_1>ほほぉ…<Tag_2><Tag_3><Tag_4>この<Tag_5>ヨレヨレの<Tag_6>緑<Tag_7><Tag_8>は <Tag_9>自分の<Tag_10>弟だから\nすごくいい<Tag_11>宝物より <Tag_12>大切だと？<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 08 00 4a 30 68 30 46 30 68 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 5b 30 64 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes11:
+    Contents: "<Tag_0><Tag_1><Tag_2>…ふふん まぁ よろしい。<Tag_3><Tag_4><Tag_5>では そなたが<Tag_6>落としたのは<Tag_7>ヨレヨレ<Tag_8>緑\n<Tag_9><Tag_10>ということにしておくぞよ！<Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes12:
+    Contents: "<Tag_0><Tag_1>ほほほ ヨレヨレにしては\nなかなか<Tag_2>見事な <Tag_3>着地っぷりぞよ。<Tag_4><Tag_5><Tag_6>緑のヨレヨレと \n<Tag_7>弟思いの<Tag_8>赤いヒゲには…<Tag_9><Tag_10><Tag_11>特別に この<Tag_12>すごくいい<Tag_13>宝物<Tag_14><Tag_15>も\nあげるぞよ！<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7f 30 54 30 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 83 30 4f 30 61 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 4a 30 68 30 46 30 68 30 4a 30 82 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 79 30 64 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes13:
+    Contents: <Tag_0><Tag_1><Tag_2>すごくいい<Tag_3>宝物<Tag_4><Tag_5>を<Tag_6>手に<Tag_7>入れた！<Tag_8><Tag_9><Tag_10>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KMetaboru_19_KMetaboru_19_mes14:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>正直者は いつも<Tag_4>得をする…<Tag_5><Tag_6><Tag_7>どこかで にたような<Tag_8>話を<Tag_9>聞いたなら\nわれのことを <Tag_10>思い<Tag_11>出すがよいぞよ。<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 57 30 87 30 46 30 58 30 4d 30 82 30 6e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4f 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes15:
+    Contents: <Tag_0>さらばである！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes16:
+    Contents: "<Tag_0><Tag_1>今もらった <Tag_2>すごくいい<Tag_3>宝物<Tag_4><Tag_5>\nって なにかしら？<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes18:
+    Contents: "<Tag_0><Tag_1><Tag_2>すごいわ！！<Tag_3><Tag_4><Tag_5>そのバッジはね <Tag_6>身に<Tag_7>着けると\nバトルで <Tag_8>特別な<Tag_9>効果が\n<Tag_10>出せるように なるのよ！<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 64 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 79 30 64 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 46 30 4b 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_19_KMetaboru_19_mes19:
+    Contents: "<Tag_0><Tag_1>上手に<Tag_2>使えば バトルを<Tag_3>有利に\n<Tag_4>進められるかもしれないわね。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 87 30 46 30 5a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 86 30 46 30 8a 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

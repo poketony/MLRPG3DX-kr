@@ -1,0 +1,817 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  Kjrpg_02_Koopa_op01_11_2:
+    Contents: <Tag_0>おい！<Tag_1> クリボー<Tag_2>隊長！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 08 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 44 30 61 30 87 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_10_Koopa_qst07_08:
+    Contents: <Tag_0>おい！<Tag_1> ロイ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 10 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_10_Koopa_qst07_09:
+    Contents: "<Tag_0>ロイ！<Tag_1> こいつら<Tag_2>全部\nオマエがやったのか？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_02:
+    Contents: "<Tag_0>らしい。<Tag_1>\nどれも<Tag_2>聞いたことのない<Tag_3>名前ばかりだぜ。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 7e 30 48 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_03:
+    Contents: "<Tag_0>ここでボクが <Tag_1>活躍して\nクッパ<Tag_2>城のみんなを<Tag_3>助ければ…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 64 30 84 30 4f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 59 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_04:
+    Contents: "<Tag_0>きっと お<Tag_1>父さん\nホメてくれるぞ！<Tag_2> "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_05:
+    Contents: "<Tag_0>ギガニンジンは<Tag_1>エクボンの<Tag_2>森<Tag_3>で<Tag_4>育てられている\n<Tag_5>幻の<Tag_6>野菜だと<Tag_7>聞いたことがある。<Tag_8><Tag_9>まずはエクボンの<Tag_10>森を<Tag_11>目指そう。<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 60 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 08 00 7e 30 7c 30 8d 30 57 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 84 30 55 30 44 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 81 30 56 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_06:
+    Contents: "<Tag_0>ボクは<Tag_1>留守番…\nいってらっしゃ～い。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 08 00 8b 30 59 30 70 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_07:
+    Contents: "<Tag_0>なにやってんだ！<Tag_1> <Tag_2>早くいくぞ！<Tag_3>\nみんな ボクについてこい！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  Kjrpg_02_Koopa_op01_08:
+    Contents: "<Tag_0>こいつら７<Tag_1>人衆にも\nボクができるってことを<Tag_2>見せつけてやる…！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 6b 30 93 30 57 30 85 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_09:
+    Contents: "<Tag_0>ボクのオトモ！<Tag_1>\nメカクッパ！<Tag_2><Tag_3><Tag_4><Tag_5><Tag_6>GO！<Tag_7> <Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_7:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_10_Koopa_qst07_10_1:
+    Contents: "<Tag_0>おい！<Tag_1>\n<Tag_2>聞いてんのか！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_10_Koopa_qst07_10_2:
+    Contents: <Tag_0>ロ… ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_20:
+    Contents: "<Tag_0>オラ…<Tag_1>\nぼっちゃんのそばにいる。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_11_Koopa_ed03_01:
+    Contents: <Tag_0>クッパ<Tag_1>軍団の<Tag_2>勝利を<Tag_3>祝うのだ！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 87 30 46 30 8a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  Kjrpg_11_Koopa_ed03_02:
+    Contents: <Tag_0><Tag_1>盛大にやるぞー！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 60 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  Kjrpg_11_Koopa_ed03_03:
+    Contents: <Tag_0>じゃんじゃん <Tag_1>打ち<Tag_2>上げろー！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  Kjrpg_10_Koopa_qst07_11:
+    Contents: <Tag_0>ロイ！<Tag_1> ロイ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_01_1:
+    Contents: <Tag_0><Tag_1>ギガニンジン…<Tag_2><Tag_3>ゲプーキュウコン…<Tag_4><Tag_5>マンネンアイス。<Tag_6><Tag_7>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_10_Koopa_qst07_12:
+    Contents: "<Tag_0>ここは<Tag_1>敵地のど<Tag_2>真ん<Tag_3>中です…<Tag_4>\nひとまず <Tag_5>安全な<Tag_6>場所へ<Tag_7>控えましょう。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 66 30 4d 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 5c 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 4b 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_01_2:
+    Contents: "<Tag_0>その３つの<Tag_1>素材があれば\nメタコロ<Tag_2>病を<Tag_3>治すサプリとやらが<Tag_4>作れる…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5d 30 56 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4a 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_10:
+    Contents: <Tag_0>あ… ぼっちゃん！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_12:
+    Contents: <Tag_0><Tag_1>準備はできているか？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 85 30 93 30 73 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_13:
+    Contents: "<Tag_0>はい！<Tag_1> <Tag_2>配置も<Tag_3>完了…<Tag_4>\n<Tag_5>準備は <Tag_6>整っております！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 08 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 44 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4b 30 93 30 8a 30 87 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 08 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 85 30 93 30 73 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 68 30 68 30 6e 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_14:
+    Contents: "<Tag_0>よし。<Tag_1>オマエもいけ。<Tag_2><Tag_3>ぼっちゃんの \n「お<Tag_4>相手」をするんだ。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_15:
+    Contents: <Tag_0>は！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_16:
+    Contents: <Tag_0>なになに？<Tag_1> どういうこと？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_17:
+    Contents: "<Tag_0>ぼっちゃんには\n<Tag_1>敵との<Tag_2>戦い<Tag_3>方など…<Tag_4><Tag_5><Tag_6>教えておかなきゃ\nならないことがある。<Tag_7><Tag_8><Tag_9>道中でモンスターに\nやられては<Tag_10>困るしな。<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 5f 30 5f 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 69 30 46 30 61 30 85 30 46 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 7e 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_18:
+    Contents: "<Tag_0>ヘッ<Tag_1> <Tag_2>人の<Tag_3>言うこと\n<Tag_4>聞くタマじゃねぇぞ。<Tag_5><Tag_6>あの ぼっちゃんは。<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_02_Koopa_op01_19:
+    Contents: "<Tag_0><Tag_1>実戦しながら\n<Tag_2>覚えてもらおう。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 63 30 5b 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 7c 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_10_Koopa_qst07_24_2:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>気づいたら\n<Tag_4>城の<Tag_5>前にいた…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  Kjrpg_02_Koopa_op01_11_1:
+    Contents: <Tag_0>フン…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

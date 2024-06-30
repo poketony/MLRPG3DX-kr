@@ -1,0 +1,518 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KPump_aparts_comp_pl:
+    Contents: "<Tag_0><Tag_1><Tag_2>ポンプスペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>ポンプスペースのアタックパーツが\n<Tag_15>全部 そろった！！<Tag_16><Tag_17><Tag_18><Tag_19><Tag_20><Tag_21>新しい <Tag_22><Tag_23>ブラザーアタック<Tag_24><Tag_25>が\n<Tag_26>完成するぞ！！<Tag_27><Tag_28><Tag_29>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_27:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KPump_aparts_get:
+    Contents: "<Tag_0><Tag_1><Tag_2>ポンプスペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13>ポンプスペースのアタックパーツは\nのこりあと <Tag_14><Tag_15><Tag_16><Tag_17><Tag_18><Tag_19>個だ！<Tag_20><Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_16:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_work_omit_02:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>=== 仮・未実装 ===\n<Tag_4><Tag_5><Tag_6>本来はパイプ器官がせり出てきますが、未実装です。\n<Tag_7><Tag_8><Tag_9>パイプ器官が埋まっている床に立って\n<Tag_10><Tag_11><Tag_12>スライドパッドを下に倒すと、マップジャンプします。<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_KPump_aparts_get_pl:
+    Contents: "<Tag_0><Tag_1><Tag_2>ポンプスペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13>ポンプスペースのアタックパーツは\nのこりあと <Tag_14><Tag_15><Tag_16><Tag_17><Tag_18><Tag_19>個だ！<Tag_20><Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_16:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KPump_aparts_comp:
+    Contents: "<Tag_0><Tag_1><Tag_2>ポンプスペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>ポンプスペースのアタックパーツが\n<Tag_15>全部 そろった！！<Tag_16><Tag_17><Tag_18><Tag_19><Tag_20><Tag_21>新しい <Tag_22><Tag_23>ブラザーアタック<Tag_24><Tag_25>が\n<Tag_26>完成するぞ！！<Tag_27><Tag_28><Tag_29>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_27:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12

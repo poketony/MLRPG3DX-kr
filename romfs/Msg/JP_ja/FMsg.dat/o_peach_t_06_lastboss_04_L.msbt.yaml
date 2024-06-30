@@ -1,0 +1,500 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EV_MAIN_TPeach_06_2_Last_battle_58:
+    Contents: "<Tag_0>ひゃ～～！！\nま<Tag_1> またしても～～！<Tag_2><Tag_3><Tag_4><Tag_5>姫様！ お<Tag_6>逃げください～！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6b 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_46:
+    Contents: "<Tag_0>おお！！ ここはどこですか！？\nもしや ここは…<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_47:
+    Contents: "<Tag_0>そう！！<Tag_1>\nクッパの<Tag_2>体の<Tag_3>外よ！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 68 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SUB_TPeach_06_2_Peach_talk_01:
+    Contents: <Tag_0>マリオ…！！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SUB_TPeach_06_2_Peach_talk_02:
+    Contents: "<Tag_0>ルイージ！ <Tag_1>起きて！\nみんな <Tag_2>外に<Tag_3>出たわよ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SUB_TPeach_06_2_Peach_talk_03:
+    Contents: <Tag_0>イエロースター！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SUB_TPeach_06_2_Peach_talk_04:
+    Contents: <Tag_0>みんな… よく<Tag_1>無事で…<Tag_2><Tag_3><Tag_4>よかった…！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 76 30 58 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SUB_TPeach_06_2_Peach_talk_05:
+    Contents: <Tag_0>ルイージ…！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_58_1:
+    Contents: <Tag_0>マリオ！<Tag_1> ルイージ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_58_2:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>心配は ご<Tag_4>無用ですぞ！<Tag_5><Tag_6><Tag_7>マリオどのと ルイージどのならば\n<Tag_8>必ず<Tag_9>勝つに <Tag_10>決まっていますとも！<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 71 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 80 30 88 30 46 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 6a 30 89 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_58_3:
+    Contents: <Tag_0>…がんばってね！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_58_4:
+    Contents: <Tag_0>さあ はやく！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_58_5:
+    Contents: <Tag_0>マリオ！<Tag_1><Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_58_6:
+    Contents: <Tag_0>ルイージ！<Tag_1><Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_47_1:
+    Contents: "<Tag_0>ゲラコビッツは <Tag_1>最後の<Tag_2>最後まで\n<Tag_3>失敗したみたいね。<Tag_4><Tag_5><Tag_6>自爆した いきおいで\n<Tag_7>私達を <Tag_8>助けるなんて！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 44 30 54 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 44 30 54 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 63 30 71 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 70 30 4f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8f 30 5f 30 57 30 5f 30 61 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 59 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_50:
+    Contents: "<Tag_0><Tag_1>みんな…<Tag_2> ありがとう…<Tag_3><Tag_4>これで キノコ<Tag_5>王国は\n<Tag_6>救われました。<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 4f 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_51:
+    Contents: "<Tag_0><Tag_1>姫様！！<Tag_2> <Tag_3>姫様～！！<Tag_4>\nよくぞ…<Tag_5> よくぞ ご<Tag_6>無事で～！<Tag_7><Tag_8><Tag_9>じいは うれしゅうございますぞ～！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 76 30 58 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_54:
+    Contents: "<Tag_0>あんまり <Tag_1>深く<Tag_2>考えない<Tag_3>方が\nいいわよ！！<Tag_4><Tag_5><Tag_6>今さら <Tag_7>知ったところで\nどうにも ならないでしょ！？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 93 30 4c 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_MAIN_TPeach_06_2_Last_battle_56:
+    Contents: <Tag_0>ええ。<Tag_1>あなたの<Tag_2>子分のね。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 76 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

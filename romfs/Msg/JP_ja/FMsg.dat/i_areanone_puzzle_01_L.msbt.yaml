@@ -1,0 +1,375 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EMesJig_tutorial1:
+    Contents: "<Tag_0>これは… もしかして\n<Tag_1>暗証番号のきおくが\nバラバラに！？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 42 30 93 30 57 30 87 30 46 30 70 30 93 30 54 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial2:
+    Contents: "<Tag_0>はい そうです。\nとても<Tag_1>大きな しょうげきが<Tag_2>起きた。<Tag_3><Tag_4>それで このきおくが こわれた。\nはい そうです。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial3:
+    Contents: "<Tag_0><Tag_1>さっき ゲラエクスプレスに\nつぶされた<Tag_2>時に こわれたんだわ。<Tag_3><Tag_4>だから <Tag_5>暗証番号を\n<Tag_6>思い<Tag_7>出せなくなっていたのね…\nどうやって もどしたらいいの？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 42 30 93 30 57 30 87 30 46 30 70 30 93 30 54 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial4:
+    Contents: "<Tag_0>はい タッチペンです。\nタッチペンで ピースをタッチです。<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial5:
+    Contents: "<Tag_0>ピースをタッチしたまま パネルの\n<Tag_1>上に<Tag_2>移動です。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 69 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial6:
+    Contents: "<Tag_0>ピースが パネルにはまって\n<Tag_1>動かせなくなったら そこが\n<Tag_2>正解の<Tag_3>場所。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 4b 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial7:
+    Contents: "<Tag_0>パネルの <Tag_1>下にあるボタンを\nタッチすると <Tag_2>選んだピースが\n<Tag_3>回転 <Tag_4>回転 か い て ん。<Tag_5><Tag_6><Tag_7>こうやって ピースを<Tag_8>正しい<Tag_9>向きに\nなおすことも はい <Tag_10>大切。<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 66 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 66 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 60 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 80 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 5b 30 64 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial8:
+    Contents: "<Tag_0>こうやって バラバラになった\nピースを もとにもどすのです。<Tag_1><Tag_2><Tag_3>説明は わかりましたか？<Tag_4>\n<Tag_5><Tag_6>いいえ<Tag_7><Tag_8>はい<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial9:
+    Contents: <Tag_0>マリオ！ ルイージ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial7_a:
+    Contents: "<Tag_0>パネルの <Tag_1>下にあるボタンを\nタッチすると <Tag_2>選んだピースが\n<Tag_3>回転 かいてん か い て ん。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 66 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial7_b:
+    Contents: "<Tag_0>こうやって ピースを<Tag_1>正しい<Tag_2>向きに\nなおすことも はい <Tag_3>大切。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 60 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 80 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 5b 30 64 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial10:
+    Contents: "<Tag_0>さっそく このバラバラになった\nきおくを もとにもどしましょう！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial11:
+    Contents: "<Tag_0>できたわ！\n９８９８ ８８２４１ ９８３\nこれが <Tag_1>暗証番号ね！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 42 30 93 30 57 30 87 30 46 30 70 30 93 30 54 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EMesJig_tutorial12:
+    Contents: "<Tag_0><Tag_1><Tag_2>タッチペンでピースを<Tag_3>移動。\n<Tag_4>回転ボタンをタッチでピースの<Tag_5>回転。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 69 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 66 30 93 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 66 30 93 30
+    Attribute: 00000000
+    StyleID: 12

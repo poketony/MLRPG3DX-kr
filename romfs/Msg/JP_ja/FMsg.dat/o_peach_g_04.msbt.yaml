@@ -1,0 +1,1367 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_GPeach_04_Gpeach_pata_23:
+    Contents: "<Tag_0>バカやろう！<Tag_1> <Tag_2>３００<Tag_3>コインっていったら\nキノコティー ６０ぱいだぞ！<Tag_4><Tag_5>そんなの\nはらってくれる わけねぇだろ！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_24:
+    Contents: "<Tag_0><Tag_1>３００<Tag_2>コイン… はらえるのか？<Tag_3>\n<Tag_4><Tag_5>はらわない<Tag_6><Tag_7>はらう<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_25:
+    Contents: "<Tag_0>やっぱり はらえねぇじゃねぇか！！<Tag_1>\nもう<Tag_2>少し マシな<Tag_3>値段を<Tag_4>考えろ！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6d 30 60 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 93 30 4c 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_26:
+    Contents: "<Tag_0><Tag_1>と<Tag_2> とんでもねぇ やつだ！<Tag_3><Tag_4>いともたやすく さらっと\n３００コイン <Tag_5>出しやがった！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_27:
+    Contents: <Tag_0>セレブだ！ セレブだ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_28:
+    Contents: <Tag_0>コインだ！ コインだ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_29:
+    Contents: <Tag_0>もらって いいのか…？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_19_1:
+    Contents: "<Tag_0>クックック…<Tag_1>\nかなり ビビッてると<Tag_2>見たぜ…<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_22_2:
+    Contents: "<Tag_0>アニキ！<Tag_1> いっきに<Tag_2>３００<Tag_3>コイン\n<Tag_4>要求しちゃいましょうよ！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 88 30 46 30 4d 30 85 30 46 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_10:
+    Contents: <Tag_0>おい。<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_11:
+    Contents: "<Tag_0>いてててて！<Tag_1>\nハラが いたい～！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_12:
+    Contents: "<Tag_0>なんだって！\nそりゃ たいへんじゃねぇか！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_13:
+    Contents: "<Tag_0><Tag_1><Tag_2>いたい！ いたい～！<Tag_3><Tag_4><Tag_5>だれかが アタックパーツ７<Tag_6>個も\n<Tag_7>持っていったから ハラがいたい～！<Tag_8> "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_14:
+    Contents: "<Tag_0>そうか！ だれかがアタックパーツ７<Tag_1>個も\n<Tag_2>持っていったから ハラが<Tag_3>痛いのか！<Tag_4><Tag_5>アタックパーツ７<Tag_6>個も <Tag_7>取られたら\n<Tag_8>心配で ハラだって<Tag_9>痛くなるよな！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 71 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5f 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_15:
+    Contents: "<Tag_0>こりゃあ おおごとだぜ…<Tag_1>\nどうしてくれようか…<Tag_2><Tag_3><Tag_4>落とし<Tag_5>前…<Tag_6>\nつけてもらわないとなぁ…<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_16:
+    Contents: <Tag_0>クックック…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_17:
+    Contents: '<Tag_0>また ゲームするのか…だって？<Tag_1><Tag_2><Tag_3>フッ…<Tag_4> <Tag_5>甘いな…<Tag_6> '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 7e 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_18:
+    Contents: "<Tag_0><Tag_1>世の<Tag_2>中… なにをするにも\nコインが <Tag_3>必要だよな…<Tag_4><Tag_5>そう…<Tag_6> コインさえあれば\nなんだって <Tag_7>買える…<Tag_8><Tag_9><Tag_10>幸せだって <Tag_11>買える…<Tag_12>\nこいつの ハラだってなおせる…<Tag_13><Tag_14>わかるな…？<Tag_15>\nわかんねぇか…？<Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 64 30 88 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 57 30 42 30 8f 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_19:
+    Contents: <Tag_0><Tag_1><Tag_2>ズバリ <Tag_3>３０<Tag_4>コイン！<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>おいていけや！！！<Tag_11><Tag_12>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 7
+  MES_GPeach_04_Gpeach_pata_30:
+    Contents: <Tag_0>おめーさん…<Tag_1> すげぇな…<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_31:
+    Contents: "<Tag_0>よし！ こんなにもらっちまったら\nお<Tag_1>返ししなきゃ <Tag_2>男がすたるぜ！<Tag_3><Tag_4>アタックパーツ\nのこり <Tag_5>３<Tag_6>つの<Tag_7>場所！！<Tag_8><Tag_9><Tag_10><Tag_11><Tag_12>教えてやるぜ！！<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 48 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4a 30 68 30 53 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_32:
+    Contents: <Tag_0>このへんと…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_33:
+    Contents: <Tag_0>このへんだ…！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_34:
+    Contents: "<Tag_0>なに？<Tag_1> もっとくわしく\n<Tag_2>教えろだって？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_35:
+    Contents: "<Tag_0><Tag_1>実はだな… のこりの３つ…\n<Tag_2><Tag_3>見えないブロック<Tag_4><Tag_5>に <Tag_6>入ってるんだ…<Tag_7><Tag_8>だれかに ぬすまれないように\n<Tag_9><Tag_10><Tag_11>見えないブロック<Tag_12><Tag_13>に <Tag_14>入れたのよ…<Tag_15><Tag_16>あたま いいだろ？<Tag_17>\nしかし… しかしだ…<Tag_18><Tag_19>オレ<Tag_20>達も どこにやったのか\nわかんなくなっちまったのさ…<Tag_21><Tag_22>なんせ <Tag_23>見えないブロックだからな…\n<Tag_24>見えないはずだぜ…<Tag_25><Tag_26>まったく おはずかしい<Tag_27>話だが…\n<Tag_28>今 <Tag_29>教えた<Tag_30>場所にあるのは <Tag_31>確かだ。<Tag_32><Tag_33>な～に。<Tag_34>手当たり<Tag_35>次第\n<Tag_36><Tag_37>ジャンプしまくれば<Tag_38><Tag_39> いいのさ。<Tag_40><Tag_41>いつかは ポココっと\nぶつかるだろ。<Tag_42><Tag_43><Tag_44>ジャンプ…<Tag_45> <Tag_46>得意なんだろ…？<Tag_47><Tag_48>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 58 30 64 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 57 30
+      Tag_32:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_33:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 66 30 42 30
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 60 30 44 30
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_37:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_38:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_39:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_40:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_41:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_42:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_43:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_44:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_45:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_46:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 68 30 4f 30 44 30
+      Tag_47:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_48:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_36:
+    Contents: <Tag_0>コー<Tag_1>イー<Tag_2>ン。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_37:
+    Contents: "<Tag_0>みっともねぇ\nマネするんじゃねぇ…！<Tag_1><Tag_2><Tag_3>いくぞ…！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_38:
+    Contents: "<Tag_0>それじゃあな… がんばって\nのこりの３つ <Tag_1>見つけてやってくれよ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_00:
+    Contents: "<Tag_0><Tag_1><Tag_2>ピーチ<Tag_3>城のアタックパーツを\nいっぺんに<Tag_4>７<Tag_5><Tag_6><Tag_7>個<Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13>ピーチ<Tag_14>城のアタックパーツは\nのこりあと<Tag_15><Tag_16>３<Tag_17><Tag_18><Tag_19>個だ！<Tag_20><Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_GPeach_04_Gpeach_pata_01:
+    Contents: <Tag_0>ヘイ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_02:
+    Contents: <Tag_0>ヘへへーイ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_03:
+    Contents: "<Tag_0><Tag_1>元気そうだな…<Tag_2>\nなによりだ。<Tag_3><Tag_4>コウラの<Tag_5>重み…<Tag_6>\n<Tag_7>味わって いるかい？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 52 30 93 30 4d 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 58 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_04:
+    Contents: "<Tag_0>いちおう <Tag_1>断っておくが…\nここも オレらのテリトリーなんだ…<Tag_2><Tag_3><Tag_4>今おめーさんが <Tag_5>叩いたブロック…<Tag_6>\nけっこーな <Tag_7>価値があるぜ…<Tag_8><Tag_9>そう… その７つのパーツ…<Tag_10>\n<Tag_11>全部 オレらのものなんだ…<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 53 30 68 30 8f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 4b 30 61 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_05:
+    Contents: <Tag_0>かー<Tag_1>えー<Tag_2>せ。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_06:
+    Contents: "<Tag_0><Tag_1>返せなんて ちいせぇこたぁ\n<Tag_2>言わねぇよ…<Tag_3><Tag_4>そう…<Tag_5> むしろ\n<Tag_6>持っていってくれや…<Tag_7><Tag_8><Tag_9><Tag_10>クックック…<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 48 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_20:
+    Contents: "<Tag_0>ん？ <Tag_1>３０<Tag_2>コインぽっちで\nいいのか だって？<Tag_3><Tag_4>なにぃ…？<Tag_5>\nちょっと<Tag_6>待て。<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_21:
+    Contents: "<Tag_0>おい…<Tag_1> こいつら\n<Tag_2>３０<Tag_3>コインじゃ ビビらないぞ…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_GPeach_04_Gpeach_pata_22:
+    Contents: "<Tag_0><Tag_1>見た<Tag_2>目とは うらはらに\nセレブかも しれないッスよ！<Tag_3><Tag_4><Tag_5>３００<Tag_6>コインとか <Tag_7>要求しちゃっても\nいいかもしれないッス！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 88 30 46 30 4d 30 85 30 46 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

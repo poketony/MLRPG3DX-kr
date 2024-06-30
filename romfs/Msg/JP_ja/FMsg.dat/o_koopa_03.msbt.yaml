@@ -1,0 +1,453 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SKoopa_03_SK2nd_kuribo_01:
+    Contents: "<Tag_0><Tag_1>ゲラコビッツ<Tag_2>様のサイン<Tag_3>会なら\nもう <Tag_4>終わったよ。<Tag_5><Tag_6><Tag_7>ほしいなら コンサートの<Tag_8>前に\n<Tag_9>言ってくれなきゃ。<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_03_Skoopa_03_kuribo01_talk:
+    Contents: "<Tag_0><Tag_1>ゲラコビッツ<Tag_2>様の サインなら\nコンサートの<Tag_3>後で もらいな！\n<Tag_4>今は <Tag_5>準備でいそがしいんだ！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 85 30 93 30 73 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_03_Skoopa_03_pata01_talk:
+    Contents: "<Tag_0><Tag_1>キノコ<Tag_2>王国のせいふくを たくらむ\nゲラコビッツ<Tag_3>様が どうして\nコンサートを <Tag_4>開くかって？<Tag_5><Tag_6><Tag_7>さぁ…\nただの シュミじゃない？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 89 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_03_Skoopa_03_noko01_talk:
+    Contents: "<Tag_0><Tag_1>この<Tag_2>城はね ゲラコビッツ<Tag_3>様の\nスペシャル<Tag_4>改造によって なんと\n<Tag_5>空を<Tag_6>飛べるんだよ！ すごい！<Tag_7><Tag_8><Tag_9>さっきも <Tag_10>少し<Tag_11>飛び<Tag_12>上がった\nらしいんだけど ボクはひるねしてて\nわからなかったんだ…<Tag_13><Tag_14><Tag_15>あー <Tag_16>残念！！<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 5e 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 89 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 56 30 93 30 6d 30 93 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_03_Skoopa_03_karon01_talk:
+    Contents: "<Tag_0><Tag_1>ゲラコビッツ<Tag_2>様の すばらしさを\n<Tag_3>知らしめるためにも このシアターを\nもっと <Tag_4>宣伝しなくっちゃ！<Tag_5><Tag_6><Tag_7><Tag_8>次は <Tag_9>友達をいっぱい<Tag_10>連れてきてね！<Tag_11>\nあ… <Tag_12>友達<Tag_13>いる…？<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 93 30 67 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 82 30 60 30 61 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 64 30
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 82 30 60 30 61 30
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_03_SK2nd_teresa_01:
+    Contents: "<Tag_0><Tag_1>はぁ～ コンサートは\n<Tag_2>楽しかったけど つかれた～<Tag_3><Tag_4><Tag_5>でも このまま\n<Tag_6>次のコンサートの チケットを\n<Tag_7>取りに <Tag_8>行かなきゃ！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_03_Skoopa_03_teresa01_talk:
+    Contents: "<Tag_0><Tag_1>ゲラコビッツ<Tag_2>様の どこがいいかって<Tag_3>\nそんなの あのプリティデザインの\nグルグルメガネに <Tag_4>決まってるよ！<Tag_5><Tag_6><Tag_7><Tag_8>世界のうつりかわりを\n<Tag_9>表現した あのデザイン。\nあれこそ <Tag_10>最高の<Tag_11>宝物さ！<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5b 30 4b 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 72 30 87 30 46 30 52 30 93 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 53 30 46 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_03_Skoopa_03_noko02_talk:
+    Contents: "<Tag_0><Tag_1>ゲラコビッツ<Tag_2>様の どこがいいかって<Tag_3>\nそりゃ あのきれいに みがかれた\n<Tag_4>歯に<Tag_5>決まってるじゃないか！<Tag_6><Tag_7><Tag_8>この<Tag_9>世の<Tag_10>真実を うつし<Tag_11>出すような\n<Tag_12>一点のくもりもない すき<Tag_13>通る<Tag_14>歯。\nあれこそ この<Tag_15>世の<Tag_16>宝物だね！<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 58 30 64 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 63 30 66 30 93 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4a 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6f 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

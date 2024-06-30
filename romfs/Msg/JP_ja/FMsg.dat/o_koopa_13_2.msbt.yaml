@@ -1,0 +1,3325 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SKoopa_13_2_Skoopa_13_a_dislike:
+    Contents: "<Tag_0><Tag_1>なに？\n<Tag_2>今の ワガハイの<Tag_3>体型？<Tag_4><Tag_5><Tag_6><Tag_7>そんなことは…<Tag_8><Tag_9><Tag_10><Tag_11><Tag_12>みればわかるだろ～～っ！！<Tag_13><Tag_14><Tag_15><Tag_16><Tag_17>こんな<Tag_18>体では わるさをしたくても\nできないじゃないか！<Tag_19><Tag_20>このままでは はずかしくて\nピーチ<Tag_21>姫達の<Tag_22>前に あらわれる\nことすら できないぞ！<Tag_23><Tag_24><Tag_25>特にマリオ！ あいつの\n<Tag_26>前にだけは この<Tag_27>姿では\n<Tag_28>絶対に <Tag_29>出たくはないぞ！<Tag_30><Tag_31>…しかし <Tag_32>考えようによっては\n<Tag_33>今のワガハイの<Tag_34>体重で マリオを\nペチャンコに できそうだな。<Tag_35><Tag_36>ガハハハハ！\n<Tag_37>我ながら <Tag_38>前向きな\nアイディアだな！！<Tag_39><Tag_40>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 51 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 1
+        Parameters: 00 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_12:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_17:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 5f 30 61 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4f 30
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 59 30 4c 30 5f 30
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5c 30 63 30 5f 30 44 30
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_30:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_31:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 93 30 4c 30
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 44 30 58 30 85 30 46 30
+      Tag_35:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_38:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7e 30 48 30 80 30
+      Tag_39:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_40:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_18_01:
+    Contents: "<Tag_0><Tag_1>…あ ドンびきしたびん？<Tag_2><Tag_3>わしわしサギに ダマされないとは\nすみにおけないやつびん。<Tag_4><Tag_5>さて <Tag_6>気を<Tag_7>取りなおして いくつか \n<Tag_8>質問に <Tag_9>答えてもらうびん！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 5f 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_18_02:
+    Contents: "<Tag_0>まぁ <Tag_1>気にしないで また\nいくつか <Tag_2>質問に<Tag_3>答えてもらうびん！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 5f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_08:
+    Contents: "<Tag_0>あ～ もしもし クッパかい？\nわしの<Tag_1>声が <Tag_2>聞こえるかのぉ？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 48 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_koopa_01:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ヌガアアアア！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_SKoopa_13_2_SK13_koopa_02:
+    Contents: <Tag_0><Tag_1><Tag_2>ハァ<Tag_3> ハァ<Tag_4> ハァ…<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_koopa_03:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>大魔王クッパとも あろうものが…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 60 30 44 30 7e 30 4a 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_koopa_04:
+    Contents: <Tag_0><Tag_1><Tag_2>な なんだ？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_koopa_05:
+    Contents: "<Tag_0><Tag_1>ハラのあたりが モワモワと…<Tag_2>\nへんな<Tag_3>感じだ…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_geraco_01:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ふるるるるるるる！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_SKoopa_13_2_SK13_koopa_06:
+    Contents: <Tag_0><Tag_1><Tag_2>その<Tag_3>声は ゲラコビッツ！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 48 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_20:
+    Contents: "<Tag_0><Tag_1>あ…<Tag_2><Tag_3>コイン<Tag_4>足りないびん…\nクッパの<Tag_5>体もカネしだい…<Tag_6><Tag_7><Tag_8>残念だけど クッパへの<Tag_9>質問は\nできないびん！！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 56 30 93 30 6d 30 93 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_koopa_07:
+    Contents: <Tag_0><Tag_1><Tag_2>くっそ～～～！！<Tag_3><Tag_4><Tag_5><Tag_6>オマエら <Tag_7>下で なにをしてるんだ！？<Tag_8>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_koopa_08:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>予定だと！？<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 66 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_a_drink:
+    Contents: "<Tag_0>なに？\nクッパ<Tag_1>城について <Tag_2>聞きたい？\nクッパ<Tag_3>城は ワガハイじまんの<Tag_4>城だ！<Tag_5><Tag_6>この<Tag_7>城を <Tag_8>遠くからながめると\nそのパワフルで ゴージャスな\nデザインに <Tag_9>思わずクラクラするな！<Tag_10><Tag_11><Tag_12>まるで <Tag_13>自分自身を<Tag_14>見ているようだ！<Tag_15><Tag_16>しかも この<Tag_17>城の<Tag_18>地下には\n<Tag_19>宝物をたくさん しまっている\n<Tag_20>金庫室が あるのだ！<Tag_21><Tag_22>ワガハイが あちらこちらで\n<Tag_23>強引に <Tag_24>手にいれた\n<Tag_25>宝物がねむっているぞ！<Tag_26><Tag_27>しかし… そんな ワガハイじまんの\nこの<Tag_28>城を ゲラコビッツめ！\n<Tag_29>勝手に <Tag_30>作りかえやがって！！<Tag_31><Tag_32>ゲラコビッツシアターと <Tag_33>呼んでいた\nあの<Tag_34>大きい<Tag_35>部屋は クッパ<Tag_36>軍団の\nトレーニングルームだったんだぞ！<Tag_37><Tag_38>ゲラコビッツめ！ <Tag_39>絶対にゆるさん！！\nここから<Tag_40>抜け<Tag_41>出したら あの<Tag_42>部屋は\nクッパシアターに かえてやる！！<Tag_43>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4a 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0c 00 58 30 76 30 93 30 58 30 57 30 93 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 61 30 4b 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 4d 30 93 30 53 30 57 30 64 30
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 54 30 46 30 44 30 93 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 4b 30 89 30 82 30 6e 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 63 30 66 30
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_31:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_32:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_36:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_37:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_38:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_39:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5c 30 63 30 5f 30 44 30
+      Tag_40:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6c 30
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_42:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_43:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_09_01:
+    Contents: "<Tag_0>ムッ？ だれだ！？\nだれが <Tag_1>話しかけてるんだ？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_koopa_09:
+    Contents: "<Tag_0><Tag_1>なにっ！？ ピーチ<Tag_2>姫！？<Tag_3><Tag_4><Tag_5>ワガハイが ピーチ<Tag_6>姫を\n<Tag_7>吸い<Tag_8>込んだだとっ！？<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_09_02:
+    Contents: "<Tag_0>…なんだ？\nまた わけのわからんやつか！？<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_koopa_03_2:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>自分の<Tag_4>城で <Tag_5>床にはまって…<Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 86 30 4b 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_ystar_01_2:
+    Contents: "<Tag_0><Tag_1>まんまと ゲラコビッツ<Tag_2>達の\nワナに はまったみたいね！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_koopa_03_3:
+    Contents: <Tag_0><Tag_1><Tag_2>もがいてるなんて…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_teresa_10:
+    Contents: "<Tag_0><Tag_1>ケケケケ<Tag_2> <Tag_3>気のせいでございます～\nさあ さあ どんどん めし<Tag_4>上がれ～！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_teresa_11:
+    Contents: "<Tag_0><Tag_1>ケケケケ<Tag_2> <Tag_3>気のせいですって～\nさあ！ もっともっと めし<Tag_4>上がれ～！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_08:
+    Contents: "<Tag_0><Tag_1>ムッ！ なんだか\nワガハイの<Tag_2>体 おかしくないか？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_teresa_12:
+    Contents: "<Tag_0><Tag_1>わぁ ホント！！\nケケケケ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_09:
+    Contents: "<Tag_0><Tag_1>お おいっ！\nやはり おかしいんじゃないか！？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_teresa_13:
+    Contents: "<Tag_0><Tag_1>ゲラコビッツ<Tag_2>様 <Tag_3>特製の\n<Tag_4>高カロリー <Tag_5>高脂肪な<Tag_6>料理を\nあれだけ <Tag_7>食べたんですもの…<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 5b 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 53 30 46 30 57 30 7c 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8a 30 87 30 46 30 8a 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_teresa_14:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>太るのも あたりまえですね～！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 68 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_teresa_15:
+    Contents: <Tag_0><Tag_1><Tag_2>ほ～んと <Tag_3>見事な<Tag_4>太りっぷり！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7f 30 54 30 68 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 68 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_teresa_16:
+    Contents: "<Tag_0><Tag_1>でも こっちのほうが\nクッパ<Tag_2>様 らしいかもね～！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_ystar_01:
+    Contents: "<Tag_0><Tag_1>はいはい。\n<Tag_2>聞こえてるわよ。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_ystar_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>あはははは！！<Tag_3><Tag_4><Tag_5><Tag_6>じゃあ あなたが<Tag_7>自分で\nダイエットすれば いいんじゃない？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_ystar_04:
+    Contents: "<Tag_0><Tag_1>さぁ…\nどうしようかしら…<Tag_2><Tag_3><Tag_4>まぁ <Tag_5>気が<Tag_6>向いたら\nなんとかしてあげるわ！<Tag_7><Tag_8><Tag_9><Tag_10>じゃあね～！<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 80 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_ystar_06:
+    Contents: "<Tag_0><Tag_1>これだけ <Tag_2>太ったんなら\n<Tag_3>体の<Tag_4>中のどこかにも <Tag_5>変化が\n<Tag_6>起きてるはずだわ…<Tag_7><Tag_8><Tag_9>この<Tag_10>機会に ピーチ<Tag_11>姫を\n<Tag_12>探しに<Tag_13>歩き<Tag_14>回ってみましょう！<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 78 30 93 30 4b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 4b 30 44 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 8b 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_10:
+    Contents: "<Tag_0>わしじゃ！！\nオマエの<Tag_1>体の<Tag_2>中にいる わしじゃよ。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_11:
+    Contents: "<Tag_0>ワガハイの <Tag_1>体の<Tag_2>中のわしだと？\nチッピーじゃないのか？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_12:
+    Contents: "<Tag_0>わしじゃよ！ わしがわからんのか？\nこのわしが <Tag_1>本当にわからんか？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_13:
+    Contents: "<Tag_0>うるさいわっ！！！\nわしだけじゃ わからん！！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_14:
+    Contents: "<Tag_0><Tag_1>あ～ なんてなさけない…<Tag_2><Tag_3>この<Tag_4>年老いたわしを <Tag_5>忘れるなんて\n<Tag_6>恩知らずな やつじゃ。<Tag_7><Tag_8><Tag_9>わしは オマエを そのように<Tag_10>育てた\n<Tag_11>覚えはないぞ… <Tag_12>ゴホゴホ…<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 68 30 57 30 4a 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4a 30 93 30 57 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 60 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 7c 30
+      Tag_12:
+        Group: 0
+        Type: 1
+        Parameters: 00 00
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_15:
+    Contents: "<Tag_0><Tag_1>だ～か～ら～！\n<Tag_2>だれだ～～っ！？<Tag_3><Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_a_eat:
+    Contents: "<Tag_0><Tag_1>なに？\nワガハイの<Tag_2>体の<Tag_3>調子？<Tag_4><Tag_5><Tag_6>まぁ… ふつうだな。<Tag_7><Tag_8><Tag_9>わるいところはないが\n<Tag_10>少しノドが かわいてきたな…<Tag_11><Tag_12><Tag_13>そういえば<Tag_14>少し <Tag_15>頭もボーッと\nしてきたような <Tag_16>気がするぞ。<Tag_17><Tag_18>う～む… なんだか<Tag_19>気にし<Tag_20>始めたら\n<Tag_21>体の いろんなところが\nおかしいような <Tag_22>気がしてきたぞ！<Tag_23><Tag_24><Tag_25>ワガハイの お<Tag_26>腹の<Tag_27>調子も\nなんだか ゴロゴロしてきたな。<Tag_28><Tag_29>ここで たくさん<Tag_30>食う<Tag_31>前に\n<Tag_32>森で ギガニンジンを\n<Tag_33>食いまくったのが <Tag_34>原因だな！<Tag_35><Tag_36><Tag_37>も もう この<Tag_38>話は やめだ！<Tag_39><Tag_40><Tag_41>これ<Tag_42>以上 <Tag_43>気にしすぎると\n<Tag_44>本当に<Tag_45>調子が わるくなりそうだ！<Tag_46>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 7e 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 44 30 93 30
+      Tag_35:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_37:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_38:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_39:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_40:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_41:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_42:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 58 30 87 30 46 30
+      Tag_43:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_44:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+      Tag_45:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_46:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_17:
+    Contents: <Tag_0>…………<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_koopa_10:
+    Contents: "<Tag_0><Tag_1>どういうことだっ！？<Tag_2><Tag_3>ピーチ<Tag_4>姫が ワガハイの\n<Tag_5>体の<Tag_6>中に！？<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_teresa_02:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ケケケケ！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_SK13_koopa_11:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ぐわあああああああっ！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_SKoopa_13_2_SK13_koopa_12:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>あがががががが！！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_SKoopa_13_2_Skoopa_13_a_health:
+    Contents: "<Tag_0><Tag_1>なに？ ゲラコビッツを\n<Tag_2>倒す<Tag_3>方法についてだと？<Tag_4><Tag_5><Tag_6>ガハハハハ！ もちろん\nいろいろと <Tag_7>考えているぞ！！<Tag_8><Tag_9>もう１<Tag_10>度 ゲラコビッツシアターの\nステージに<Tag_11>上がって こんどは\nゲラコビッツと バトルするのだ！<Tag_12><Tag_13>あいつが どんな<Tag_14>手を<Tag_15>使ってきても\nワガハイの<Tag_16>吸いこみで すぐに\n<Tag_17>決着がつくはずだぞ！！<Tag_18><Tag_19><Tag_20>あいつが へんな<Tag_21>乗り<Tag_22>物で\n<Tag_23>飛んで<Tag_24>逃げようとしても ムダだ！<Tag_25><Tag_26>パタパタ<Tag_27>軍団が いてくれれば\n<Tag_28>飛んで<Tag_29>逃げても あっというまに\n<Tag_30>追いつけるぞ！<Tag_31><Tag_32><Tag_33>そういえば あいつはへんなマシンを\nいろいろ <Tag_34>使っているようだが…<Tag_35><Tag_36><Tag_37>これも ボムへい<Tag_38>達を<Tag_39>使って\nドカ～ン！と <Tag_40>全部こわしてやる！<Tag_41><Tag_42>ガハハハハ！ ワガハイをなめるなよ！\nしかし… まずはここから\n<Tag_43>抜け<Tag_44>出すことが <Tag_45>先なんだが…<Tag_46>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 7b 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 93 30 4c 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 51 30 63 30 61 30 83 30 4f 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 6e 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6b 30
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6b 30
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_31:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_32:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_33:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_35:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_37:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_38:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_39:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_40:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_41:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_42:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_43:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6c 30
+      Tag_44:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_45:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_46:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_teresa_08:
+    Contents: "<Tag_0><Tag_1>さあ おクチを<Tag_2>開けて～\nあ～ん！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_teresa_09:
+    Contents: "<Tag_0><Tag_1>さあ！ もっと<Tag_2>食べて～\nあ～ん！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_10:
+    Contents: "<Tag_0><Tag_1>まっ <Tag_2>待てっ！！\nもう <Tag_3>食わせるな！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_11:
+    Contents: "<Tag_0><Tag_1>お おいっ！ ワガハイの<Tag_2>体…<Tag_3><Tag_4>どう<Tag_5>見ても コロコロの\nブクブクではないか！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_12:
+    Contents: <Tag_0><Tag_1><Tag_2>オ オマエら！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_13:
+    Contents: "<Tag_0><Tag_1>もしや <Tag_2>最初から\nこうなることを わかってて\nワガハイに <Tag_3>食べさせたのか～！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 57 30 87 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_14:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ンガアアアアアアア！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_SKoopa_13_2_Skoopa_13_quiz_16_01:
+    Contents: "<Tag_0><Tag_1>わしじゃよ！ わしだってば！！<Tag_2><Tag_3>わしわしわしわしわしわしわしわし\nわしわしわしわしわしわしわしわし<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_a_season:
+    Contents: "<Tag_0><Tag_1>なに？ ワガハイの<Tag_2>体の<Tag_3>中にいる\nチッピーについて どう<Tag_4>思うかだと？<Tag_5><Tag_6>そうだな… あれこれワガハイに\nうるさく <Tag_7>言ってくるのが\n<Tag_8>気に<Tag_9>入らないな！<Tag_10><Tag_11><Tag_12>エラそうな クチのききかたにも\nときどき ムカつくこともあるぞ！<Tag_13><Tag_14>そもそも いったいあいつは\n<Tag_15>何者なんだ？ いつから\nワガハイの <Tag_16>体の<Tag_17>中にいるのだ？<Tag_18><Tag_19><Tag_20>１<Tag_21>度 どんなやつか<Tag_22>見てみたいな。<Tag_23><Tag_24>しかし あいつのおかげで\nワガハイの <Tag_25>体のわるいところも\nなおっているようだから…<Tag_26><Tag_27>もうしばらくは ワガハイの\n<Tag_28>体の<Tag_29>中で はたらいてもらうぞ！\nガハハハハ！<Tag_30>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 6b 30 82 30 6e 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_30:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_15:
+    Contents: "<Tag_0><Tag_1>お おい！ チッピー！\n<Tag_2>聞こえるか～！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_16_02:
+    Contents: <Tag_0>わ<Tag_1> し<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 19 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_SKoopa_13_2_Skoopa_13_koopa_16:
+    Contents: <Tag_0><Tag_1><Tag_2>う うるさいっ！！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_19_01:
+    Contents: "<Tag_0><Tag_1>さあ クッパに どの<Tag_2>質問をするびん？\n（<Tag_3>手数料 １<Tag_4>回<Tag_5>５<Tag_6><Tag_7>コイン <Tag_8>税<Tag_9>込み）<Tag_10>\n<Tag_11><Tag_12><Tag_13><Tag_14><Tag_15>体の<Tag_16>調子<Tag_17><Tag_18>について\n<Tag_19><Tag_20><Tag_21><Tag_22>クッパ<Tag_23>城<Tag_24><Tag_25>について\n<Tag_26><Tag_27><Tag_28>質問をやめる<Tag_29><Tag_30>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 66 30 59 30 46 30 8a 30 87 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5c 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_20:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_27:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_30:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_17:
+    Contents: "<Tag_0><Tag_1>それより はやく\nワガハイを もとの<Tag_2>姿にもどせ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 59 30 4c 30 5f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_19_02:
+    Contents: "<Tag_0><Tag_1>さあ クッパに どの<Tag_2>質問をするびん？\n（<Tag_3>手数料 １<Tag_4>回<Tag_5>５<Tag_6><Tag_7>コイン <Tag_8>税<Tag_9>込み）<Tag_10>\n<Tag_11><Tag_12><Tag_13><Tag_14><Tag_15>体の<Tag_16>調子<Tag_17><Tag_18>について\n<Tag_19><Tag_20><Tag_21><Tag_22>クッパ<Tag_23>城<Tag_24><Tag_25>について\n<Tag_26><Tag_27><Tag_28><Tag_29>ゲラコビッツの<Tag_30>料理<Tag_31><Tag_32>について\n<Tag_33><Tag_34><Tag_35><Tag_36><Tag_37>体内のチッピー<Tag_38><Tag_39>について\n<Tag_40><Tag_41><Tag_42>質問をやめる<Tag_43><Tag_44>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 66 30 59 30 46 30 8a 30 87 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5c 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_20:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_27:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8a 30 87 30 46 30 8a 30
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_33:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_34:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_35:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_37:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 6a 30 44 30
+      Tag_38:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_39:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_40:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_41:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_42:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_43:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_44:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_18:
+    Contents: "<Tag_0><Tag_1><Tag_2>床にはまって <Tag_3>身動きできないんだ！\nオマエが なんとかしろ！！<Tag_4><Tag_5><Tag_6>ムダにふえた <Tag_7>脂肪を<Tag_8>燃やせ！！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 86 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7f 30 46 30 54 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 7c 30 46 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_19_03:
+    Contents: "<Tag_0><Tag_1>さあ クッパに どの<Tag_2>質問をするびん？\n（<Tag_3>手数料 １<Tag_4>回<Tag_5>５<Tag_6><Tag_7>コイン <Tag_8>税<Tag_9>込み）<Tag_10>\n<Tag_11><Tag_12><Tag_13>今の<Tag_14><Tag_15><Tag_16>自分の<Tag_17>体型<Tag_18><Tag_19>について\n<Tag_20><Tag_21>ゲラコビッツを<Tag_22><Tag_23><Tag_24>倒す<Tag_25>方法\n<Tag_26><Tag_27><Tag_28><Tag_29><Tag_30><Tag_31><Tag_32>体内のチッピー<Tag_33><Tag_34>について\n<Tag_35><Tag_36><Tag_37>次の<Tag_38>質問のページへ\n<Tag_39><Tag_40><Tag_41>質問をやめる<Tag_42><Tag_43>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 66 30 59 30 46 30 8a 30 87 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5c 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 51 30 44 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_21:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 7b 30 46 30
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_28:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_29:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 6a 30 44 30
+      Tag_33:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_35:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_36:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_38:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_39:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_40:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_42:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_43:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_19:
+    Contents: "<Tag_0><Tag_1>お おいっ！\nなんとかしろ～～！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_quiz_19_04:
+    Contents: "<Tag_0><Tag_1>さあ クッパに どの<Tag_2>質問をするびん？\n（<Tag_3>手数料 １<Tag_4>回<Tag_5>５<Tag_6><Tag_7>コイン <Tag_8>税<Tag_9>込み）<Tag_10>\n<Tag_11><Tag_12><Tag_13><Tag_14><Tag_15>体の<Tag_16>調子<Tag_17><Tag_18>について\n<Tag_19><Tag_20><Tag_21><Tag_22>クッパ<Tag_23>城<Tag_24><Tag_25>について\n<Tag_26><Tag_27><Tag_28><Tag_29>ゲラコビッツの<Tag_30>料理<Tag_31><Tag_32>について\n<Tag_33><Tag_34><Tag_35>前の<Tag_36>質問のページへ\n<Tag_37><Tag_38><Tag_39>質問をやめる<Tag_40><Tag_41>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 66 30 59 30 46 30 8a 30 87 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5c 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_20:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_27:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8a 30 87 30 46 30 8a 30
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_33:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_34:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_36:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_37:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_38:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_39:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 82 30 93 30
+      Tag_40:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_41:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_a_sports:
+    Contents: "<Tag_0><Tag_1>なに？\nゲラコビッツの <Tag_2>料理の<Tag_3>味だと？<Tag_4><Tag_5><Tag_6>あんなやつの<Tag_7>作った <Tag_8>料理など\nマズくて <Tag_9>食えたものではないぞ！！<Tag_10><Tag_11>…と <Tag_12>言いたいところだが\n<Tag_13>本当は <Tag_14>信じられないぐらい\nうまい<Tag_15>味付けだったぞ！！<Tag_16><Tag_17><Tag_18><Tag_19>特に<Tag_20>気に<Tag_21>入ったのは カラく\n<Tag_22>味付けされた チキンだな！<Tag_23><Tag_24>カラさの<Tag_25>中にも まろやかさと\nコクがあって いくらでも\n<Tag_26>食えそうな <Tag_27>味付けだったな！<Tag_28><Tag_29><Tag_30>それに あのケーキの<Tag_31>味も\n<Tag_32>最高だったな！！<Tag_33><Tag_34>こってりしたクリームが ふわふわの\nスポンジと クチの<Tag_35>中でとけあって\n<Tag_36>夢のような <Tag_37>気分になるのだ。<Tag_38><Tag_39><Tag_40>あいつに あんな<Tag_41>料理の<Tag_42>才能が\nあったとは おどろきだな！<Tag_43>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8a 30 87 30 46 30 8a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 58 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8a 30 87 30 46 30 8a 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 93 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 58 30 64 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4f 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 58 30 64 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 58 30 64 30
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_30:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 58 30
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 53 30 46 30
+      Tag_33:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_36:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 86 30 81 30
+      Tag_37:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 76 30 93 30
+      Tag_38:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_39:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_40:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8a 30 87 30 46 30 8a 30
+      Tag_42:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 6e 30 46 30
+      Tag_43:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SKoopa_13_2_Skoopa_13_koopa_14_2:
+    Contents: <Tag_0><Tag_1><Tag_2>ハァ<Tag_3> ハァ<Tag_4> ハァ…<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 6

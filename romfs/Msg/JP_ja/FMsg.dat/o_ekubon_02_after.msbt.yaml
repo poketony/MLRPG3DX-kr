@@ -1,0 +1,2630 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_21:
+    Contents: "<Tag_0>ウェーーイト！<Tag_1>\nお<Tag_2>待ちください！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_22:
+    Contents: "<Tag_0>なんだ？<Tag_1>\nまだ なにかあるのか？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_23:
+    Contents: "<Tag_0>ムッシュ～が\n<Tag_1>強く やさしいことをみこんで…<Tag_2><Tag_3><Tag_4><Tag_5>お<Tag_6>願いがあります！！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_24:
+    Contents: "<Tag_0>ワガハイは いそがしいんだ！<Tag_1>\nさっさと<Tag_2>言え！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_work_omit_00:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>=== 仮・未実装 ===\n<Tag_4><Tag_5><Tag_6>イベントが仮または未実装の<Tag_7>状態です。<Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 5f 30 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_1:
+    Contents: "<Tag_0>オウ！<Tag_1> ブロキャット<Tag_2>ちゃんを\n<Tag_3>連れてきてくれた みたいですね！<Tag_4><Tag_5>サンキュー！ メルシー！\n<Tag_6>ブロキャット<Tag_7>ちゃん おいで～！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 64 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_2:
+    Contents: <Tag_0>きたいしていますよ！ ムッシュ～！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_20:
+    Contents: <Tag_0>なんだ？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_05_d:
+    Contents: "<Tag_0><Tag_1>メーアイ ヘルプ ユ～？<Tag_2><Tag_3><Tag_4><Tag_5>アイテム<Tag_6>を<Tag_7>買う\n<Tag_8><Tag_9>バトルについて <Tag_10>聞く\n<Tag_11><Tag_12>とくに<Tag_13>用はない<Tag_14><Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 46 30
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_21:
+    Contents: "<Tag_0>ブロドッグちゃんってば\nそんなに はしゃいじゃって！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_01:
+    Contents: <Tag_0>ガルルルルル…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_05_e:
+    Contents: "<Tag_0><Tag_1>ミーが アイテムもそうび<Tag_2>品も\nケアー しますよ～！！<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7><Tag_8>買い<Tag_9>物をする\n<Tag_10><Tag_11>バトルについて <Tag_12>聞く\n<Tag_13><Tag_14>とくに<Tag_15>用はない<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 6e 30
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 46 30
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_22:
+    Contents: <Tag_0>おい。なんなんだ？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_02:
+    Contents: "<Tag_0>ビー クワイエ～ット<Tag_1>\nブロドッグちゃ～ん。<Tag_2><Tag_3>お<Tag_4>客さんが\n<Tag_5>逃げちゃうでしょ～<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4d 30 83 30 4f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6b 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_23:
+    Contents: "<Tag_0>さんぽに <Tag_1>連れてってくれんだろ！<Tag_2>\nはやく<Tag_3>行こうぜ！ ベイビー！<Tag_4><Tag_5>ブロドッグちゃんは\nそう <Tag_6>言っているのです！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 64 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_03:
+    Contents: "<Tag_0>オウ<Tag_1> ムッシュ～！<Tag_2>\nこう<Tag_3>何度も お<Tag_4>会いすると\n<Tag_5>運命的なものを <Tag_6>感じますね。<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 93 30 69 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 46 30 93 30 81 30 44 30 66 30 4d 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 93 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_05_g:
+    Contents: "<Tag_0><Tag_1>まず <Tag_2>カゼ<Tag_3><Tag_4>！<Tag_5> <Tag_6><Tag_7>カゼ<Tag_8><Tag_9>に<Tag_10>注意です！<Tag_11><Tag_12><Tag_13><Tag_14>カゼ<Tag_15><Tag_16>をひくと <Tag_17>行動を<Tag_18>起こすたびに\n<Tag_19><Tag_20>HP<Tag_21><Tag_22>が <Tag_23>減っていってしまいます！<Tag_24><Tag_25><Tag_26><Tag_27>カゼ<Tag_28><Tag_29>になったら\n<Tag_30><Tag_31>リフレッシュハーブ<Tag_32><Tag_33>を <Tag_34>飲みましょう！<Tag_35><Tag_36>ウチにも おいてあります！\nぜひ お<Tag_37>買い<Tag_38>上げシルブプレ！<Tag_39><Tag_40>それから <Tag_41><Tag_42>おこり<Tag_43><Tag_44>すぎに <Tag_45>注意です！<Tag_46><Tag_47><Tag_48><Tag_49>攻撃を <Tag_50>受けつづけると\nイライラと ストレスがたまります！<Tag_51><Tag_52>イライラが <Tag_53>頂点に<Tag_54>達すると…\nそう！ <Tag_55><Tag_56>おこり<Tag_57><Tag_58>ます！<Tag_59><Tag_60><Tag_61><Tag_62>おこる<Tag_63><Tag_64>と <Tag_65><Tag_66>POW<Tag_67><Tag_68>が<Tag_69><Tag_70>アップ<Tag_71><Tag_72>するのです！\nモンスターも <Tag_73>倒しやすいでしょう！<Tag_74><Tag_75>バット！ しかし！ <Tag_76><Tag_77>おこる<Tag_78><Tag_79>と\n<Tag_80><Tag_81>DEF<Tag_82><Tag_83>は<Tag_84><Tag_85>ダウン<Tag_86><Tag_87>するのです！<Tag_88><Tag_89><Tag_90>倒しやすく！ <Tag_91>倒されやすい！\nデンジャラスな <Tag_92>状態なのです！<Tag_93><Tag_94>ブロドッグちゃんも おこりすぎで\nやられちゃうことがしばしば…<Tag_95><Tag_96>できれば いつでもハッピーに\n<Tag_97>笑っていたいものです…<Tag_98><Tag_99>ということで <Tag_100>攻撃を<Tag_101>受けつづけると\nおこりやすくなることに <Tag_102>注意です！<Tag_103><Tag_104>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 85 30 46 30 44 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 69 30 46 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_33:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_35:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_38:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_39:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_40:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_41:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_42:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_43:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_44:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_45:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 85 30 46 30 44 30
+      Tag_46:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_47:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_48:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_49:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_50:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_51:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_52:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_53:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 61 30 87 30 46 30 66 30 93 30
+      Tag_54:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 63 30
+      Tag_55:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_56:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_57:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_58:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_59:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_60:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_61:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_62:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_63:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_64:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_65:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_66:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_67:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_68:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_69:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_70:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_71:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_72:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_73:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_74:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_75:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_76:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_77:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_78:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_79:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_80:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_81:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_82:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_83:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_84:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_85:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_86:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_87:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_88:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_89:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_90:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_91:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_92:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 5f 30 44 30
+      Tag_93:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_94:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_95:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_96:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_97:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 89 30
+      Tag_98:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_99:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_100:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_101:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_102:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 85 30 46 30 44 30
+      Tag_103:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_104:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_24:
+    Contents: <Tag_0><Tag_1>役に <Tag_2>立つのか？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 84 30 4f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04:
+    Contents: "<Tag_0>ここで ミーがなにをしているか…<Tag_1>\nそれは そう<Tag_2>\nミーも いち<Tag_3>経営者なのです。<Tag_4><Tag_5>ブロドッグちゃんの <Tag_6>高い<Tag_7>高い\nお<Tag_8>食事代のために\n<Tag_9>ショップ<Tag_10><Tag_11>を オープニング！<Tag_12><Tag_13><Tag_14>さあ ムッシュ～<Tag_15>\nお<Tag_16>買い<Tag_17>上げ シルブプレ～<Tag_18><Tag_19>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 51 30 44 30 48 30 44 30 57 30 83 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 57 30 87 30 4f 30 58 30 60 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_2:
+    Contents: "<Tag_0>ア～ンド よろしかったら\nブロドッグちゃんにも <Tag_1>大好物の\nコインを あげてくださいな。<Tag_2><Tag_3><Tag_4>大好きな コインをあげれば\nナイスな <Tag_5>そうび<Tag_6>品<Tag_7><Tag_8>と\nトレードしてくれますよ メイビ～<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 60 30 44 30 53 30 46 30 76 30 64 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 59 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_05_h:
+    Contents: "<Tag_0>キノコ<Tag_1>王国には こわーい\nモンスターが うようよしています！<Tag_2><Tag_3>そんなやつらに <Tag_4>先に\nダメージをあたえる <Tag_5>方法があります！<Tag_6><Tag_7>そう！<Tag_8> バトルになる<Tag_9>前に\nいきなり パンチをブチ<Tag_10>当てるのです！<Tag_11><Tag_12>オア！<Tag_13> バトルになる<Tag_14>前に\nいきなり ほのおをはくのです！<Tag_15><Tag_16>モンスターの<Tag_17>動きを よーくルック！<Tag_18>\nスキあらば ガツーン！<Tag_19> ボワー！<Tag_20><Tag_21>これで ムッシュ～のバトルも\n<Tag_22>楽勝になること まちがいなしです！<Tag_23>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 7b 30 46 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_18:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_19:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 89 30 4f 30 57 30 87 30 46 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_25:
+    Contents: "<Tag_0><Tag_1><Tag_2>ブロドッグが <Tag_3>仲間になった！\nバトルで <Tag_4>ボコスカブロドッグ<Tag_5><Tag_6>が\n<Tag_7>使えるようになるぞ！<Tag_8><Tag_9><Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>練習して いきますか？<Tag_15>\n<Tag_16><Tag_17>いいえ<Tag_18><Tag_19>はい<Tag_20><Tag_21>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8c 30 93 30 57 30 85 30 46 30
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_16:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_19:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_21:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 12
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_3:
+    Contents: "<Tag_0>オウ！<Tag_1> それでは\nてみじかに <Tag_2>説明しましょう！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_05:
+    Contents: "<Tag_0><Tag_1>メーアイ ヘルプ ユ～？<Tag_2><Tag_3><Tag_4><Tag_5>アイテム<Tag_6>を<Tag_7>買う\n<Tag_8><Tag_9>ブロキャットについて\n<Tag_10><Tag_11>バトルについて <Tag_12>聞く\n<Tag_13><Tag_14>とくに<Tag_15>用はない<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 46 30
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_05_i:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>状態変化について <Tag_4>聞く\n<Tag_5><Tag_6><Tag_7>先制攻撃について <Tag_8>聞く\n<Tag_9><Tag_10>もどる<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 58 30 87 30 46 30 5f 30 44 30 78 30 93 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 5b 30 93 30 5b 30 44 30 53 30 46 30 52 30 4d 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_26:
+    Contents: "<Tag_0><Tag_1>ミーは とても<Tag_2>満足です！<Tag_3><Tag_4>ムッシュ～とは\nフォーエバー フレンドです！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7e 30 93 30 5e 30 4f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_4:
+    Contents: "<Tag_0>ご<Tag_1>存知のとおり ミーは\nいち ブロックコレクターです！<Tag_2><Tag_3>コレクターのあいだでも\nミーの<Tag_4>名を <Tag_5>知らない<Tag_6>者はいません！<Tag_7><Tag_8>そんなミーも まだ\n<Tag_9>手に<Tag_10>入れてない ブロックがあります！<Tag_11><Tag_12><Tag_13>それは <Tag_14>生きたブロック…<Tag_15><Tag_16><Tag_17><Tag_18><Tag_19><Tag_20><Tag_21>ブロキャット<Tag_22><Tag_23>ちゃん！！！<Tag_24><Tag_25><Tag_26><Tag_27>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5e 30 93 30 58 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6a 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 6e 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_27:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_27:
+    Contents: "<Tag_0>お<Tag_1>忘れですか？<Tag_2>\nブロドッグちゃんは <Tag_3>最強です！<Tag_4><Tag_5>ベリーファストな <Tag_6>動き！<Tag_7>\nベリーストロングな アタック！<Tag_8><Tag_9>そこらへんの<Tag_10>敵は あっというまに\nぶっとばすこと まちがいナシ！<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 55 30 44 30 4d 30 87 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_5:
+    Contents: "<Tag_0>ホンモノの かわいさたるや\nソーキュート！<Tag_1><Tag_2>いまミーは とにかく\n<Tag_3>ブロキャット<Tag_4><Tag_5>ちゃんが ほしい！<Tag_6><Tag_7>このお<Tag_8>店の マスコットキャラとして\nぜひとも <Tag_9>手に<Tag_10>入れたいのです！<Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_28:
+    Contents: "<Tag_0>そうか！ ならクッパ<Tag_1>軍団の<Tag_2>一員として\nたっぷり <Tag_3>使ってやるぞ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 61 30 44 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_07:
+    Contents: "<Tag_0>オウ！ マイ！<Tag_1>\nマリオさんですよね！<Tag_2><Tag_3>どこかで お<Tag_4>会いしたような…\nん～ <Tag_5>思い<Tag_6>出せませんね…<Tag_7><Tag_8>それは さておき\nバイ ザ ウェイ！！<Tag_9><Tag_10>あなた ブロックコレクターに\nベリーフェイマスです！<Tag_11><Tag_12>とにかく ブロック<Tag_13>叩いて\n<Tag_14>茶色くしちゃう…<Tag_15><Tag_16>ブロックだましいが\n<Tag_17>感じられない クレイジーガイ！<Tag_18><Tag_19>ブロックは １<Tag_20>度<Tag_21>叩くと\nその<Tag_22>価値 ナッスィング！<Tag_23><Tag_24>そんなあなたとは ゆうえきな\nトレードできませんね～<Tag_25><Tag_26>おととい カミング！\nアーイム ソーリーでーす。<Tag_27>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 83 30 44 30 8d 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 93 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 4b 30 61 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_27:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_6:
+    Contents: "<Tag_0>ブロドッグちゃんには <Tag_1>悪いのですが\nいまは <Tag_2>ブロキャット<Tag_3><Tag_4>ちゃん！<Tag_5><Tag_6>とにかく <Tag_7><Tag_8>ブロキャット<Tag_9><Tag_10>ちゃんが\nほしくて たまらんのです！！<Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8b 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_29:
+    Contents: <Tag_0>いくぞ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_08:
+    Contents: "<Tag_0>あなたとは ゆうえきな\nトレードできませんね～<Tag_1><Tag_2>おととい カミング！\nアーイム ソーリーでーす。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_7:
+    Contents: "<Tag_0>…ようするに レアなブロックの\n<Tag_1>ブロキャット<Tag_2><Tag_3>ちゃんを\nゲットしてきて ほしいのです～<Tag_4><Tag_5><Tag_6>やさしいジェントルマンなら\nOKしますよね！ ハイ！ <Tag_7>決定！<Tag_8><Tag_9>くわしい<Tag_10>話 <Tag_11>聞きますか？<Tag_12>\n<Tag_13><Tag_14>くわしい<Tag_15>話を<Tag_16>聞く\n<Tag_17><Tag_18>あとでいい<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 63 30 66 30 44 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_17:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_8:
+    Contents: "<Tag_0>さすが ジェントルマン！\nゲットする<Tag_1>気 まんまんですね！！<Tag_2><Tag_3>では <Tag_4>ブロキャット<Tag_5><Tag_6>ちゃんについて\n<Tag_7>説明いたしましょう～<Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_9:
+    Contents: "<Tag_0><Tag_1>オウ！ <Tag_2>説明なんて\nいらないと おっしゃる！<Tag_3><Tag_4>ほんとに だいじょうぶですか？<Tag_5>\n<Tag_6><Tag_7>くわしい<Tag_8>話を<Tag_9>聞く\n<Tag_10><Tag_11>あとでいい<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_10:
+    Contents: "<Tag_0>リアリー OK？<Tag_1>\n<Tag_2><Tag_3>くわしい<Tag_4>話を<Tag_5>聞く\n<Tag_6><Tag_7>あとでいい！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_11:
+    Contents: "<Tag_0>そうですか！ それならば\nムッシュ～に まかせちゃいます！<Tag_1><Tag_2>この<Tag_3>先 きっと<Tag_4>ブロキャット<Tag_5>ちゃんを\nゲットすることが あると<Tag_6>思います！<Tag_7><Tag_8>そのときは ミーのところへ\nいつでも カムバック！！<Tag_9><Tag_10>ムッシュ～に とっても\nプラスになること まちがいナシ！<Tag_11><Tag_12>くわしい<Tag_13>話が <Tag_14>聞きたかったら\nいつでも <Tag_15>話しますよ～！！<Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Shop_mes_bcat_menu_01:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>集めた<Tag_4>ブロキャット<Tag_5><Tag_6>を<Tag_7>見る\n<Tag_8><Tag_9><Tag_10><Tag_11>ブロキャット<Tag_12><Tag_13>ってなに？\n<Tag_14><Tag_15>もどる<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Shop_mes_bcat_menu_02:
+    Contents: "<Tag_0><Tag_1>ブロキャットちゃんの かわいさを\n<Tag_2>長～く <Tag_3>語っちゃいますよ～！<Tag_4>\n<Tag_5><Tag_6><Tag_7>聞かない<Tag_8><Tag_9><Tag_10>聞く<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_8:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Yajirushi_kanban_02:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>↑ <Tag_4>森の<Tag_5>出口 <Tag_6>草原へ\n<Tag_7>↓ ムッシーバビーチ<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 67 30 50 30 61 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5d 30 46 30 52 30 93 30
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_Ekubon_02_after_Ekubon_brilock_shop_04_4b:
+    Contents: "<Tag_0>ルックスは\nこんなかんじです！<Tag_1><Tag_2>これは ミーが<Tag_3>作った\nニセモノですが…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_13:
+    Contents: "<Tag_0>なかなか お<Tag_1>店も\nにぎわってきました！<Tag_2><Tag_3>これは ささやかな\nプレゼント フォーユー！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_14:
+    Contents: <Tag_0><Tag_1><Tag_2>ブロックうでわ<Tag_3><Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_15:
+    Contents: <Tag_0><Tag_1><Tag_2>ブロックきば<Tag_3><Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_16:
+    Contents: <Tag_0><Tag_1><Tag_2>ブロックゆびわ<Tag_3><Tag_4>を<Tag_5>手に<Tag_6>入れた！！<Tag_7><Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_18:
+    Contents: "<Tag_0><Tag_1>最後の<Tag_2> ブロキャット<Tag_3>ちゃん\nカミーーング！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 44 30 54 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_02_after_Ekubon_brilock_shop_06_19:
+    Contents: "<Tag_0>やったね～\nブロドッグちゃ～ん！<Tag_1><Tag_2>これで ブロドッグちゃんも\nおさんぽが できるよ～！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

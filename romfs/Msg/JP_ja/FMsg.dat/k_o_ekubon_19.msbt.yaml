@@ -1,0 +1,393 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  Kjrpg_03_Ekubon_qst01_20:
+    Contents: "<Tag_0>さて…<Tag_1>\nメタボス！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_21:
+    Contents: <Tag_0>ハ…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_22:
+    Contents: "<Tag_0>クッパは またピーチ<Tag_1>城へ\n<Tag_2>向かったはずるる。<Tag_3><Tag_4>ワレらも \nすぐに<Tag_5>追うるるるるる！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 80 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_23:
+    Contents: <Tag_0>ハ…！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_24:
+    Contents: <Tag_0>スーリム！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_25:
+    Contents: <Tag_0>は… <Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_26:
+    Contents: "<Tag_0>クッパ<Tag_1>城や クッパ<Tag_2>軍団は\n<Tag_3>我ら <Tag_4>SSカンパニーにお<Tag_5>任せを。<Tag_6><Tag_7>といっても…<Tag_8> <Tag_9>作戦は\nほぼ <Tag_10>完了しているようなもの… <Tag_11><Tag_12>もうすぐ\nクッパ<Tag_13>城は <Tag_14>我々の<Tag_15>手に<Tag_16>落ち… <Tag_17><Tag_18>クッパ<Tag_19>軍団も すぐに\n<Tag_20>我々の<Tag_21>手駒となるでしょう。<Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 a8 30 b9 30 a8 30 b9 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 4b 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 4f 30 5b 30 93 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4b 30 93 30 8a 30 87 30 46 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8f 30 8c 30 8f 30 8c 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8f 30 8c 30 8f 30 8c 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 66 30 54 30 7e 30
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_27:
+    Contents: "<Tag_0><Tag_1>大量のコインを \n<Tag_2>支払っただけあって…<Tag_3><Tag_4><Tag_5>仕事が <Tag_6>早いるるね。<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 44 30 8a 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 6f 30 89 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 54 30 68 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_28:
+    Contents: <Tag_0>ええ… <Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_29:
+    Contents: "<Tag_0><Tag_1>仕事のスピーディさが\n<Tag_2>我々の モットーですから。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 54 30 68 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8f 30 8c 30 8f 30 8c 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_30:
+    Contents: "<Tag_0>どこかの \nブタさんと<Tag_1>違って… <Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 4c 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_31:
+    Contents: <Tag_0>ナニ！？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_32:
+    Contents: "<Tag_0>おっと。<Tag_1>\n<Tag_2>聞こえましたか。<Tag_3><Tag_4>これは <Tag_5>失礼。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 8c 30 44 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_33:
+    Contents: "<Tag_0>メタボス！\n<Tag_1>急ぐるるよ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_34:
+    Contents: "<Tag_0>それでは<Tag_1>\n<Tag_2>私も…<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_03_Ekubon_qst01_35:
+    Contents: <Tag_0>イケスカナイヤツ…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

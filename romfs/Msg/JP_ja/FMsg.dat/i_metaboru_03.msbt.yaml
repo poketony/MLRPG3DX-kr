@@ -1,0 +1,545 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KMetaboru_aparts_get_pl:
+    Contents: "<Tag_0><Tag_1><Tag_2>メタボルスペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13>メタボルスペースのアタックパーツは\nのこりあと <Tag_14><Tag_15><Tag_16><Tag_17><Tag_18><Tag_19>個だ！<Tag_20><Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_16:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KMetaboru_aparts_comp:
+    Contents: "<Tag_0><Tag_1><Tag_2>メタボルスペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>メタボルスペースのアタックパーツが\n<Tag_15>全部 そろった！！<Tag_16><Tag_17><Tag_18><Tag_19><Tag_20><Tag_21>新しい <Tag_22><Tag_23>ブラザーアタック<Tag_24><Tag_25>が\n<Tag_26>完成するぞ！！<Tag_27><Tag_28><Tag_29>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_27:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KMetaboru_aparts_get:
+    Contents: "<Tag_0><Tag_1><Tag_2>メタボルスペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13>メタボルスペースのアタックパーツは\nのこりあと <Tag_14><Tag_15><Tag_16><Tag_17><Tag_18><Tag_19>個だ！<Tag_20><Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_16:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KMetaboru_03_KMetaboru_03_mes_01:
+    Contents: <Tag_0><Tag_1>キャーーッ！！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_KMetaboru_03_KMetaboru_03_mes_02:
+    Contents: <Tag_0><Tag_1>マリオ！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_KMetaboru_03_KMetaboru_03_mes_03:
+    Contents: <Tag_0><Tag_1>ルイージ！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_KMetaboru_03_KMetaboru_03_mes_04:
+    Contents: "<Tag_0>あなた<Tag_1>達も クッパに\n<Tag_2>吸い<Tag_3>込まれたのですね！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_03_KMetaboru_03_mes_05:
+    Contents: <Tag_0>ピーチ<Tag_1>姫！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_KMetaboru_03_KMetaboru_03_mes_06:
+    Contents: "<Tag_0>イエロースター！！\nあなたも いっしょだったのね！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_03_KMetaboru_03_mes_07:
+    Contents: "<Tag_0><Tag_1>私達 ピーチ<Tag_2>姫を\nずっと <Tag_3>探していたのよ！<Tag_4><Tag_5>いったい なにがあったの？\nそいつらは なんなの？<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8f 30 5f 30 57 30 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_03_KMetaboru_03_mes_08:
+    Contents: "<Tag_0>わからないわ！\n<Tag_1>出口を <Tag_2>探していたら\n<Tag_3>突然 おそわれて…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 67 30 50 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 64 30 5c 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KMetaboru_03_KMetaboru_03_mes_09:
+    Contents: "<Tag_0>は はやく あのコロコロした\nやつらを <Tag_1>取りのぞかないと\nピーチ<Tag_2>姫が <Tag_3>危ないわ！<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8>急いで <Tag_9>後を<Tag_10>追いましょう！<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 76 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5d 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

@@ -1,0 +1,813 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Mushiba_05_before_Mushiba_brilock_38:
+    Contents: "<Tag_0>ワガハイの チカラを\n<Tag_1>見せてやるわ！！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_01:
+    Contents: <Tag_0>ヘ～イ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 32 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_02:
+    Contents: "<Tag_0>ヘイヘイヘイ！<Tag_1>\nそこの ムッシュ～！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_03:
+    Contents: "<Tag_0>そこの ムッシュ～！<Tag_1>\nヘルプミー！<Tag_2>\n<Tag_3>助けて シルブプレ～！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 59 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_04:
+    Contents: "<Tag_0>なんだ オマエは？\nそこで なにをしているんだ？<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_05:
+    Contents: "<Tag_0>オウ！<Tag_1> ボンジュール ムッシュ～<Tag_2>\nここでなにを？ とたずねられても…<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_06:
+    Contents: "<Tag_0>ルック！<Tag_1> このとおり ミーは\nミーの コレクションを\nクリーニング していたのですが…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_07:
+    Contents: "<Tag_0>ビーチに もどる<Tag_1>橋が\nこわれて しまって\nこまっていたんですよ！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_08:
+    Contents: <Tag_0><Tag_1><Tag_2>ガハハハハ！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 24 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_Mushiba_05_before_Mushiba_brilock_09:
+    Contents: "<Tag_0><Tag_1>残念だが その<Tag_2>逆の<Tag_3>性格だ！！<Tag_4>\nワガハイは <Tag_5>今いそがしい！<Tag_6><Tag_7><Tag_8>オマエに かまっているヒマはない！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 56 30 93 30 6d 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4e 30 83 30 4f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 4b 30 4f 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_work_omit_00:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>=== 仮・未実装 ===\n<Tag_4><Tag_5><Tag_6>イベントが仮または未実装の<Tag_7>状態です。<Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 5f 30 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_Mushiba_05_before_Mushiba_brilock_20_2:
+    Contents: "<Tag_0>そこのロープを パワフルに<Tag_1>引っ<Tag_2>張れば\nこの<Tag_3>島全体を <Tag_4>動かせるはずです！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 71 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 57 30 7e 30 5c 30 93 30 5f 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_07_2:
+    Contents: "<Tag_0>ムッシュ～！<Tag_1> あなたからは\nジェントルマンの においがします！<Tag_2><Tag_3>こまっている<Tag_4>人を <Tag_5>見捨てられない\nそんな ナイスガイのはずですね！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 7f 30 59 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_20:
+    Contents: "<Tag_0>ルック！<Tag_1> この<Tag_2>小さな<Tag_3>島は\nなーんとなんと <Tag_4>海の<Tag_5>上に\n<Tag_6>浮かんでいるのです サプライズ！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 7f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_21:
+    Contents: "<Tag_0>ふん！<Tag_1> ロープを<Tag_2>引っ<Tag_3>張るだけか？<Tag_4>\nそんなことなら <Tag_5>朝メシ<Tag_6>前だ！！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 71 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 55 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPower_arm_01_KPower_arm_tut_08:
+    Contents: "<Tag_0><Tag_1>おお！？<Tag_2> なんだか チカラが\nわいてきた <Tag_3>気がするぞ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_Mushiba_05_before_Mushiba_brilock_14_2:
+    Contents: <Tag_0><Tag_1>ルック！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_10:
+    Contents: "<Tag_0>ストーーーーーーーーップ！！！<Tag_1>\nお<Tag_2>待ちください ジェントルマン！<Tag_3>\nとは <Tag_4>逆の<Tag_5>性格のあなた！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4e 30 83 30 4f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 4b 30 4f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_11:
+    Contents: "<Tag_0>うるさい！<Tag_1> オマエを <Tag_2>助けても\nなんの <Tag_3>得にもならんだろ！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 59 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_12:
+    Contents: "<Tag_0>なにを おっしゃいます！<Tag_1>\n<Tag_2>助けてくれた お<Tag_3>礼は\nたーっぷり いたしますよ！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 59 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_13:
+    Contents: <Tag_0>なに？<Tag_1> お<Tag_2>礼だと？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_14:
+    Contents: "<Tag_0>オウ！<Tag_1> きょうみを<Tag_2>持ちましたね！？<Tag_3>\nワンダフル！<Tag_4> すばらしい！<Tag_5><Tag_6>あなたには キョーレツな\nブロックだましいを <Tag_7>感じます！<Tag_8><Tag_9><Tag_10>熱い <Tag_11>熱い ブロックだましい…<Tag_12>\nそう<Tag_13> そんなあなたには…<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 93 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_15:
+    Contents: "<Tag_0><Tag_1><Tag_2>助けてくれた お<Tag_3>礼として\nこれを さしあげましょう！！<Tag_4><Tag_5><Tag_6>熱い ブロックだましいを<Tag_7>持つ\nあなたに ふさわしい…<Tag_8><Tag_9><Tag_10>世にも めずらしいブロックです。<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 59 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_16:
+    Contents: "<Tag_0>なんだ…<Tag_1>\nただの ブロックじゃないか！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_17:
+    Contents: "<Tag_0>オウ！<Tag_1> テーリブル！！<Tag_2>\nこの ビューティフルブロックを\nバカにしては いけません！<Tag_3><Tag_4>このブロックは コレクターの<Tag_5>中で\n１００００００コインもの <Tag_6>値がつく\nベリーレアな ブロックなのですよ！<Tag_7><Tag_8>１<Tag_9>度 <Tag_10>叩けば ワンダフル！<Tag_11>\nものすごい ひみつに\nサプライズすること まちがいナシ！！<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6d 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_18:
+    Contents: <Tag_0>ふーん…<Tag_1> ひみつか…<Tag_2><Tag_3><Tag_4>で…<Tag_5> どうすりゃいいんだ？<Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_before_Mushiba_brilock_19:
+    Contents: <Tag_0>オウ！<Tag_1> サンキュウ！<Tag_2> メルシー！<Tag_3><Tag_4>やっぱり あなたはジェントルマンね！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPower_arm_01_KPower_arm_tut_10:
+    Contents: <Tag_0><Tag_1>ぬおおおおおおおおおおお！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9

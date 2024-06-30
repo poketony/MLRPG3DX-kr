@@ -1,0 +1,1488 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KEnergy_05_KEnergy_05_star_mes_14:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>下向き<Tag_5>三角のスターパネル<Tag_6><Tag_7>を\n<Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 5f 30 80 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 93 30 4b 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_15:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>星型のスターパネル<Tag_5><Tag_6>を\n<Tag_7>手に<Tag_8>入れた！<Tag_9><Tag_10><Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 57 30 4c 30 5f 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_aparts_get_pl:
+    Contents: "<Tag_0><Tag_1><Tag_2>エネルギースペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13>エネルギースペースのアタックパーツは\nのこりあと <Tag_14><Tag_15><Tag_16><Tag_17><Tag_18><Tag_19>個だ！<Tag_20><Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_16:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_01:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>いびつな<Tag_4>形のスターパネル<Tag_5>を\n<Tag_6>手に<Tag_7>入れた！<Tag_8><Tag_9><Tag_10><Tag_11><Tag_12><Tag_13>前に<Tag_14>手に<Tag_15>入れた スターパネルと\n<Tag_16>入れかえた。<Tag_17><Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 5f 30 61 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_02:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>いびつな<Tag_4>形のスターパネル<Tag_5><Tag_6>を\n<Tag_7>手に<Tag_8>入れた！<Tag_9><Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>どこかで <Tag_15>使えそうだ…<Tag_16><Tag_17><Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 5f 30 61 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_03:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>下向き<Tag_5>三角のスターパネル<Tag_6><Tag_7>を\n<Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13><Tag_14><Tag_15>どこかで <Tag_16>使えそうだ…<Tag_17><Tag_18><Tag_19>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 5f 30 80 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 93 30 4b 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_04:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>星型のスターパネル<Tag_5><Tag_6>を\n<Tag_7>手に<Tag_8>入れた！<Tag_9><Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>どこかで <Tag_15>使えそうだ…<Tag_16><Tag_17><Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 57 30 4c 30 5f 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_05:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>いびつな<Tag_4>形のスターパネル<Tag_5>を\n<Tag_6>手に<Tag_7>入れた！<Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 5f 30 61 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_06:
+    Contents: "<Tag_0><Tag_1>ヘモグロびん<Tag_2>的な <Tag_3>意見としては…<Tag_4><Tag_5><Tag_6>三角を<Tag_7>組み<Tag_8>合わせたような<Tag_9>形の\n<Tag_10>大きなパネルを <Tag_11>手に<Tag_12>入れたら…<Tag_13><Tag_14><Tag_15>左にある ゲートの<Tag_16>前で\n<Tag_17><Tag_18><Tag_19>を <Tag_20>上に<Tag_21>動かしてみるびん。<Tag_22><Tag_23><Tag_24><Tag_25>きっとなにかが <Tag_26>起きるびん…<Tag_27><Tag_28>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 51 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 93 30 4b 30 4f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 5f 30 61 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 60 30 8a 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_24:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_27:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KEnergy_05_KEnergy_05_star_mes_07:
+    Contents: "<Tag_0>ゲートの<Tag_1>前で <Tag_2><Tag_3><Tag_4>を<Tag_5>上に<Tag_6>動かす…\nヘモグロびん<Tag_7>的には これ<Tag_8>常識びん。<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 57 30 4d 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KEnergy_aparts_comp:
+    Contents: "<Tag_0><Tag_1><Tag_2>エネルギースペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>エネルギースペースのアタックパーツが\n<Tag_15>全部 そろった！！<Tag_16><Tag_17><Tag_18><Tag_19><Tag_20><Tag_21>新しい <Tag_22><Tag_23>ブラザーアタック<Tag_24><Tag_25>が\n<Tag_26>完成するぞ！！<Tag_27><Tag_28><Tag_29>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_27:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_08:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>なにも <Tag_4>起きない…<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>なにか <Tag_10>手に<Tag_11>入れてから\nまたきた<Tag_12>方が よさそうだ…<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 46 30
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_09:
+    Contents: <Tag_0>カタチが<Tag_1>合わないようだ…<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_SAVE_BLOCK_recovery:
+    Contents: "<Tag_0><Tag_1><Tag_2>HPとBPの<Tag_3>回復も\n<Tag_4>忘れないようにしましょう。<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 75 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_aparts_get:
+    Contents: "<Tag_0><Tag_1><Tag_2>エネルギースペースのアタックパーツ\n<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>個目を <Tag_8>手に<Tag_9>入れた！<Tag_10><Tag_11><Tag_12><Tag_13>エネルギースペースのアタックパーツは\nのこりあと <Tag_14><Tag_15><Tag_16><Tag_17><Tag_18><Tag_19>個だ！<Tag_20><Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 53 30 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_16:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_10:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>いびつな<Tag_4>形のスターパネル<Tag_5>を\n<Tag_6>手に<Tag_7>入れた！<Tag_8><Tag_9><Tag_10><Tag_11><Tag_12><Tag_13>前に<Tag_14>手に<Tag_15>入れた スターパネルと\n<Tag_16>入れかえた。<Tag_17><Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 5f 30 61 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_11:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>下向き<Tag_5>三角のスターパネル<Tag_6>を\n<Tag_7>手に<Tag_8>入れた！<Tag_9><Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>前に<Tag_15>手に<Tag_16>入れた スターパネルと\n<Tag_17>入れかえた。<Tag_18><Tag_19>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 5f 30 80 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 93 30 4b 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_18:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_12:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>星型のスターパネル<Tag_5>を\n<Tag_6>手に<Tag_7>入れた！<Tag_8><Tag_9><Tag_10><Tag_11><Tag_12><Tag_13>前に<Tag_14>手に<Tag_15>入れた スターパネルと\n<Tag_16>入れかえた。<Tag_17><Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 57 30 4c 30 5f 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_17:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_KEnergy_05_KEnergy_05_star_mes_13:
+    Contents: "<Tag_0>この<Tag_1>下にある <Tag_2><Tag_3>大きな<Tag_4>星のパネル<Tag_5><Tag_6>に\nまつわる ヘモグロびん<Tag_7>的な\n<Tag_8>古き<Tag_9>言い<Tag_10>伝え…<Tag_11><Tag_12><Tag_13><Tag_14><Tag_15>明るき<Tag_16>星のパネル<Tag_17><Tag_18>に <Tag_19><Tag_20>まばゆき<Tag_21>光<Tag_22><Tag_23>が\n<Tag_24>差し<Tag_25>込むとき <Tag_26><Tag_27><Tag_28>新たなパネル<Tag_29><Tag_30>が\n<Tag_31>生み<Tag_32>落とされるであろう… びん。<Tag_33><Tag_34>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 57 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 8b 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 5f 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 57 30
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 4b 30 8a 30
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 55 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 89 30
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_33:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6

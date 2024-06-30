@@ -1,0 +1,58 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_TKinoko_26_Kinoko_town_kinopio_04_2:
+    Contents: <Tag_0>メタコロ<Tag_1>病が <Tag_2>治ったのか…<Tag_3><Tag_4><Tag_5>勉強する <Tag_6>必要なくなったな…<Tag_7><Tag_8><Tag_9>外で あそんじゃおうかな…<Tag_10>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4a 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 79 30 93 30 4d 30 87 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 64 30 88 30 46 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 68 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

@@ -1,0 +1,3961 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Mushiba_25_Ryugu_talk_03:
+    Contents: "<Tag_0>ワシか？<Tag_1>\nワシャ リューグーじゃあ。<Tag_2><Tag_3><Tag_4><Tag_5>最近 <Tag_6>耳が<Tag_7>遠くての～<Tag_8><Tag_9>こう<Tag_10>見えても むかしは\n<Tag_11>賢者と <Tag_12>呼ばれていたんじゃ～<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 4d 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 7f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4a 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 93 30 58 30 83 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_04:
+    Contents: "<Tag_0>パズルか？<Tag_1>\nパズルやりに きたんじゃろ？<Tag_2>\n<Tag_3>最近 パズルに こってての～<Tag_4><Tag_5>きょうび <Tag_6>若いモンは\nあたまを<Tag_7>使わんので いかん。\nワシが <Tag_8>若いときなんかは…<Tag_9><Tag_10>パズルを いかにはやく\n<Tag_11>完成させるかを きそうのが\nナウなヤングに バカうけでの～<Tag_12><Tag_13><Tag_14>ナウなヤングと いえば…<Tag_15><Tag_16>きょうび <Tag_17>若いモンは\nあたまを<Tag_18>使わんので いかん。\nワシが <Tag_19>若いときなんかは…<Tag_20><Tag_21>パズルを いかにはやく\n<Tag_22>完成させるかを きそうのが\nナウなヤングに バカうけでの～<Tag_23><Tag_24><Tag_25>ナウなヤングと いえば…<Tag_26><Tag_27>きょうび <Tag_28>若いモンは\nあたまを<Tag_29>使わんので いかん。\nワシが <Tag_30>若いときなんかは…<Tag_31><Tag_32>パズルを いかにはやく\n<Tag_33>完成させるかを きそうのが\nナウなヤングに バカうけでの～<Tag_34><Tag_35><Tag_36>ナウなヤングと いえば…<Tag_37>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 4d 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_31:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_32:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_34:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_35:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_36:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_37:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_05:
+    Contents: "<Tag_0>ん？ なんじゃ？<Tag_1>\nなんじゃったっけ？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_06:
+    Contents: "<Tag_0>そうじゃ パズルじゃ。<Tag_1>\nおぬしらに できるかの～<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_07:
+    Contents: "<Tag_0><Tag_1>ワシは <Tag_2>自分で\nパズルを <Tag_3>作るんじゃがの…<Tag_4><Tag_5><Tag_6><Tag_7>あたっくぱーつ<Tag_8><Tag_9>？<Tag_10> だかなんだかを\nパズルに してみたんじゃが…<Tag_11><Tag_12><Tag_13><Tag_14>自分で<Tag_15>作っておいて どうしても\n<Tag_16>完成させることが できんのじゃ。<Tag_17><Tag_18>このパズル… やってみるかの？<Tag_19>\n<Tag_20><Tag_21>パズルをやる\n<Tag_22><Tag_23>パズルの<Tag_24>説明を<Tag_25>聞く\n<Tag_26><Tag_27>やらない<Tag_28><Tag_29>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_20:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_21:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_23:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_26:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_27:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_29:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08:
+    Contents: "<Tag_0>パズルを やるんか？<Tag_1>\n<Tag_2><Tag_3><Tag_4><Tag_5>パズルをやる\n<Tag_6><Tag_7><Tag_8><Tag_9>パズルの<Tag_10>説明を<Tag_11>聞く\n<Tag_12><Tag_13><Tag_14><Tag_15>やらない<Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_09:
+    Contents: "<Tag_0><Tag_1>パズルを やるんか？<Tag_2>\nそれとも このおいぼれの<Tag_3>話に\nつきあってくれるのか？<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>パズルをやる\n<Tag_10><Tag_11><Tag_12><Tag_13>パズルの<Tag_14>説明を<Tag_15>聞く\n<Tag_16><Tag_17><Tag_18><Tag_19><Tag_20>話につきあう\n<Tag_21><Tag_22><Tag_23><Tag_24>もどる<Tag_25>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_20:
+    Contents: "<Tag_0>いましがた <Tag_1>気がついたわい！\nおぬしの もっているそれ！<Tag_2><Tag_3><Tag_4>すたーわくちん<Tag_5><Tag_6> では\nなかろうか！？<Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_22:
+    Contents: "<Tag_0>なんじゃ…<Tag_1> <Tag_2>聞かんのか…\nザンネンじゃのう…<Tag_3><Tag_4>いつでも <Tag_5>話してやるから\nいつでも くるがいいわい。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_23:
+    Contents: "<Tag_0>ワシは こう<Tag_1>見えても\n<Tag_2>賢者と <Tag_3>呼ばれていてのう…\nそりゃあ モテモテじゃった…<Tag_4><Tag_5>きょうび <Tag_6>若いモンは\nかっこうにばかり こだわる…\nその<Tag_7>点 ワシはちがった…<Tag_8><Tag_9>クイズやら パズルやら\nあたまを<Tag_10>使うものを たやすく\nとき<Tag_11>明かしては じまんしておった…<Tag_12><Tag_13>すてきー！ リューグーさん！\nイカすー！ リューグーさん！\nナウいー！ リューグーさん…<Tag_14><Tag_15>いまでも モテモテだったころの\n<Tag_16>思い<Tag_17>出が せんめいに\nワシのあたまを よぎるわい…<Tag_18><Tag_19>この<Tag_20>家も そりゃあ\nごうかに かざりたてて\n<Tag_21>毎日が ぱーてぃーじゃった…<Tag_22><Tag_23><Tag_24>むかし<Tag_25>話は さておき…<Tag_26><Tag_27><Tag_28>つい このあいだのことじゃ。<Tag_29><Tag_30>ワシは いつものように\nパズルを <Tag_31>楽しんでおった。\nなかなかの けっさくじゃった。<Tag_32><Tag_33><Tag_34>さいごのピースを\nはめようとした そのとき…\nそう… そのときじゃった…<Tag_35><Tag_36><Tag_37>やつはやってきたのじゃ…<Tag_38>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 93 30 58 30 83 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 93 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 48 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7e 30 44 30 6b 30 61 30
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_24:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 70 30 6a 30 57 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_32:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_33:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_34:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_35:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_37:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_38:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_24:
+    Contents: "<Tag_0>おぬしらも <Tag_1>知っておろう…\n<Tag_2>大魔王 クッパを…<Tag_3>\nやつがいきなり おそってきてのう…<Tag_4><Tag_5>パズルを やらせてみたんじゃが\nはじめて ３０<Tag_6>秒もせんうちに\nイライラしはじめてのう…<Tag_7><Tag_8><Tag_9><Tag_10><Tag_11>わからーーーん！<Tag_12><Tag_13><Tag_14><Tag_15><Tag_16>…と<Tag_17>言って あばれまくったあげく\n<Tag_18>部屋にある <Tag_19>家具を\nめちゃくちゃに していきおった。<Tag_20><Tag_21>さらには <Tag_22>賢者のあかしでもある\nすたーわくちんを\nうばいさって しまったのじゃ…<Tag_23><Tag_24>なんとも ひさんな<Tag_25>話じゃろ。\n<Tag_26>大魔王のくせに\n<Tag_27>子供みたいな やつじゃった…<Tag_28><Tag_29>それいらい ここには\nなーんも おかんことに\nしたんじゃ…<Tag_30><Tag_31>また あらされたら\nたまったもんじゃ\nないからのう…<Tag_32><Tag_33>いまとなっては ワシも\nここで パズルを<Tag_34>楽しむ\nただの<Tag_35>老人じゃ…<Tag_36><Tag_37>パズルを やりたかったら\nいつでも ここを\nたずねて くるがよいぞ…<Tag_38><Tag_39>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 60 30 44 30 7e 30 4a 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_16:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 4b 30 50 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 93 30 58 30 83 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 60 30 44 30 7e 30 4a 30 46 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 69 30 82 30
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_30:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_31:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_32:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_33:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8d 30 46 30 58 30 93 30
+      Tag_36:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_38:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_39:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_25:
+    Contents: "<Tag_0>これで <Tag_1>夜もぐっすり\nねむれるわい。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 8b 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_26:
+    Contents: "<Tag_0>われながら なかなか\nナウい でざいんじゃわい。<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_27:
+    Contents: <Tag_0>ふむ… イカす…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_28:
+    Contents: "<Tag_0>おお… これで\nヤングなギャルに モテモテじゃ！<Tag_1><Tag_2>なんとも ふしぎな<Tag_3>窓じゃが\nみすてりあすな かんじがええのう。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 69 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_29:
+    Contents: "<Tag_0><Tag_1>やめるんか… そうか。<Tag_2><Tag_3>きょうび <Tag_4>若いモンは\n<Tag_5>根気が なくていかん…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 93 30 4d 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_09_a:
+    Contents: "<Tag_0><Tag_1>パズルを やるんか？<Tag_2>\nそれとも このおいぼれの<Tag_3>話に\nつきあってくれるのか？<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>パズルをやる\n<Tag_10><Tag_11><Tag_12><Tag_13>パズルの<Tag_14>説明を<Tag_15>聞く\n<Tag_16><Tag_17><Tag_18><Tag_19><Tag_20>話につきあう\n<Tag_21><Tag_22><Tag_23><Tag_24>パズルピースの<Tag_25>場所を<Tag_26>聞く\n<Tag_27><Tag_28><Tag_29><Tag_30>もどる<Tag_31>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_28:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_30:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_31:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_1:
+    Contents: "<Tag_0>おお パズルピースを<Tag_1>持ってきたか。\nでは ワシがあずかるとしよう。<Tag_2><Tag_3>さっそく パズルで\nあそんでみては どうじゃ？<Tag_4><Tag_5>すでに <Tag_6>完成させたものも\nあそべるぞい。<Tag_7><Tag_8>どれだけ はやくできるか\nちゃれんじ してもよかろう。<Tag_9><Tag_10>ワシが １００<Tag_11>点満点で\nスコアを つけてやろう。<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 66 30 93 30 7e 30 93 30 66 30 93 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_41:
+    Contents: '<Tag_0><Tag_1><Tag_2>全てのマメを１<Tag_3>個ずつ<Tag_4>手に<Tag_5>入れた！<Tag_6><Tag_7> '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 79 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_Mushiba_25_Ryugu_talk_08_2:
+    Contents: "<Tag_0><Tag_1><Tag_2>ソファベッド<Tag_3><Tag_4>のパズルじゃ。\nはやく <Tag_5>完成させてほしいのう…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_42:
+    Contents: <Tag_0><Tag_1>ふぬおおおおおお！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_Mushiba_25_Ryugu_talk_08_3:
+    Contents: "<Tag_0><Tag_1><Tag_2>テーブル<Tag_3><Tag_4>のパズルじゃ。\nはやく <Tag_5>完成させてほしいのう…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_43:
+    Contents: <Tag_0><Tag_1>やりおったぁ！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_Mushiba_25_Ryugu_talk_08_4:
+    Contents: "<Tag_0><Tag_1><Tag_2>じゅうたん<Tag_3><Tag_4>のパズルじゃ。\nはやく <Tag_5>完成させてほしいのう…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_44:
+    Contents: "<Tag_0>おぬし… すべてのパズルを\n２<Tag_1>分以内で <Tag_2>完成させおったの！<Tag_3><Tag_4>なんちゅう やつじゃ！\nびっくり たまげたわい。<Tag_5><Tag_6>ちょっと イジワルして\nこの<Tag_7>点数は やらんかったが…<Tag_8><Tag_9><Tag_10><Tag_11>１００<Tag_12><Tag_13><Tag_14>点をやろう！！！<Tag_15><Tag_16>…どうじゃ ワシの<Tag_17>弟子に\nなって ここに<Tag_18>住むか？<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 75 30 93 30 44 30 6a 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 66 30 93 30 59 30 46 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 93 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 67 30 57 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_5:
+    Contents: "<Tag_0><Tag_1><Tag_2>ふしぎな<Tag_3>窓<Tag_4><Tag_5>のパズルじゃ。\nはやく <Tag_6>完成させてほしいのう…<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 69 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_45:
+    Contents: <Tag_0>というのは <Tag_1>軽いジョークじゃ。<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 8b 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_6:
+    Contents: "<Tag_0><Tag_1><Tag_2>あたっくぱーつ<Tag_3><Tag_4>のパズルじゃ。\nたいむあたっくを やってみるか？\nワシが スコアをつけてやるぞい。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_46:
+    Contents: "<Tag_0>ふむ！ そんなおぬしに\nワシが しょうごうをやろう！<Tag_1><Tag_2><Tag_3>そうじゃな…<Tag_4> よし！<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>スーパーパズルガイ！<Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>どうじゃ？ イカすじゃろ？<Tag_15>\nスーパーパズルガイじゃ。<Tag_16><Tag_17><Tag_18>若くて ぴちぴちのギャルに\nモテモテじゃぞ。<Tag_19><Tag_20>パズルボーイじゃなくて\nパズルガイってのが ナウいじゃろ。<Tag_21><Tag_22>なんだったら\nウルトラも つけちゃうぞい。<Tag_23><Tag_24>ウルトラスーパーパズルガイ…<Tag_25>\n<Tag_26>長いのう… やめよう。<Tag_27><Tag_28>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_14:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_27:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_7:
+    Contents: "<Tag_0><Tag_1><Tag_2>ソファベッド<Tag_3><Tag_4>のパズルじゃ。\nたいむあたっくを やってみるか？\nはやいほど モテモテじゃぞ。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_37b:
+    Contents: "<Tag_0>おぬし… びみょうじゃのう…\n<Tag_1>時間が かかりすぎるわい。<Tag_2><Tag_3>そうじゃな… <Tag_4>今のは\n<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>点… ってとこじゃな。<Tag_10><Tag_11>ん？<Tag_12> てきとーに\n<Tag_13>言ってるんじゃないかだって？<Tag_14><Tag_15>ワシの <Tag_16>長年の<Tag_17>経験とカンから\nぴぴっと <Tag_18>思い<Tag_19>浮かんだ<Tag_20>点数じゃぞ。<Tag_21><Tag_22>ヤングなギャルに モテるには\nまだまだじゃのう…<Tag_23><Tag_24>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 4b 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 03 00 00 00
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 93 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 4c 30 6d 30 93 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 44 30 51 30 93 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 66 30 93 30 59 30 46 30
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_8:
+    Contents: "<Tag_0><Tag_1><Tag_2>テーブル<Tag_3><Tag_4>のパズルじゃ。\nたいむあたっくを やってみるか？\nとにかく はやく<Tag_5>完成させるのじゃ。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_9:
+    Contents: "<Tag_0><Tag_1><Tag_2>じゅうたん<Tag_3><Tag_4>のパズルじゃ。\nたいむあたっくを やってみるか？\nいまパズルは ひそかなぶーむじゃぞ。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_49:
+    Contents: "<Tag_0><Tag_1>ほう… やってきたか。\nスーパーパズルガイ…<Tag_2><Tag_3><Tag_4>パズルを やるんか？<Tag_5>\nそれとも このおいぼれの<Tag_6>話に\nつきあってくれるのか？<Tag_7><Tag_8><Tag_9><Tag_10><Tag_11><Tag_12>パズルをやる\n<Tag_13><Tag_14><Tag_15><Tag_16>パズルの<Tag_17>説明を<Tag_18>聞く\n<Tag_19><Tag_20><Tag_21><Tag_22><Tag_23>話につきあう\n<Tag_24><Tag_25><Tag_26><Tag_27>もどる<Tag_28>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_27:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_28b:
+    Contents: "<Tag_0><Tag_1>ふむ。<Tag_2>感謝するぞい。\nHPやBPをふやす <Tag_3>マメ<Tag_4><Tag_5>をやろう。<Tag_6><Tag_7><Tag_8>家具が <Tag_9>全部そろったら\nもっと たーくさんやるぞ。<Tag_10><Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 57 30 83 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 4b 30 50 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_11_2:
+    Contents: "<Tag_0><Tag_1><Tag_2>ムッシーバビーチのアタックパーツを\nいっぺんに１０<Tag_3>個 <Tag_4>手に<Tag_5>入れた！<Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>ムッシーバビーチのアタックパーツが\n<Tag_11>全部 そろった！！<Tag_12><Tag_13><Tag_14><Tag_15><Tag_16><Tag_17>新しい <Tag_18>ブラザーアタック<Tag_19><Tag_20>が\n<Tag_21>完成するぞ！！<Tag_22><Tag_23><Tag_24>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_16:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_22:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_Mushiba_25_Ryugu_talk_10:
+    Contents: <Tag_0>おおおお～～～～！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_11:
+    Contents: "<Tag_0>やりおった！\n<Tag_1>完成させおったわい！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_12:
+    Contents: "<Tag_0>ふぉふぉふぉ… ワシのパズルは\n<Tag_1>完成させると <Tag_2>実体化するのじゃ…<Tag_3><Tag_4><Tag_5>すごいじゃろ？<Tag_6><Tag_7>こう<Tag_8>見えても むかしは\n<Tag_9>賢者と <Tag_10>呼ばれていたんじゃ～<Tag_11><Tag_12>ふむ… その<Tag_13>あたっくぱーつ<Tag_14><Tag_15>とやらは\nおぬしらに くれてやるわい。<Tag_16><Tag_17>ワシは パズルが\nできあがっただけで <Tag_18>満足じゃ。<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 58 30 63 30 5f 30 44 30 4b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 93 30 58 30 83 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7e 30 93 30 5e 30 4f 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_13:
+    Contents: "<Tag_0>しかし おぬしら…\nなかなか できるのう…<Tag_1><Tag_2>どうじゃ… このおいぼれの\nたわむれに ちょっとつきあわんか？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_14:
+    Contents: "<Tag_0><Tag_1>見てのとおり ここは\nなーんもない ただの<Tag_2>家じゃ…<Tag_3><Tag_4>つい<Tag_5>最近… ちょっと\n<Tag_6>事件が あってのう…<Tag_7><Tag_8>それいらい なーんも\nおかないように したんじゃが…<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 48 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 4d 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 51 30 93 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_10:
+    Contents: "<Tag_0><Tag_1><Tag_2>ふしぎな<Tag_3>窓<Tag_4><Tag_5>のパズルじゃ。\nたいむあたっくを やってみるか？\nなかなか てごわいパズルじゃぞ。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 69 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_15:
+    Contents: "<Tag_0>やっぱり ワシも\nぜいたくを したくての…<Tag_1><Tag_2>ここに ごうかな<Tag_3>家具を\nおきたいんじゃ…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 4b 30 50 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_11:
+    Contents: "<Tag_0><Tag_1>まだ <Tag_2>見つかっておらんぞ。\nあそぶことは できん。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_16:
+    Contents: "<Tag_0><Tag_1>家具は パズルピースにして\nビーチのいたるところに\nちりばめてあるぞい。<Tag_2><Tag_3>わけアリでのう…\n<Tag_4>封印… とまでは<Tag_5>言わんが\nひっそりと かくしておるんじゃ…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 4b 30 50 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 75 30 46 30 44 30 93 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_12:
+    Contents: "<Tag_0><Tag_1><Tag_2>あたっくぱーつ<Tag_3><Tag_4>のパズルじゃ。\n<Tag_5>最速タイムは <Tag_6><Tag_7><Tag_8><Tag_9><Tag_10><Tag_11>分<Tag_12><Tag_13><Tag_14><Tag_15><Tag_16><Tag_17>秒じゃ。<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 5d 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 93 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_17:
+    Contents: "<Tag_0><Tag_1>ムッシーバビーチ<Tag_2><Tag_3>に ちらばる\n<Tag_4><Tag_5>パズルピース<Tag_6><Tag_7>を <Tag_8>集める…<Tag_9><Tag_10>パズルを <Tag_11>完成させて\nこの<Tag_12>家を ごうかにする…<Tag_13><Tag_14>どうじゃ…？ そんなに\n<Tag_15>難しいことでは あるまい。<Tag_16><Tag_17><Tag_18>むろん お<Tag_19>礼はするぞい。<Tag_20><Tag_21>ワシの もっている\n<Tag_22><Tag_23>マメ<Tag_24><Tag_25>を たーくさんやろう。<Tag_26><Tag_27><Tag_28>知っとるか？ HPやBPがふえちゃう\nなかなか <Tag_29>貴重な<Tag_30><Tag_31>マメ<Tag_32><Tag_33>じゃぞ。<Tag_34><Tag_35>まずは <Tag_36><Tag_37>パズルピース<Tag_38><Tag_39>を\n<Tag_40>集めて きておくれ。<Tag_41><Tag_42>ワシは いつでも\n<Tag_43>待っておるぞい…<Tag_44><Tag_45>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 48 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 80 30 5a 30 4b 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 44 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4d 30 61 30 87 30 46 30
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_33:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_34:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_35:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_37:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_38:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_39:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_40:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_41:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_42:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_43:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_44:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_45:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_13:
+    Contents: "<Tag_0><Tag_1><Tag_2>ソファベッド<Tag_3><Tag_4>のパズルじゃ。\n<Tag_5>最速タイムは <Tag_6><Tag_7><Tag_8><Tag_9><Tag_10><Tag_11>分<Tag_12><Tag_13><Tag_14><Tag_15><Tag_16><Tag_17>秒じゃ。<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 5d 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 93 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_18:
+    Contents: "<Tag_0>ん… パズルピースの\n<Tag_1>場所を <Tag_2>教えてほしいんか？<Tag_3><Tag_4>だいたいの <Tag_5>場所しか\n<Tag_6>覚えとらんが…<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 7c 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_14:
+    Contents: "<Tag_0><Tag_1><Tag_2>テーブル<Tag_3><Tag_4>のパズルじゃ。\n<Tag_5>最速タイムは <Tag_6><Tag_7><Tag_8><Tag_9><Tag_10><Tag_11>分<Tag_12><Tag_13><Tag_14><Tag_15><Tag_16><Tag_17>秒じゃ。<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 5d 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 93 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_19:
+    Contents: "<Tag_0><Tag_1><Tag_2>がんばって <Tag_3>探しておくれ…<Tag_4><Tag_5><Tag_6>パズルピースの<Tag_7>場所が\n<Tag_8>聞きたかったら またくるがよい。<Tag_9><Tag_10><Tag_11>では たのんだぞ…<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_15:
+    Contents: "<Tag_0><Tag_1><Tag_2>じゅうたん<Tag_3><Tag_4>のパズルじゃ。\n<Tag_5>最速タイムは <Tag_6><Tag_7><Tag_8><Tag_9><Tag_10><Tag_11>分<Tag_12><Tag_13><Tag_14><Tag_15><Tag_16><Tag_17>秒じゃ。<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 5d 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 93 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_16:
+    Contents: "<Tag_0><Tag_1><Tag_2>ふしぎな<Tag_3>窓<Tag_4><Tag_5>のパズルじゃ。\n<Tag_6>最速タイムは <Tag_7><Tag_8><Tag_9><Tag_10><Tag_11><Tag_12>分<Tag_13><Tag_14><Tag_15><Tag_16><Tag_17><Tag_18>秒じゃ。<Tag_19>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 69 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 5d 30 4f 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 93 30
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_15:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_30:
+    Contents: "<Tag_0>ふ～む！ かいてきじゃ\nかいてきじゃ！！<Tag_1><Tag_2><Tag_3>若かりし<Tag_4>日の <Tag_5>思い<Tag_6>出が\nよみがえるわい！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_31:
+    Contents: "<Tag_0>この おいぼれの\n<Tag_1>頼みを <Tag_2>聞いてくれて…<Tag_3><Tag_4><Tag_5><Tag_6>本当に <Tag_7>感謝するぞい…<Tag_8><Tag_9>これは <Tag_10>約束のお<Tag_11>礼じゃ。\n<Tag_12>貴重な <Tag_13>マメ<Tag_14><Tag_15>じゃぞ。<Tag_16><Tag_17><Tag_18>知っとるか？ HPやBPがふえちゃう\nなかなか <Tag_19>貴重な<Tag_20><Tag_21>マメ<Tag_22><Tag_23>じゃぞ。<Tag_24><Tag_25>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 57 30 83 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 84 30 4f 30 5d 30 4f 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 44 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4d 30 61 30 87 30 46 30
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4d 30 61 30 87 30 46 30
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_32:
+    Contents: '<Tag_0><Tag_1><Tag_2>全てのマメを５<Tag_3>個ずつ<Tag_4>手に<Tag_5>入れた！<Tag_6><Tag_7> '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 79 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_Mushiba_25_Ryugu_talk_33:
+    Contents: "<Tag_0>パズルを あそびたくなったら\nいつでも くるがよいぞ。<Tag_1><Tag_2>どれくらい はやくできるか\nちゃれんじ してみるのもよいな。<Tag_3><Tag_4>ワシが １００<Tag_5>点満点で\nスコアを つけてやろう。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 66 30 93 30 7e 30 93 30 66 30 93 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_34:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3><Tag_4><Tag_5>分<Tag_6><Tag_7><Tag_8><Tag_9><Tag_10><Tag_11>秒 じゃ！<Tag_12><Tag_13>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_35:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3><Tag_4><Tag_5>分<Tag_6><Tag_7><Tag_8><Tag_9><Tag_10><Tag_11>秒 じゃ…<Tag_12><Tag_13>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_09_1:
+    Contents: "<Tag_0>なんじゃ やらんのか…\n<Tag_1>残念じゃのう…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 56 30 93 30 6d 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_36:
+    Contents: "<Tag_0>ほほ～ けっこうはやく\n<Tag_1>完成させたのう！<Tag_2><Tag_3>そうじゃな… <Tag_4>今のは\n<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>点… ってとこじゃな。<Tag_10><Tag_11>ん？<Tag_12> てきとーに\n<Tag_13>言ってるんじゃないかだって？<Tag_14><Tag_15>ワシの <Tag_16>長年の<Tag_17>経験とカンから\nぴぴっと <Tag_18>思い<Tag_19>浮かんだ<Tag_20>点数じゃぞ。<Tag_21><Tag_22>おぬしは いま\nかなり イカしてるぞい。<Tag_23><Tag_24>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5b 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 03 00 00 00
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 93 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 4c 30 6d 30 93 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 44 30 51 30 93 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 66 30 93 30 59 30 46 30
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_08_a:
+    Contents: "<Tag_0>パズルを やるんか？<Tag_1>\n<Tag_2><Tag_3><Tag_4><Tag_5>パズルをやる\n<Tag_6><Tag_7><Tag_8><Tag_9>パズルの<Tag_10>説明を<Tag_11>聞く\n<Tag_12><Tag_13><Tag_14><Tag_15>パズルピースの<Tag_16>場所を<Tag_17>聞く\n<Tag_18><Tag_19><Tag_20><Tag_21>やらない<Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_09_2:
+    Contents: <Tag_0>そうかそうか…<Tag_1><Tag_2>では <Tag_3>始めるとしよう。<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_37:
+    Contents: "<Tag_0>む～ まだまだじゃのう。\nスピードが <Tag_1>足らんわい。<Tag_2><Tag_3>そうじゃな… <Tag_4>今のは\n<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>点… ってとこじゃな。<Tag_10><Tag_11>ん？<Tag_12> てきとーに\n<Tag_13>言ってるんじゃないかだって？<Tag_14><Tag_15>ワシの <Tag_16>長年の<Tag_17>経験とカンから\nぴぴっと <Tag_18>思い<Tag_19>浮かんだ<Tag_20>点数じゃぞ。<Tag_21><Tag_22>おぬしは いま\nびみょうに イカしてるぞい。<Tag_23><Tag_24>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 03 00 00 00
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 93 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 4c 30 6d 30 93 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 44 30 51 30 93 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 66 30 93 30 59 30 46 30
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_50:
+    Contents: <Tag_0>おまけにこれもやろう。<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_51:
+    Contents: <Tag_0><Tag_1><Tag_2>バリアウェア<Tag_3>を<Tag_4>手に<Tag_5>入れた！<Tag_6><Tag_7>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_Mushiba_25_Ryugu_talk_01:
+    Contents: <Tag_0>…<Tag_1>…<Tag_2>…<Tag_3>…<Tag_4>…<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_25_Ryugu_talk_02:
+    Contents: "<Tag_0>おー おー\nワシャ リューグーじゃあ。<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

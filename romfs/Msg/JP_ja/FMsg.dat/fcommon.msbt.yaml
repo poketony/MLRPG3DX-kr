@@ -1,0 +1,114 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_sys_fukki_00:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>=== お<Tag_4>知らせ ===\n<Tag_5><Tag_6><Tag_7>操作キャラクターが\n<Tag_8><Tag_9><Tag_10>地形に<Tag_11>入り<Tag_12>込んでしまったことを <Tag_13>確認しました。\n<Tag_14><Tag_15>ゲームデータが <Tag_16>壊れた<Tag_17>状態にならないよう\n<Tag_18><Tag_19>キャラクターを<Tag_20>安全な<Tag_21>場所まで <Tag_22>移動させます。<Tag_23><Tag_24>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5d 30 46 30 55 30
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 61 30 51 30 44 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 4f 30 6b 30 93 30
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 8f 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 5f 30 44 30
+      Tag_18:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 5c 30 93 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 69 30 46 30
+      Tag_23:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 0c010000
+    StyleID: 11

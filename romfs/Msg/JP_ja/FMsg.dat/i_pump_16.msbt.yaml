@@ -1,0 +1,917 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KPump_16_KPump_16_kinojii_10:
+    Contents: "<Tag_0>でも このかべは\nハンマーで <Tag_1>叩いたぐらいじゃ\nビクとも しなさそうね…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_11:
+    Contents: <Tag_0>え？<Tag_1> この<Tag_2>先に なにかありそう？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_12:
+    Contents: "<Tag_0>でも このせまさだと\n<Tag_1>体を <Tag_2>小さくしないと\n<Tag_3>入れないわよ…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_13:
+    Contents: "<Tag_0>なにか いいアイディアでも\n<Tag_1>浮かんだの？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_30:
+    Contents: "<Tag_0>これは…<Tag_1><Tag_2>２人が<Tag_3>信頼し<Tag_4>合ってないと\nできないアクションね…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 89 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_31:
+    Contents: "<Tag_0>このアクションのことはガイドに\n<Tag_1>追加しておいたから <Tag_2>困ったら\nスターメニューから<Tag_3>確認してね。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 64 30 44 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 4f 30 6b 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_work_omit_00:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>=== 仮・未実装 ===\n<Tag_4><Tag_5><Tag_6>イベントが仮または未実装の<Tag_7>状態です。<Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 5f 30 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_work_omit_03:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>=== α版 終了 ===\n<Tag_4><Tag_5><Tag_6>α版は ここまでとなります。\n<Tag_7><Tag_8><Tag_9>ご確認ありがとうございました。\n\n<Tag_10><Tag_11><Tag_12>キノじいの運命や いかに！？<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_KPump_16_KPump_16_kinojii_01:
+    Contents: "<Tag_0>マリオどのに ルイージどの！<Tag_1>\nご<Tag_2>無事でしたか！！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 76 30 58 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_02:
+    Contents: "<Tag_0>クッパに <Tag_1>吸い<Tag_2>込まれたあと\nみんなと はぐれてしまって…<Tag_3><Tag_4>あちこち <Tag_5>歩き<Tag_6>回っていたら\nここから <Tag_7>出られなくなりましてな…<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 8b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 8f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_03:
+    Contents: "<Tag_0>ねえ！<Tag_1> ピーチ<Tag_2>姫はどこ？<Tag_3>\nいっしょじゃないの？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_04:
+    Contents: "<Tag_0>なんと！！ <Tag_1>姫様も\nあのとき いっしょに\n<Tag_2>吸い<Tag_3>込まれて しまったのか！？<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_05:
+    Contents: "<Tag_0>そう… みんな<Tag_1>吸い<Tag_2>込まれたわ。<Tag_3>\nこまったわね…<Tag_4><Tag_5>キノじいも ピーチ<Tag_6>姫がどこに\nいるのか <Tag_7>知らないなんて…<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_06:
+    Contents: "<Tag_0><Tag_1>ああ～<Tag_2> <Tag_3>姫様…\nなんと おいたわしい…<Tag_4><Tag_5>クッパなんぞの\n<Tag_6>体の<Tag_7>中に おひとりで…<Tag_8><Tag_9>こんな ネチョネチョした\nフケツな<Tag_10>場所に おひとりで…<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 08 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_07:
+    Contents: <Tag_0><Tag_1>姫様～～～！！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 7
+  MES_KPump_16_KPump_16_kinojii_08:
+    Contents: "<Tag_0>え？<Tag_1> ああ そうね。\nなんとかして キノじいを\nここから <Tag_2>出してあげないと。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_09:
+    Contents: <Tag_0>めんぼくない…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_21:
+    Contents: "<Tag_0>おお！ <Tag_1>出られましたぞ！！\nマリオどの！<Tag_2> ルイージどの！\n<Tag_3>感謝しますぞ！！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 57 30 83 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_22:
+    Contents: "<Tag_0>それで マリオどの<Tag_1>達は これから\n<Tag_2>姫様を <Tag_3>探しに<Tag_4>行くのですか？<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_23:
+    Contents: "<Tag_0>それは たのもしい！\nなんとしてでも <Tag_1>姫様を\n<Tag_2>助け<Tag_3>出してくだされ！<Tag_4><Tag_5><Tag_6><Tag_7>そういえば…<Tag_8><Tag_9><Tag_10>ここにくる とちゅうにあった\nゲートの<Tag_11>先で なにやら<Tag_12>平べったい\n<Tag_13>大きな<Tag_14>虫を <Tag_15>見かけましたぞ。<Tag_16><Tag_17><Tag_18>考えたくは ないですが\nもしも そんなやつに <Tag_19>姫様が\nおそわれでもしたら…<Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 59 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 89 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 80 30 57 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 93 30 4c 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_24:
+    Contents: "<Tag_0>そうですな！ その<Tag_1>大きな<Tag_2>虫は\nマリオどのと ルイージどのに\nまかせましたぞ！<Tag_3><Tag_4>じいは <Tag_5>他のキノピオ<Tag_6>達の\nもとへもどって いろいろと\n<Tag_7>情報を <Tag_8>集めておきます。<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 80 30 57 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_25:
+    Contents: "<Tag_0><Tag_1>姫様のこと よろしく\n<Tag_2>頼みましたぞ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_26:
+    Contents: <Tag_0>なるほど <Tag_1>そういうことね。<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_27:
+    Contents: "<Tag_0><Tag_1>何かわからないことがあったら\n<Tag_2>私に<Tag_3>話しかけてね。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 6b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPump_16_KPump_16_kinojii_28:
+    Contents: "<Tag_0><Tag_1><Tag_2>ボタンでアクションアイコンを\n<Tag_3>ハンマー<Tag_4>に<Tag_5>切り<Tag_6>替えて…<Tag_7><Tag_8><Tag_9><Tag_10>ボタンでルイージがマリオを\n<Tag_11>叩くのよね。<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SAVE_BLOCK_recovery:
+    Contents: "<Tag_0><Tag_1><Tag_2>HPとBPの<Tag_3>回復も\n<Tag_4>忘れないようにしましょう。<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 75 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_KPump_16_KPump_16_kinojii_29:
+    Contents: "<Tag_0><Tag_1>すごいわ！ <Tag_2>このサイズなら\nせまいすきまも<Tag_3>通れるわね！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_sys_guide_add:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>フィールドガイド<Tag_4>に\n<Tag_5>項目が<Tag_6>追加されました。<Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 82 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 64 30 44 30 4b 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12

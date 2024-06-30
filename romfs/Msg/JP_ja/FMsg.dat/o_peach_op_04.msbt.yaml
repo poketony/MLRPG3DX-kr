@@ -1,0 +1,2270 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_OPeach_04_Opening_opeach_10:
+    Contents: <Tag_0>ねえ…<Tag_1> あの<Tag_2>人だれなの？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_11:
+    Contents: "<Tag_0><Tag_1>Dr.コキノ<Tag_2><Tag_3>の\n<Tag_4>助手ですよ。<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 87 30 57 30 85 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_12:
+    Contents: <Tag_0>ふ～ん…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_13:
+    Contents: "<Tag_0><Tag_1>患者を ほうってはおけないので\n<Tag_2>私は これで<Tag_3>失礼しますわ。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 58 30 83 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 8c 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_14:
+    Contents: "<Tag_0>おお… お<Tag_1>医者様でもムリ…\nスターの<Tag_2>精でも ムリ…<Tag_3><Tag_4>わしらは だれをたよりに\nすれば いいのですじゃ…！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 44 30 57 30 83 30 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5b 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_15:
+    Contents: "<Tag_0>なにも できなくて\nわるかったわね！<Tag_1><Tag_2>スターの<Tag_3>精だって\nできないことも あるわよ！<Tag_4><Tag_5><Tag_6><Tag_7>あきらめてちょうだい！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5b 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_16:
+    Contents: <Tag_0>ムッ！<Tag_1> なんという<Tag_2>言いぐさ！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_17:
+    Contents: "<Tag_0><Tag_1>２人とも…\n<Tag_2>落ちついてちょうだい。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_18:
+    Contents: "<Tag_0>ご<Tag_1>安心ください！\nキノじい！！<Tag_2><Tag_3>ボクらには <Tag_4>頼れる<Tag_5>人が\nいるじゃないですか！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 57 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 88 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_19:
+    Contents: "<Tag_0><Tag_1><Tag_2>おお！！ そうだった！！<Tag_3><Tag_4><Tag_5>わしらには\nまだ <Tag_6>希望がありますぞ！！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 7c 30 46 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_30:
+    Contents: "<Tag_0>だれか ワガハイの\n<Tag_1>名前を <Tag_2>呼んだか！？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 7e 30 48 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 88 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_OPeach_04_Opening_opeach_31:
+    Contents: <Tag_0><Tag_1><Tag_2>ピーチ<Tag_3>姫！！！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_OPeach_04_Opening_opeach_32:
+    Contents: "<Tag_0><Tag_1>いったい ここになんの<Tag_2>用です！？<Tag_3><Tag_4><Tag_5>今は この<Tag_6>国を<Tag_7>救うための\n<Tag_8>大切な <Tag_9>会議の<Tag_10>最中ですよ！！<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 6b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 4f 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 5b 30 64 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 55 30 44 30 61 30 85 30 46 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_36_2:
+    Contents: <Tag_0><Tag_1><Tag_2>マリオ～～～～！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 10
+  MES_OPeach_04_Opening_opeach_33:
+    Contents: "<Tag_0>なんだと！！<Tag_1>\nワガハイも この<Tag_2>国の<Tag_3>国民だぞ！！<Tag_4><Tag_5>ワガハイにも この<Tag_6>会議に<Tag_7>参加する\n<Tag_8>権利は あるはずだ！！<Tag_9><Tag_10>そうだろ！！ どうなんだ！？\nキノじい！！ どうなんだ！？<Tag_11> "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 6b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 4f 30 7f 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 93 30 4b 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 51 30 93 30 8a 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_34:
+    Contents: "<Tag_0>あ<Tag_1> あの…<Tag_2>\nそれは…<Tag_3> その…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_35:
+    Contents: "<Tag_0>あなたに そんな<Tag_1>権利ないわよ！\nはやく ここから<Tag_2>出てって！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 51 30 93 30 8a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_36:
+    Contents: <Tag_0>なんだとぉ～～！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 9
+  MES_OPeach_04_Opening_opeach_37:
+    Contents: "<Tag_0>またしても ワガハイの\nジャマをする<Tag_1>気か～～！？<Tag_2><Tag_3><Tag_4>今日は マジメな<Tag_5>会議だと<Tag_6>聞いて\nおとなしくする つもりだったが…<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 87 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_OPeach_04_Opening_opeach_38:
+    Contents: "<Tag_0>オマエの<Tag_1>顔を <Tag_2>見たら\n<Tag_3>気が<Tag_4>変わったぁ！！！<Tag_5><Tag_6>こんどこそ ピーチ<Tag_7>姫を\nもらって いくぞ！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 4a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_OPeach_04_Opening_opeach_39:
+    Contents: "<Tag_0><Tag_1><Tag_2>ど<Tag_3> どうしたことだ…<Tag_4><Tag_5><Tag_6>いつものような\nチカラが<Tag_7>出ないぞ…<Tag_8><Tag_9>ワガハイが こんな<Tag_10>簡単に\n<Tag_11>負けるはずがない…<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5f 30 93 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_50:
+    Contents: <Tag_0>んがあああ～～～～～！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_OPeach_04_Opening_opeach_51:
+    Contents: <Tag_0>…ハハハハ<Tag_1> …ハハ<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06_10:
+    Contents: <Tag_0><Tag_1>姫様…<Tag_2> この<Tag_3>小さいのが…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_52:
+    Contents: "<Tag_0>るるるるる！！\nこれで うまくいったるる！！<Tag_1><Tag_2>さっそく <Tag_3>次なるワレの<Tag_4>計画を\n<Tag_5>進めるるるよ！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 44 30 4b 30 4f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06_11:
+    Contents: "<Tag_0>はじめまして\n<Tag_1>イエロースター<Tag_2><Tag_3>よ！<Tag_4><Tag_5>キノコ<Tag_6>王国が ピンチだという\nしらせを ピーチ<Tag_7>姫からうけて…<Tag_8><Tag_9>スターの<Tag_10>精を <Tag_11>代表して\n<Tag_12>急いで かけつけてきたの！<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5b 30 44 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 60 30 44 30 72 30 87 30 46 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5d 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_53:
+    Contents: <Tag_0><Tag_1>おいっ！ メタボス！！<Tag_2><Tag_3>こいつを <Tag_4>頼んだるるよ！<Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06_12:
+    Contents: <Tag_0><Tag_1><Tag_2>よろしくね！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_54:
+    Contents: "<Tag_0>カシコマリマシタ…\nゲラコビッツ サマ…<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06_13:
+    Contents: "<Tag_0>おお！ <Tag_1>元気いっぱいですな！\nたのもしいですぞ！<Tag_2><Tag_3>それでは メタコロ<Tag_4>病のことも\nスパーっと<Tag_5>解決！！<Tag_6> ですな！？<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 52 30 93 30 4d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 51 30 64 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06_14:
+    Contents: "<Tag_0>あ…<Tag_1> それが…<Tag_2>\nその…<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_05:
+    Contents: "<Tag_0><Tag_1>おお…！ なんとおそろしい…<Tag_2><Tag_3>こんなことは この<Tag_4>国\n<Tag_5>始まっていらい <Tag_6>初めてですぞ…<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 6b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06:
+    Contents: "<Tag_0>このままでは キノコ<Tag_1>王国の<Tag_2>国民が\nすべて メタコロ<Tag_3>病になってしまう…<Tag_4><Tag_5>はやく <Tag_6>原因を<Tag_7>見つけ<Tag_8>出して\n<Tag_9>平和な<Tag_10>国に もどさなければ…<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 4f 30 7f 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 44 30 93 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 78 30 44 30 8f 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 6b 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_07:
+    Contents: "<Tag_0>なんと… スターの<Tag_1>精でも\nどうすることも できないとは…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5b 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06_2:
+    Contents: "<Tag_0>しかし こんな<Tag_1>事態は\n<Tag_2>初めてですよ！<Tag_3><Tag_4>どうしたらいいのか\nさっぱり わかりません！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 5f 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_08:
+    Contents: "<Tag_0><Tag_1>同じような<Tag_2>病気を いろいろと\n<Tag_3>調べたんだけど…<Tag_4><Tag_5>メタコロ<Tag_6>病は もっとタチのわるい\n<Tag_7>病気みたい… <Tag_8>治しようがないの…<Tag_9><Tag_10>せめて この<Tag_11>病気の<Tag_12>原因がわかれば\nなんとか なるかもしれないけど…<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 6a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 73 30 87 30 46 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 89 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 73 30 87 30 46 30 4d 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4a 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 73 30 87 30 46 30 4d 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 44 30 93 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06_3:
+    Contents: "<Tag_0>なやんでいる ヒマなんてない！\nとにかく <Tag_1>手を<Tag_2>打たないと！！<Tag_3><Tag_4>わたしの <Tag_5>子供も…\nメタコロ<Tag_6>病に…！！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 69 30 82 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_09:
+    Contents: "<Tag_0><Tag_1>私達 医者も ふくれ<Tag_2>続けるのを\nふせぐ<Tag_3>手立ては <Tag_4>打ったのですが…<Tag_5><Tag_6><Tag_7>完全に<Tag_8>治す<Tag_9>方法は <Tag_10>今のところ\nわからないのです…<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 0a 00 10 00 8f 30 5f 30 57 30 5f 30 61 30 44 30 57 30 83 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 66 30 60 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 5c 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4a 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 7b 30 46 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06_4:
+    Contents: <Tag_0><Tag_1>ううう…<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 5
+  MES_OPeach_04_Opening_opeach_06_5:
+    Contents: "<Tag_0><Tag_1>姫様！！<Tag_2>\n<Tag_3>例の<Tag_4>件は まだ…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 51 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06_6:
+    Contents: "<Tag_0>ええ…<Tag_1> <Tag_2>スターの<Tag_3>精<Tag_4><Tag_5>にも\n<Tag_6>助けを お<Tag_7>願いしたのですが…<Tag_8><Tag_9>まだ なんのしらせも\nこないの…<Tag_10><Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5b 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 59 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06_7:
+    Contents: <Tag_0>ごめんなさ～い！！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_OPeach_04_Opening_opeach_06_8:
+    Contents: "<Tag_0>お！ ウワサをすれば\n<Tag_1>スターの<Tag_2>精<Tag_3><Tag_4>のご<Tag_5>到着ですな！！<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5b 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 68 30 46 30 61 30 83 30 4f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_06_9:
+    Contents: "<Tag_0>おくれちゃった！\nお<Tag_1>城って <Tag_2>広いわね～！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 8d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_20:
+    Contents: "<Tag_0>って… あれ？\nまだ きていないんですか？<Tag_1><Tag_2><Tag_3><Tag_4>あの<Tag_5><Tag_6>兄弟<Tag_7><Tag_8>は…<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 87 30 46 30 60 30 44 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_21:
+    Contents: "<Tag_0>おお！！ マリオどの！\nルイージどの！！<Tag_1><Tag_2>お<Tag_3>待ちしておりましたぞ！\nさあ <Tag_4>会議を<Tag_5>続けましょう！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_22:
+    Contents: "<Tag_0>というわけで… <Tag_1>少ない<Tag_2>情報から\n<Tag_3>出た <Tag_4>結果ではありますが…<Tag_5><Tag_6><Tag_7>原因は とある<Tag_8>商人が\n<Tag_9>売っていた キノコですね。<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 4f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 51 30 63 30 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 44 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 87 30 46 30 6b 30 93 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_23:
+    Contents: "<Tag_0><Tag_1><Tag_2>まあ！ キノコ？<Tag_3><Tag_4><Tag_5>キノコが <Tag_6>原因で\nメタコロ<Tag_7>病になったのですか？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 44 30 93 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_11_2:
+    Contents: <Tag_0><Tag_1>Dr.コキノ<Tag_2><Tag_3>？<Tag_4><Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_24:
+    Contents: "<Tag_0>メタコロ<Tag_1>病になった キノピオ<Tag_2>達に\n<Tag_3>聞き<Tag_4>込みを したのですが…<Tag_5><Tag_6>みんな <Tag_7>メタコロキノコ<Tag_8><Tag_9>という\nキノコを<Tag_10>買って <Tag_11>食べたそうです。<Tag_12><Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_11_3:
+    Contents: "<Tag_0>この<Tag_1>国のことなら なんでもわかる\n<Tag_2>有名な お<Tag_3>医者様です。<Tag_4><Tag_5><Tag_6>今日は<Tag_7>会議に <Tag_8>出席できないので\n<Tag_9>助手に きてもらったのです。<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 6b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 86 30 46 30 81 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 44 30 57 30 83 30 55 30 7e 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 87 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 85 30 63 30 5b 30 4d 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 87 30 57 30 85 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_25:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>メタコロキノコ<Tag_4><Tag_5>？<Tag_6><Tag_7><Tag_8>むむむ… それはこの<Tag_9>国のものでは\nありませんぞ…<Tag_10><Tag_11>いったい だれがそんなものを\n<Tag_12>売っていたのだ！？<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 6b 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_26:
+    Contents: "<Tag_0><Tag_1>目撃者の<Tag_2>話では その<Tag_3>商人\nマントをはおった <Tag_4>男だそうです。<Tag_5><Tag_6>どう<Tag_7>見ても キノコ<Tag_8>王国の<Tag_9>者では\nなかったそうです。<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 82 30 4f 30 52 30 4d 30 57 30 83 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 87 30 46 30 6b 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4a 30 68 30 53 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 6e 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_27:
+    Contents: "<Tag_0>なるほど… そいつは\nかなりあやしいわね。<Tag_1><Tag_2><Tag_3>決まり！！\nそいつを <Tag_4>見つけ<Tag_5>出しましょう！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_28:
+    Contents: "<Tag_0>マリオどの！！ ルイージどの！！\n<Tag_1>出番ですぞ！！！<Tag_2><Tag_3>いつも クッパを<Tag_4>倒すように\nボコボコに やっつけてくだされ！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 67 30 70 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_29:
+    Contents: <Tag_0><Tag_1>ガハハハハ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_OPeach_04_Opening_opeach_40:
+    Contents: "<Tag_0><Tag_1>私の スターパワーと\nピーチ<Tag_2>姫の いのりのパワーよ！<Tag_3><Tag_4>あなたの チカラを<Tag_5>弱めるには\n<Tag_6>十分すぎるでしょ！？<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 8f 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 85 30 46 30 76 30 93 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_41:
+    Contents: <Tag_0><Tag_1>な…<Tag_2> なんだとぉ…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  MES_OPeach_04_Opening_opeach_42:
+    Contents: "<Tag_0><Tag_1>さあ！<Tag_2> ピーチ<Tag_3>姫！！<Tag_4><Tag_5>この ジャマモノを\nかたづけちゃいましょ！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_43:
+    Contents: "<Tag_0>また あなたに\n<Tag_1>助けて もらいましたね。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 59 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_44:
+    Contents: "<Tag_0>せっかくの <Tag_1>大切な<Tag_2>会議が\n<Tag_3>台無しに なってしまいました…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 5b 30 64 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 6a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_45:
+    Contents: "<Tag_0>もう <Tag_1>会議どころじゃ\nないですね…<Tag_2><Tag_3><Tag_4><Tag_5>中止にしましょうか？<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 85 30 46 30 57 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_46:
+    Contents: "<Tag_0>むむむ… しかし<Tag_1>今は\nこの<Tag_2>国の <Tag_3>一大事ですぞ。<Tag_4><Tag_5>このまま <Tag_6>中止にしてしまっては\n<Tag_7>問題が <Tag_8>解決しませんぞ。<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 6b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 44 30 61 30 60 30 44 30 58 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 85 30 46 30 57 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 82 30 93 30 60 30 44 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 51 30 64 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_47:
+    Contents: "<Tag_0>そうですわ。クッパのことより\nメタコロ<Tag_1>病の <Tag_2>問題が<Tag_3>優先です。<Tag_4><Tag_5><Tag_6><Tag_7>会議は このまま<Tag_8>続けましょう！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 73 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 82 30 93 30 60 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 86 30 46 30 5b 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_48:
+    Contents: "<Tag_0><Tag_1>おお さすが<Tag_2>姫様！！<Tag_3><Tag_4>それでこそ わが<Tag_5>国の\nプリンセスですぞ！！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 6b 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_49:
+    Contents: "<Tag_0>しかし この<Tag_1>部屋は\nもう <Tag_2>使えませんな…<Tag_3><Tag_4><Tag_5>別の<Tag_6>部屋で\n<Tag_7>会議の<Tag_8>続きをしましょう。<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 79 30 64 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 44 30 4e 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_31_2:
+    Contents: "<Tag_0>よくも ワガハイだけ\nのけものに したなっ！！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  MES_OPeach_04_Opening_opeach_09_2:
+    Contents: "<Tag_0>なんとか ならないんですか？\n<Tag_1>国の<Tag_2>一大事なんですよ！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 6b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 44 30 61 30 60 30 44 30 58 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_OPeach_04_Opening_opeach_09_3:
+    Contents: "<Tag_0><Tag_1>私達だって\nなんとかしたいですよ！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8f 30 5f 30 57 30 5f 30 61 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

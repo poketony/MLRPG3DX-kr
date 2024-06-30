@@ -1,0 +1,506 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SA_SUB_KPower_big_01_SA_BIG_TUT_10:
+    Contents: "<Tag_0>マリオ！ ルイージ！\nこれは <Tag_1>２人で いっしょに\nうってみて！<Tag_2><Tag_3><Tag_4>両方の ボタンを\n<Tag_5><Tag_6>押しっぱなし<Tag_7><Tag_8>にして\nたくさん うってみましょう！<Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8a 30 87 30 46 30 7b 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_big_01_koopa_lvup_1:
+    Contents: <Tag_0>エネルギーが もどってきたみたい！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_big_01_koopa_lvup_2:
+    Contents: <Tag_0>エネルギーが <Tag_1>強くなってきたわ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_big_01_koopa_lvup_3:
+    Contents: <Tag_0>クッパが <Tag_1>動きだしたみたいよ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_big_02_koopa_lvup_1:
+    Contents: <Tag_0>エネルギーが もどってきたみたい！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_big_02_koopa_lvup_2:
+    Contents: <Tag_0>エネルギーが <Tag_1>強くなってきたわ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_big_02_koopa_lvup_3:
+    Contents: <Tag_0>クッパが <Tag_1>動きだしたみたいよ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_big_01_SA_BIG_TUT_01:
+    Contents: "<Tag_0>アドレナリバーで なにをすれば\nいいのかしら？<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_big_01_SA_BIG_TUT_02:
+    Contents: "<Tag_0><Tag_1>これは アドレナリン！？<Tag_2><Tag_3><Tag_4><Tag_5>赤いアドレナリン<Tag_6>だから\n<Tag_7>マリオ<Tag_8>が うってみて！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_big_01_SA_BIG_TUT_03:
+    Contents: "<Tag_0><Tag_1>飛んできた アドレナリンを\nビームで うち<Tag_2>返せばいいのね。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 48 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_big_01_SA_BIG_TUT_04:
+    Contents: "<Tag_0>こんどは <Tag_1><Tag_2>緑<Tag_3>だから\n<Tag_4>ルイージ<Tag_5>ね！<Tag_6><Tag_7><Tag_8>もう<Tag_9>少し <Tag_10>左よ！<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 60 30 8a 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_big_01_SA_BIG_TUT_05:
+    Contents: "<Tag_0>アドレナリンを うち<Tag_1>返すと\nこの アドレナメーターが\nふえていくわ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 48 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_big_01_SA_BIG_TUT_06:
+    Contents: "<Tag_0><Tag_1>アドレナメーターを\nいっぱいにすれば<Tag_2><Tag_3>アドレナリンの <Tag_4>作用で\nクッパの エネルギーが\n<Tag_5>復活するんじゃないかしら！<Tag_6><Tag_7><Tag_8><Tag_9>赤い<Tag_10>のは <Tag_11>マリオ<Tag_12>\n<Tag_13><Tag_14>緑<Tag_15>のは <Tag_16>ルイージ<Tag_17>が うつのよ！\nまちがえないでね！<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 55 30 88 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 75 30 63 30 4b 30 64 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 69 30 8a 30
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_big_01_SA_BIG_TUT_07:
+    Contents: "<Tag_0>アドレナリンが <Tag_1>復活のボートに\n<Tag_2>当たると ハートが\n<Tag_3>減ってしまうようね。<Tag_4><Tag_5><Tag_6>アドレナリンに <Tag_7>当たらないように\n<Tag_8>気をつけてね！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 75 30 63 30 4b 30 64 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_big_01_SA_BIG_TUT_08:
+    Contents: <Tag_0>なに これ！？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_big_01_SA_BIG_TUT_09:
+    Contents: "<Tag_0>あのアドレナリンは １<Tag_1>回では\nうち<Tag_2>返せないかも しれないわね。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 48 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_sys_minigame_relief_01:
+    Contents: "<Tag_0><Tag_1>クリアしたことにして\nお<Tag_2>話を <Tag_3>先に<Tag_4>進めますか？<Tag_5>\n<Tag_6><Tag_7>いいえ<Tag_8><Tag_9>はい"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 4
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_9:
+        Group: 4
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12

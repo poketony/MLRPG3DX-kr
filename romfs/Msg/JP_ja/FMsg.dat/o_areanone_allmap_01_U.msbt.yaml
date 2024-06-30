@@ -1,0 +1,434 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EVnog_kinoko_all_map_bcat_K_warp_tut_22:
+    Contents: "<Tag_0>さっきの<Tag_1>場所 <Tag_2>選んでみ～\n<Tag_3><Tag_4><Tag_5>ボタンで<Tag_6>決定やで。<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 96 00 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 63 30 66 30 44 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_tut_23:
+    Contents: <Tag_0> そこは<Tag_1>今 おる<Tag_2>場所やで。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_10:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ピーチ城
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_11:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ピーチ城のてっぺん
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_12:
+    Contents: "<Tag_0><Tag_1>なんや やめるんか？<Tag_2>\n<Tag_3><Tag_4>やめない<Tag_5><Tag_6>やめる<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_13:
+    Contents: "<Tag_0><Tag_1>その<Tag_2>場所で ええんか？<Tag_3>\n<Tag_4><Tag_5>かえる<Tag_6><Tag_7>そこでいい<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_14:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>ボタン：やめる    <Tag_5><Tag_6><Tag_7><Tag_8>ボタン：けってい<Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 11
+  MES_EVnog_kinoko_all_map_bcat_K_warp_tut_15:
+    Contents: <Tag_0><Tag_1>このへんが よさげやな～<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_tut_16:
+    Contents: <Tag_0><Tag_1>ほな いくで～<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_tut_17:
+    Contents: <Tag_0><Tag_1>ホイっ<Tag_2>と！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_01:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ゲプー岬のどうくつ
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_02:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ゲプー岬の出口
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_03:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ムッシーバビーチ
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_04:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>エクボンの森
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_06:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>クッパ城
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_07:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>地下トンネル
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4
+  MES_EVnog_kinoko_all_map_bcat_K_warp_selsect_08:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>草原とレイクのあいだ
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 4

@@ -1,0 +1,507 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KPower_arm_01_KPower_arm_tut_16:
+    Contents: <Tag_0>ハァ…<Tag_1> ハァ…<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_25:
+    Contents: "<Tag_0>うーん…<Tag_1> なにやら<Tag_2>景色が\nアップサイドダウン…<Tag_3><Tag_4>ともあれ <Tag_5>助けてくれて\nサンキュウ ベリーベリーマッチ！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 51 30 57 30 4d 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 59 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_26:
+    Contents: "<Tag_0><Tag_1>オイ！<Tag_2> ひみつのブロック\nとやらを さっさとよこせ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_27:
+    Contents: "<Tag_0>オフコース！<Tag_1> ミーからの\nブロックの！<Tag_2> ブロックによる！<Tag_3>\nブロックのための お<Tag_4>礼！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8c 30 44 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_28:
+    Contents: <Tag_0>うけとってください！！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_29:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>バキュームブロック<Tag_4><Tag_5>を<Tag_6>手に<Tag_7>入れた！<Tag_8><Tag_9><Tag_10>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_Mushiba_05_after_KPower_arm_tut_17:
+    Contents: "<Tag_0>どうだ！<Tag_1>\nこれが ワガハイのチカラだ！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_30:
+    Contents: "<Tag_0>やっぱり ただのブロックにしか\n<Tag_1>見えないぞ！！<Tag_2> だましたな！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_31:
+    Contents: "<Tag_0><Tag_1>オウ！<Tag_2> ノンノン！<Tag_3> それが\nフツーのブロックに <Tag_4>見えるとは…<Tag_5><Tag_6><Tag_7>あなたの ブロックだましいも\nまだまだ ソー スイートです。<Tag_8><Tag_9>それは <Tag_10>バキュームブロック<Tag_11><Tag_12>といって\n<Tag_13>叩くと <Tag_14>目の<Tag_15>前にあるものを\n<Tag_16>吸い<Tag_17>込めるように なるのです！<Tag_18><Tag_19>バトルのときに これを<Tag_20>使えば\n<Tag_21>相手を <Tag_22>吸い<Tag_23>込んでしまえる\nトレビア～ンな ブロックです！<Tag_24><Tag_25>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_32:
+    Contents: "<Tag_0><Tag_1>相手を <Tag_2>吸い<Tag_3>込むだと？\nバトル<Tag_4>中に <Tag_5>相手を<Tag_6>吸い<Tag_7>込むのか？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 61 30 85 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_34:
+    Contents: "<Tag_0><Tag_1>案ずるより <Tag_2>産むがイージー！<Tag_3>\nためしに ミーとバトルをしましょう！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_35:
+    Contents: "<Tag_0>さあ！<Tag_1> そのブロックの\nトレビアンな はだざわりに\nよいしれて みましょう！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_36:
+    Contents: "<Tag_0>ハウ ワズ イット！<Tag_1> いかがでしたか？\n<Tag_2>バキュームブロック<Tag_3><Tag_4>の\n<Tag_5>色！<Tag_6> ツヤ！<Tag_7> はだざわり！<Tag_8><Tag_9><Tag_10>トレビア～ン！<Tag_11>\nイッツ アメイジングでしょ？<Tag_12><Tag_13>あなたも いつの<Tag_14>日か\nブロックコレクターとして\n<Tag_15>第２の<Tag_16>人生を <Tag_17>歩むといいですよ。<Tag_18><Tag_19>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8d 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 72 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 60 30 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 93 30 5b 30 44 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 86 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Mushiba_05_after_Mushiba_brilock_37:
+    Contents: "<Tag_0>それでは またお<Tag_1>会いしましょう！<Tag_2>\nシー ユー アゲイン！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

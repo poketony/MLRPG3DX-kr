@@ -1,0 +1,697 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  Kjrpg_06_Zutsuda_qst03_40:
+    Contents: <Tag_0>できたわ…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_41:
+    Contents: "<Tag_0>ひさびさだから\nフンパツ しちゃったわ…<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_42:
+    Contents: <Tag_0>たくさん あるわよ。<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_43:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ガリナール<Tag_4>Z（２００<Tag_5>錠入り）<Tag_6>を<Tag_7>手に<Tag_8>入れた！<Tag_9><Tag_10>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 bc 30 c3 30 c8 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 87 30 46 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_LZutsuda_30_LZ30_rose_03:
+    Contents: <Tag_0><Tag_1><Tag_2>いらっしゃい…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_10:
+    Contents: <Tag_0>そんなに<Tag_1>話は <Tag_2>早くないわ。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_11:
+    Contents: "<Tag_0>わたくし<Tag_1>今 <Tag_2>肩とか<Tag_3>腰とかくるぶしとか…<Tag_4>\nいろんなところが<Tag_5>凝ってるの…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 57 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 2d 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_12:
+    Contents: <Tag_0>それをほぐさないと…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_13:
+    Contents: "<Tag_0>ん？<Tag_1>\nぶっ<Tag_2>叩けばいいのか？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_14:
+    Contents: "<Tag_0>あら。<Tag_1>たのもしいわね。<Tag_2>\nそうね…<Tag_3><Tag_4>パワフルにぶっ<Tag_5>叩くか…<Tag_6>\n<Tag_7>細かくモミモミするか…<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 2d 00
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 7e 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_15:
+    Contents: <Tag_0><Tag_1>色々やってもらいたいわ。<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 8d 30 44 30 8d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_16:
+    Contents: <Tag_0><Tag_1>遠慮なしでいい ってことだな！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 48 30 93 30 8a 30 87 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_17:
+    Contents: "<Tag_0>じゃあ やってもらおうかしら…<Tag_1>\nただし…<Tag_2><Tag_3>ちょっとでも <Tag_4>手が<Tag_5>止まったら\nフヌケとみなすわよ…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 2d 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_18:
+    Contents: "<Tag_0>ああ…<Tag_1> いいわ…<Tag_2>\nカラダの シコりがなくなって…<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 32 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 32 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_19:
+    Contents: <Tag_0>カラダが アツくてしかたがないわ。<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_26:
+    Contents: <Tag_0><Tag_1>それじゃ…<Tag_2> お<Tag_3>願いね…<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_LZutsuda_30_LZ30_rose_28:
+    Contents: <Tag_0>また <Tag_1>マッサージにきてくれたの？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_01:
+    Contents: <Tag_0>いらっしゃい。<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_02:
+    Contents: <Tag_0>ひさしぶりだね。<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_03:
+    Contents: "<Tag_0>まぁ…<Tag_1> カメックさん。<Tag_2>\nおひさしぶり。<Tag_3><Tag_4>また お<Tag_5>会いできてうれしいわ。<Tag_6>\n<Tag_7>最近は なにしてらしたの？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 2c 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0e 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 4d 30 93 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_04:
+    Contents: "<Tag_0><Tag_1>昔から <Tag_2>変わらずさ。<Tag_3>\nクッパ<Tag_4>様に<Tag_5>仕えてるよ。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 80 30 4b 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_05:
+    Contents: "<Tag_0>ああ。<Tag_1>クッパ<Tag_2>様ね…<Tag_3>\nお<Tag_4>会いしたことないけど…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 08 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_06:
+    Contents: <Tag_0>そちらの<Tag_1>方は？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_07:
+    Contents: "<Tag_0>あいさつとか いいから\n<Tag_1>早く サプリ<Tag_2>作ってよ。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_08:
+    Contents: "<Tag_0>あら。<Tag_1><Tag_2>元気なぼっちゃんね。<Tag_3>\nほほえましいわ…<Tag_4><Tag_5>わたくしに<Tag_6>作ってほしい\nサプリというと…<Tag_7> アレのことね。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 52 30 93 30 4d 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 2e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_09:
+    Contents: "<Tag_0><Tag_1>話が<Tag_2>早いね。<Tag_3>\nじゃあ さっそく…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_20:
+    Contents: <Tag_0><Tag_1>早く サプリ<Tag_2>作ってよ。<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_06_Zutsuda_qst03_21:
+    Contents: "<Tag_0>ぼうや…<Tag_1>\nせっかちはいけないわ。<Tag_2><Tag_3>オンナは<Tag_4>色々と\n<Tag_5>準備が<Tag_6>必要なの…<Tag_7><Tag_8><Tag_9>少しだけ わたくしに\n<Tag_10>時間をいただけるかしら…<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 8d 30 44 30 8d 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 85 30 93 30 73 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 64 30 88 30 46 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 4b 30 93 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

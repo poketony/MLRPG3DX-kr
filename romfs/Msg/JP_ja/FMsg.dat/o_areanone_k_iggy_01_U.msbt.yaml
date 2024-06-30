@@ -1,0 +1,124 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  Kjrpg_07_Mushiba_qst05_20_1:
+    Contents: "<Tag_0>イギーがいなくなったのって\nついこないだだよな…<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_07_Mushiba_qst05_20_2:
+    Contents: "<Tag_0>そうですね…<Tag_1> この<Tag_2>短期間で\nどれだけの<Tag_3>思い<Tag_4>出を…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 04 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 5f 30 93 30 4d 30 4b 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  Kjrpg_07_Mushiba_qst05_20:
+    Contents: "<Tag_0><Tag_1>話し<Tag_2>方も <Tag_3>忘れたようでの。\n<Tag_4>色々と <Tag_5>教えてやったんじゃ。<Tag_6><Tag_7>ナウなヤングが どのような\n<Tag_8>暮らしをしているのかを。<Tag_9><Tag_10>ワシも\n<Tag_11>１人でさみしかったからのう。<Tag_12><Tag_13>ひさびさに <Tag_14>孫と<Tag_15>会えて\nワシはハッピーじゃ。<Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 8d 30 44 30 8d 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 72 30 68 30 8a 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 54 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

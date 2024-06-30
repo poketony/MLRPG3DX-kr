@@ -1,0 +1,324 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EV_KMetaboru_16_KMeta_16_peach_07_2:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>ダークスター<Tag_4><Tag_5>を キノコタウンの\n<Tag_6>地下深くに <Tag_7>封印したのです…<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 08 00 61 30 4b 30 75 30 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 75 30 46 30 44 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_EV_KMetaboru_16_KMeta_16_peach_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>はるかむかし キノコ<Tag_3>王国の\n<Tag_4>大地の<Tag_5>奥深くに ねむっていた\nスターが ほり<Tag_6>出されました…<Tag_7><Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 60 30 44 30 61 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 4f 30 75 30 4b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_EV_KMetaboru_16_KMeta_16_peach_04:
+    Contents: "<Tag_0><Tag_1><Tag_2>しかし そのスターは\n<Tag_3>悪のチカラを ひめた\nおそろしいスター…<Tag_4><Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_EV_KMetaboru_16_KMeta_16_peach_05:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ダークスター<Tag_4><Tag_5>だったのです。<Tag_6><Tag_7>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_EV_KMetaboru_16_KMeta_16_peach_06:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>悪しきこころの<Tag_4>持ち<Tag_5>主が <Tag_6>ダークスター<Tag_7><Tag_8>を\n<Tag_9>手にすると <Tag_10>世界はたちまち\n<Tag_11>暗黒の<Tag_12>世界に かわってしまい…<Tag_13><Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6c 30 57 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5b 30 4b 30 44 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 53 30 4f 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5b 30 4b 30 44 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_EV_KMetaboru_16_KMeta_16_peach_07:
+    Contents: "<Tag_0><Tag_1><Tag_2>それをおそれた スターの<Tag_3>精達は\n<Tag_4>長い<Tag_5>月日と\n<Tag_6>多くのぎせいを はらって…<Tag_7><Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 5f 30 61 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 64 30 4d 30 72 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4
+  MES_EV_KMetaboru_16_KMeta_16_peach_06_2:
+    Contents: "<Tag_0><Tag_1><Tag_2>その <Tag_3>悪しきこころの<Tag_4>持ち<Tag_5>主が\n<Tag_6>世界を <Tag_7>支配してしまうのです…<Tag_8><Tag_9><Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 82 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6c 30 57 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5b 30 4b 30 44 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 6f 30 44 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 4

@@ -1,0 +1,648 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_11AT:
+    Contents: "<Tag_0>クッパの クチが<Tag_1>光ったときに\n<Tag_2>落ちてきたカケラを <Tag_3>覚えて… "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 7c 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_Ekubon_gcarrot_tut_h5BT:
+    Contents: "<Tag_0>おためしにしては\nちょっと <Tag_1>食べすぎです～ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_07AT:
+    Contents: <Tag_0><Tag_1>今の <Tag_2>聞こえた！？<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_08BT:
+    Contents: "<Tag_0>このカケラの <Tag_1>場所を\n<Tag_2>覚えておきましょう！！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 7c 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_Ekubon_gcarrot_tut_h3BT:
+    Contents: "<Tag_0>その<Tag_1>成分が ふくまれた<Tag_2>部分を\n<Tag_3>食べると このように\nキラリと<Tag_4>光るです。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 76 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 76 30 76 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 4b 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_05AT:
+    Contents: "<Tag_0>この<Tag_1>大量のカケラを\n<Tag_2>細かく くずしてあげれば… "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 44 30 8a 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 7e 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_10BT:
+    Contents: "<Tag_0>これを <Tag_1>使えば カケラを\nはやく<Tag_2>消化できるのね… "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 87 30 46 30 4b 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_06BT:
+    Contents: "<Tag_0>もっと かんたんに カケラを\nくずす<Tag_1>方法は ないかしら… "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 7b 30 46 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_Ekubon_gcarrot_tut_h4T:
+    Contents: "<Tag_0>おクチが キラリと<Tag_1>光ったときに\n<Tag_2>飲み<Tag_3>込んだカケラに <Tag_4>注目です～ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 61 30 85 30 46 30 82 30 4f 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_05CT:
+    Contents: "<Tag_0>どんどん<Tag_1>タッチ<Tag_2><Tag_3>して\nカケラを くずしましょう！ <Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_Ekubon_gcarrot_tut_k1AT:
+    Contents: "<Tag_0>そのカケラには\nこんな<Tag_1>成分が\n<Tag_2>入っているです。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 76 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_10DT:
+    Contents: <Tag_0>あらっ！？ <Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_Ekubon_gcarrot_tut_k2BT:
+    Contents: "<Tag_0>これは <Tag_1>食べたものを\n<Tag_2>少し<Tag_3>消化してくれる\n<Tag_4>成分です～ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 87 30 46 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 76 30 93 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_9T:
+    Contents: "<Tag_0>さっき <Tag_1>覚えたカケラを\nくずしてみましょう！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 7c 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_Ekubon_gcarrot_tut_h5AT:
+    Contents: "<Tag_0>はいはいは～い。\nおためし <Tag_1>終了です～ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 57 30 85 30 46 30 8a 30 87 30 46 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_Ekubon_gcarrot_tut_k1CT:
+    Contents: "<Tag_0>でも カケラをテキトーに<Tag_1>消すだけだと\n<Tag_2>消化酵素のききめが\n<Tag_3>弱くなっていっちゃうです。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 51 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0e 00 57 30 87 30 46 30 4b 30 53 30 46 30 5d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 8f 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_NINJIN_START_BT:
+    Contents: "<Tag_0>それでは <Tag_1>食いまくり\nスタートです～ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_08AT:
+    Contents: "<Tag_0><Tag_1>今は <Tag_2>赤いみたいだから\nカケラをいっきに\n<Tag_3>消化できるってわけね！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 87 30 46 30 4b 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_Ekubon_gcarrot_tut_h3AT:
+    Contents: "<Tag_0>このニンジンには <Tag_1>食べたものを\nはやく<Tag_2>消化する<Tag_3>成分が\nふくまれているです。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 87 30 46 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 76 30 93 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_10AT:
+    Contents: <Tag_0>あった！ <Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_06AT:
+    Contents: "<Tag_0>クッパが <Tag_1>食べたカケラを\n<Tag_2>全部<Tag_3>タッチ<Tag_4><Tag_5>するなんて\nなかなか <Tag_6>大変ね… <Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 78 30 93 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_11BT:
+    Contents: "<Tag_0>そのカケラの<Tag_1>中にある\n<Tag_2>成分を はやく<Tag_3>見つけて\n<Tag_4>使えば いいのね！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 76 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_07BT:
+    Contents: "<Tag_0>クッパのクチが <Tag_1>光ったとき\n<Tag_2>落ちてくる カケラの<Tag_3>中に\n<Tag_4>消化する<Tag_5>成分が あるらしいわ！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 87 30 46 30 4b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 76 30 93 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_05BT:
+    Contents: "<Tag_0>クッパは たくさん<Tag_1>食べられるように\nなるんじゃないかしら。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_10CT:
+    Contents: <Tag_0><Tag_1>タッチ<Tag_2><Tag_3>してみましょう！ <Tag_4><Tag_5>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_Ekubon_gcarrot_tut_k2AT:
+    Contents: "<Tag_0>あ そのほかのカケラに\nこんな <Tag_1>小さな<Tag_2>成分が\n<Tag_3>入っていることもあるです。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 76 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_Ekubon_gcarrot_tut_h2:
+    Contents: <Tag_0>あ。<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_Ekubon_gcarrot_tut_k1BT:
+    Contents: "<Tag_0><Tag_1>赤いうちに <Tag_2>使われると\n<Tag_3>食べたものを いっきに\n<Tag_4>消化しちゃうです～ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 87 30 46 30 4b 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_15_SA_NINJIN_START_AT:
+    Contents: <Tag_0><Tag_1>準備 できましたね。<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 85 30 93 30 73 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_sys_minigame_relief_01:
+    Contents: "<Tag_0><Tag_1>クリアしたことにして\nお<Tag_2>話を <Tag_3>先に<Tag_4>進めますか？<Tag_5>\n<Tag_6><Tag_7>いいえ<Tag_8><Tag_9>はい"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 4
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_9:
+        Group: 4
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_SA_MAIN_KPower_stomach_01_Ekubon_giga_carrot_tut_10ET:
+    Contents: "<Tag_0>さっき<Tag_1>聞こえた\n<Tag_2>小さな<Tag_3>成分って\nこれのことね！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 76 30 93 30
+    Attribute: 00000000
+    StyleID: 6

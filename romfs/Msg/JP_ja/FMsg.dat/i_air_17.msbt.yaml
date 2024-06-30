@@ -1,0 +1,86 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KAir_17_KAir_17_mes_1:
+    Contents: "<Tag_0><Tag_1>もう<Tag_2>少しだったのに また\n<Tag_3>逃げられて しまったわ…<Tag_4><Tag_5>ダークスター…\n１つ１つ<Tag_6>確実に クッパの\n<Tag_7>情報を <Tag_8>取り<Tag_9>込んでいるみたいね。<Tag_10><Tag_11><Tag_12><Tag_13><Tag_14>次こそは <Tag_15>絶対に<Tag_16>追いつめましょう！<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6b 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 4f 30 58 30 64 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5c 30 63 30 5f 30 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

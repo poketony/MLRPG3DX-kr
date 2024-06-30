@@ -1,0 +1,603 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KPower_big_SA1_KPower_big_mes_10:
+    Contents: "<Tag_0><Tag_1>私は <Tag_2>セーブ<Tag_3><Tag_4>もできる<Tag_5>的な\nヘモグロびん…<Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>ちがいますか？<Tag_11><Tag_12><Tag_13><Tag_14><Tag_15><Tag_16>しかも…<Tag_17><Tag_18>たまにしか あらわれない<Tag_19>的な\n<Tag_20><Tag_21><Tag_22><Tag_23>セーブ<Tag_24><Tag_25>もできる ヘモグロびん…<Tag_26><Tag_27><Tag_28><Tag_29><Tag_30><Tag_31><Tag_32><Tag_33>ちがいますか？<Tag_34><Tag_35><Tag_36><Tag_37>ひとまず <Tag_38><Tag_39><Tag_40><Tag_41>セーブ<Tag_42><Tag_43>しておく<Tag_44>的な？<Tag_45>\n<Tag_46><Tag_47>しない<Tag_48><Tag_49>しておく<Tag_50><Tag_51><Tag_52>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_16:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_20:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_33:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_34:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_35:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_37:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_38:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_39:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_40:
+        Group: 0
+        Type: 1
+        Parameters: 01 00
+      Tag_41:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_42:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_43:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_44:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_45:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_46:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_47:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_48:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_49:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_50:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_51:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+      Tag_52:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPower_big_SA1_KPower_big_mes_01:
+    Contents: <Tag_0>……………<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPower_big_SA1_KPower_big_mes_02:
+    Contents: "<Tag_0>わが<Tag_1>宿主 クッパの<Tag_2>生命を\n<Tag_3>救いたまえ…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 84 30 69 30 6c 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 81 30 44 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 4f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPower_big_SA1_KPower_big_mes_03:
+    Contents: "<Tag_0>わが<Tag_1>宿主 クッパの<Tag_2>復活を\n<Tag_3>願いたまえ…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 84 30 69 30 6c 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 75 30 63 30 4b 30 64 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPower_big_SA1_KPower_big_mes_04:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>我ら ヘモグロじん…<Tag_4><Tag_5><Tag_6>ヘモグロびんの <Tag_7>精神レベルが\n<Tag_8>高度に<Tag_9>進化した<Tag_10>姿…<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 57 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 46 30 69 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 93 30 4b 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 59 30 4c 30 5f 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPower_big_SA1_KPower_big_mes_05:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>我ら ヘモグロじん…<Tag_4><Tag_5><Tag_6><Tag_7>精神の<Tag_8>波動で <Tag_9>手足がはえた\nかりそめの<Tag_10>姿…<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 57 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 69 30 46 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 66 30 42 30 57 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 59 30 4c 30 5f 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPower_big_SA1_KPower_big_mes_06:
+    Contents: "<Tag_0>クッパの <Tag_1>生命エネルギーの\n<Tag_2>危機を <Tag_3>伝えるため…<Tag_4><Tag_5>この <Tag_6>神聖なる<Tag_7>場所で\nあなたがたを <Tag_8>待っていました…<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 81 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 4d 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 5f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 5b 30 44 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPower_big_SA1_KPower_big_mes_07:
+    Contents: "<Tag_0><Tag_1>我らの<Tag_2>右にいる ヘモグロびんを\n<Tag_3>叩いて <Tag_4>セーブ<Tag_5><Tag_6>し<Tag_7>終わったら…<Tag_8><Tag_9>クッパの <Tag_10>生命エネルギーを\n<Tag_11>復活させるため…<Tag_12><Tag_13><Tag_14>目の<Tag_15>前にある <Tag_16>復活のボートで\nアドレナリバーを めぐってください…<Tag_17><Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 8c 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 4e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 81 30 44 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 75 30 63 30 4b 30 64 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 75 30 63 30 4b 30 64 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KPower_big_SA1_KPower_big_mes_08:
+    Contents: "<Tag_0><Tag_1>復活のボートに <Tag_2>乗りますか？<Tag_3>\n<Tag_4><Tag_5>セーブしてくる<Tag_6><Tag_7><Tag_8>乗る<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 75 30 63 30 4b 30 64 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 12
+  MES_KPower_big_SA1_KPower_big_mes_09:
+    Contents: "<Tag_0>もう１<Tag_1>度 アドレナリバーを\nめぐりますか？<Tag_2>\n<Tag_3><Tag_4>めぐらない<Tag_5><Tag_6>めぐる<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_6:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 12

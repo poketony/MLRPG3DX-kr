@@ -1,0 +1,254 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SKoopa_34_SK32_kanban:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4>今 キノコ<Tag_5>王国中で <Tag_6>大人気の\n<Tag_7>ヤセソー・シーソー<Tag_8><Tag_9>！\nついに クッパ<Tag_10>城にも <Tag_11>登場だ！！<Tag_12><Tag_13><Tag_14><Tag_15><Tag_16><Tag_17>思いっきり <Tag_18><Tag_19>ジャンプして<Tag_20><Tag_21>\nシーソーを ガツンと<Tag_22><Tag_23>プレス<Tag_24><Tag_25>！！<Tag_26><Tag_27><Tag_28><Tag_29><Tag_30><Tag_31>上まで<Tag_32>行ったら もう１<Tag_33>度<Tag_34><Tag_35>プレス<Tag_36><Tag_37>！！\n<Tag_38>歯を<Tag_39>食いしばって さらに<Tag_40><Tag_41>プレス<Tag_42><Tag_43>！<Tag_44><Tag_45><Tag_46><Tag_47><Tag_48><Tag_49>苦い<Tag_50>過去を プレス！！\nきらいなアイツを プレス！\nどんどんプレス！ プレス！！<Tag_51><Tag_52><Tag_53><Tag_54><Tag_55>ほら！ ストレスといっしょに\nムダなお<Tag_56>肉も <Tag_57>飛んでくぜ！！<Tag_58><Tag_59>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 4a 30 46 30 53 30 4f 30 58 30 85 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 60 30 44 30 6b 30 93 30 4d 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 68 30 46 30 58 30 87 30 46 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 69 30
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_35:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_37:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_38:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6f 30
+      Tag_39:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_40:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_41:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_42:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_43:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_44:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_45:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_46:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_47:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_48:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_49:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6b 30 4c 30
+      Tag_50:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 4b 30 53 30
+      Tag_51:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_52:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_53:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_54:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_55:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_56:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6b 30 4f 30
+      Tag_57:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_58:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_59:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12

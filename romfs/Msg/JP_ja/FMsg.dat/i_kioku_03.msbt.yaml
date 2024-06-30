@@ -1,0 +1,732 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KHatena_h_03_Khatena_h_03_mes_09_b:
+    Contents: <Tag_0><Tag_1>せよ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KHatena_h_03_Khatena_h_03_mes_01:
+    Contents: <Tag_0>ここが クッパのきおくの<Tag_1>倉庫ね…<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5d 30 46 30 53 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_02:
+    Contents: <Tag_0><Tag_1>意外と キレイに<Tag_2>整理されてるわ…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 4c 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5b 30 44 30 8a 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>あ… あの…<Tag_3><Tag_4><Tag_5><Tag_6>私達 クッパ<Tag_7>城の\n<Tag_8>金庫の <Tag_9>暗証番号を\n<Tag_10>知りたいんだけど…<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8f 30 5f 30 57 30 5f 30 61 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 93 30 53 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 42 30 93 30 57 30 87 30 46 30 70 30 93 30 54 30 46 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_04:
+    Contents: "<Tag_0><Tag_1>ウィルス しんにゅう！\nウィルス しんにゅう！\nウィルス しんにゅう！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_05:
+    Contents: "<Tag_0>もっとも<Tag_1>注意すべき ウィルスが\nデータベース<Tag_2>内に しんにゅう！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 85 30 46 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_06:
+    Contents: <Tag_0>データのバックアップ <Tag_1>完了！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4b 30 93 30 8a 30 87 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_07:
+    Contents: <Tag_0>ゲキタイプログラムを <Tag_1>起動！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 69 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_08:
+    Contents: <Tag_0><Tag_1>ゲキタイ せよ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_09:
+    Contents: <Tag_0><Tag_1>ゲキタイ<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_KHatena_h_03_Khatena_h_03_mes_20:
+    Contents: "<Tag_0><Tag_1><Tag_2>はい。そうです。<Tag_3><Tag_4><Tag_5>きおくは <Tag_6>修復されました。\nこれは <Tag_7>正確です。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 85 30 46 30 75 30 4f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 4b 30 4f 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_21:
+    Contents: "<Tag_0><Tag_1>暗証番号の きおくを\nもとに もどしたわ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 42 30 93 30 57 30 87 30 46 30 70 30 93 30 54 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_08_b:
+    Contents: <Tag_0><Tag_1>ゲキタイ せよ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_10:
+    Contents: "<Tag_0><Tag_1><Tag_2>はい。そうです。<Tag_3><Tag_4><Tag_5><Tag_6>私は きおくの<Tag_7>管理を\nここで <Tag_8>行っています。<Tag_9><Tag_10>あなた<Tag_11>達の はいじょは\n<Tag_12>失敗しました。<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 93 30 8a 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4a 30 53 30 6a 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 63 30 71 30 44 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_11:
+    Contents: "<Tag_0><Tag_1><Tag_2>しかし <Tag_3>問題はありません。<Tag_4><Tag_5><Tag_6><Tag_7>今から<Tag_8>一時的に あなた<Tag_9>達を\n<Tag_10>観察する プログラムに\n<Tag_11>切りかえます。<Tag_12><Tag_13><Tag_14><Tag_15>はい。そうです。<Tag_16>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 82 30 93 30 60 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 44 30 61 30 58 30 66 30 4d 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 93 30 55 30 64 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_12:
+    Contents: <Tag_0>どうして その<Tag_1>姿になったの？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 59 30 4c 30 5f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_13:
+    Contents: "<Tag_0>はい。そうです。\nあなた<Tag_1>達と <Tag_2>交信しやすい<Tag_3>姿に\n<Tag_4>私は <Tag_5>変化します。<Tag_6><Tag_7>この<Tag_8>姿は この<Tag_9>倉庫の<Tag_10>中で\n<Tag_11>最も <Tag_12>大切に<Tag_13>保存されている\nきおくをもとに <Tag_14>作りました。<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 57 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 59 30 4c 30 5f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 78 30 93 30 4b 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 59 30 4c 30 5f 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5d 30 46 30 53 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 82 30 63 30 68 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 5b 30 64 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7b 30 5e 30 93 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_14:
+    Contents: "<Tag_0><Tag_1>私達 クッパ<Tag_2>城の\n<Tag_3>金庫の <Tag_4>暗証番号を\n<Tag_5>知りたいんだけど…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8f 30 5f 30 57 30 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 93 30 53 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 42 30 93 30 57 30 87 30 46 30 70 30 93 30 54 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_15:
+    Contents: <Tag_0>はい <Tag_1>金庫です… か？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 93 30 53 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_16:
+    Contents: "<Tag_0>はい。わかりました。\n<Tag_1>金庫の <Tag_2>暗証番号です。<Tag_3><Tag_4>それは <Tag_5>危険のかいひを\n<Tag_6>失敗しました。<Tag_7><Tag_8><Tag_9><Tag_10>はい。そうです。<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 93 30 53 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 42 30 93 30 57 30 87 30 46 30 70 30 93 30 54 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 51 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 63 30 71 30 44 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_17:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>失敗？ それ どういう<Tag_4>意味？<Tag_5><Tag_6><Tag_7><Tag_8>金庫の <Tag_9>暗証番号は\nここにはないの？<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 63 30 71 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 44 30 7f 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 93 30 53 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 42 30 93 30 57 30 87 30 46 30 70 30 93 30 54 30 46 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_18:
+    Contents: "<Tag_0><Tag_1><Tag_2>いいえ。<Tag_3>正しくはないです。<Tag_4><Tag_5><Tag_6><Tag_7>金庫の <Tag_8>暗証番号は\nここに あります。<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 60 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 93 30 53 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 42 30 93 30 57 30 87 30 46 30 70 30 93 30 54 30 46 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_h_03_Khatena_h_03_mes_19:
+    Contents: "<Tag_0>はい。そうです。\nこれが <Tag_1>暗証番号です。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 42 30 93 30 57 30 87 30 46 30 70 30 93 30 54 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

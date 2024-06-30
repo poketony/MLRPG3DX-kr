@@ -1,0 +1,993 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Ekubon_14_Ekubon_koopa_stm_01:
+    Contents: <Tag_0>ムム！！<Tag_1> ムムム～ッ！？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_stm_02:
+    Contents: <Tag_0><Tag_1>グオオォォ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_Ekubon_14_Ekubon_koopa_stm_03:
+    Contents: "<Tag_0>ど<Tag_1> どうしたの！？\n<Tag_2>具合でも わるいの！？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 50 30 42 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_warm_01:
+    Contents: "<Tag_0>なんだ？<Tag_1> このへんは\n<Tag_2>畑ばかり ではないか！<Tag_3><Tag_4>だれが こんなところに\n<Tag_5>畑なんか <Tag_6>作りやがったんだ？<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 5f 30 51 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 5f 30 51 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_stm_04:
+    Contents: "<Tag_0>アイタタタタタ！！<Tag_1>\nイタイ！<Tag_2> イタイ！！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_warm_02:
+    Contents: "<Tag_0><Tag_1>あ～らヤダ<Tag_2> あんた<Tag_3>知らないの？<Tag_4><Tag_5>ここはハナチャン<Tag_6>一族が <Tag_7>昔から\n<Tag_8>野菜を<Tag_9>作り<Tag_10>続けてきた <Tag_11>畑なのよ。<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 61 30 5e 30 4f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 80 30 4b 30 57 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 84 30 55 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4f 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 5f 30 51 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_stm_05:
+    Contents: "<Tag_0>なにかしら？<Tag_1>\nニンジンの <Tag_2>食べすぎ？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_warm_03:
+    Contents: "<Tag_0>ふん！<Tag_1> ワガハイは\n<Tag_2>野菜なんて きょうみないぞ！<Tag_3><Tag_4>それよりも オマエ！<Tag_5>\nこのへんに キラーはないか？<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 84 30 55 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_stm_06:
+    Contents: <Tag_0><Tag_1>イタタタタタタ！！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_Ekubon_14_Ekubon_warm_04:
+    Contents: <Tag_0>キラー？<Tag_1> そんなのないわよ～<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_stm_07:
+    Contents: "<Tag_0>おい！<Tag_1> チ<Tag_2> チッピー！<Tag_3>\nオマエ なんとかしろ！！<Tag_4><Tag_5>この <Tag_6>痛いのを…<Tag_7>\nどうにかして…<Tag_8> なおせ！！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 08 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5f 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_warm_05:
+    Contents: "<Tag_0>それより ここの<Tag_1>野菜はね<Tag_2>\n<Tag_3>農薬を<Tag_4>使わない <Tag_5>安全で<Tag_6>安心な\n<Tag_7>健康野菜なのよ～<Tag_8><Tag_9>ピーチ<Tag_10>城の <Tag_11>高級料理も\nここの<Tag_12>野菜を <Tag_13>使ってるんだから\nあんたも <Tag_14>食べてみなよ～<Tag_15><Tag_16>ビタミンや ミネラルが\nた～～っぷり <Tag_17>入ってて\n<Tag_18>美容やダイエットにも ぴったり～<Tag_19><Tag_20><Tag_21>他にも じようきょうそうとか\nしぼうを ねんしょうさせたり\nにくたいひろうじのえいようほきゅう"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 84 30 55 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6e 30 46 30 84 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 5c 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 57 30 93 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0e 00 51 30 93 30 53 30 46 30 84 30 55 30 44 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 53 30 46 30 4d 30 85 30 46 30 8a 30 87 30 46 30 8a 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 84 30 55 30 44 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 73 30 88 30 46 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_stm_08:
+    Contents: "<Tag_0><Tag_1>ほんとに <Tag_2>世話が<Tag_3>焼けるわね！<Tag_4><Tag_5>こんなことで クッパ<Tag_6>城を\n<Tag_7>取りもどせるのかしら？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 5b 30 8f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 84 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_warm_06:
+    Contents: <Tag_0><Tag_1>うるさい！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_Ekubon_14_Ekubon_koopa_stm_09:
+    Contents: "<Tag_0>は…<Tag_1> はやく…<Tag_2>\nなお…<Tag_3> せ…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_warm_07:
+    Contents: "<Tag_0>ワガハイは <Tag_1>野菜なんて\n<Tag_2>食わん！<Tag_3> <Tag_4>肉はないのか！？<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 84 30 55 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6b 30 4f 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_warm_08:
+    Contents: "<Tag_0>あ～らヤダ<Tag_1> どおりで\nブクブクの ボテボテな<Tag_2>体なのね。<Tag_3><Tag_4><Tag_5>野菜を バカにしていると\nいつか <Tag_6>痛い<Tag_7>目 <Tag_8>見るわよ～<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 84 30 55 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_spunch_ex:
+    Contents: <Tag_0><Tag_1><Tag_2>歩きながら<Tag_3><Tag_4><Tag_5>ボタン<Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 8b 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff de 32 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12
+  MES_Ekubon_14_Ekubon_koopa_spunch_0:
+    Contents: "<Tag_0>ハラの<Tag_1>痛みが おさまってきたと\n<Tag_2>思ったら こんどはうでがへんだぞ！<Tag_3><Tag_4>おい！！\nいったい どうなってるんだ！？<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5f 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_spunch_1:
+    Contents: "<Tag_0>なに？\n<Tag_1><Tag_2>歩きながらパンチ<Tag_3><Tag_4>だと？<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 8b 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_spunch_2:
+    Contents: "<Tag_0>…そうか やってみるぞ。\n<Tag_1>体の<Tag_2>調子も よくなったし\nガツーンと パンチしたい<Tag_3>気分だ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 76 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_spunch_3:
+    Contents: <Tag_0><Tag_1><Tag_2>ガハハハハ！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 7
+  MES_Ekubon_14_Ekubon_koopa_spunch_4:
+    Contents: "<Tag_0><Tag_1>こいつは いいぞ！<Tag_2><Tag_3>おい チッピー！\nオマエは ワガハイの<Tag_4>子分決定だ！\nありがたく<Tag_5>思え！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0e 00 53 30 76 30 93 30 51 30 63 30 66 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_spunch_5:
+    Contents: "<Tag_0>えんりょはいらんぞ！\nうれしいときは すなおに\nよろこべ！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_spunch_6:
+    Contents: "<Tag_0>…よし！\nさっそく キラーを<Tag_1>使うか！<Tag_2><Tag_3><Tag_4>たいほうのところまで もどるぞ！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_stm_04_2:
+    Contents: <Tag_0><Tag_1>ハラが イタイ～～～！！！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0a 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 10
+  MES_Ekubon_14_Ekubon_koopa_spunch_2_2:
+    Contents: "<Tag_0>あ～ら<Tag_1> あんた\nまだ いたの～？<Tag_2><Tag_3>なんだか パワーみなぎってる\n<Tag_4>って カンジね～<Tag_5><Tag_6>ヒマなら あそこのバカでかい\n<Tag_7>岩を かたづけてくれな～い？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 06 00
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8f 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_sys_guide_add:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>フィールドガイド<Tag_4>に\n<Tag_5>項目が<Tag_6>追加されました。<Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 82 30 4f 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 64 30 44 30 4b 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_Ekubon_14_Ekubon_koopa_spunch_2_3:
+    Contents: "<Tag_0>そこの <Tag_1>岩がジャマで\nしかたが ないのよね～<Tag_2>\nこの<Tag_3>私に とってみては～<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8f 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_spunch_2_4:
+    Contents: "<Tag_0>カタそうだな…<Tag_1>\nあれで ためしてみるか。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_stm_10:
+    Contents: "<Tag_0>しかたがないわね…<Tag_1>\nしばらく じっとしててよ！<Tag_2><Tag_3><Tag_4>痛みの <Tag_5>原因がなんなのか\n<Tag_6>調べに<Tag_7>行くわ！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 52 30 93 30 44 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 89 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_14_Ekubon_koopa_stm_11:
+    Contents: "<Tag_0>お おいっ！ チッピー！\nま <Tag_1>前より くるしくなったぞ！！<Tag_2><Tag_3>なにを してるんだ！！\nはや く<Tag_4> なんと か<Tag_5> しろ…<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 08 00
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 08 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

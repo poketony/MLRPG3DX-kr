@@ -1,0 +1,430 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_TKinoko_40_Kinoko_town_kinopio_13:
+    Contents: "<Tag_0>う～ん…<Tag_1>\nおしゃれをするのには\nコインが かかるなぁ…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_town_kinopio_14:
+    Contents: "<Tag_0>このズボンが３０００コイン！？<Tag_1>\nちょっと <Tag_2>高すぎるでしょ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_town_kinopio_15:
+    Contents: "<Tag_0>お<Tag_1>会計は <Tag_2>中央のレジにて\nコインでの おしはらいのみ\nうけたまわって おります～<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 51 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 61 30 85 30 46 30 4a 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_town_kinopio_13_1:
+    Contents: "<Tag_0>あのズボン ボクに\nぴったりなのになぁ…<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_town_kinopio_09:
+    Contents: "<Tag_0>いらっしゃいませ～\nブティック キノダへ ようこそ～<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_town_kinopio_09_1:
+    Contents: "<Tag_0><Tag_1>いらっしゃいませ～\nブティック キノダへ ようこそ～<Tag_2><Tag_3><Tag_4>当店は <Tag_5>フラワーランク<Tag_6><Tag_7><Tag_8>以上の<Tag_9>方に\nふさわしい<Tag_10>商品のみを\nとりそろえております～<Tag_11><Tag_12>お<Tag_13>客様は まだ\n<Tag_14><Tag_15>フラワーランク<Tag_16><Tag_17>では\nありませんね～<Tag_18><Tag_19><Tag_20>そのランクで <Tag_21>当店の<Tag_22>品を\nお<Tag_23>買い<Tag_24>求めになろうと<Tag_25>思うなんて…<Tag_26><Tag_27><Tag_28>ふふふふ…\nジョーダンにも ほどがあります。<Tag_29><Tag_30>べつのお<Tag_31>店を\nお<Tag_32>探しになられては\nいかがですか？<Tag_33><Tag_34>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 46 30 66 30 93 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 58 30 87 30 46 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 87 30 46 30 72 30 93 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 83 30 4f 30 55 30 7e 30
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 46 30 66 30 93 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 6a 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 68 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_33:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_town_kinopio_09_2:
+    Contents: <Tag_0>ありがとうございました～<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_street_41:
+    Contents: "<Tag_0>うわ～！<Tag_1> <Tag_2>見つかっちゃった！\nさすが マリオさん！<Tag_3><Tag_4><Tag_5>次は <Tag_6>見つからないよ～\nよーい<Tag_7> はじめ～！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0c 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_town_kinopio_14_1:
+    Contents: "<Tag_0>いえいえ お<Tag_1>客様<Tag_2>\nこのそざいで このお<Tag_3>値段は\nとても リーズナブルですよ。<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 83 30 4f 30 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6d 30 60 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_town_kinopio_14_2:
+    Contents: "<Tag_0>このパンツが６０００コイン！？<Tag_1>\nこんなの <Tag_2>買えないよ！！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_town_kinopio_14_3:
+    Contents: "<Tag_0>いえいえ お<Tag_1>客様<Tag_2>\nこのそざいで このお<Tag_3>値段は\nとても <Tag_4>良心的ですよ。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 83 30 4f 30 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6d 30 60 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 8a 30 87 30 46 30 57 30 93 30 66 30 4d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_town_kinopio_14_4:
+    Contents: "<Tag_0><Tag_1>当店では\nそざいに こだわった<Tag_2>商品を\nとりそろえております。<Tag_3><Tag_4>どの <Tag_5>商品も<Tag_6>非常に\nリーズナブルで <Tag_7>良心的な\nお<Tag_8>値段になっております。<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 46 30 66 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 87 30 46 30 72 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 57 30 87 30 46 30 72 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 58 30 87 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 8a 30 87 30 46 30 57 30 93 30 66 30 4d 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6d 30 60 30 93 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_40_Kinoko_town_kinopio_10:
+    Contents: "<Tag_0>こちらは\nきがえ<Tag_1>室でございますよ～<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 64 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

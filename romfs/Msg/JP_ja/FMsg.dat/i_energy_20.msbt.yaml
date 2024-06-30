@@ -1,0 +1,134 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KEnergy_20_KEnergy_20_mes_01:
+    Contents: "<Tag_0><Tag_1>ヘモグロびん<Tag_2>的な <Tag_3>疑問としては\n<Tag_4>地面にある あやしいポイント…<Tag_5><Tag_6><Tag_7><Tag_8>地面にもぐって そのポイントから\n<Tag_9><Tag_10>飛び<Tag_11>出したら<Tag_12><Tag_13> なにが<Tag_14>起きるびんか？<Tag_15><Tag_16><Tag_17>地面の<Tag_18>中や<Tag_19>足元に そんな\nあやしいポイントや <Tag_20>光っている\nポイントを <Tag_21>見つけたら…<Tag_22><Tag_23><Tag_24><Tag_25>もぐって<Tag_26>飛び<Tag_27>出し やってみるびん！<Tag_28><Tag_29>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4e 30 82 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 57 30 82 30 68 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 4b 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_24:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6

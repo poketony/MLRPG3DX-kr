@@ -1,0 +1,257 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KEnergy_24_KEnergy_24_aparts_01:
+    Contents: "<Tag_0>あなた<Tag_1>達 このパーツを\n<Tag_2>集めてるびん？<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KEnergy_24_KEnergy_24_aparts_02:
+    Contents: "<Tag_0><Tag_1><Tag_2>残念なことに このスペースの\nアタックパーツは…<Tag_3><Tag_4><Tag_5>どこにあるのか マップを\n<Tag_6>見ても わからないびん！<Tag_7><Tag_8><Tag_9>これまでの <Tag_10>経験とカンで\n<Tag_11>見つけ<Tag_12>出すしかないびん！<Tag_13><Tag_14>…ちなみに この<Tag_15>近くにも\nアタックパーツを <Tag_16>入手できそうな\nブロックが ある<Tag_17>気がするびん。<Tag_18><Tag_19><Tag_20><Tag_21>がんばって <Tag_22>見つけるびん！<Tag_23>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 56 30 93 30 6d 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 44 30 51 30 93 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 4b 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 6b 30 85 30 46 30 57 30 85 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KEnergy_24_KEnergy_24_aparts_03:
+    Contents: "<Tag_0>あなた<Tag_1>達 このスペースの\nアタックパーツを <Tag_2>全部見つけたびん！<Tag_3><Tag_4><Tag_5><Tag_6>おめでとうびん！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 08 00 5c 30 93 30 76 30 7f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KEnergy_24_KEnergy_24_mes_01:
+    Contents: "<Tag_0>ここから<Tag_1>先にある かべ\n<Tag_2>リフレクトウォール<Tag_3><Tag_4>は…<Tag_5><Tag_6>ふだんは<Tag_7>光の<Tag_8>反射で\n<Tag_9>裏側のものが<Tag_10>見えないびん。<Tag_11><Tag_12><Tag_13>裏側のものを<Tag_14>見るには\nスッケスケにするしかないびん。<Tag_15><Tag_16>スッケスケにする<Tag_17>方法…\n<Tag_18>知ってるびん？<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 4b 30 8a 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 57 30 83 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 46 30 89 30 4c 30 8f 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 46 30 89 30 4c 30 8f 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 7b 30 46 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6

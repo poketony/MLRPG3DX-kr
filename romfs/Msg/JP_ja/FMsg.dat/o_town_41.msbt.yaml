@@ -1,0 +1,487 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_TKinoko_41_Kinoko_town_kinopio_22:
+    Contents: "<Tag_0>よろしければ\nヒゲそりのサービスも\n<Tag_1>用意して ございますが…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_23:
+    Contents: "<Tag_0>いかがですか？ <Tag_1>よろしければ\n<Tag_2>上をごらんください。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_24:
+    Contents: "<Tag_0><Tag_1>満天の<Tag_2>星空の<Tag_3>下で\nお<Tag_4>時間のゆるす<Tag_5>限り お<Tag_6>買いものを\nお<Tag_7>楽しみになってください。<Tag_8><Tag_9><Tag_10>では ご<Tag_11>注文をうけたまわります。<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7e 30 93 30 66 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 57 30 5e 30 89 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 5f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 4b 30 93 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 4e 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 61 30 85 30 46 30 82 30 93 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_25:
+    Contents: "<Tag_0>ありがとうございました～！\nまたの ご<Tag_1>来店をこころより\nお<Tag_2>待ちしております～！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 89 30 44 30 66 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 3c 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_26:
+    Contents: "<Tag_0>ありがとうございました。\nまたの ご<Tag_1>来店をこころより\nお<Tag_2>待ちしております。<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 89 30 44 30 66 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_27:
+    Contents: "<Tag_0>お<Tag_1>客様… <Tag_2>本日は…<Tag_3>\n<Tag_4><Tag_5>とっとと <Tag_6>買いものをすませる\n<Tag_7><Tag_8>ゆったりと サービスしてもらう<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 83 30 4f 30 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 58 30 64 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_7:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_27_r:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>HPとBP<Tag_4>全回復！！<Tag_5><Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 5c 30 93 30 4b 30 44 30 75 30 4f 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_TKinoko_41_Kinoko_town_kinopio_16:
+    Contents: "<Tag_0>お<Tag_1>客様…<Tag_2> いらっしゃる<Tag_3>場所を\nおまちがえのようですね。<Tag_4><Tag_5><Tag_6>当店は <Tag_7>スターランク<Tag_8><Tag_9><Tag_10>以上の\nお<Tag_11>客様のみ ご<Tag_12>利用いただけます。<Tag_13><Tag_14><Tag_15>どうぞ おひきとりを。<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 83 30 4f 30 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 46 30 66 30 93 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 58 30 87 30 46 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 83 30 4f 30 55 30 7e 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 8a 30 88 30 46 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_17:
+    Contents: "<Tag_0>お<Tag_1>待ちしておりました。\nマリオ<Tag_2>様に ルイージ<Tag_3>様ですね。<Tag_4><Tag_5>どうぞ そちらのステージ<Tag_6>台に\nお<Tag_7>乗りください。<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 60 30 44 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_18:
+    Contents: <Tag_0>いらっしゃいませ～！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_19:
+    Contents: "<Tag_0><Tag_1>本日は <Tag_2>当店をご<Tag_3>指名\nご<Tag_4>来店いただき まことに\nありがとうございます。<Tag_5><Tag_6>お<Tag_7>客様の <Tag_8>担当をさせていただく\nキノーピオンです。\nどうぞ お<Tag_9>見知りおきを。<Tag_10><Tag_11>さて <Tag_12>当店では\nお<Tag_13>客様のために １００<Tag_14>点満点の\nサービスを <Tag_15>用意しております。<Tag_16><Tag_17>まずは こちらの<Tag_18>席へ\nおかけくださいませ。\nさあ どうぞどうぞ。<Tag_19>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 58 30 64 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 46 30 66 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 57 30 81 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 89 30 44 30 66 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 83 30 4f 30 55 30 7e 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 93 30 68 30 46 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 7f 30 57 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 46 30 66 30 93 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 83 30 4f 30 55 30 7e 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 66 30 93 30 7e 30 93 30 66 30 93 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 46 30 44 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5b 30 4d 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_23_1:
+    Contents: <Tag_0><Tag_1>失礼いたしました。<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 64 30 8c 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_20:
+    Contents: "<Tag_0>ロイヤルキノコティーで\nございます。<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_TKinoko_41_Kinoko_town_kinopio_21:
+    Contents: "<Tag_0><Tag_1>足のマッサージを\nさせていただきます。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 57 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

@@ -1,0 +1,276 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_EV_SKoopa_13_EV_SK13_metaboss_01:
+    Contents: "<Tag_0><Tag_1>ブハハハハハハハ！\nナントモ ブザマナ\nスガタジャナイカ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_EV_SK13_geraco_01:
+    Contents: "<Tag_0><Tag_1>メタボスと<Tag_2>戦わせて オマエを<Tag_3>勝たせ\n<Tag_4>特製の <Tag_5>高カロリー<Tag_6>料理で\nまるまると <Tag_7>太らせたのは…<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 5f 30 5f 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 5b 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 8a 30 87 30 46 30 8a 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 75 30 68 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_EV_SK13_geraco_02:
+    Contents: <Tag_0><Tag_1><Tag_2>すべてワレの<Tag_3>計画るるよ！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 44 30 4b 30 4f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_EV_SK13_geraco_03:
+    Contents: "<Tag_0><Tag_1>ふるるるるる…<Tag_2>\n<Tag_3>実は ちょっと\n<Tag_4>予定を かえたるるよ。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 58 30 64 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 88 30 66 30 44 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_EV_SK13_geraco_04:
+    Contents: "<Tag_0><Tag_1><Tag_2>ふるるるるるるる…<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>ピーチ<Tag_8>姫を オマエに<Tag_9>吸い<Tag_10>込ませて\nキノコ<Tag_11>王国は\nワレのものになったるる…<Tag_12><Tag_13><Tag_14>ところが <Tag_15>問題が<Tag_16>発生して\nピーチ<Tag_17>姫が <Tag_18>必要になったるるる！！<Tag_19>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 46 30 53 30 4f 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 82 30 93 30 60 30 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 63 30 5b 30 44 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 64 30 88 30 46 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_EV_SK13_geraco_05:
+    Contents: "<Tag_0><Tag_1>そうるる…<Tag_2><Tag_3><Tag_4>だけど そのピーチ<Tag_5>姫が\n<Tag_6>急に <Tag_7>必要になったるる！！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4d 30 85 30 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 64 30 88 30 46 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_EV_SKoopa_13_EV_SK13_geraco_06:
+    Contents: "<Tag_0><Tag_1>さあ <Tag_2>出てくるるる！！\nピーチ<Tag_3>姫よ <Tag_4>出てくるるる！！！！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

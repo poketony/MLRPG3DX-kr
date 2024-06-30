@@ -1,0 +1,4296 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KHatena_f_01_KHatena_f_01_mes_13_b:
+    Contents: "<Tag_0><Tag_1>どの<Tag_2>情報を お<Tag_3>話ししましょうか？<Tag_4>\n<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>全体マップ<Tag_11><Tag_12>を<Tag_13>見る<Tag_14>方法\n<Tag_15><Tag_16><Tag_17><Tag_18>アクションアイコン<Tag_19><Tag_20>のリセット\n<Tag_21><Tag_22><Tag_23><Tag_24>ブラザーアタック<Tag_25><Tag_26>の<Tag_27>練習\n<Tag_28><Tag_29>お<Tag_30>得な<Tag_31><Tag_32>バトルの<Tag_33>始め<Tag_34>方<Tag_35><Tag_36>\n<Tag_37><Tag_38><Tag_39>次の<Tag_40>情報を<Tag_41>知りたい\n<Tag_42><Tag_43>もう だいじょうぶ！<Tag_44><Tag_45>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5c 30 93 30 5f 30 44 30
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 7b 30 46 30
+      Tag_15:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_16:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_22:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8c 30 93 30 57 30 85 30 46 30
+      Tag_28:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_29:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4f 30
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 5f 30
+      Tag_35:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_37:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_38:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_39:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_40:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_42:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_43:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_44:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_45:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_10:
+    Contents: "<Tag_0>いらっしゃいませ！\nなかなか いいそうび<Tag_1>品が\nそろってますよ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_13_c:
+    Contents: "<Tag_0><Tag_1>もし<Tag_2>自分<Tag_3>達が どこにいるのか\nわからなくなって しまったら…<Tag_4><Tag_5><Tag_6><Tag_7>下画面右下の「ひらく」<Tag_8><Tag_9>ボタンを\n<Tag_10>押すと <Tag_11>今いるエリアの<Tag_12>全体マップが\n<Tag_13>見られるように なりますよ。<Tag_14><Tag_15><Tag_16>これで<Tag_17>自分<Tag_18>達が どこにいるのか\nひと<Tag_19>目でわかります。<Tag_20><Tag_21><Tag_22>ついでに アタックパーツがある<Tag_23>場所も\n<Tag_24>確認できるから べんりですよ。<Tag_25><Tag_26>アタックパーツを <Tag_27>全部<Tag_28>集めるときは\n<Tag_29><Tag_30>「ひらく」<Tag_31><Tag_32>ボタンで\nどこにあるのか チェック！<Tag_33><Tag_34>…あ ちなみに その<Tag_35>全体マップは\n<Tag_36><Tag_37><Tag_38><Tag_39>ボタンで スクロールさせることが\nできますよ！<Tag_40><Tag_41><Tag_42><Tag_43>いろいろ ためしてみてください！<Tag_44><Tag_45>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 0a 00 12 00 57 30 5f 30 4c 30 81 30 93 30 7f 30 4e 30 57 30 5f 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5c 30 93 30 5f 30 44 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 70 30 57 30 87 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 4f 30 6b 30 93 30
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_33:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5c 30 93 30 5f 30 44 30
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_37:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_38:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_39:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_40:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_41:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_42:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_43:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_44:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_45:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_11:
+    Contents: "<Tag_0><Tag_1>あ… マリオ… さん\nあの… その… <Tag_2>本当は…<Tag_3><Tag_4>ここで ものしりなキノックルさんが\nクッパの<Tag_5>体の<Tag_6>中で <Tag_7>調べたことを\n<Tag_8>教えてくれる はずなんですが…<Tag_9><Tag_10><Tag_11>どこかへ <Tag_12>調査に<Tag_13>行ったきり\nもどってこないんですよ…<Tag_14><Tag_15><Tag_16>ああ… <Tag_17>心配です…\nなにかあったのかもしれません…<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 89 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 55 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 71 30 44 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_13_d:
+    Contents: "<Tag_0><Tag_1><Tag_2>や<Tag_3><Tag_4>ボタンで アクションアイコンを\nハンマーや その<Tag_5>他のアイコンに\n<Tag_6>切りかえた<Tag_7>後…<Tag_8><Tag_9><Tag_10>最初のジャンプに もどしたいときは\n<Tag_11><Tag_12><Tag_13>ボタンを <Tag_14>同時に<Tag_15>押すのが\nおすすめですよ。<Tag_16><Tag_17><Tag_18><Tag_19><Tag_20><Tag_21><Tag_22>を <Tag_23>同時に<Tag_24>押せば<Tag_25>必ず\nジャンプのアイコンに もどります。<Tag_26><Tag_27>すぐに ジャンプしたいときは\n<Tag_28><Tag_29><Tag_30><Tag_31>で アイコンをリセット！\nこれを<Tag_32>覚えておくと べんりですよ！<Tag_33><Tag_34>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 57 30 87 30
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 69 30 46 30 58 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 69 30 46 30 58 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 6a 30 89 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 7c 30
+      Tag_33:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_17_02:
+    Contents: "<Tag_0><Tag_1>地面の あやしいポイントに\nもぐって<Tag_2>飛び<Tag_3>出すと <Tag_4>マメ<Tag_5><Tag_6>が\n<Tag_7>出てくることが あるそうです。<Tag_8><Tag_9><Tag_10>なんでも この<Tag_11><Tag_12>マメ<Tag_13><Tag_14>を\n<Tag_15>手に<Tag_16>入れて <Tag_17>使うと…<Tag_18><Tag_19><Tag_20><Tag_21>使った<Tag_22>人の ステータスの１つが\n<Tag_23>少しだけ <Tag_24>成長するそうですぞ！<Tag_25><Tag_26>おまけに <Tag_27>植物性のタンパク<Tag_28>質も\nふんだんに ふくまれていますから\nとってもヘルシー！<Tag_29><Tag_30><Tag_31>毎日の<Tag_32>健康と すこやかな\nステータス<Tag_33>成長のために なるべく\n<Tag_34><Tag_35>マメ<Tag_36><Tag_37>を <Tag_38>手に<Tag_39>入れてくだされ！<Tag_40><Tag_41>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5b 30 44 30 61 30 87 30 46 30
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 57 30 87 30 4f 30 76 30 64 30 5b 30 44 30
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 64 30
+      Tag_29:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7e 30 44 30 6b 30 61 30
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 51 30 93 30 53 30 46 30
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5b 30 44 30 61 30 87 30 46 30
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_35:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_37:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_38:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_39:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_40:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_41:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_12:
+    Contents: "<Tag_0>ああ… キノックルさん\nどうしたんだろう？<Tag_1><Tag_2>クッパの<Tag_3>体の<Tag_4>中の どこかに\nいるはずなんだけど…<Tag_5><Tag_6><Tag_7>はやく もどってきてくれないかな…<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_13_e:
+    Contents: "<Tag_0>モンスターに<Tag_1>攻撃すると たまに\n<Tag_2>ラッキー！<Tag_3><Tag_4>という サインが\n<Tag_5>出てくることがあります。<Tag_6><Tag_7><Tag_8>これは <Tag_9>攻撃するパワーが\nいつもより <Tag_10>強くなったサイン！<Tag_11><Tag_12><Tag_13><Tag_14>HIGE<Tag_15><Tag_16>や <Tag_17><Tag_18>TSUNO<Tag_19><Tag_20>ポイントが\n<Tag_21>高ければ <Tag_22>高いほど この\nラッキー！ヒットが<Tag_23>出やすいですよ。<Tag_24><Tag_25><Tag_26><Tag_27>HIGE<Tag_28><Tag_29>や <Tag_30><Tag_31>TSUNO<Tag_32><Tag_33>ポイントを\n<Tag_34>高くして ラッキー！にめぐまれれば\nバトルも こわいものなしですよ！<Tag_35><Tag_36>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_28:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_29:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_33:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4b 30
+      Tag_35:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_13:
+    Contents: "<Tag_0><Tag_1>マリオさん ルイージさん。\nクッパの<Tag_2>体の<Tag_3>中は どうですか？<Tag_4><Tag_5>お<Tag_6>２人に <Tag_7>役に<Tag_8>立ちそうな<Tag_9>情報を\n<Tag_10>集めてみたので <Tag_11>聞いてください。<Tag_12>\n<Tag_13><Tag_14><Tag_15>後で…<Tag_16><Tag_17><Tag_18>聞きます<Tag_19>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 84 30 4f 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_16:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_17:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_19:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_13_f:
+    Contents: "<Tag_0><Tag_1>モンスターの<Tag_2>中には ファイアに\n<Tag_3>弱いものがいます。<Tag_4><Tag_5>ファイアに<Tag_6>弱いモンスターに\n<Tag_7>ファイア<Tag_8>系の<Tag_9>攻撃<Tag_10><Tag_11>をすると\nクリティカル！ヒットに なるんです。<Tag_12><Tag_13>ファイアに<Tag_14>弱い モンスターがいたら\n<Tag_15>迷わず <Tag_16><Tag_17>ファイアの<Tag_18>攻撃<Tag_19><Tag_20>を<Tag_21>発動して\n<Tag_22>大ダメージを あたえましょう！<Tag_23><Tag_24>あ… でも モンスターによっては\nファイアに <Tag_25>強いものもいるので\nみきわめが かんじんです。<Tag_26><Tag_27>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 8f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 8f 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 51 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 8f 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 88 30
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 64 30 69 30 46 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 60 30 44 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_13_g:
+    Contents: "<Tag_0>レベルアップしたときに <Tag_1>好きな\nステータスを<Tag_2>選んで スロットで\nボーナスポイントを <Tag_3>入れますよね。<Tag_4><Tag_5><Tag_6><Tag_7>実は <Tag_8>同じステータスばかりに\nボーナスポイントを <Tag_9>入れ<Tag_10>続けると…<Tag_11><Tag_12>スロットの<Tag_13>中で <Tag_14>回転している\n<Tag_15>数字が <Tag_16>小さいものばかりに\nなっていくんです。<Tag_17><Tag_18>スロットの<Tag_19>数字が <Tag_20>小さくなったら\nしばらく <Tag_21>他のステータスを\n<Tag_22>選ぶのを おすすめします。<Tag_23><Tag_24><Tag_25>そうしていれば <Tag_26>小さくなった\n<Tag_27>数字も もとにもどってきますよ。<Tag_28>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 58 30 64 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 6a 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 66 30 93 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 59 30 46 30 58 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 59 30 46 30 58 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 59 30 46 30 58 30
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_14:
+    Contents: "<Tag_0>ようやく みんなと<Tag_1>合流できましたが\n<Tag_2>姫様のことが <Tag_3>心配です…<Tag_4><Tag_5><Tag_6>早く<Tag_7>姫様を <Tag_8>見つけ<Tag_9>出してくだされ。\nよろしく<Tag_10>頼みましたぞ！<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 54 30 46 30 8a 30 85 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 71 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 6e 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_13_h:
+    Contents: "<Tag_0><Tag_1>マリオさん ルイージさん。\n<Tag_2>最近ボクは へんな<Tag_3>夢を<Tag_4>見るんです。<Tag_5><Tag_6>どこかせまい<Tag_7>部屋で お<Tag_8>茶を\n<Tag_9>飲んでいる <Tag_10>夢なんですが なぜか\n<Tag_11>時間が ゆっくり<Tag_12>流れるんです。<Tag_13><Tag_14>そして どこからともなく\n\nと <Tag_15>声が<Tag_16>聞こえてくると…<Tag_17><Tag_18><Tag_19>それまで ゆっくり<Tag_20>流れていた<Tag_21>時間が\n<Tag_22>急に<Tag_23>早く <Tag_24>進み<Tag_25>出すんです！！<Tag_26><Tag_27><Tag_28><Tag_29>本当に へんな<Tag_30>夢ですよね～\n…<Tag_31><Tag_32>あ… へんな<Tag_33>話で ごめんなさい。\n<Tag_34>役に<Tag_35>立ちそうな<Tag_36>情報 <Tag_37>聞きますか？<Tag_38>\n<Tag_39><Tag_40><Tag_41>後で…<Tag_42><Tag_43><Tag_44>聞きます<Tag_45>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 4d 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 86 30 81 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 78 30 84 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 83 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 86 30 81 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 4b 30 93 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 48 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 4b 30 93 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4d 30 85 30 46 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 93 30 68 30 46 30
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 86 30 81 30
+      Tag_31:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_32:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_33:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 6a 30 57 30
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 84 30 4f 30
+      Tag_35:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_36:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_37:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_38:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_39:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_40:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_42:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_43:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_44:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_45:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_15:
+    Contents: "<Tag_0>マリオどの！ ルイージどの～！\n<Tag_1>聞きましたぞ～！！<Tag_2><Tag_3><Tag_4><Tag_5>ひ ひ <Tag_6>姫さまがっ！<Tag_7><Tag_8><Tag_9><Tag_10>し し しめさまがっ！！<Tag_11><Tag_12><Tag_13><Tag_14>し し しめさばがっ！！！<Tag_15><Tag_16><Tag_17><Tag_18>何者かにっ <Tag_19>連れさられてしまったと\nいうではっ ないですかぁ～～っ！！<Tag_20><Tag_21>こっ これ<Tag_22>以上 じいをっ じいをっ\n<Tag_23>心配させないで くだされ～っ！！<Tag_24>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6a 30 6b 30 82 30 6e 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 64 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 58 30 87 30 46 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 71 30 44 30
+      Tag_24:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_20_b:
+    Contents: "<Tag_0><Tag_1>２人ぶんで <Tag_2>１０<Tag_3>コインですが\nよければ <Tag_4>飲んでみませんか？<Tag_5><Tag_6><Tag_7>…って<Tag_8>今はお<Tag_9>２人とも HPもBPも\n<Tag_10>減ってないようですね。<Tag_11><Tag_12>HPやBPが <Tag_13>減ってきたな～\nと<Tag_14>思ったら またきてください。<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_13_i:
+    Contents: "<Tag_0>スターメニューの ガイド<Tag_1>画面から\nバトルのお<Tag_2>手本をみたり\nアタックの<Tag_3>練習ができますよ。<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8>おてほん<Tag_9><Tag_10>では アタックが\nすべて<Tag_11>自動的に <Tag_12>動くので\nただ<Tag_13>見ているだけで OKです！<Tag_14><Tag_15>あまり<Tag_16>使っていない アタックや\n<Tag_17>苦手なアタックは <Tag_18>れんしゅう<Tag_19>で\n<Tag_20>試してみると いいですよ！<Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4c 30 81 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 66 30 7b 30 93 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8c 30 93 30 57 30 85 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 58 30 69 30 46 30 66 30 4d 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6b 30 4c 30 66 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 81 30
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_16:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>姫様～～っ！！<Tag_4><Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>あううううう…<Tag_10><Tag_11>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 1
+        Parameters: 00 00
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 7
+  MES_KHatena_f_01_KHatena_f_01_mes_20_c:
+    Contents: "<Tag_0><Tag_1>今だけ <Tag_2>特別セール<Tag_3>中です。\nとってもオトクですよ！<Tag_4><Tag_5><Tag_6>２人ぶんで <Tag_7>１<Tag_8>コインですが\nよければ <Tag_9>飲んでみませんか？<Tag_10>\n<Tag_11><Tag_12><Tag_13>また<Tag_14>後で…<Tag_15><Tag_16><Tag_17>飲んでみる<Tag_18>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 79 30 64 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 61 30 85 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_15:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_16:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_18:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_13_b2:
+    Contents: "<Tag_0><Tag_1>どの<Tag_2>情報を お<Tag_3>話ししましょうか？<Tag_4>\n<Tag_5><Tag_6><Tag_7><Tag_8><Tag_9>ボーナスポイント<Tag_10><Tag_11>のふりわけ\n<Tag_12><Tag_13><Tag_14><Tag_15>ラッキー！ヒット<Tag_16><Tag_17>について\n<Tag_18><Tag_19><Tag_20><Tag_21>クリティカル！ヒット<Tag_22><Tag_23>について\n<Tag_24><Tag_25><Tag_26>前の<Tag_27>情報にもどる\n<Tag_28><Tag_29>もう だいじょうぶ！<Tag_30><Tag_31>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_18:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_19:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_25:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_28:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_29:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_31:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_13_j:
+    Contents: "<Tag_0><Tag_1>モンスターにふれると バトルが\n<Tag_2>始まりますよね。<Tag_3><Tag_4><Tag_5>実は このモンスターに\nどうやって ふれるかによって\nバトルの<Tag_6>始まりが かわるんです。<Tag_7><Tag_8><Tag_9>ジャンプして モンスターを<Tag_10>上から\n<Tag_11>ふみつけてバトルに<Tag_12>入る<Tag_13><Tag_14>と…<Tag_15><Tag_16>バトルの いちばん<Tag_17>最初で\nモンスターに ダメージを\nあたえることが できるんです。<Tag_18><Tag_19><Tag_20>モンスターを <Tag_21><Tag_22>ハンマーで<Tag_23>叩いて<Tag_24><Tag_25>\nバトルに<Tag_26>入っても <Tag_27>同じですよ。<Tag_28><Tag_29><Tag_30>少しでも<Tag_31>多く ダメージをあたえれば\nバトルが <Tag_32>有利になりますから\nぜひ ためしてみてください。<Tag_33><Tag_34><Tag_35><Tag_36>あ ちなみに…<Tag_37><Tag_38><Tag_39>トゲやほのおの モンスターを\nふみつけて バトルに<Tag_40>入ると\n<Tag_41>逆に<Tag_42>自分が ダメージをうけますよ。<Tag_43><Tag_44><Tag_45><Tag_46>くれぐれも <Tag_47>気をつけてください。<Tag_48><Tag_49>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 58 30 64 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 58 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 57 30 87 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_20:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 6a 30
+      Tag_28:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_29:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_32:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 86 30 46 30 8a 30
+      Tag_33:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_35:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_36:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_37:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_38:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_39:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_40:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4e 30 83 30 4f 30
+      Tag_42:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 76 30 93 30
+      Tag_43:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_44:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_45:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_46:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_47:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_48:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_49:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_17:
+    Contents: "<Tag_0><Tag_1>マリオどの… ルイージどの…\nじいは かわりましたぞ。<Tag_2><Tag_3><Tag_4>クヨクヨするのは やめました。\n<Tag_5>姫様は きっとだいじょうぶ！<Tag_6><Tag_7>マリオどのと ルイージどのが\n<Tag_8>必ずや <Tag_9>助け<Tag_10>出してくれると\n<Tag_11>信じておりますぞ。<Tag_12><Tag_13><Tag_14>そんな マリオどの<Tag_15>達を\nおうえんするために…<Tag_16><Tag_17><Tag_18><Tag_19>冒険に<Tag_20>役立つ <Tag_21>情報を\nこっそり <Tag_22>仕入れてきました。<Tag_23><Tag_24><Tag_25>キノじいの<Tag_26>情報 <Tag_27>聞きますかな？<Tag_28>\n<Tag_29><Tag_30><Tag_31>後で…<Tag_32><Tag_33><Tag_34>聞きます<Tag_35>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 81 30 55 30 7e 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 6a 30 89 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 59 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 93 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7c 30 46 30 51 30 93 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 84 30 4f 30 60 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 04 00 57 30 44 30
+      Tag_23:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_25:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_28:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_29:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_32:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_33:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_35:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_20_d:
+    Contents: "<Tag_0><Tag_1>今だけ <Tag_2>特別セール<Tag_3>中です。\nとってもオトクですよ！<Tag_4><Tag_5><Tag_6>２人ぶんで <Tag_7>１<Tag_8>コインですが\nよければ <Tag_9>飲んでみませんか？<Tag_10><Tag_11><Tag_12>…って<Tag_13>今はお<Tag_14>２人とも HPもBPも\n<Tag_15>減ってないようですね。<Tag_16><Tag_17>HPやBPが <Tag_18>減ってきたな～\nと<Tag_19>思ったら またきてください。<Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 79 30 64 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 61 30 85 30 46 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_18:
+    Contents: "<Tag_0>クッパに <Tag_1>吸い<Tag_2>込まれてから\nこの<Tag_3>体内で ずっとすごしてきましたが\nもう すっかりなれてしまいました。<Tag_4><Tag_5><Tag_6>ここを ２つ<Tag_7>目のピーチ<Tag_8>城として\n<Tag_9>暮らしていくのも わるくないかも…<Tag_10><Tag_11><Tag_12>いやはや <Tag_13>住めば<Tag_14>都とは\nよく<Tag_15>言ったものですな！<Tag_16><Tag_17>さてさて ムダ<Tag_18>話はこのくらいにして\nキノじいの<Tag_19>情報 <Tag_20>聞きますかな？<Tag_21>\n<Tag_22><Tag_23>もういいです…<Tag_24><Tag_25><Tag_26>聞きます<Tag_27>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 6a 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 58 30 87 30 46 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7f 30 84 30 53 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 70 30 6a 30 57 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 58 30 87 30 46 30 7b 30 46 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_21:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_22:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_24:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_25:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_27:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_19:
+    Contents: "<Tag_0><Tag_1>あ！ マリオさん！\nいらっしゃいませ！<Tag_2><Tag_3><Tag_4><Tag_5>マリオさんや\nルイージさんも クッパに\n<Tag_6>吸い<Tag_7>込まれたんですね！<Tag_8><Tag_9><Tag_10>マリオさん<Tag_11>達が\nいてくれると なんだか\nこころ<Tag_12>強いですよ！<Tag_13><Tag_14>そうそう クッパの<Tag_15>体内にいる\nヘモグロびんという ふしぎな\n<Tag_16>生き<Tag_17>物には もう<Tag_18>会いました？<Tag_19><Tag_20><Tag_21><Tag_22>彼らの<Tag_23>中には\n<Tag_24>変わった<Tag_25>種類のヘモグロびんも\nいるみたいです。<Tag_26><Tag_27>この<Tag_28>後ろにいる ヘモグロびんは\n<Tag_29>体から ジュースのような\n<Tag_30>液体を <Tag_31>出すんですよ！<Tag_32><Tag_33>それを<Tag_34>飲むと アラ！\nどうしたことか！？<Tag_35><Tag_36>メラメラと<Tag_37>体の<Tag_38>底から\nチカラがみなぎって\n<Tag_39>体力などが<Tag_40><Tag_41>完全回復<Tag_42><Tag_43>！！<Tag_44><Tag_45><Tag_46>…<Tag_47>味はちょっと\nビミョウですけど。<Tag_48><Tag_49>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 65 30 88 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 6a 30 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 6e 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 8c 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 85 30 8b 30 44 30
+      Tag_26:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 57 30
+      Tag_29:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 48 30 4d 30 5f 30 44 30
+      Tag_31:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_32:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_33:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_34:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_35:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_36:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_37:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_38:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5d 30 53 30
+      Tag_39:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5f 30 44 30 8a 30 87 30 4f 30
+      Tag_40:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_41:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 4b 30 93 30 5c 30 93 30 4b 30 44 30 75 30 4f 30
+      Tag_42:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_43:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_44:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_45:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_46:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_47:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 58 30
+      Tag_48:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_49:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_coin:
+    Contents: <Tag_0><Tag_1><Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 3
+        Type: 0
+        Parameters: 01 00 06 00 00 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_01:
+    Contents: <Tag_0>マリオさん！ ルイージさん！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_02:
+    Contents: "<Tag_0><Tag_1>マリオさん<Tag_2>達も クッパに\n<Tag_3>吸い<Tag_4>込まれたんですね！<Tag_5><Tag_6>なんだか <Tag_7>少し<Tag_8>安心しました。\nマリオさん<Tag_9>達が いてくれると\nこころ<Tag_10>強いですよ～<Tag_11>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 57 30 93 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 65 30 88 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_03:
+    Contents: <Tag_0>え？ <Tag_1>他のみんな ですか？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_04:
+    Contents: "<Tag_0>クッパに<Tag_1>吸い<Tag_2>込まれた キノピオ<Tag_3>達は\nここに <Tag_4>集まっていますよ。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_05:
+    Contents: "<Tag_0>みんな クッパの<Tag_1>体の<Tag_2>中で\n<Tag_3>見つけた いろんなものを<Tag_4>集めて\nお<Tag_5>店を <Tag_6>開いています。<Tag_7><Tag_8><Tag_9>…って だれも<Tag_10>買いにくる<Tag_11>人\nいませんけど。<Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 89 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 68 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_06:
+    Contents: "<Tag_0><Tag_1>まぁ ここでじっと していても\n<Tag_2>不安なだけですからね…<Tag_3><Tag_4><Tag_5>お<Tag_6>店でも<Tag_7>開いて <Tag_8>気を\nまぎらわしてるんですよ。<Tag_9><Tag_10><Tag_11>マリオさん<Tag_12>達も なにか\n<Tag_13>買ってあげてください。<Tag_14><Tag_15>ボクはこれから <Tag_16>他にもなにか\n<Tag_17>使えそうなものがないか\n<Tag_18>探しに <Tag_19>行ってきます。<Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 42 30 93 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 5b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 89 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_07:
+    Contents: "<Tag_0>あ！ マリオさん！ いらっしゃいませ！\nこんな わけのわからないところに\n<Tag_1>吸い<Tag_2>込まれて <Tag_3>大変ですけど…<Tag_4><Tag_5><Tag_6>おたがいがんばって <Tag_7>抜け<Tag_8>出す<Tag_9>方法を\n<Tag_10>考えましょう！<Tag_11><Tag_12>ついでに <Tag_13>必要そうなアイテムも\n<Tag_14>集めてきたので <Tag_15>見ていってください。\n<Tag_16>買ってくれると うれしいな…<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 44 30 78 30 93 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6c 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 7b 30 46 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 93 30 4c 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 64 30 88 30 46 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_08:
+    Contents: "<Tag_0>いらっしゃいませ！\n<Tag_1>必要なアイテムがあれば\nぜひ <Tag_2>買っていってくださいね！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 64 30 88 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4b 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_09:
+    Contents: "<Tag_0><Tag_1>あ！ マリオさん！ いらっしゃいませ！<Tag_2><Tag_3>きっと マリオさんや ルイージさんも\nクッパに <Tag_4>吸い<Tag_5>込まれたんじゃないかと\n<Tag_6>思ってましたよ！<Tag_7><Tag_8><Tag_9>だから マリオさん<Tag_10>達に <Tag_11>必要そうな\nそうび<Tag_12>品を <Tag_13>集めておきました。<Tag_14><Tag_15>そうび<Tag_16>品に <Tag_17>値段がついてますけど\nこれは <Tag_18>集めるのに<Tag_19>苦労しました<Tag_20>代\nということなので おゆるしを…<Tag_21>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 64 30 88 30 46 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 93 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6d 30 60 30 93 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4f 30 8d 30 46 30
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 60 30 44 30
+      Tag_21:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_21_b:
+    Contents: "<Tag_0>いらっしゃいませ！\nヘモグロびんの スペシャル\nジュースカウンターです！<Tag_1><Tag_2><Tag_3><Tag_4>２人ぶんで <Tag_5>１０<Tag_6>コインですが\nよければ <Tag_7>飲んでみませんか？<Tag_8><Tag_9><Tag_10><Tag_11>…って<Tag_12>今はお<Tag_13>２人とも HPもBPも\n<Tag_14>減ってないようですね。<Tag_15><Tag_16><Tag_17>HPやBPが <Tag_18>減ってきたな～\nと<Tag_19>思ったら またきてください。<Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_15:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_21_c:
+    Contents: "<Tag_0>いらっしゃいませ！\nヘモグロびんの スペシャル\nジュースカウンターです！<Tag_1><Tag_2><Tag_3>今だけ <Tag_4>特別セール<Tag_5>中です。\nとってもオトクですよ！<Tag_6><Tag_7><Tag_8>２人ぶんで <Tag_9>１<Tag_10>コインですが\nよければ <Tag_11>飲んでみませんか？<Tag_12>\n<Tag_13><Tag_14><Tag_15>また<Tag_16>後で…<Tag_17><Tag_18><Tag_19>飲んでみる<Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 79 30 64 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 61 30 85 30 46 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_13:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_15:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_17:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_18:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_20:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_21_d:
+    Contents: "<Tag_0>いらっしゃいませ！\nヘモグロびんの スペシャル\nジュースカウンターです！<Tag_1><Tag_2><Tag_3>今だけ <Tag_4>特別セール<Tag_5>中です。\nとってもオトクですよ！<Tag_6><Tag_7><Tag_8><Tag_9>２人ぶんで <Tag_10>１<Tag_11>コインですが\nよければ <Tag_12>飲んでみませんか？<Tag_13><Tag_14><Tag_15><Tag_16>…って<Tag_17>今はお<Tag_18>２人とも HPもBPも\n<Tag_19>減ってないようですね。<Tag_20><Tag_21><Tag_22>HPやBPが <Tag_23>減ってきたな～\nと<Tag_24>思ったら またきてください。<Tag_25>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 4f 30 79 30 64 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 61 30 85 30 46 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 7e 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_25:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_20:
+    Contents: "<Tag_0><Tag_1>２人ぶんで <Tag_2>１０<Tag_3>コインですが\nよければ <Tag_4>飲んでみませんか？<Tag_5>\n<Tag_6><Tag_7><Tag_8>また<Tag_9>後で…<Tag_10><Tag_11><Tag_12>飲んでみる<Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_8:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_10:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_11:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_13:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_21:
+    Contents: "<Tag_0>いらっしゃいませ！\nヘモグロびんの スペシャル\nジュースカウンターです！<Tag_1><Tag_2><Tag_3>２人ぶんで <Tag_4>１０<Tag_5>コインですが\nよければ <Tag_6>飲んでみませんか？<Tag_7>\n<Tag_8><Tag_9><Tag_10>また<Tag_11>後で…<Tag_12><Tag_13><Tag_14>飲んでみる<Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 75 30 5f 30 8a 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_8:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 6
+        Type: 1
+        Parameters: 14 00
+      Tag_10:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 68 30
+      Tag_12:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_13:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_15:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_22:
+    Contents: "<Tag_0>のうしゅく１００％の ヘモグロじる…\nじゃなくて ヘモグロジュース！\n<Tag_1>気軽に<Tag_2>飲みに きてください！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 4c 30 8b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_23:
+    Contents: <Tag_0>あ… コインが<Tag_1>足りないようです…<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KHatena_f_01_KHatena_f_01_mes_24:
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>HPとBP<Tag_4>全回復！！<Tag_5><Tag_6>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 5c 30 93 30 4b 30 44 30 75 30 4f 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_KHatena_f_01_KHatena_f_01_mes_18_02:
+    Contents: "<Tag_0><Tag_1>地面の あやしいポイントに\nもぐって<Tag_2>飛び<Tag_3>出すと <Tag_4>マメ<Tag_5><Tag_6>が\n<Tag_7>出てくることがあります。<Tag_8><Tag_9>この<Tag_10><Tag_11>マメ<Tag_12><Tag_13>を <Tag_14>手に<Tag_15>入れて<Tag_16>使うと\nステータスの１つが <Tag_17>成長することは\nもうご<Tag_18>存知だと <Tag_19>思いますが…<Tag_20><Tag_21><Tag_22><Tag_23><Tag_24>マメ<Tag_25><Tag_26>の<Tag_27>種類によって <Tag_28>成長する\nステータスも かわるそうです。<Tag_29><Tag_30><Tag_31><Tag_32><Tag_33>ハートマメ<Tag_34><Tag_35>なら <Tag_36><Tag_37>HP<Tag_38><Tag_39>が<Tag_40>成長\n<Tag_41><Tag_42>スペシャルマメ<Tag_43><Tag_44>なら <Tag_45><Tag_46>BP<Tag_47><Tag_48>が<Tag_49>成長…<Tag_50><Tag_51><Tag_52><Tag_53><Tag_54>パワーマメ<Tag_55><Tag_56>なら <Tag_57><Tag_58>POW<Tag_59><Tag_60>が<Tag_61>成長して\nこうげき<Tag_62>力が <Tag_63>上がるそうです。<Tag_64><Tag_65><Tag_66>まあ とにかく<Tag_67><Tag_68>マメ<Tag_69><Tag_70>を<Tag_71>見つけたら\nすぐに<Tag_72>使うことですな。<Tag_73><Tag_74>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5b 30 44 30 61 30 87 30 46 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5e 30 93 30 58 30
+      Tag_19:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_20:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_21:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_24:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_25:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_26:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 85 30 8b 30 44 30
+      Tag_28:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5b 30 44 30 61 30 87 30 46 30
+      Tag_29:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_31:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_32:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_33:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_34:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_35:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_36:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_37:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_38:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_39:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_40:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5b 30 44 30 61 30 87 30 46 30
+      Tag_41:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_42:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_43:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_44:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_45:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_46:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_47:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_48:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_49:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5b 30 44 30 61 30 87 30 46 30
+      Tag_50:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_51:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_52:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_53:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_54:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_55:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_56:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_57:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_58:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_59:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_60:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_61:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 5b 30 44 30 61 30 87 30 46 30
+      Tag_62:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8a 30 87 30 4f 30
+      Tag_63:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_64:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_65:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_66:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_67:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_68:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_69:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_70:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_71:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_72:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_73:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_74:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_info_03:
+    Contents: <Tag_0><Tag_1>チャレンジホール ニュース！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_info_04:
+    Contents: "<Tag_0><Tag_1>～ コレステチューブ ～\n<Tag_2><Tag_3>新しいチャレンジが ふえたびん！<Tag_4><Tag_5><Tag_6><Tag_7>さっそく <Tag_8>行ってみるびん！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_info_05:
+    Contents: "<Tag_0><Tag_1>～ バトルコロシアム ～\n<Tag_2><Tag_3>新しいクラスが ふえたびん！<Tag_4><Tag_5><Tag_6><Tag_7>さっそく <Tag_8>行ってみるびん！<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KCharenge_01_Kcharenge_info_06:
+    Contents: "<Tag_0><Tag_1>～ コレステチューブ ～\n<Tag_2><Tag_3>新しいチャレンジが ふえたびん！<Tag_4><Tag_5><Tag_6>～ バトルコロシアム ～\n<Tag_7><Tag_8>新しいクラスが ふえたびん！<Tag_9><Tag_10><Tag_11><Tag_12>さっそく <Tag_13>行ってみるびん！<Tag_14>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 5f 30 89 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

@@ -1,0 +1,395 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_11AT:
+    Contents: "<Tag_0>こんなふうに\nマリオ<Tag_1>達を <Tag_2>動かして… "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_3AT:
+    Contents: "<Tag_0>マリオ<Tag_1>達を タッチペンで\n<Tag_2>すばやく スライド<Tag_3><Tag_4>すれば\n<Tag_5>花粉を<Tag_6> <Tag_7>はじき<Tag_8>飛ばせそうね。<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 75 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_4BT:
+    Contents: "<Tag_0>この<Tag_1>調子で <Tag_2>全部の かべに\n<Tag_3>花粉を <Tag_4>当ててみましょう！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 61 30 87 30 46 30 57 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 75 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_8T:
+    Contents: "<Tag_0>マリオ！ トゲ<Tag_1>花粉に\n<Tag_2>当たらないように<Tag_3>気をつけてね！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 75 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_01BT:
+    Contents: "<Tag_0>それで クッパの<Tag_1>鼻が\n<Tag_2>反応してたのね！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 6a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 6e 30 46 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_10T:
+    Contents: "<Tag_0><Tag_1>スライド<Tag_2><Tag_3>した<Tag_4>方向に\n<Tag_5>動けるわ！ <Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 53 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 54 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_coin_dsp:
+    Contents: <Tag_0><Tag_1><Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 3
+        Type: 0
+        Parameters: 01 00 06 00 00 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_6AT:
+    Contents: <Tag_0><Tag_1><Tag_2>なに！？ <Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_7BT:
+    Contents: "<Tag_0>ハートが\nなくならないように\n<Tag_1>気をつけてね！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_4AT:
+    Contents: "<Tag_0><Tag_1>花粉が かべに<Tag_2>当たると\n<Tag_3>反応して <Tag_4>色が かわるのね！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 75 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 6e 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 8d 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_5BT:
+    Contents: "<Tag_0><Tag_1>次は このかべをマリオ<Tag_2>達で\n<Tag_3>直接 シゲキしちゃいましょう！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 61 30 87 30 4f 30 5b 30 64 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_01AT:
+    Contents: "<Tag_0><Tag_1>上から <Tag_2>落ちてくるのは\n<Tag_3>花粉だわ… "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 46 30 48 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 75 30 93 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_11BT:
+    Contents: "<Tag_0><Tag_1>花粉を かべの<Tag_2>方に\nはじき<Tag_3>飛ばしてみましょう！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 75 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_9T:
+    Contents: "<Tag_0>たとえば こうやって\nマリオ<Tag_1>達を なぞると… "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_02T:
+    Contents: "<Tag_0>このかべに <Tag_1>花粉を <Tag_2>当てれば\nクッパの<Tag_3>体に なにか\n<Tag_4>起きるんじゃないかしら？ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 75 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_7AT:
+    Contents: "<Tag_0>トゲ<Tag_1>花粉に <Tag_2>当たると\nハートが １つ\n<Tag_3>減っちゃうのね… "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 75 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_5AT:
+    Contents: '<Tag_0>かべが <Tag_1>激しく<Tag_2>反応してるわね… '
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 52 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 6e 30 46 30
+    Attribute: 00000000
+    StyleID: 6
+  MES_SA_SUB_KPower_nose_02_SA_NOSE_TUT_6BT:
+    Contents: "<Tag_0>これは さっきの\n<Tag_1>花粉とは ちがうわ！ "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 75 30 93 30
+    Attribute: 00000000
+    StyleID: 6

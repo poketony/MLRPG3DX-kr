@@ -1,0 +1,7369 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  BtlGuide_02:
+    Contents: '<Tag_0>기본②: 대미지를 주어 격파'
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  KuttukiThunder_11:
+    Contents: <Tag_0>찰싹 붙기 선더
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  MoguHam_07_2:
+    Contents: "<Tag_0><Tag_1> <Tag_2>버튼을 누르면 튀어나와 원 상태로 복귀합니다.\n「구덩이」 밑에서 튀어나오면\n콩을 캐낼 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_71:
+    Contents: <Tag_0>하늘을 나는 쿠파 성 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  BtlGuide_03:
+    Contents: <Tag_0>점프 공격
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  MoguHam_07_3:
+    Contents: "<Tag_0>몬스터 밑에서 튀어나오면\n몬스터롤 높이 솟아오르게 합니다.\n낙하한 후에는 잠시 움직이지 못하게 됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_72:
+    Contents: <Tag_0>크라이클라이밍 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  BtlGuide_04:
+    Contents: <Tag_0>시범과 연습
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  BtlGuide_15_0:
+    Contents: "<Tag_0>브라더 어택이 어려울 때는\n간단 어택 모드를 선택해 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  MoguHam_07_4:
+    Contents: "<Tag_0>몬스터가 「<Tag_1>어질어질<Tag_2>」이 된 상태에서\n배틀을 시작할 수 있게 됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_73:
+    Contents: <Tag_0>네 실력을 보여줘! DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_20:
+    Contents: "<Tag_0>피치공주가 콩글리아에 온다고 한다!\n공항으로 마중을 나가자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_05:
+    Contents: '<Tag_0>기본③: 마리오 형제의 HP에 주의'
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  BtlGuide_06_0:
+    Contents: "<Tag_0>몬스터가 공격할 때에도\n마리오 형제는 액션이 가능합니다.\n자세를 낮추는 포즈는 <Tag_1>점프 방어 <Tag_2>신호입니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_15_1:
+    Contents: "<Tag_0>소모되는 BP가 늘어나는 대신에\n타이밍을 맞추기 수월해집니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  ThunderHand_09_0:
+    Contents: "<Tag_0>액션 아이콘을 「선더」로 변경하고\n<Tag_1> <Tag_2>버튼을 길게 눌렀다가 떼면\n<Tag_3>선더<Tag_4>를 발사합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_74:
+    Contents: <Tag_0>네 실력을 더 보여줘! DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_21:
+    Contents: "<Tag_0>활주로를 깨끗하게 정리하고\n피치공주를 맞이하자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_06:
+    Contents: <Tag_0>점프 방어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  BtlGuide_06_1:
+    Contents: <Tag_0>캐릭터 버튼을 누르면 점프할 수 있습니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_15_2:
+    Contents: "<Tag_0>간단 어택 모드를 사용하려면\n어택 선택 시 <Tag_1> <Tag_2>버튼을 누릅니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_75:
+    Contents: <Tag_0>기묘 절묘한 콤비 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_22:
+    Contents: "<Tag_0>잠시 콩글리아 성 내부와\n마을을 돌아다녀보자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_00:
+    Contents: <Tag_0>마리오 amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  BrosAtk_03_A_0:
+    Contents: "<Tag_0>루이지가 해머를 들어 올리면 <Tag_1> <Tag_2>버튼.\n마리오가 꼬마리오가 됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_06_2:
+    Contents: "<Tag_0>점프로 공격을 회피할 수 있습니다.\n이때 몬스터를 밟으면 대미지를 줍니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_07:
+    Contents: '<Tag_0>기본④: 이길수록 강해진다'
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  BtlGuide_15_3:
+    Contents: "<Tag_0>공격 대미지는 동일합니다.\n어려운 어택이 있을 때 사용해 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_02_0:
+    Contents: "<Tag_0>획득한 아이템은\n메뉴를 통해 사용할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_76:
+    Contents: <Tag_0>결전의 무대 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_23:
+    Contents: "<Tag_0>해머 장인의 집으로 가보자.\n성 주변 시가지의 동쪽에 있다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_01:
+    Contents: <Tag_0>루이지 amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  BrosAtk_02_A:
+    Contents: <Tag_0>초퍼 브러스 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  BrosAtk_03_A_1:
+    Contents: "<Tag_0>꼬마리오가 잠시 어필을 합니다.\n그 사이에 <Tag_1> <Tag_2>버튼을 누르세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_08:
+    Contents: <Tag_0>엔카운트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  FldGuide_02_1:
+    Contents: "<Tag_0>HP와 BP가 줄었다면\n배틀을 하기 전에 회복해 둡시다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_77:
+    Contents: <Tag_0>라스트 깔깔깔마녀 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_rem_equip_exp:
+    Contents: <Tag_0>장착하고 있는 아이템을 해제합니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  menu_scenario_next_24:
+    Contents: "<Tag_0>피치공주와 리틀버섯에 가자!\n콩글리아 성의 북쪽에 있다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_02:
+    Contents: <Tag_0>피치공주 amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  shop_price:
+    Contents: <Tag_0><Tag_1>가격<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  BrosAtk_01_A_0:
+    Contents: "<Tag_0>루이지가 마리오에 올라탈 때 <Tag_1> <Tag_2>버튼.\n몬스터 2마리를 공격할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_03_A_2:
+    Contents: "<Tag_0>그 다음 루이지가 휘두른 해머가\n마리오를 칠 때 <Tag_1> <Tag_2>버튼!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_09:
+    Contents: '<Tag_0>기본⑤: 스테이터스에 대해'
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  ChibiHam_06:
+    Contents: <Tag_0>꼬마 해머
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  FldGuide_02_2:
+    Contents: "<Tag_0>배틀 중에만 사용할 수 있는 아이템도 있습니다.\n새로 획득한 아이템은\n꼭 확인해 둡시다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_20:
+    Contents: <Tag_0>위위위! 위기!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_bgm_title_78:
+    Contents: <Tag_0>윈 & 댄스 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_25:
+    Contents: "<Tag_0>잠시 쉬었다가\n리틀버섯을 구경해보자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_03:
+    Contents: <Tag_0>요시 amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  BrosAtk_01_A_1:
+    Contents: <Tag_0>착지할 때 <Tag_1> <Tag_2>버튼으로 빅 점프!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_03_A_3:
+    Contents: "<Tag_0>마리오가 몬스터에 부딪쳤다 되돌아옵니다. \n루이지가 맞받아치면 여러 번 공격합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  SoloHammer_M_00:
+    Contents: <Tag_0>해머
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  menu_bgm_title_21:
+    Contents: <Tag_0>하하하 하카데미
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_bgm_title_79:
+    Contents: <Tag_0>몸과 머리를 풀가동!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_26:
+    Contents: "<Tag_0>믿을 건 루이지밖에 없다!\n혼자서 잘 할 수 있을까?"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_04:
+    Contents: <Tag_0>키노피오 amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  BrosAtk_01_A_2:
+    Contents: <Tag_0><Tag_1><Tag_2>→<Tag_3><Tag_4>의 순서로 몬스터를 밟으면 Excellent!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_03_A_4:
+    Contents: "<Tag_0>마리오가 몬스터와 부딪칠 때 <Tag_1> <Tag_2>버튼!\n되돌아오면 <Tag_3> <Tag_4>버튼으로 맞받아치세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_13_0:
+    Contents: "<Tag_0><Tag_1>이지 모드<Tag_2>를 사용하면 마리오 형제가 강해져\n몬스터를 쉽게 물리칠 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  SpinJump_05:
+    Contents: <Tag_0>스핀 점프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_bgm_title_22:
+    Contents: <Tag_0>키노피오들의 어나더 스카이
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_27:
+    Contents: "<Tag_0>흩어진 스타 빈즈를 찾자.\n우선은 헤헤헤 골짜기에 떨어진 것부터."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_05:
+    Contents: <Tag_0>쿠파 amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  BrosAtk_03_A_5:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4><Tag_5><Tag_6>… 5번 성공하면 Excellent!\n속도가 점점 빨라지니 주의하세요!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_04_0:
+    Contents: "<Tag_0>공격을 선택할 때 <Tag_1>아래 화면의 버튼<Tag_2>을 터치하면\n시범을 보거나 연습을 할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_13_1:
+    Contents: "<Tag_0>이지 모드는 메뉴의 「설정」 항목에서\n또는 게임 오버가 되면 선택할 수 있습니다.\n어렵다고 느낄 때 사용해 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_23:
+    Contents: <Tag_0>바다… 바다… 바다…
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_28:
+    Contents: "<Tag_0>어떻게든 스타 빈즈 조각을\n되찾을 수는 없을까?"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_06:
+    Contents: <Tag_0>쿠파주니어 amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  BtlGuide_04_1:
+    Contents: "<Tag_0><Tag_1>시범<Tag_2>에서는 시범 동영상을 볼 수 있습니다.\n액션 성공 타이밍을 확인해 두세요. "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_24:
+    Contents: <Tag_0>위험 들어가지 마시오
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_29:
+    Contents: "<Tag_0>바닷속을 헤엄쳐서\n떠내려가는 조각을 쫓아가자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_sheet_stamp_plus_01:
+    Contents: "<Tag_0><Tag_1><Tag_2>amiiboで<Tag_3>押せる\nスタンプが<Tag_4>増えました！<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 0c 00 08 00 a2 30 df 30 fc 30 dc 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 75 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_l_pnl_01_07:
+    Contents: <Tag_0>굼바 amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  BtlGuide_04_2:
+    Contents: "<Tag_0><Tag_1>연습<Tag_2>에서는 실제로 어택을 연습할 수 있습니다.\n반복 연습으로 요령을 익혀 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_00_0:
+    Contents: "<Tag_0><Tag_1>슬라이드 패드<Tag_2>로 이동할 수 있습니다.\n뒤에 있는 캐릭터는 자동으로 따라옵니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_25:
+    Contents: <Tag_0>서핑 타임!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_sheet_stamp_plus_02:
+    Contents: "<Tag_0><Tag_1><Tag_2>기록의 「스탬프」에서 스탬프를\n찍을 수 있게 되었습니다.\n스탬프가 쌓이면\n스탬프 수집가에게 보여줍시다.<Tag_3><Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_l_pnl_01_08:
+    Contents: <Tag_0>엉금엉금 amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  BrosAtk_00_A:
+    Contents: <Tag_0>스플래시 브러스 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  menu_bgm_title_26:
+    Contents: <Tag_0>썰렁한 농담은 사양할게요
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_rem_equip_name:
+    Contents: <Tag_0>장비 해제
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_sheet_stamp_plus_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>스탬프 수집가에게\n새로운 스탬프 시트를 받을 수 있습니다.\n수집가에게 이 amiibo를 보여주러 갑시다.<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_l_pnl_01_09:
+    Contents: <Tag_0>부끄부끄 amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  SoloJump_01_0:
+    Contents: "<Tag_0>점프를 하면 높은 곳에 올라가거나\n블록을 두드릴 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_27:
+    Contents: <Tag_0>하늘을 나는 쿠파 성
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_01:
+    Contents: "<Tag_0>ピーチ<Tag_1>姫の<Tag_2>声をうばった <Tag_3>犯人を<Tag_4>追うため\nマメーリアに<Tag_5>向かう マリオとルイージ。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 81 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 53 30 48 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 6f 30 93 30 6b 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 80 30
+    Attribute: 00000000
+    StyleID: 6
+  menu_sheet_stamp_plus_04:
+    Contents: "<Tag_0><Tag_1><Tag_2>쿠파군단 스탬프를 찍으면\n스탬프 수집가가 주는 선물 외에\n쿠파군단 RPG에서 아이템을 받을 수 있습니다.<Tag_3><Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  FldGuide_10:
+    Contents: <Tag_0>캐릭터 전환
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  SoloJump_01_1:
+    Contents: "<Tag_0>블록으로 길이 열리는 경우도 있습니다.\n의심 가는 블록은 일단 두드려 봅시다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_28:
+    Contents: <Tag_0>크라이클라이밍
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_02:
+    Contents: "<Tag_0>까르코비츠의 공격으로\n추락한 쿠파제트!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_sheet_stamp_plus_05:
+    Contents: "<Tag_0><Tag_1><Tag_2>아이템을 받으려면\n군단 시트에 스탬프를 찍거나\n쿠파군단 RPG에서 amiibo를 등록해 주십시오.<Tag_3><Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  BtlGuide_11_0:
+    Contents: "<Tag_0><Tag_1>브라더 어택<Tag_2>을 선택하면\n마리오와 루이지가 협력하여 공격합니다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_29:
+    Contents: <Tag_0>네 실력을 보여줘!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_03:
+    Contents: "<Tag_0>쿠파가 별똥 벌판 대마왕\n벼리별에게 붙잡히고 말았다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_sheet_stamp_plus_06:
+    Contents: "<Tag_0><Tag_1><Tag_2>My amiibo로\n친구에게 스탬프를 찍어주면\n이 저장 데이터에서\n친구 보너스를 받을 수 있습니다!<Tag_3><Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  BtlGuide_02_0:
+    Contents: "<Tag_0>「<Tag_1>점프<Tag_2>」나 「<Tag_3>해머<Tag_4>」 등으로\n몬스터를 공격하면 대미지를 줍니다.\n몬스터의 HP가 <Tag_5>0<Tag_6>이 되면 승리합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_11_1:
+    Contents: "<Tag_0><Tag_1>브라더 어택<Tag_2>으로 액션에 성공하면\n몬스터에게 큰 대미지를 줍니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_scenario_now_04:
+    Contents: "<Tag_0>벼리별을 쓰러트렸다!\n쿠파는 어디론가 날아갔다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_02_1:
+    Contents: "<Tag_0>공격 시 <Tag_1>버튼<Tag_2>과 <Tag_3>슬라이드 패드<Tag_4>를\n제때 입력하면 더 큰 대미지를 줍니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_11_2:
+    Contents: "<Tag_0>어택을 사용하면 <Tag_1>BP<Tag_2>가 소모됩니다.\n아이템 「<Tag_3>시럽<Tag_4>」 등으로 회복이 가능합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_load_10:
+    Contents: <Tag_0>데이터를 복사했습니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_05:
+    Contents: "<Tag_0>산에 있는 마을에 도착한\n마리오와 루이지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_sheet_stamp_plus_08:
+    Contents: "<Tag_0><Tag_1><Tag_2>이 amiibo를 My amiibo로 등록하여\n게임 데이터를 저장하였습니다!<Tag_3><Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  BtlGuide_02_2:
+    Contents: "<Tag_0>입력 버튼은 공격에 따라 다릅니다.\n공격을 선택할 때 <Tag_1>아래 화면의 설명<Tag_2>을 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_scenario_next_40:
+    Contents: "<Tag_0>마지막으로 콩글리아 성에\n인사를 하러 가자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_06:
+    Contents: "<Tag_0>또다시 까르코비츠가\n앞길을 가로막았다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_name_01:
+    Contents: <Tag_0>굼바 부대
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BtlGuide_02_3:
+    Contents: "<Tag_0>입력은 4단계로 평가됩니다.\n최고 단계인 <Tag_1>Excellent<Tag_2>를<Tag_3> <Tag_4>노려 보세요!<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_scenario_next_41:
+    Contents: "<Tag_0>피치공주와 콩알왕자는 무사할까?\n서둘러 성으로 가보자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_07:
+    Contents: "<Tag_0>두 해머 장인과 만난\n마리오와 루이지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_name_02:
+    Contents: <Tag_0>엉금엉금 부대
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  menu_scenario_next_42:
+    Contents: "<Tag_0>준비를 잘 한 다음에 쳐들어가자!\n하늘을 날아가려면… 분명… 산에…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_08:
+    Contents: "<Tag_0>산 정상에서\n오호호래곤을 쓰러트렸다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_name_03:
+    Contents: <Tag_0>헤이호 부대
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_07_0:
+    Contents: "<Tag_0>루이지가 해머를 들어 올리면 <Tag_1> <Tag_2>버튼\n마리오가 꼬마리오가 됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_scenario_next_43:
+    Contents: "<Tag_0>성 안에는 강한 적이 많을 것이다.\n마을로 돌아가 다시 준비를 해도 된다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_09:
+    Contents: <Tag_0>해머를 획득했다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_name_04:
+    Contents: <Tag_0>부끄부끄 부대
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  ActionIcon_00_0:
+    Contents: "<Tag_0><Tag_1> <Tag_2>또는 <Tag_3> <Tag_4>혹은 <Tag_5>아래 화면을 터치<Tag_6>하여\n액션 아이콘을 변경할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  BrosAtk_07_1:
+    Contents: "<Tag_0>그 다음 루이지가 점프를 하면 <Tag_1> <Tag_2>버튼 연타!\n꼬마리오를 고속 회전시킵니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FireDash_10:
+    Contents: <Tag_0>파이어 대시
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_stamp_name_05:
+    Contents: <Tag_0>못 말리는 삼총사
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  ActionIcon_00_1:
+    Contents: "<Tag_0><Tag_1><Tag_2>을 <Tag_3>동시에 누르면<Tag_4>\n바로 「점프」로 돌아갑니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  BrosAtk_07_2:
+    Contents: "<Tag_0>연타를 많이 하면 Excellent!\n연속으로 몬스터를 공격할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_40:
+    Contents: <Tag_0>전원 돌격하라!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_name_06:
+    Contents: <Tag_0>각양각색 굼바들
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_07_3:
+    Contents: "<Tag_0>공격 중간에\n타깃 몬스터를 바꿀 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_41:
+    Contents: <Tag_0>우리는 쿠파군단이다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_name_07:
+    Contents: <Tag_0>펄럭펄럭군단
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_07_4:
+    Contents: "<Tag_0>마리오가 몬스터를 향해 움직이기 시작할 때\n타깃 몬스터 쪽으로 슬라이드 패드를 기울이세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_42:
+    Contents: <Tag_0>싸우고 친구가 되고
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_name_08:
+    Contents: <Tag_0>각양각색 헤이호들
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  menu_bgm_title_43:
+    Contents: <Tag_0>이번 작전은…
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_name_09:
+    Contents: <Tag_0>각양각색 부끄부끄들
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  SoloHammer_L_00_0:
+    Contents: "<Tag_0>해머를 들어 올리며 <Tag_1> <Tag_2>버튼!\n성공해서 <Tag_3>Excellent<Tag_4> 를 획득해 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_44:
+    Contents: <Tag_0>쿠파군단 행진곡
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_record_avoid_num:
+    Contents: <Tag_0>회피한 횟수
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BrosAtk_05_0:
+    Contents: "<Tag_0>마리오가 파이어를 발사하면\n<Tag_1> <Tag_2>버튼을 연타해 파이어를 크게 키우세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  KMsg_amiibo_com_l01:
+    Contents: "<Tag_0>amiibo를 읽고 있습니다.\namiibo를 NFC 영역에 계속 터치해 주세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+    Attribute: 00000000
+    StyleID: 3
+  SoloJump_M_00_0:
+    Contents: "<Tag_0>밟을 때 <Tag_1> <Tag_2><Tag_3>버튼. 성공하면 다시 한 번!\n모두 성공해서<Tag_4> <Tag_5>Excellent<Tag_6>를<Tag_7><Tag_8><Tag_9> 획득해 보세요.<Tag_10><Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_45:
+    Contents: <Tag_0>여행 준비를 마치고 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  BrosAtk_05_1:
+    Contents: "<Tag_0>파이어가 루이지와 가까워지면\n<Tag_1> <Tag_2>버튼으로 마무리!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  KMsg_amiibo_com_l02:
+    Contents: "<Tag_0>amiibo에 데이터를 기록하고 있습니다.\nNFC 영역에서 amiibo를 떼지 말아 주십시오."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+    Attribute: 00000000
+    StyleID: 3
+  Xjump_03_0:
+    Contents: "<Tag_0><Tag_1> <Tag_2>버튼으로 둘이 동시에\n점프를 할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_46:
+    Contents: <Tag_0>자 재출발이다! DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_20:
+    Contents: "<Tag_0>해저를 빠져나와 콩글리아로 돌아온\n마리오와 루이지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BrosAtk_05_2:
+    Contents: "<Tag_0>파이어가 크면 Excellent!\n크면 클수록 대미지를 많이 줄 수 있습니다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_09_0:
+    Contents: "<Tag_0>스탬프 시트를 받으면\n<Tag_1>amiibo를 터치<Tag_2>하여\n스탬프를 찍어 봅시다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_47:
+    Contents: <Tag_0>엄습해 오는 악의 손아귀 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_21:
+    Contents: "<Tag_0>공항은 관리가 안 되어 있어서\n뻐끔플라워가 득실거린다…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  FldGuide_09_1:
+    Contents: "<Tag_0>쿠파군단 RPG에서\n주제가 된 캐릭터를 모으면\n스탬프를 찍을 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  SoloHand_M_00:
+    Contents: <Tag_0>핸드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  menu_bgm_title_48:
+    Contents: <Tag_0>콩알왕자의 테마 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_ev_badge_00:
+    Contents: <Tag_0>배지를 장착하려면…<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_ev_photo_00:
+    Contents: <Tag_0>가지고 있잖아.<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_22:
+    Contents: "<Tag_0>피치공주의 목소리는 빼앗기지 않았다!\n콩알왕자 일행의 작전이 빛을 발했다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  ActionIcon_00:
+    Contents: <Tag_0>액션 아이콘
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  BrosAtk_00:
+    Contents: <Tag_0>스플래시 브러스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  FldGuide_09_2:
+    Contents: "<Tag_0>스탬프 시트를 준 사람에게\n스탬프를 보여주면\n아이템과 교환할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_49:
+    Contents: <Tag_0>그의 이름은 까르코비츠 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_ev_badge_01:
+    Contents: <Tag_0>여기를 선택하세요.<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_ev_photo_01:
+    Contents: <Tag_0>이게 여권이야.<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_23:
+    Contents: "<Tag_0>이사를 한 해머 장인들과 재회했다.\n해머를 강화해준다고 한다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BrosAtk_01:
+    Contents: <Tag_0>바운드 브러스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  SoloJump_01:
+    Contents: <Tag_0>점프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_ev_photo_02:
+    Contents: <Tag_0><Tag_1>아니 이런!<Tag_2><Tag_3>사진이 없네!?<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_24:
+    Contents: "<Tag_0>해머를\n업그레이드했다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_nickname_lbl:
+    Contents: <Tag_0>닉네임
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  BrosAtk_02:
+    Contents: <Tag_0>초퍼 브러스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  menu_ev_badge_03:
+    Contents: "<Tag_0>여기서는 장착하고 있는\n<Tag_1>웨어<Tag_2>와 <Tag_3>배지<Tag_4>를 볼 수 있어요.<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_25:
+    Contents: "<Tag_0>리틀버섯에 도착한\n마리오와 루이지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_f_00:
+    Contents: <Tag_0>마리오 amiibo를 <Tag_1>NFC 영역<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_20:
+    Contents: <Tag_0>특별 초대 손님?
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_03:
+    Contents: <Tag_0>노크백 브러스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  BrosAtk_03_0:
+    Contents: "<Tag_0>루이지가 해머를 들어 올리면 <Tag_1> <Tag_2>버튼.\n마리오가 꼬마리오가 됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_06_A_0:
+    Contents: "<Tag_0>루이지가 선더를 다 모으면 <Tag_1> <Tag_2>버튼!\n마리오가 해머를 들어 올리면 <Tag_3> <Tag_4>버튼!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FireHand_08:
+    Contents: <Tag_0>파이어 핸드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_ev_badge_04:
+    Contents: "<Tag_0>그럼 마리오님!\n배지를 장착해 볼까요?<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_26:
+    Contents: "<Tag_0>마리오가 콩열에 걸려서\n몸져누워 버렸다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_f_01:
+    Contents: <Tag_0>루이지 amiibo를 <Tag_1>NFC 영역<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_21:
+    Contents: <Tag_0>마리오
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_03_1:
+    Contents: "<Tag_0>그 다음 루이지가 해머를 옆으로 휘둘러\n마리오를 칠 때 <Tag_1> <Tag_2>버튼!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_04:
+    Contents: <Tag_0>스윙 브러스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  BrosAtk_06_A_1:
+    Contents: "<Tag_0>루이지가 몬스터 발밑에 오면\n<Tag_1> <Tag_2>버튼으로 Excellent!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_scenario_now_27:
+    Contents: "<Tag_0>쿠파의 몸에 빙의한 깔깔깔마녀가\n피치공주를 납치했다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_f_02:
+    Contents: <Tag_0>피치공주 amiibo를 <Tag_1>NFC 영역<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_22:
+    Contents: <Tag_0>루이지
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_03_2:
+    Contents: "<Tag_0>마리오가 몬스터와 부딪치면 <Tag_1> <Tag_2>버튼!\n전부 성공하면 Excellent!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_04_A_0:
+    Contents: "<Tag_0>Good 평가를 획득하면\n아이템을 드롭합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_05:
+    Contents: <Tag_0>파이어 브러스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  BrosAtk_06_A_2:
+    Contents: "<Tag_0>성공하면 몬스터를\nPOW 다운 상태로 만들 수도 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 00000000
+    StyleID: 11
+  FldGuide_07_0:
+    Contents: <Tag_0>마리오는 <Tag_1> <Tag_2>버튼으로 액션이 가능합니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  SoloHand_L_00_0:
+    Contents: "<Tag_0>힘이 모이면 <Tag_1> <Tag_2>버튼!\n성공해서 <Tag_3>Excellent<Tag_4>를 획득해 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_ev_badge_06:
+    Contents: "<Tag_0>이 안에 갖고 계신 배지가\n들어 있어요.<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_28:
+    Contents: "<Tag_0>스타 빈즈 조각이 배 안으로\n옮겨지고 말았다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_f:
+    Contents: <Tag_0>amiibo를 <Tag_1>NFC 영역<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_l_pnl_01_f_03:
+    Contents: <Tag_0>요시 amiibo를 <Tag_1>NFC 영역<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_23:
+    Contents: <Tag_0>피치공주
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_04_A_1:
+    Contents: "<Tag_0>루이지와 마리오가 닿을 때 <Tag_1> <Tag_2>버튼!\n버튼을 길게 눌러 회전시키세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_06:
+    Contents: <Tag_0>선더 브러스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  BrosAtk_07_A:
+    Contents: <Tag_0>태풍 브러스 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  menu_ev_badge_07:
+    Contents: "<Tag_0>그리고… 장착할 배지를 고르면 돼요.<Tag_1>\n한 번 장착해 볼까요?<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_29:
+    Contents: "<Tag_0>바다 속으로 떠밀려 내려간\n스타 빈즈 조각."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_f_04:
+    Contents: <Tag_0>키노피오 amiibo를 <Tag_1>NFC 영역<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_24:
+    Contents: <Tag_0>요시
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_02_A_0:
+    Contents: <Tag_0>공중에 있는 몬스터에는 효과가 없습니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_04_A_2:
+    Contents: "<Tag_0>회전은 점점 빨라집니다.\n빨라질수록 공격 대미지가 늘어납니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_07:
+    Contents: <Tag_0>태풍 브러스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  menu_ev_badge_08:
+    Contents: "<Tag_0>여기서 <Tag_1> <Tag_2>버튼을 눌러\n장착해 보세요.<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 2
+        Type: 3
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_f_05:
+    Contents: <Tag_0>쿠파 amiibo를 <Tag_1>NFC 영역<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_25:
+    Contents: <Tag_0>키노피오
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_02_A_1:
+    Contents: <Tag_0>마리오가 해머를 들어 올리면 <Tag_1> <Tag_2>버튼.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_04_A_3:
+    Contents: "<Tag_0>마리오와 루이지가 고속 상태가 되면\n<Tag_1> <Tag_2>버튼에서 손을 떼세요!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_60:
+    Contents: <Tag_0>콩글리아에 어서 오세요 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_l_pnl_01_f_06:
+    Contents: <Tag_0>쿠파주니어 amiibo를 <Tag_1>NFC 영역<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_26:
+    Contents: <Tag_0>쿠파
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_02_A_2:
+    Contents: "<Tag_0>루이지가 몬스터 바로 밑에 오면\n<Tag_1> <Tag_2>버튼으로 밀어 올리세요!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_04_A_4:
+    Contents: "<Tag_0>루이지가 몬스터에 부딪칠 때 <Tag_1> <Tag_2>버튼!\n성공하면 높이 뛰어오릅니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_18_0:
+    Contents: "<Tag_0>핸드를 선택하면 마리오는 파이어, \n루이지는 선더로 몬스터를 공격합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_61:
+    Contents: <Tag_0>콩 나라 사람들 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_l_pnl_01_f_07:
+    Contents: <Tag_0>굼바 amiibo를 <Tag_1>NFC 영역<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_27:
+    Contents: <Tag_0>쿠파주니어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_01_0:
+    Contents: "<Tag_0>루이지가 마리오에 올라탈 때 <Tag_1> <Tag_2>버튼.\n몬스터 바로 위에 왔을 때 <Tag_3> <Tag_4>버튼으로 합체!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_02_A_3:
+    Contents: "<Tag_0>루이지가 다시 땅속으로 들어가면\n몬스터를 또 공격할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_04_A_5:
+    Contents: "<Tag_0>마리오와 루이지가 닿을 때\n<Tag_1> <Tag_2>버튼으로 합체!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_09_0:
+    Contents: "<Tag_0>마리오 형제의 능력치는\n메뉴의 「<Tag_1>스테이터스<Tag_2>」에서 확인 가능합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_18_1:
+    Contents: "<Tag_0>몬스터의 약점일 경우\n큰 대미지를 줄 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_62:
+    Contents: <Tag_0>캐슬 오브 빈즈 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_l_pnl_01_f_08:
+    Contents: <Tag_0>엉금엉금 amiibo를 <Tag_1>NFC 영역<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_28:
+    Contents: <Tag_0>굼바
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_01_1:
+    Contents: "<Tag_0>몬스터를 밟을 때 <Tag_1> <Tag_2>버튼.\n전부 성공해서 Excellent를 획득해 보세요!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_02_A_4:
+    Contents: "<Tag_0>루이지를 땅속으로 들어가게 하려면\n루이지가 착지할 때 <Tag_1> <Tag_2>버튼을 누르세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_04_A_6:
+    Contents: "<Tag_0>몬스터를 밟을 때 <Tag_1><Tag_2><Tag_3> <Tag_4>버튼을 동시에 누르세요!\n버튼을 길게 누르면 Excellent!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_09_1:
+    Contents: "<Tag_0>「<Tag_1>HP<Tag_2>」「<Tag_3>BP<Tag_4>」「<Tag_5>POW<Tag_6>」「<Tag_7>DEF<Tag_8>」\n「<Tag_9>SPEED<Tag_10>」「<Tag_11>SUYEOM<Tag_12>」총 6종류가 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  SoloJump_L_00:
+    Contents: <Tag_0>점프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  ThunderHand_09:
+    Contents: <Tag_0>선더 핸드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_bgm_title_63:
+    Contents: <Tag_0>깔깔 포레스트 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_10:
+    Contents: "<Tag_0>메주여왕을 만나러\n콩글리아 성에 가자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01_f_09:
+    Contents: <Tag_0>부끄부끄 amiibo를 <Tag_1>NFC 영역<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_29:
+    Contents: <Tag_0>엉금엉금
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_02_A_5:
+    Contents: "<Tag_0>그 다음 몬스터가 착지할 때 <Tag_1> <Tag_2>버튼으로\n땅속 루이지가 공격!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_09_2:
+    Contents: "<Tag_0><Tag_1>HP<Tag_2>는 체력입니다.\n대미지를 받으면 줄어들고 0이 되면 기절합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_05_0:
+    Contents: "<Tag_0>아래 화면의 <Tag_1>미니 맵<Tag_2> 버튼을 터치하면\n지금 있는 곳이 표시됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_64:
+    Contents: <Tag_0>위위위! 위기! DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_11:
+    Contents: "<Tag_0>성은 무사한 걸까?\n메주여왕은 만날 수 있을까?"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_null_nicname:
+    Contents: <Tag_0>---
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 01 00
+    Attribute: 00000000
+    StyleID: 1
+  BrosAtk_02_A_6:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3><Tag_4><Tag_5><Tag_6><Tag_7><Tag_8>… 연속으로\n8번 공격에 성공하면 Excellent!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 11
+  BrosAtk_05_A:
+    Contents: <Tag_0>파이어 브러스 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  BtlGuide_09_3:
+    Contents: "<Tag_0><Tag_1>BP<Tag_2>는 브라더 포인트입니다.\n브라더 어택에 필요한 포인트로\n사용하면 줄어듭니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_05_1:
+    Contents: "<Tag_0>아래 화면을 <Tag_1>터치하면서 움직이면<Tag_2>\n주변 지도를 확인할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_65:
+    Contents: <Tag_0>하하하 하카데미 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_12:
+    Contents: "<Tag_0>마리오브라더스에게\n수도관 수리쯤 식은 죽 먹기!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_09_4:
+    Contents: "<Tag_0><Tag_1>POW<Tag_2>는 공격력입니다.\n숫자가 클수록 공격 대미지가 커집니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_05_2:
+    Contents: "<Tag_0><Tag_1>C스틱<Tag_2>으로도\n주변 지도를 확인할 수 있습니다.\n<Tag_3>※C스틱은 New 닌텐도 3DS에만 있습니다.<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_66:
+    Contents: <Tag_0>키노피오들의 어나더 스카이 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_13:
+    Contents: "<Tag_0>성에 있는 중요한 보물\n<Tag_1>스타 빈즈<Tag_2>가 위험하다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_40:
+    Contents: "<Tag_0>무사히 루이지와 합류한 마리오.\n이제 버섯왕국으로 돌아가면 된다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_09_5:
+    Contents: "<Tag_0><Tag_1>DEF<Tag_2>는 방어력입니다.<Tag_3><Tag_4><Tag_5>\n<Tag_6>숫자가 클수록 받는 대미지가\n작아집니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_05_3:
+    Contents: "<Tag_0>줌 버튼을 터치하면\n맵의 크기를 변경할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_67:
+    Contents: <Tag_0>바다… 바다… 바다… DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_cafe_talk_00:
+    Contents: "<Tag_0>\n\n　<Tag_1>어떤 걸로 할래?　\n\n"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_ev_kg_1st_00:
+    Contents: "<Tag_0><Tag_1><Tag_2>마리오와 루이지의 모험 뒤에서\n또 다른 이야기가 진행되고 있는 모양입니다.\n「그들」의 모험도 시작해 보시겠어요?<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_14:
+    Contents: "<Tag_0>메주여왕을 원래대로 되돌리려면\n숲에 있는 소다가 필요하다고 한다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_41:
+    Contents: "<Tag_0>결국 마지막 공격을 퍼붓는\n깔깔쿠파 일당!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_09_6:
+    Contents: "<Tag_0><Tag_1>SPEED<Tag_2>는 속도입니다.\n숫자가 클수록 몬스터보다\n먼저 행동이 가능해집니다.<Tag_3><Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_16_0:
+    Contents: "<Tag_0><Tag_1>해머<Tag_2>를 선택하면 몬스터를 때려\n대미지를 줄 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_05_4:
+    Contents: "<Tag_0>핀 버튼을 <Tag_1>터치하면서 움직이면<Tag_2>\n핀을 옮길 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_10:
+    Contents: <Tag_0>여행의 끝 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_bgm_title_68:
+    Contents: <Tag_0>위험 들어가지 마시오 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_cafe_talk_01:
+    Contents: "<Tag_0>\n\n　<Tag_1>버튼을 누르면 완성이야.　\n\n"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_record_title:
+    Contents: <Tag_0>기록
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+    Attribute: 00000000
+    StyleID: 4
+  menu_scenario_next_15:
+    Contents: "<Tag_0>마리오와 떨어지게 된 루이지.\n혼자서 괜찮을까?"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_42:
+    Contents: "<Tag_0>깔깔쿠파를 무찌르기 위해\n드디어 쿠파 성에 가게 되었다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_07_0:
+    Contents: "<Tag_0>몬스터를 전멸시켜 배틀에서 이기면\n마리오 형제의 <Tag_1>EXP<Tag_2>가 쌓입니다.\n일정량이 쌓이면 <Tag_3>레벨<Tag_4>이 올라갑니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_09_7:
+    Contents: "<Tag_0><Tag_1>SUYEOM<Tag_2>은 수염입니다.<Tag_3><Tag_4><Tag_5>\n<Tag_6>숫자가 클수록 럭키 히트가 자주 발생하며\n숍에서 사고팔기도 유리해집니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_16_1:
+    Contents: "<Tag_0>가시 몬스터 등 밟을 수 없는 몬스터는\n해머로 공격해 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_05_5:
+    Contents: "<Tag_0><Tag_1>터치펜을 떼면 <Tag_2>그곳에 핀이 꽂힙니다.\n모험 중에 수상한 곳이 있으면\n핀으로 표시를 해 둡시다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_11:
+    Contents: <Tag_0>ノスタルイージな気分？
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_bgm_title_69:
+    Contents: <Tag_0>서핑 타임! DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_16:
+    Contents: "<Tag_0>깔깔깔마녀에게 빼앗긴\n스타 빈즈를 되찾아 오자!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_43:
+    Contents: "<Tag_0>쿠파 성에 도착한 마리오와 루이지.\n드디어 마지막 결전이다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_07_1:
+    Contents: "<Tag_0>레벨이 오르면 공격 대미지가 커지고\n마리오 형제의 HP도 늘어나\n몬스터를 상대하기 쉬워집니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_05_6:
+    Contents: "<Tag_0>꽂힌 핀을 <Tag_1>2번 터치<Tag_2>하면\n뺄 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_12:
+    Contents: <Tag_0>마리오는 모두에게 인기 만점
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_17:
+    Contents: "<Tag_0>깔깔깔마녀는 <Tag_1>하하하 하카데미<Tag_2>라는\n연구소에 잠입한 모양이다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_07_2:
+    Contents: "<Tag_0>몬스터가 너무 강하다 생각되면\n상대하기 쉬운 몬스터를 먼저 잡아\n레벨을 올린 후 진행하십시오."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_03_0:
+    Contents: "<Tag_0>획득한 장비품은 반드시 장착합시다.\n장비를 해야만 <Tag_1>효과를 얻을 수 있습니다<Tag_2>."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_13:
+    Contents: <Tag_0>시작의 피치 성
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_18:
+    Contents: "<Tag_0>스타 빈즈는 지하에 떨어진 것 같다.\n어서 되찾아야 한다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  shop_buy:
+    Contents: <Tag_0><Tag_1>팔기<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  BrosAtk_03_A:
+    Contents: <Tag_0>노크백 브러스 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  FldGuide_03_1:
+    Contents: "<Tag_0>장비품은 메뉴의 「장비」에서\n장착할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  HighJump_04_0:
+    Contents: "<Tag_0>액션 아이콘을 「하이 점프」로 변경하면\n<Tag_1><Tag_2>→<Tag_3> <Tag_4>버튼으로 <Tag_5>하이 점프<Tag_6>를 할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_14:
+    Contents: <Tag_0>별똥 구역 51
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_19:
+    Contents: "<Tag_0>여긴 어디지?\n콩글리아로 돌아갈 수 없을까?"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  HighJump_04_1:
+    Contents: "<Tag_0>높은 곳을 향해 <Tag_1>슬라이드 패드<Tag_2>를 기울이면서\n하이 점프를 하면 올라갈 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_15:
+    Contents: <Tag_0>우후훗한 정상
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  HighJump_04_2:
+    Contents: "<Tag_0>목말을 탄 상태에서 <Tag_1>슬라이드 패드<Tag_2>로\n이동할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_16:
+    Contents: <Tag_0>콩글리아에 어서 오세요
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  BtlGuide_14_0:
+    Contents: "<Tag_0>이지 모드일 때와\n마리오 형제 전멸 후 재도전한 배틀일 때는\n<Tag_1>힌트 메시지<Tag_2>가 표시됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_17:
+    Contents: <Tag_0>콩 나라 사람들
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  BtlGuide_05_0:
+    Contents: "<Tag_0>몬스터의 공격으로 대미지를 받으면\n마리오와 루이지의 HP가 줄어듭니다.\nHP가 <Tag_1>0<Tag_2>이 되면 <Tag_3>기절<Tag_4>하여 움직이지 못합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_10:
+    Contents: <Tag_0>공격 대상 캐릭터 구별법
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  BtlGuide_14_1:
+    Contents: "<Tag_0>힌트를 보려면 아래 화면 가운데에 있는\n힌트 버튼을 터치하세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_00:
+    Contents: <Tag_0>캐릭터 이동
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_bgm_title_18:
+    Contents: <Tag_0>캐슬 오브 빈즈
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  shop_equipped_now:
+    Contents: <Tag_0><Tag_1>지금 장착하시겠습니까?<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  BtlGuide_05_1:
+    Contents: "<Tag_0><Tag_1>마리오<Tag_2>와 <Tag_3>루이지<Tag_4>의 HP가\n모두 <Tag_5>0<Tag_6>이 되면 게임 오버입니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_11:
+    Contents: <Tag_0>브라더 어택으로 공격하기
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  BtlGuide_14_2:
+    Contents: "<Tag_0>몬스터를 쓰러트리기 위한 힌트뿐 아니라\n도움이 되는 정보도 얻을 수 있습니다.\n표시를 발견하면 바로 확인해 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_01:
+    Contents: <Tag_0>캐릭터 버튼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_bgm_title_19:
+    Contents: <Tag_0>깔깔 포레스트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_bgm_title_80:
+    Contents: <Tag_0>점프!(지상 BGM) DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  BtlGuide_05_2:
+    Contents: "<Tag_0>배틀에 재도전하거나\n마지막에 저장한 곳에서\n다시 시작하게 됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_12:
+    Contents: <Tag_0>긴급 가드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  FldGuide_01_0:
+    Contents: "<Tag_0>마리오는 <Tag_1> <Tag_2>버튼, 루이지는 <Tag_3> <Tag_4>버튼으로\n액션이 가능합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  FldGuide_02:
+    Contents: <Tag_0>아이템
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  SoloHammer_M_00_0:
+    Contents: "<Tag_0>해머를 들어 올리면 <Tag_1> <Tag_2>버튼!\n성공해서 <Tag_3>Excellent<Tag_4>를 획득해 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_81:
+    Contents: <Tag_0>렛츠 수염시소!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  BrosAtk_01_A:
+    Contents: <Tag_0>바운드 브러스 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  BtlGuide_05_3:
+    Contents: "<Tag_0>HP가 줄거나 기절했을 때는\n「<Tag_1>아이템<Tag_2>」 블록을 선택하여\n아이템으로 회복하세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_13:
+    Contents: <Tag_0>이지 모드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  FldGuide_03:
+    Contents: <Tag_0>장비품
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  KMsg_b_skill_exp_xx:
+    Contents: <Tag_0>????
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  menu_bgm_title_82:
+    Contents: <Tag_0>까르코비츠, 깔깔깔마녀 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  BtlGuide_05_4:
+    Contents: <Tag_0><Tag_1>HP<Tag_2>는 「<Tag_3>버섯<Tag_4>」으로 회복합니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_14:
+    Contents: <Tag_0>힌트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  FldGuide_04:
+    Contents: <Tag_0>저장
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_scenario_next_30:
+    Contents: "<Tag_0>조각은 이 섬에 있을 텐데…\n섬 전체를 샅샅이 뒤져보자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_05_5:
+    Contents: <Tag_0><Tag_1>기절<Tag_2>은 「<Tag_3>1UP버섯<Tag_4>」으로 회복합니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_15:
+    Contents: <Tag_0>간단 어택 모드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  FldGuide_05:
+    Contents: <Tag_0>아래 화면의 맵
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_scenario_next_31:
+    Contents: "<Tag_0>지도를 토대로 남은 조각을 찾자.\n마을에서 북쪽으로 가면 있을 것 같다…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_05_6:
+    Contents: "<Tag_0>아이템은 사용하면 없어집니다.\n숍에서 구입하거나\n몬스터를 쓰러트려 획득합시다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_12_0:
+    Contents: "<Tag_0>몬스터가 공격할 때 <Tag_1> <Tag_2>버튼을 누르고 있으면\n공격을 막아 대미지를 줄일 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_16:
+    Contents: <Tag_0>해머로 공격하기
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  FldGuide_06:
+    Contents: <Tag_0>캐릭터 이동
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  SoloHammer_L_00:
+    Contents: <Tag_0>해머
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  menu_scenario_next_32:
+    Contents: "<Tag_0>지도를 토대로 남은 조각을 찾자.\n공항 입구가 가장 가까운 듯."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_03_0:
+    Contents: "<Tag_0><Tag_1>점프<Tag_2>를 고르면 몬스터를\n밟아 대미지를 주게 됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_05_7:
+    Contents: "<Tag_0>몬스터가 강해서 도저히 이길 수 없을 때는\n「<Tag_1>도망가기<Tag_2>」 블록으로 배틀을 회피합니다.\n도망만 다니면 강해질 수 없으니 주의하세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_12_1:
+    Contents: "<Tag_0>몬스터의 모든 공격은 회피가 가능하므로\n피할 수 있을 때는\n긴급 가드를 사용할 필요가 없습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_17:
+    Contents: <Tag_0>해머 방어
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  FldGuide_07:
+    Contents: <Tag_0>캐릭터 버튼
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_record_escape_num:
+    Contents: <Tag_0>도망친 횟수
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_next_33:
+    Contents: "<Tag_0>지도를 토대로 남은 조각을 찾자.\n숲 쪽에 떨어진 것 같은데…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_setting_ruby:
+    Contents: <Tag_0>メッセージにふりがな
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  BtlGuide_03_1:
+    Contents: "<Tag_0>하늘을 나는 몬스터에게\n특히 유리한 공격입니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_12_2:
+    Contents: "<Tag_0>도저히 피할 수 없는 공격을 \n받았을 때 사용해 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_18:
+    Contents: <Tag_0>핸드로 공격하기
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  FldGuide_08:
+    Contents: <Tag_0>스탬프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_load_1:
+    Contents: <Tag_0>이 파일을 삭제하시겠습니까?
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_34:
+    Contents: "<Tag_0>시어터의 오너가 부탁한\n<Tag_1>네온알<Tag_2>을 모아 오자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_19:
+    Contents: <Tag_0>상태 변화
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  FldGuide_09:
+    Contents: <Tag_0>스탬프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_bgm_title_30:
+    Contents: <Tag_0>네 실력을 더 보여줘!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_load_2:
+    Contents: "<Tag_0>삭제한 게임 데이터는 복구할 수\n없습니다. 정말로 삭제하시겠습니까?"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_35:
+    Contents: "<Tag_0>꺄르를이 부탁한\n펌프 아트를 완성하자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_bgm_title_31:
+    Contents: <Tag_0>기묘 절묘한 콤비
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_equip_tuto:
+    Contents: "<Tag_0><Tag_1><Tag_2>웨어에는 마리오 전용,\n루이지 전용, 두 사람이 입을 수 있는\n웨어 총 3종류가 있습니다.<Tag_3><Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  menu_load_3:
+    Contents: <Tag_0>데이터를 삭제하고 있습니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_36:
+    Contents: "<Tag_0>달팽족에게 인정받은 자만이\n지나갈 수 있다는 길을 가보자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_bgm_title_32:
+    Contents: <Tag_0>결전의 무대
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_load_4:
+    Contents: <Tag_0>이 파일을 복사하시겠습니까?
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_37:
+    Contents: "<Tag_0>콩글리아 성에 있는\n메주여왕에게 가자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BrosAtk_07_A_0:
+    Contents: "<Tag_0>루이지가 해머를 들어 올리면 <Tag_1> <Tag_2>버튼\n마리오가 꼬마리오가 됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  SoloHand_M_00_0:
+    Contents: "<Tag_0>힘이 모이면 <Tag_1> <Tag_2>버튼!\n<Tag_3><Tag_4>성공해서 <Tag_5>Excellent<Tag_6>를 획득해 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_33:
+    Contents: <Tag_0>라스트 깔깔깔마녀
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_load_5:
+    Contents: "<Tag_0>파일 2에는 이미 데이터가\n저장되어 있습니다.\n파일 1의 게임 데이터를 복사하여\n파일 2에 덮어씌우시겠습니까?"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_38:
+    Contents: "<Tag_0>바다 저편에 있는 추운 지역…\n준비를 잘 하고 나서 가자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BrosAtk_07_A_1:
+    Contents: "<Tag_0>그 다음 루이지가 점프를 하면 <Tag_1> <Tag_2>버튼 연타!\n꼬마리오를 고속 회전시킵니다. <Tag_3><Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_10_0:
+    Contents: "<Tag_0>몬스터가 공격하기 전에 하는 행동에\n누구를 공격할지 구별할 수 있는\n힌트가 있습니다. 한 번 찾아 보세요. "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_34:
+    Contents: <Tag_0>윈 & 댄스
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_load_6:
+    Contents: "<Tag_0>파일 1에는 이미 데이터가\n저장되어 있습니다.\n파일 2의 게임 데이터를 복사하여\n파일 1에 덮어씌우시겠습니까?"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_39:
+    Contents: <Tag_0>노력한 루이지를 도와주러 가자.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BrosAtk_05_A_0:
+    Contents: "<Tag_0>마리오가 파이어를 발사하면\n<Tag_1> <Tag_2>버튼을 연타하여 파이어를 크게 키우세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_07_A_2:
+    Contents: "<Tag_0>연타를 많이 하면 Excellent!\n연속으로 몬스터를 공격할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_01_0:
+    Contents: "<Tag_0>마리오 형제는 각자 조작 버튼이 정해져 있습니다.\n마리오는 <Tag_1> <Tag_2>버튼\n루이지는 <Tag_3> <Tag_4>버튼으로 조작합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_10_1:
+    Contents: "<Tag_0>아래 화면의 어시스트 버튼을 터치하여\n어시스트를 켜고 끌 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  SoloHammer_02:
+    Contents: <Tag_0>해머
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_bgm_title_35:
+    Contents: <Tag_0>렛츠 챌린지!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_load_7:
+    Contents: "<Tag_0>덮어씌워진 데이터는\n원래대로 복구할 수 없습니다.\n정말로 덮어씌우시겠습니까?"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_setting_easy:
+    Contents: <Tag_0>이지 모드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  BrosAtk_05_A_1:
+    Contents: "<Tag_0>파이어가 루이지와 가까워지면\n<Tag_1> <Tag_2>버<Tag_3><Tag_4>튼으로 쏘아 올리세요!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_07_A_3:
+    Contents: "<Tag_0>공격 중간에\n타깃 몬스터를 바꿀 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_01_1:
+    Contents: "<Tag_0>마리오 형제의 순서가 되면\n<Tag_1>커맨드블록<Tag_2>을 선택하여 행동합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_10_2:
+    Contents: "<Tag_0>어시스트를 켜 두면 공격 대상 캐릭터에\n마크가 표시됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  FireDash_10_0:
+    Contents: "<Tag_0>액션 아이콘을 「대시」로 변경하고\n<Tag_1> <Tag_2>버튼을 길게 눌렀다가 떼면\n<Tag_3>파이어 대시<Tag_4>를 할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_36:
+    Contents: <Tag_0>점프!(지상 BGM)
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_cafe_sys_00:
+    Contents: <Tag_0>갖고 있는 콩
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  menu_load_8:
+    Contents: <Tag_0>데이터를 복사하고 있습니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_10:
+    Contents: "<Tag_0>광차를 타고 산을 내려온\n마리오와 루이지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_un_equip_name:
+    Contents: <Tag_0>장비 없음
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  BrosAtk_05_A_2:
+    Contents: "<Tag_0>마리오와 파이어 높이가 같아지면 <Tag_1> <Tag_2>버튼!\n파이어가 크면 Excellent!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_07_A_4:
+    Contents: "<Tag_0>마리오가 몬스터를 향해 움직이기 시작할 때\n타깃 몬스터 쪽으로 슬라이드 패드를 기울이세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_01_2:
+    Contents: "<Tag_0><Tag_1>슬라이드 패드 좌우<Tag_2>로 블록을 선택한 후\n각 캐릭터 버튼을 눌러 결정합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_10_3:
+    Contents: "<Tag_0>마리오 발 밑에 빨간 마크가 표시되면\n마리오가 공격 대상입니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  FireDash_10_1:
+    Contents: "<Tag_0>재빠르게 달려 나가거나\n세게 몸을 부딪칠 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_37:
+    Contents: <Tag_0>잇츠 마이 턴
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_load_9:
+    Contents: <Tag_0>데이터를 삭제했습니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_11:
+    Contents: "<Tag_0>콩글리아 성 주변 시가지에 도착했다…\n그런데 마을이 엉망이 돼 있다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BrosAtk_05_A_3:
+    Contents: "<Tag_0>성공하면 몬스터에게\n화상을 입힐 수도 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 00000000
+    StyleID: 11
+  BrosAtk_07_A_5:
+    Contents: <Tag_0>DX는 마지막에 추가 공격이 가능합니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_01_3:
+    Contents: "<Tag_0>몬스터를 전멸시키면 승리하게 됩니다.\n우선은 「<Tag_1>점프<Tag_2>」 블록을 선택하여\n공격을 해 봅시다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_10_4:
+    Contents: "<Tag_0>루이지 발 밑에 초록 마크가 표시되면\n루이지가 공격 대상입니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  FireDash_10_2:
+    Contents: "<Tag_0>대시 중에 <Tag_1> <Tag_2>혹은 <Tag_3> <Tag_4>버튼을 누르면\n대시를 중단할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_38:
+    Contents: <Tag_0>까르코비츠, 깔깔깔마녀
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_12:
+    Contents: "<Tag_0>갑자기 콩글리아 지하로 떨어져\n수도관을 수리하게 되었다…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_sheet_get_err_01:
+    Contents: "<Tag_0><Tag_1><Tag_2>굼바, 엉금엉금, 부끄부끄의\n<Tag_3><Tag_4>amiibo가 아닙니다.<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  BrosAtk_00_A_0:
+    Contents: <Tag_0>가시 몬스터도 공격할 수 있습니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_07_A_6:
+    Contents: "<Tag_0>마리오와 루이지의 회전이 멈추면\n<Tag_1> <Tag_2>버튼으로 마무리 준비."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_10_5:
+    Contents: "<Tag_0>몬스터의 힌트를 구별하기 어려울 때는\n어시스트를 켜 보세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_39:
+    Contents: <Tag_0>이것이 바로 우당탕탕 배틀!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_13:
+    Contents: "<Tag_0>처음에 만난 콩할멈은\n가짜였다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_err_05_1:
+    Contents: "<Tag_0><Tag_1><Tag_2>このamiiboには\nスタンプを<Tag_3>押せる<Tag_4>仲間がいません。<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7e 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  BrosAtk_00_A_1:
+    Contents: "<Tag_0>마리오가 루이지에 올라탈 때마다\n<Tag_1><Tag_2>→<Tag_3><Tag_4>→<Tag_5><Tag_6>의 순서로 버튼을 누르세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_06_0:
+    Contents: <Tag_0>루이지가 선더를 다 모으면 <Tag_1> <Tag_2>버튼.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_07_A_7:
+    Contents: "<Tag_0>해머를 들어 올리면 <Tag_1> <Tag_2>버튼으로 마무리!\n몬스터를 어질어질 상태로 만들 수도 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FireHand_08_0:
+    Contents: "<Tag_0>액션 아이콘을 「파이어」로 변경하고\n<Tag_1> <Tag_2>버튼을 길게 눌렀다가 떼면\n<Tag_3>파이어<Tag_4>를 발사합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_scenario_now_14:
+    Contents: "<Tag_0>깔깔깔마녀에게 조종당한\n메주여왕을 쓰러트렸다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BrosAtk_00_A_2:
+    Contents: "<Tag_0>마지막은 <Tag_1> <Tag_2>버튼으로 마무리!\n몬스터를 밟을 때 버튼을 누르면 Excellent!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BrosAtk_06_1:
+    Contents: "<Tag_0>루이지가 마리오에 올라탐과 동시에\n<Tag_1> <Tag_2>버튼으로 크게 점프!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_scenario_now_15:
+    Contents: "<Tag_0>깔마네꽁띠를 물리쳤다!\n이제 메주여왕을 되돌릴 수 있다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_name_10:
+    Contents: <Tag_0>네 명의 대장
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_06_2:
+    Contents: "<Tag_0>가장 높이 올라갔을 때 <Tag_1> <Tag_2>버튼!\nExcellent로 모든 몬스터에 빅 대미지!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_scenario_now_16:
+    Contents: <Tag_0>메주여왕을 원래대로 되돌렸다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_01:
+    Contents: <Tag_0>amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_11:
+    Contents: <Tag_0>하잉바와 와르르
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_06_3:
+    Contents: "<Tag_0>성공하면 몬스터를\nDEF 다운 상태로 만들 수도 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 00000000
+    StyleID: 11
+  menu_scenario_now_17:
+    Contents: "<Tag_0>오랜만에 콩알왕자와 재회한\n마리오와 루이지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_02:
+    Contents: <Tag_0>amiibo를 <Tag_1>아래 화면<Tag_2>에 터치해 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_12:
+    Contents: <Tag_0>해머브러스들
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  SoloHammer_02_0:
+    Contents: "<Tag_0>액션 아이콘을 해머로 변경하고\n<Tag_1> <Tag_2>버튼을 누르면 마리오가 해머를 휘두릅니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_scenario_now_18:
+    Contents: <Tag_0>깔깔깔마녀를 무찔렀다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_03:
+    Contents: <Tag_0>amiibo를 떼 주십시오.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_13:
+    Contents: <Tag_0>김수한무들
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  shop_num_of_possess:
+    Contents: <Tag_0><Tag_1>갖고 있는 수<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  SoloHammer_02_1:
+    Contents: "<Tag_0>스위치를 누르는 등 여러 용도가 있습니다.\n다양한 곳에서 사용해 봅시다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  menu_record_btl_num:
+    Contents: <Tag_0>배틀 횟수
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_19:
+    Contents: "<Tag_0>스타 빈즈는 쿠파와 함께\n어딘가로 날아갔다…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_04:
+    Contents: "<Tag_0>쿠파군단 RPG의 amiibo 메뉴에서\n보너스를 받으세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_14:
+    Contents: <Tag_0>불과 폭탄병
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  shop_chr_msg_1:
+    Contents: "<Tag_0>\n\n　<Tag_1>오늘은 무슨 일로 오셨죠?　\n\n"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_l_pnl_05:
+    Contents: "<Tag_0>정해진 스탬프 횟수를 초과했으므로\n보너스를 받지 못했습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_15:
+    Contents: <Tag_0>뻐끔과 선인
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_04_0:
+    Contents: "<Tag_0>루이지와 마리오가 닿을 때 <Tag_1> <Tag_2>버튼!\n버튼을 길게 눌러 회전시키세요."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_50:
+    Contents: <Tag_0>쿠파님 납시오 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_l_pnl_06:
+    Contents: "<Tag_0>이 amiibo를 My amiibo로 등록하고\n게임 데이터를 저장합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_16:
+    Contents: <Tag_0>멍멍이와 클러셔
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_04_1:
+    Contents: "<Tag_0>회전은 점점 빨라집니다.\n빨라질수록 공격 대미지가 늘어납니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  ChibiHam_06_0:
+    Contents: "<Tag_0>액션 아이콘을 「꼬마 해머」로 변경하고\n<Tag_1> <Tag_2>버튼을 누르면 <Tag_3>꼬마 해머 <Tag_4>스킬로\n마리오를 <Tag_5>꼬마리오<Tag_6>로 만듭니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_51:
+    Contents: <Tag_0>최대의 적 깔깔깔마녀 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_l_pnl_07:
+    Contents: "<Tag_0>My amiibo의 데이터를 업데이트하고\n스탬프를 찍습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_17:
+    Contents: <Tag_0>마귀들
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_04_2:
+    Contents: "<Tag_0>마리오와 루이지가 고속 상태가 되면\n<Tag_1> <Tag_2>버튼에서 손을 떼세요!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  ChibiHam_06_1:
+    Contents: "<Tag_0>꼬마리오는 작은 구멍도\n통과할 수가 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  FldGuide_08_0:
+    Contents: "<Tag_0>스탬프 시트를 받으면\n<Tag_1>amiibo를 터치<Tag_2>하여\n스탬프를 찍어 봅시다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_52:
+    Contents: <Tag_0>웃음 가득한 여행 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_back_lbl:
+    Contents: <Tag_0>돌아가기
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  menu_stamp_l_pnl_02_f:
+    Contents: <Tag_0><Tag_1>amiiboを<Tag_2>NFCエリア<Tag_3>にタッチし<Tag_4>続けてください。
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 0c 00 08 00 a2 30 df 30 fc 30 dc 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_l_pnl_08:
+    Contents: "<Tag_0>친구의 amiibo 데이터로\n스탬프를 찍습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+    Attribute: 00000000
+    StyleID: 3
+  menu_stamp_name_18:
+    Contents: <Tag_0>쿠파7인조 1
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  BrosAtk_04_3:
+    Contents: "<Tag_0>루이지가 몬스터에 부딪칠 때 <Tag_1> <Tag_2>버튼!\n성공하면 Excellent!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  ChibiHam_06_2:
+    Contents: "<Tag_0>꼬마 해머를 다시 쓰면\n꼬마리오를 원래대로 되돌립니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  HighJump_04:
+    Contents: <Tag_0>하이 점프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_stamp_err_01:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>未登録の<Tag_4>amiiboです\n<Tag_5><Tag_6>クッパ<Tag_7>軍団RPGで<Tag_8>登録してください。<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 7f 30 68 30 46 30 8d 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 0c 00 08 00 a2 30 df 30 fc 30 dc 30
+      Tag_5:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 50 30 93 30 60 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 68 30 46 30 8d 30 4f 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_name_19:
+    Contents: <Tag_0>쿠파7인조 2
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  SoloHand_L_00:
+    Contents: <Tag_0>핸드
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  SpinJump_05_0:
+    Contents: "<Tag_0>액션 아이콘을\n「스핀 점프」로 변경하면\n<Tag_1><Tag_2>→<Tag_3> <Tag_4>버튼으로 <Tag_5>스핀 점프<Tag_6>를 할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_54:
+    Contents: <Tag_0>ユーアーユーレー DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_01:
+    Contents: "<Tag_0>クッパと いっしょにカメジェットに\n<Tag_1>乗ったものの <Tag_2>色々と<Tag_3>準備が<Tag_4>必要そう…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 8d 30 44 30 8d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 58 30 85 30 93 30 73 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 64 30 88 30 46 30
+    Attribute: 00000000
+    StyleID: 6
+  SpinJump_05_1:
+    Contents: "<Tag_0>스핀 중에<Tag_1> 슬라이드 패드<Tag_2>를 움직이면\n그대로 이동할 수 있습니다.\n슬라이드 패드를 놓으면 이동을 중단합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_55:
+    Contents: <Tag_0>ノスタルイージな気分？ DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_02:
+    Contents: "<Tag_0>마리오와 루이지는 일단\n별똥 벌판을 나아가 보기로 했다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_err_03:
+    Contents: "<Tag_0><Tag_1><Tag_2>amiibo 데이터가 손상되었습니다.\n쿠파군단 RPG에서 다시 등록하십시오.<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_owner_lbl:
+    Contents: <Tag_0>오너
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  BtlGuide_19_0:
+    Contents: "<Tag_0>배틀 중 몬스터의 공격으로\n상태 변화를 일으키는 경우가 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  SpinJump_05_2:
+    Contents: "<Tag_0>스핀 중에 <Tag_1> <Tag_2>혹은 <Tag_3> <Tag_4>버튼을 누르면\n즉시 중단할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  Xjump_03:
+    Contents: <Tag_0>2인 동시 점프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_bgm_title_56:
+    Contents: <Tag_0>마리오는 모두에게 인기 만점 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_03:
+    Contents: "<Tag_0>벼리별이 요구한\n코인 100개를 모아 오자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_30:
+    Contents: "<Tag_0>스타 빈즈 조각을 쫓아\n어떤 섬에 도착한 마리오와 루이지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_err_04:
+    Contents: <Tag_0><Tag_1><Tag_2>이 amiibo가 아닙니다.<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_u_pnl_01:
+    Contents: <Tag_0>우선 NFC 영역에 터치하여 잉크를 묻힙니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+    Attribute: 00000000
+    StyleID: 4
+  BrosAtk_02_0:
+    Contents: <Tag_0>마리오가 해머를 들어 올리면 <Tag_1> <Tag_2>버튼.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_19_1:
+    Contents: "<Tag_0>상태 변화가 일어나면 행동에 제약이\n생기거나 HP가 줄어들기도 합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  SoloJump_M_00:
+    Contents: <Tag_0>점프
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  SpinJump_05_3:
+    Contents: "<Tag_0>목말을 탄 상태에서 <Tag_1>슬라이드 패드<Tag_2>로\n이동할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_57:
+    Contents: <Tag_0>시작의 피치 성 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_record_excellent_num:
+    Contents: <Tag_0>Excellent 횟수
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_next_04:
+    Contents: "<Tag_0>쿠파가 날아간 쪽으로\n가 보자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_31:
+    Contents: "<Tag_0>첫 번째 스타 빈즈 조각을 손에 넣었다!\n남은 건 3개!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_err_05:
+    Contents: "<Tag_0><Tag_1><Tag_2>쿠파군단 RPG에서 스탬프에\n필요한 아군을 보아 보세요.<Tag_3><Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_u_pnl_02:
+    Contents: <Tag_0>amiibo를 읽어 들이고 있습니다…
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+    Attribute: 00000000
+    StyleID: 4
+  BrosAtk_02_1:
+    Contents: "<Tag_0>마리오가 루이지에 올라타면\n<Tag_1> <Tag_2>버튼으로 밀어 올립니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_19_2:
+    Contents: "<Tag_0>시간이 지나면 회복됩니다.\n아이템 「<Tag_1>회복허브<Tag_2>」를 사용하면\n바로 회복할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_10_0:
+    Contents: "<Tag_0>꼬마리오가<Tag_1> 작은 구멍<Tag_2>에 들어가거나\n땅굴루이지가 <Tag_3>울타리 밑<Tag_4>을 통과하면\n마리오와 루이지가 따로 움직이게 됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  KuttukiThunder_11_0:
+    Contents: "<Tag_0>액션 아이콘을 「찰싹 붙기」로 변경하여\n<Tag_1> <Tag_2>버튼을 길게 눌렀다가 떼면\n<Tag_3>찰싹 붙기 선더<Tag_4>를 할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_58:
+    Contents: <Tag_0>별똥 구역 51 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_05:
+    Contents: "<Tag_0>마을이 어딘가 어수선하다…\n마을 사람들의 이야기를 들어보자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_32:
+    Contents: "<Tag_0>두 번째 스타 빈즈 조각을 손에 넣었다!\n남은 건 2개!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_err_06:
+    Contents: "<Tag_0><Tag_1><Tag_2>이 상태에서 뒤로 가도\n스탬프가 찍힌 상태가 유지됩니다.<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_u_pnl_03:
+    Contents: <Tag_0>스탬프가 완성되었습니다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+    Attribute: 00000000
+    StyleID: 4
+  BrosAtk_02_2:
+    Contents: "<Tag_0>마리오가 몬스터 높이까지 내려오면\n<Tag_1> <Tag_2>버튼으로 연타를 날리세요!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_06_0:
+    Contents: <Tag_0><Tag_1>슬라이드 패드<Tag_2>로 이동할 수 있습니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  FldGuide_10_1:
+    Contents: "<Tag_0>떨어져 있을 때 <Tag_1> <Tag_2>버튼을 누르면\n조작할 캐릭터를 전환할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  KuttukiThunder_11_1:
+    Contents: "<Tag_0>마리오와 루이지의 방향을 고정한 상태에서\n<Tag_1>슬라이드 패드<Tag_2>로 이동할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_01:
+    Contents: <Tag_0>여행 준비를 마치고
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_bgm_title_59:
+    Contents: <Tag_0>우후훗한 정상 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_06:
+    Contents: "<Tag_0>떨어진 바위를 부술 수 없을까?\n마을 사람들에게 상의해보자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_33:
+    Contents: "<Tag_0>세 번째 스타 빈즈 조각을 손에 넣었다!\n남은 건 1개!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_u_pnl_04:
+    Contents: <Tag_0>스탬프를 찍습니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+    Attribute: 00000000
+    StyleID: 4
+  BrosAtk_06_A:
+    Contents: <Tag_0>선더 브러스 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  MoguHam_07:
+    Contents: <Tag_0>땅굴 해머
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 02010000
+    StyleID: 12
+  menu_bgm_title_02:
+    Contents: <Tag_0>자 재출발이다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_record_kill_mon_num:
+    Contents: <Tag_0>무찌른 몬스터 수
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_next_07:
+    Contents: "<Tag_0>산 정상에 가서 해머의 재료가 되는\n소재를 가져오자."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_34:
+    Contents: "<Tag_0>스타 빈즈 조각이\n요시 시어터에서 발견되었다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_u_pnl_05:
+    Contents: <Tag_0>스탬프를 찍었습니다!
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+    Attribute: 00000000
+    StyleID: 4
+  menu_un_equip_exp:
+    Contents: <Tag_0>아이템을 장착하고 있지 않습니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+    Attribute: 00000000
+    StyleID: 0
+  menu_bgm_title_03:
+    Contents: <Tag_0>엄습해 오는 악의 손아귀
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_08:
+    Contents: "<Tag_0>두 해머 장인에게\n해머를 만들어 달라고 하자!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_35:
+    Contents: "<Tag_0>스타 빈즈 조각이\n꺄르를의 아틀리에에서 발견되었다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_name_30:
+    Contents: <Tag_0>부끄부끄
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0d 00
+    Attribute: 00000000
+    StyleID: 13
+  menu_stamp_u_pnl_06:
+    Contents: <Tag_0>스탬프는 기록에서 확인할 수 있습니다.
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 04 00
+    Attribute: 00000000
+    StyleID: 4
+  menu_bgm_title_04:
+    Contents: <Tag_0>콩알왕자의 테마
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_next_09:
+    Contents: "<Tag_0>까르코비츠가 떨어트린\n바위도 이걸로 부술 수 있다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_scenario_now_36:
+    Contents: "<Tag_0>달팽족에게 인정받은\n마리오와 루이지."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BtlGuide_17_0:
+    Contents: "<Tag_0>몬스터가 공격할 때 마리오&루이지가\n해머를 잡으면 <Tag_1>해머 방어 <Tag_2>신호입니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_05:
+    Contents: <Tag_0>그의 이름은 까르코비츠
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_37:
+    Contents: "<Tag_0>마지막 스타 빈즈 조각을\n손에 넣었다! 이제 완성이다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  BrosAtk_00_0:
+    Contents: <Tag_0>마리오가 루이지 위에 올라탈 때 <Tag_1> <Tag_2>버튼<Tag_3><Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_08_0:
+    Contents: "<Tag_0>몬스터와 부딪히면 엔카운트!\n배틀이 시작됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_17_1:
+    Contents: "<Tag_0>캐릭터 버튼을 길게 눌러 \n해머를 들어 올립니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_06:
+    Contents: <Tag_0>쿠파님 납시오
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_save_01:
+    Contents: "<Tag_0>저장 중입니다.\n전원을 끄지 말아 주십시오."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  menu_scenario_now_38:
+    Contents: "<Tag_0>스타 빈즈를 갖고\n<Tag_1>조크엔드<Tag_2>로 출발."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  BrosAtk_00_1:
+    Contents: "<Tag_0>마리오가 뛰어올라\n루이지 위에 왔을 때 <Tag_1> <Tag_2>버튼"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_08_1:
+    Contents: "<Tag_0>몬스터를 밟아서 엔카운트하면\n대미지를 준 상태에서 배틀이 시작됩니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 18010000
+    StyleID: 11
+  BtlGuide_17_2:
+    Contents: "<Tag_0>들어 올린 후 <Tag_1>버튼에서 손을 떼면<Tag_2>\n해머로 내리칠 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_07:
+    Contents: <Tag_0>최대의 적 깔깔깔마녀
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_scenario_now_39:
+    Contents: "<Tag_0>루이지 덕분에 스타 빈즈와\n피치공주를 되찾았다!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  menu_stamp_cond_lv:
+    Contents: <Tag_0>LV.<Tag_1> 이상
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 00 00
+      Tag_1:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+    Attribute: 00000000
+    StyleID: 0
+  menu_stamp_sheet_name_01:
+    Contents: <Tag_0>마리오 패밀리 시트
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  BrosAtk_00_2:
+    Contents: "<Tag_0>합체하여 몬스터를 밟을 때 <Tag_1> <Tag_2>버튼.\n전부 성공해서 Excellent를 획득해 보세요!"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  FldGuide_04_0:
+    Contents: "<Tag_0>아래 화면의 <Tag_1>저장 <Tag_2>버튼을 터치하면\n언제든 저장이 가능합니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  MoguHam_07_0:
+    Contents: "<Tag_0>액션 아이콘을 「땅굴 해머」로 변경하고\n<Tag_1> <Tag_2>버튼으로 <Tag_3>땅굴 해머<Tag_4>를 사용하면\n루이지를 <Tag_5>땅굴루이지<Tag_6>로 만듭니다.<Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: ff 43 43 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 20010000
+    StyleID: 11
+  SoloJump_L_00_0:
+    Contents: "<Tag_0>밟을 때 <Tag_1> <Tag_2><Tag_3><Tag_4>버튼. 성공하면 다시 한 번!\n모두 성공해서<Tag_5> <Tag_6>Excellent<Tag_7>를<Tag_8><Tag_9><Tag_10> 획득해 보세요.<Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 00 bb 27 ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 18010000
+    StyleID: 11
+  menu_bgm_title_08:
+    Contents: <Tag_0>웃음 가득한 여행
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_sheet_name_02:
+    Contents: <Tag_0>군단 시트 1/2
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5
+  BrosAtk_04_A:
+    Contents: <Tag_0>스윙 브러스 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: a0000000
+    StyleID: 12
+  BtlGuide_01:
+    Contents: '<Tag_0>기본①: 커맨드 선택으로 공격'
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: fe000000
+    StyleID: 12
+  FldGuide_04_1:
+    Contents: "<Tag_0>게임 오버가 되면 마지막에 저장한\n장소에서 다시 시작하게 됩니다.\n자주 저장해 둡시다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  MoguHam_07_1:
+    Contents: "<Tag_0>땅굴루이지는 울타리 밑을\n통과할 수 있습니다."
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+    Attribute: 20010000
+    StyleID: 11
+  menu_bgm_title_09:
+    Contents: <Tag_0>여행의 끝
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_bgm_title_70:
+    Contents: <Tag_0>썰렁한 농담은 사양할게요 DX
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+    Attribute: 00000000
+    StyleID: 12
+  menu_stamp_sheet_name_03:
+    Contents: <Tag_0>군단 시트 2/2
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 5

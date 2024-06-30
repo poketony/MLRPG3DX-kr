@@ -1,0 +1,3781 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  3_battle_10:
+    Contents: "<Tag_0>さすが アニキ！<Tag_1><Tag_2>あいつの くやしがる<Tag_3>顔が\n<Tag_4>目に<Tag_5>浮かぶようだぜ！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4b 30 4a 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  3_battle_11:
+    Contents: "<Tag_0>こいつが <Tag_1>戦っている<Tag_2>間に\nさっさと<Tag_3>修理するんだ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 5f 30 5f 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 42 30 44 30 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 85 30 46 30 8a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  battleguide_title_punch:
+    Contents: <Tag_0>パンチ
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  3_battle_12:
+    Contents: <Tag_0>あちち！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 9
+  4_event_end_01:
+    Contents: "<Tag_0>ガッハッハッ！<Tag_1>\nワガハイにかなうわけが\nなかろう！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_p010:
+    Contents: "<Tag_0>Excellentが <Tag_1>出せれば\n<Tag_2>相手に <Tag_3>大ダメージを\nあたえられます！<Tag_4><Tag_5>でっかくなったときの\n<Tag_6>パンチ<Tag_7>の<Tag_8>説明を\nしておきましょうか？<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 60 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  battleguide_punch_d:
+    Contents: "<Tag_0><Tag_1>敵の<Tag_2>攻撃をクッパの\nアクションで<Tag_3>迎え<Tag_4>撃ちます。\n<Tag_5>成功するとクッパはダメージを\n<Tag_6>受けず さらに<Tag_7>敵にダメージを\n<Tag_8>与えることができます。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 80 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 44 30 53 30 46 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 5f 30
+    Attribute: 00000000
+    StyleID: 5
+  tutorial_p011:
+    Contents: <Tag_0>わかりました！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  1_battle_01:
+    Contents: <Tag_0>クッパ<Tag_1>様 ファイト！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 32 00
+    Attribute: 00000000
+    StyleID: 5
+  tutorial_fb010:
+    Contents: <Tag_0>もう<Tag_1>一度 やりますか？
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 61 30 69 30
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_p012:
+    Contents: "<Tag_0>こいつで\n<Tag_1>練習してみましょう！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8c 30 93 30 57 30 85 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  1_battle_02:
+    Contents: <Tag_0>クッパ<Tag_1>様 <Tag_2>負けないで！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 3c 00
+    Attribute: 00000000
+    StyleID: 5
+  tutorial_p013:
+    Contents: "<Tag_0><Tag_1><Tag_2>パンチボタン<Tag_3>を\n<Tag_4>タッチ<Tag_5>してください。<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  1_battle_03:
+    Contents: <Tag_0><Tag_1>まかせろ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 2
+        Parameters: 3c 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 3c 00
+    Attribute: 00000000
+    StyleID: 9
+  tutorial_p014:
+    Contents: "<Tag_0><Tag_1>クッパ<Tag_2>様が こぶしを\nふりかぶれば <Tag_3>やじるし<Tag_4>が\n<Tag_5>画面に<Tag_6>表示されます。<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4c 30 81 30 93 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 72 30 87 30 46 30 58 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  finalattack_pata01:
+    Contents: "<Tag_0>クッパ<Tag_1>様！<Tag_2>\n<Tag_3>相手が<Tag_4>弱っています！<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 88 30 8f 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_p015:
+    Contents: "<Tag_0><Tag_1>そこで<Tag_2>タッチペン<Tag_3>を\nすばやく <Tag_4><Tag_5>左にスライド<Tag_6>\nしてください！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 60 30 8a 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  finalattack_pata02:
+    Contents: "<Tag_0><Tag_1>必殺技で とどめを\nさしましょう！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 72 30 63 30 55 30 64 30 8f 30 56 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_pd_success:
+    Contents: "<Tag_0>さすが クッパ<Tag_1>様！\n<Tag_2>防御成功です！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 7c 30 46 30 4e 30 87 30 5b 30 44 30 53 30 46 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  finalattack_pata03:
+    Contents: "<Tag_0>ファイナルアタックの\nアイコンをタッチです！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_p017:
+    Contents: <Tag_0>もう<Tag_1>一度 やりますか？
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 61 30 69 30
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_10:
+    Contents: "<Tag_0>アツク<Tag_1> ナッタラ<Tag_2>\nステマショウ！<Tag_3><Tag_4><Tag_5><Tag_6> "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  battleguide_kihon:
+    Contents: "<Tag_0><Tag_1>巨大化したクッパと<Tag_2>敵が\n<Tag_3>交互に<Tag_4>行動を<Tag_5>決めて<Tag_6>戦います。\n<Tag_7>攻撃を<Tag_8>与えて <Tag_9>相手の<Tag_10>HPを\nゼロにすれば<Tag_11>勝利<Tag_12>です。\n<Tag_13>攻撃を<Tag_14>受けるとHPが<Tag_15>減ります。\n<Tag_16>クッパのHPがゼロになったら\nゲームオーバー<Tag_17>です。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 4d 30 87 30 60 30 44 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 46 30 54 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 69 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 5f 30 5f 30 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 5f 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 87 30 46 30 8a 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 78 30
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  tutorial_guide:
+    Contents: "<Tag_0>わからないことがあれば\nここを <Tag_1>見てくださいね！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f010:
+    Contents: "<Tag_0>Excellentが <Tag_1>出せれば\n<Tag_2>相手に <Tag_3>大ダメージを\nあたえられます！<Tag_4><Tag_5><Tag_6>ファイアブレス<Tag_7>の<Tag_8>説明を\nしておきましょうか？<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 60 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_12:
+    Contents: "<Tag_0>イマノ<Tag_1> コウゲキ<Tag_2>\nナカナカ<Tag_3> キイタゾ！<Tag_4> <Tag_5><Tag_6><Tag_7><Tag_8>ブラックホール ヲ<Tag_9>\nツカッテ<Tag_10> タイアタリ<Tag_11>\nスルトハ…<Tag_12> <Tag_13><Tag_14><Tag_15>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_11:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_12:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_13:
+    Contents: "<Tag_0>ナカナカ ヤルナ<Tag_1>\nシカシ<Tag_2> コノ コウゲキハ<Tag_3>\nサケラレナイ…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f012:
+    Contents: "<Tag_0>こいつでファイアブレスの\n<Tag_1>練習をしてみましょう！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8c 30 93 30 57 30 85 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_14:
+    Contents: "<Tag_0>イクラ<Tag_1> テイコウ シテモ<Tag_2>\nムダダゾ！<Tag_3> クラエ！<Tag_4> "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_15:
+    Contents: "<Tag_0>また アレを\n<Tag_1>出すつもりだな！？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+    Attribute: 00000000
+    StyleID: 6
+  battleguide_title_kihon:
+    Contents: <Tag_0>バトルの<Tag_1>基本
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 7b 30 93 30
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f014:
+    Contents: "<Tag_0>くちもとの ファイアが\nどんどん <Tag_1>大きくなるので…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_pd010:
+    Contents: "<Tag_0><Tag_1>パンチ<Tag_2>防御<Tag_3>の\n<Tag_4>説明をしておきましょうか？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7c 30 46 30 4e 30 87 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_16:
+    Contents: "<Tag_0>フン！<Tag_1> あんなもの\nワガハイの ほのおで\nうち<Tag_2>落として くれるわ！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f015:
+    Contents: <Tag_0>よく <Tag_1>見ててください！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_pd011:
+    Contents: "<Tag_0><Tag_1>敵がクッパ<Tag_2>様の\n<Tag_3>近くまで<Tag_4>来たら…<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 4b 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  2_battle_01:
+    Contents: <Tag_0><Tag_1>湖か…<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 08 00 7f 30 5a 30 46 30 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_17:
+    Contents: "<Tag_0>ガハハハ！<Tag_1> <Tag_2>見たか！<Tag_3>\nワガハイの チカラを！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f016:
+    Contents: "<Tag_0>まだまだ\n<Tag_1>大きくなりますよ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_pd012:
+    Contents: "<Tag_0><Tag_1>タッチペン<Tag_2>を\nすばやく <Tag_3><Tag_4>左にスライド<Tag_5>\nしてください！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 60 30 8a 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  2_battle_02:
+    Contents: <Tag_0>こっちもか！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  4_battle_18:
+    Contents: "<Tag_0>セイフティー システム<Tag_1>\nプログラム<Tag_2> サドウ！<Tag_3> <Tag_4><Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f017:
+    Contents: <Tag_0>あと<Tag_1>少し！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_pd013:
+    Contents: "<Tag_0><Tag_1>敵が<Tag_2><Tag_3>右画面<Tag_4>に<Tag_5>入ってきたら\nすかさず<Tag_6>スライド<Tag_7>です！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 7f 30 4e 30 4c 30 81 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_19:
+    Contents: "<Tag_0>コレデ<Tag_1> ショウメン\nカラノ<Tag_2> コウゲキハ<Tag_3>\nカンゼンニ<Tag_4> ガードダ！<Tag_5> <Tag_6><Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  battleguide_finalattack:
+    Contents: "<Tag_0><Tag_1>敵のHPが <Tag_2>残りわずかに\nなったときに<Tag_3>繰り<Tag_4>出す\nクッパの<Tag_5>必殺技です。\n<Tag_6>連打タッチと\n<Tag_7>回転スライドの<Tag_8>操作で\nかっこよく <Tag_9>豪快に\nバトルを<Tag_10>終わらせましょう。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6e 30 53 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 72 30 63 30 55 30 64 30 8f 30 56 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 8c 30 93 30 60 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 66 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5d 30 46 30 55 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 54 30 46 30 4b 30 44 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+    Attribute: 00000000
+    StyleID: 5
+  tutorial_f018:
+    Contents: "<Tag_0>ここです！<Tag_1> この<Tag_2>時に<Tag_3>画面を\nタッチすれば<Tag_4>一番強い\nファイアブレスが<Tag_5>出ます！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4c 30 81 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0c 00 44 30 61 30 70 30 93 30 64 30 88 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_pd014:
+    Contents: "<Tag_0>よーく <Tag_1>敵を\n<Tag_2>見ててくださいね！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  2_battle_04:
+    Contents: "<Tag_0><Tag_1>抜け<Tag_2>出す<Tag_3>気だな！\nそうはさせんぞ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6c 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f019:
+    Contents: <Tag_0>タッチしてみてください！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  2_battle_05:
+    Contents: <Tag_0>よし！<Tag_1> <Tag_2>湖に<Tag_3>落ちたぞ！<Tag_4>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 08 00 7f 30 5a 30 46 30 7f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_pd016:
+    Contents: <Tag_0>もう<Tag_1>一度 やりますか？
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 61 30 69 30
+    Attribute: 00000000
+    StyleID: 6
+  2_battle_06:
+    Contents: "<Tag_0><Tag_1>あたま<Tag_2>を<Tag_3>狙う\nチャンス だな！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 89 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  2_battle_07:
+    Contents: "<Tag_0><Tag_1>攻撃がきかないな…<Tag_2><Tag_3>コイツを <Tag_4>湖に<Tag_5>落として\n<Tag_6>あたま<Tag_7>を <Tag_8>狙えないか…<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 08 00 7f 30 5a 30 46 30 7f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 89 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  3_event_start_10:
+    Contents: <Tag_0><Tag_1>全力前進～！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 12 00 5c 30 93 30 8a 30 87 30 4f 30 5c 30 93 30 57 30 93 30
+    Attribute: 00000000
+    StyleID: 9
+  2_battle_08:
+    Contents: <Tag_0>みんなで <Tag_1>修理だ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 85 30 46 30 8a 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 5
+  3_event_start_11:
+    Contents: "<Tag_0>…って やっぱり\nデカ～い！！！\n"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+    Attribute: 00000000
+    StyleID: 9
+  2_battle_09:
+    Contents: <Tag_0>ん？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_p_GREAT_OK:
+    Contents: "<Tag_0>まっすぐ！ はやく！\n<Tag_1>長めに<Tag_2>スライド<Tag_3>すれば\nもっと よくなりますよ！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  firebless_button:
+    Contents: "<Tag_0><Tag_1>【ファイア】\nチカラがたまるほど<Tag_2>強力！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 4d 30 87 30 46 30 8a 30 87 30 4f 30
+    Attribute: 00000000
+    StyleID: 5
+  1_event_start_02_b:
+    Contents: <Tag_0><Tag_1>浮かんでいるであります！！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 46 30
+    Attribute: 00000000
+    StyleID: 9
+  battleguide_firebless:
+    Contents: "<Tag_0>タイミングよく<Tag_1>画面をタッチして\nファイアブレスを<Tag_2>出します。\nタッチするタイミングを\n<Tag_3>逃すと<Tag_4>失敗してしまいます。\nクッパが<Tag_5>ファイアを\nためきるときを<Tag_6>見計らって\n<Tag_7>画面をタッチ<Tag_8>しましょう。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4c 30 81 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6e 30 4c 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 63 30 71 30 44 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 7f 30 6f 30 4b 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4c 30 81 30 93 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 5
+  buttleguide_add:
+    Contents: "<Tag_0><Tag_1><Tag_2>バトルガイド<Tag_3>に<Tag_4>項目が\n<Tag_5>追加されました。<Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0b 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 82 30 4f 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 64 30 44 30 4b 30
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 11
+  3_battle_01:
+    Contents: "<Tag_0>やばいぜ！\nどうする！？<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  battleguide_fireball:
+    Contents: "<Tag_0>クッパの<Tag_1>目の<Tag_2>前の<Tag_3>範囲を\nタッチするとファイアボールが\nその<Tag_4>方向へ<Tag_5>飛んでいきます。\n<Tag_6>ファイアボールは<Tag_7>続けて<Tag_8>飛ばすと\n<Tag_9>小さくなっていく<Tag_10>ので\nよく<Tag_11>狙って<Tag_12>飛ばしましょう。<Tag_13><Tag_14>少し<Tag_15>待てば <Tag_16>元の<Tag_17>大きさの\nファイアボールを\n<Tag_18>飛ばせるようになります。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 81 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7e 30 48 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 93 30 44 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 53 30 46 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 89 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_13:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 53 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 68 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+    Attribute: 00000000
+    StyleID: 5
+  3_battle_02:
+    Contents: "<Tag_0>だいじょうぶだ！\nあれを<Tag_1>見ろ！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  3_battle_03:
+    Contents: "<Tag_0>ほら！ あそこに\n<Tag_1>ボロボロの<Tag_2>橋<Tag_3><Tag_4>が\n<Tag_5>見えるだろう！<Tag_6><Tag_7>あいつが のれば\nあの<Tag_8>橋は <Tag_9>重さで\nカンタンに こわれるぞ！<Tag_10><Tag_11>そうすれば あいつは\nふか～い <Tag_12>谷底に\nまっさかさまだ！<Tag_13><Tag_14>いくら<Tag_15>体が でかくても\nイチコロだぜ！<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 82 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5f 30 6b 30 5e 30 53 30
+      Tag_13:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 9
+  3_battle_04:
+    Contents: "<Tag_0>さすが アニキ！\nあたま いい～！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  3_battle_05:
+    Contents: "<Tag_0><Tag_1>急いで あの\n<Tag_2><Tag_3>橋の<Tag_4>手前の<Tag_5>駅<Tag_6><Tag_7> まで\n<Tag_8>行くんだ！<Tag_9><Tag_10>あの<Tag_11>駅を <Tag_12>通過すれば\nオレ<Tag_13>達の <Tag_14>勝利は\n<Tag_15>確実だぜ！<Tag_16><Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5d 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 66 30 7e 30 48 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 4d 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 4d 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 64 30 46 30 4b 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 87 30 46 30 8a 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 4f 30 58 30 64 30
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 9
+  3_battle_06:
+    Contents: "<Tag_0><Tag_1><Tag_2>橋の<Tag_3>手前の<Tag_4>駅<Tag_5>までの\n<Tag_6>距離…<Tag_7> およそ\n<Tag_8>１００<Tag_9>チョロメーター！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 66 30 7e 30 48 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 4d 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 87 30 8a 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  tutorial_p001:
+    Contents: <Tag_0>クッパ<Tag_1>様！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  3_battle_07:
+    Contents: "<Tag_0>くるぞ！\n<Tag_1>急げ～！！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 44 30 5d 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  tutorial_p002:
+    Contents: "<Tag_0><Tag_1>急に でっかく\nなっちゃいましたけど\nだいじょうぶですか？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4d 30 85 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  3_battle_08:
+    Contents: "<Tag_0><Tag_1>止まっちまって…\nだいじょうぶなのか！？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  gameover_easy_retry_check:
+    Contents: "<Tag_0><Tag_1><Tag_2>イージーモード<Tag_3>を<Tag_4>選ぶと\nクッパが<Tag_5>強くなり\n<Tag_6>敵を<Tag_7>倒しやすくなります。\n<Tag_8>進行に<Tag_9>影響はありません。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 48 30 89 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 88 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 53 30 46 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 48 30 44 30 4d 30 87 30 46 30
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_fb001:
+    Contents: "<Tag_0>こいつらでファイアボールの\n<Tag_1>練習をしてみましょう！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8c 30 93 30 57 30 85 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_p003:
+    Contents: "<Tag_0>クッパ…<Tag_1>ノヨウニ ミエルガ<Tag_2>\nオオキスギル ヨウナ…<Tag_3><Tag_4>テイサツブタイ！<Tag_5><Tag_6>イッテ アレガ ナンナノカ\nシラベテ クルノダ！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  3_battle_09:
+    Contents: "<Tag_0><Tag_1>心配すんな！<Tag_2><Tag_3>あいつの<Tag_4>パンチ<Tag_5><Tag_6>は\nめちゃくちゃ<Tag_7>大ぶりだ！<Tag_8><Tag_9><Tag_10><Tag_11>ファイア<Tag_12><Tag_13>さえ\nはかれなければ…<Tag_14><Tag_15>オレ<Tag_16>達は ダメージを\n<Tag_17>全く うけないってことよ！<Tag_18><Tag_19>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 93 30 71 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 7e 30 63 30 5f 30
+      Tag_18:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 9
+  tutorial_fb002:
+    Contents: "<Tag_0>この<Tag_1>範囲内のどこを\nタッチするかでファイアを\n<Tag_2>飛ばす<Tag_3>方向が<Tag_4>決まります。<Tag_5>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 6f 30 93 30 44 30 6a 30 44 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 53 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_p004:
+    Contents: "<Tag_0>あっ！<Tag_1> ちょうどいい！<Tag_2><Tag_3>こいつで <Tag_4>パンチ<Tag_5>の\n<Tag_6>練習をしてみましょう！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8c 30 93 30 57 30 85 30 46 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  battleguide_title_punch_d:
+    Contents: <Tag_0>パンチ<Tag_1>防御
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7c 30 46 30 4e 30 87 30
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_fb003:
+    Contents: "<Tag_0><Tag_1><Tag_2>飛ばしたい<Tag_3>方向<Tag_4>に<Tag_5>タッチ<Tag_6>して\n<Tag_7>ファイアボール<Tag_8>を\n<Tag_9>飛ばしてみましょう！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 53 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_p005:
+    Contents: "<Tag_0><Tag_1><Tag_2>パンチボタン<Tag_3>を\n<Tag_4>タッチ<Tag_5>してください。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_fb004:
+    Contents: "<Tag_0>そうだ。ファイアボールは\n<Tag_1>飛ばし<Tag_2>続けていると\n<Tag_3>小さくなってしまって…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 65 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_p006:
+    Contents: "<Tag_0><Tag_1><Tag_2>タッチペン<Tag_3>を\nすばやく <Tag_4><Tag_5>左にスライド<Tag_6>\nしてください！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 60 30 8a 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_fb005:
+    Contents: "<Tag_0>しまいには <Tag_1>出せなく\nなってしまいます。<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_fb_success:
+    Contents: "<Tag_0>さすがは クッパ<Tag_1>様！<Tag_2>\nすべて やっつけましたね！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_fb006:
+    Contents: "<Tag_0>ムダに<Tag_1>出さず <Tag_2>狙いをつけて\nしっかり<Tag_3>当てましょう！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 89 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 42 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  battleguide_title_finalattack:
+    Contents: <Tag_0>ファイナルアタック
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  battleguide_title_firebless:
+    Contents: <Tag_0>ファイアブレス
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_fb007:
+    Contents: "<Tag_0>ファイアボールの\n<Tag_1>説明をしておきましょうか？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 64 30 81 30 44 30
+    Attribute: 00000000
+    StyleID: 6
+  battleguide_title_kinoko:
+    Contents: <Tag_0>キノコ
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_fb008:
+    Contents: "<Tag_0>またまた <Tag_1>小さいのが\nたくさん きます！<Tag_2><Tag_3><Tag_4>ファイアボール<Tag_5>で\n<Tag_6>倒しちゃいましょう！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  kinoko_button:
+    Contents: "<Tag_0><Tag_1>【キノコ】\n<Tag_2>食べるとクッパのHPが<Tag_3>回復！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 75 30 4f 30
+    Attribute: 00000000
+    StyleID: 5
+  tutorial_f_GOOD_OK:
+    Contents: "<Tag_0><Tag_1>光ったら すぐに\n<Tag_2>タッチ<Tag_3>してみましょう！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 72 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_fb009:
+    Contents: "<Tag_0><Tag_1><Tag_2>飛ばしたい<Tag_3>方向<Tag_4>に<Tag_5>タッチ<Tag_6>して\n<Tag_7>ファイアボール<Tag_8>を\n<Tag_9>飛ばしてみてください！<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7b 30 46 30 53 30 46 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 68 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_01:
+    Contents: <Tag_0>なにを するつもりだ？
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_02:
+    Contents: "<Tag_0>なんだ？ <Tag_1>花火か？\nおめでたいヤツだな…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 6a 30 73 30
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f001:
+    Contents: "<Tag_0><Tag_1>今度は <Tag_2>小さいのが\nたくさん きました！<Tag_3><Tag_4><Tag_5>ファイアブレス<Tag_6>で まとめて\n<Tag_7>倒しちゃいましょう！<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 53 30 93 30 69 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 44 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 4a 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  1_event_end_01:
+    Contents: "<Tag_0>ソンナニ デッカク\nナレルナンテ キタナイゾ！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+    Attribute: 00000000
+    StyleID: 9
+  4_battle_03:
+    Contents: "<Tag_0>ん？<Tag_1> なにも<Tag_2>起きんぞ。\n<Tag_3>失敗したのか？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 57 30 63 30 71 30 44 30
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f002:
+    Contents: "<Tag_0><Tag_1><Tag_2>ファイアボタン<Tag_3>を\n<Tag_4>タッチ<Tag_5>してください！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  1_event_end_02:
+    Contents: "<Tag_0>くやしかったら オマエも\nでっかく なってみろ！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_04:
+    Contents: "<Tag_0>かわった <Tag_1>花火だな…<Tag_2>\nまぁいい<Tag_3> <Tag_4>花火は\nほっといて…"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 6a 30 73 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6f 30 6a 30 73 30
+    Attribute: 00000000
+    StyleID: 6
+  result_item_question:
+    Contents: <Tag_0>??????
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 03 00
+    Attribute: 00000000
+    StyleID: 3
+  tutorial_f003:
+    Contents: "<Tag_0>くちもとのファイアが\nたまりきったら\n<Tag_1>画面を<Tag_2>タッチ<Tag_3>です！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4c 30 81 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  1_event_end_03:
+    Contents: <Tag_0><Tag_1>コノ ヒキョウモノ！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  4_battle_05:
+    Contents: "<Tag_0>コイツを\nなんとかしないとな！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6
+  easymode_gameover_battleskip_check:
+    Contents: "<Tag_0>バトルをスキップして\n<Tag_1>次に<Tag_2>進みますか？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 59 30 59 30
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_06:
+    Contents: "<Tag_0>ぬおー！<Tag_1> ワガハイを\n<Tag_2>吸い<Tag_3>込む<Tag_4>気か！<Tag_5><Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 59 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_pd001:
+    Contents: "<Tag_0>ナニヲ モタモタ\nシテイル！？<Tag_1><Tag_2>モット セッキンシテ\nヨ～ク カンサツ\nスルノダ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  4_battle_07:
+    Contents: <Tag_0>そうは いくか！<Tag_1><Tag_2><Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  punch_button:
+    Contents: "<Tag_0><Tag_1>【パンチ】\nはやくスライドするほど<Tag_2>強力！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 4d 30 87 30 46 30 8a 30 87 30 4f 30
+    Attribute: 00000000
+    StyleID: 5
+  tutorial_pd002:
+    Contents: "<Tag_0><Tag_1>敵が <Tag_2>攻撃してきます！\n<Tag_3>パンチ<Tag_4>防御<Tag_5>の\n<Tag_6>練習を してみましょう！<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 52 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 7c 30 46 30 4e 30 87 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 8c 30 93 30 57 30 85 30 46 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_08:
+    Contents: "<Tag_0>アツイ！<Tag_1> アツイ！<Tag_2> \nカジダ！<Tag_3> カジダ！<Tag_4> <Tag_5><Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_pd003:
+    Contents: "<Tag_0><Tag_1>敵が<Tag_2>近くまできたら\nタッチペンを すばやく\n<Tag_3><Tag_4>左にスライド<Tag_5>です！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 61 30 4b 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 60 30 8a 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_09:
+    Contents: "<Tag_0>モエソウナ<Tag_1> モノハ<Tag_2>\nステマショウ！<Tag_3> <Tag_4><Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  finalattack_koopa01:
+    Contents: <Tag_0><Tag_1>まかせておけ！<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 2
+        Parameters: 3c 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 9
+  3_event_start_01:
+    Contents: "<Tag_0><Tag_1>案外 クッパのやつも\nチョロかったな～"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 42 30 93 30 4c 30 44 30
+    Attribute: 00000000
+    StyleID: 6
+  3_event_start_02:
+    Contents: "<Tag_0>これで ゲラコビッツ<Tag_1>様も\n<Tag_2>喜んでくれるだろ。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 88 30 8d 30 53 30
+    Attribute: 00000000
+    StyleID: 6
+  3_event_start_03:
+    Contents: "<Tag_0>このゲラエクスプレスに\n<Tag_1>比べたら クッパのやつも\nちっちゃく <Tag_2>見えるもんだね～"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4f 30 89 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+    Attribute: 00000000
+    StyleID: 6
+  3_event_start_04:
+    Contents: <Tag_0>ハハハハハハ！！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+    Attribute: 00000000
+    StyleID: 9
+  4_battle_20:
+    Contents: "<Tag_0>セイフティー システム<Tag_1>\nプログラム<Tag_2> エラー！<Tag_3>\nガード<Tag_4> ショウメツ！<Tag_5> <Tag_6><Tag_7><Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  3_event_start_05:
+    Contents: <Tag_0>ななな なんだ～！？
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+    Attribute: 00000000
+    StyleID: 9
+  4_battle_21:
+    Contents: "<Tag_0>テレサ システム<Tag_1> サドウ！<Tag_2>\nトチュウデ<Tag_3> スガタ ガ<Tag_4>\nミエナク<Tag_5> ナレバ…<Tag_6> <Tag_7><Tag_8><Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_6:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_22:
+    Contents: "<Tag_0>ハンゲキノ<Tag_1> タイミングモ<Tag_2>\nワカラ ナク ナル<Tag_3> ハズダ！<Tag_4> <Tag_5><Tag_6><Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  3_event_start_07:
+    Contents: <Tag_0>に <Tag_1>逃げろー！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 6b 30
+    Attribute: 00000000
+    StyleID: 9
+  4_battle_23:
+    Contents: "<Tag_0>ナカナカ ヤルナ<Tag_1>\nシカシ<Tag_2> コレニ<Tag_3>\nタエラレル カナ？<Tag_4> "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f022:
+    Contents: <Tag_0>もう<Tag_1>一度 やりますか？
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 44 30 61 30 69 30
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f_EXCELLENT_GREAT_01:
+    Contents: <Tag_0>すごい はくりょく！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 08 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 1e 00
+    Attribute: 00000000
+    StyleID: 8
+  3_event_start_08:
+    Contents: "<Tag_0><Tag_1>待てよ！？<Tag_2> \nよく<Tag_3>見たらそんなに\nデカくもないか！？"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7e 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 05 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+    Attribute: 00000000
+    StyleID: 9
+  4_battle_24:
+    Contents: "<Tag_0>ウシロニ<Tag_1> サガッタラ\nサイゴ…<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_f_EXCELLENT_GREAT_02:
+    Contents: "<Tag_0>さすが クッパ<Tag_1>様！\nかんぺきな\nファイアでしたね！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  3_event_start_09:
+    Contents: "<Tag_0>そうだ！ビビるな！<Tag_1> \nもういちど\nつぶしてやる！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 9
+  4_battle_25:
+    Contents: "<Tag_0>ブラックホール<Tag_1> イキノ<Tag_2>\nデスマッチダ！<Tag_3>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+    Attribute: 00000000
+    StyleID: 6
+  4_battle_26:
+    Contents: "<Tag_0>オマエノ<Tag_1> ツヨサ ハ<Tag_2>\nヨク ワカッタ！<Tag_3> <Tag_4><Tag_5><Tag_6><Tag_7>ダガ<Tag_8> オマエモ<Tag_9>\nコレデ オワリダ！<Tag_10><Tag_11><Tag_12><Tag_13> "
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_9:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_10:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_fb_failure:
+    Contents: "<Tag_0>おちついて… <Tag_1>狙って\n<Tag_2>タッチ<Tag_3>しましょう！<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 89 30
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  tutorial_p_EXCELLENT_GREAT_01:
+    Contents: <Tag_0>すごい はくりょく！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 08 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 3c 00
+    Attribute: 00000000
+    StyleID: 8
+  tutorial_pd011_a:
+    Contents: <Tag_0>ストーップ！<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  1_event_end_03_b:
+    Contents: "<Tag_0>モトノ オオキサニ\nモドルマデ ショウブハ\nオアズケダ！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+    Attribute: 00000000
+    StyleID: 9
+  FA_button:
+    Contents: "<Tag_0><Tag_1>【ファイナルアタック】\nとどめの<Tag_2>大技！"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4a 30 4a 30 8f 30 56 30
+    Attribute: 00000000
+    StyleID: 5
+  tutorial_p_EXCELLENT_GREAT_02:
+    Contents: "<Tag_0>さすが クッパ<Tag_1>様！\nかんぺきな\nパンチでしたね！<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 7e 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  battleguide_kinoko:
+    Contents: "<Tag_0><Tag_1>巨大化バトル<Tag_2>中に キノコを\n<Tag_3>手に<Tag_4>入れることがあります。\n<Tag_5>キノコを<Tag_6>食べれば\nクッパのHPが<Tag_7>回復<Tag_8>します。\nキノコを<Tag_9>使うと <Tag_10>次は\n<Tag_11>相手の<Tag_12>行動になります。\n<Tag_13>状況をよく<Tag_14>考えて<Tag_15>使いましょう。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 4d 30 87 30 60 30 44 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 61 30 85 30 46 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 66 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 75 30 4f 30
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4e 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 53 30 46 30 69 30 46 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0c 00 58 30 87 30 46 30 4d 30 87 30 46 30
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 93 30 4c 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+    Attribute: 00000000
+    StyleID: 5
+  1_event_start_01:
+    Contents: <Tag_0><Tag_1>ナ<Tag_2> ナニゴトダ！！
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+    Attribute: 00000000
+    StyleID: 9
+  1_event_start_02:
+    Contents: <Tag_0>ししししし… <Tag_1>城が<Tag_2>勝手に…
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4b 30 63 30 66 30
+    Attribute: 00000000
+    StyleID: 9
+  1_event_start_03:
+    Contents: <Tag_0><Tag_1>ナ！<Tag_2> ナンダアレハー！！<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 09 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 9
+  battleguide_punch:
+    Contents: "<Tag_0>タッチペンを<Tag_1><Tag_2>右から<Tag_3>左に\nスライドするとパンチ<Tag_4>します。\n<Tag_5>速くスライドするほど <Tag_6>相手に\n<Tag_7>多くのダメージを<Tag_8>与えられます。\n<Tag_9>速く<Tag_10>長くスライドをして\nExcellentを<Tag_11>狙いましょう。"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 05 00
+      Tag_1:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7f 30 4e 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 72 30 60 30 8a 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 42 30 44 30 66 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 4a 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 5f 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 84 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4c 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 89 30
+    Attribute: 00000000
+    StyleID: 5
+  battleguide_title_fireball:
+    Contents: <Tag_0>ファイアボール
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+    Attribute: 00000000
+    StyleID: 6

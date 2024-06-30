@@ -1,0 +1,894 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_Ekubon_34_Ekubon_hana_stop_14_pl:
+    Contents: <Tag_0><Tag_1>ん～ <Tag_2><Tag_3><Tag_4><Tag_5><Tag_6>個だけです…<Tag_7><Tag_8>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_14_2_pl:
+    Contents: "<Tag_0>まだまだ こんなのじゃ\n<Tag_1>森の<Tag_2>平和は <Tag_3>約束されないです。<Tag_4><Tag_5><Tag_6>全部で １０<Tag_7>個あるらしいので\n<Tag_8>半分以上は <Tag_9>回収してほしいです～<Tag_10><Tag_11><Tag_12>あと<Tag_13><Tag_14><Tag_15><Tag_16><Tag_17>個！<Tag_18> がんばるです～<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 78 30 44 30 8f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 84 30 4f 30 5d 30 4f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 6f 30 93 30 76 30 93 30 44 30 58 30 87 30 46 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4b 30 44 30 57 30 85 30 46 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_18:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_14_2:
+    Contents: "<Tag_0>まだまだ こんなのじゃ\n<Tag_1>森の<Tag_2>平和は <Tag_3>約束されないです。<Tag_4><Tag_5><Tag_6>全部で １０<Tag_7>個あるらしいので\n<Tag_8>半分以上は <Tag_9>回収してほしいです～<Tag_10><Tag_11><Tag_12>あと<Tag_13><Tag_14><Tag_15><Tag_16><Tag_17>個！<Tag_18> がんばるです～<Tag_19><Tag_20>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 78 30 44 30 8f 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 84 30 4f 30 5d 30 4f 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 6f 30 93 30 76 30 93 30 44 30 58 30 87 30 46 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4b 30 44 30 57 30 85 30 46 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_11:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_12:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 01 00
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_18:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_10:
+    Contents: <Tag_0><Tag_1>約束するですか！？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 84 30 4f 30 5d 30 4f 30
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 28 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_11:
+    Contents: "<Tag_0><Tag_1><Tag_2>よろしいです。<Tag_3><Tag_4><Tag_5>じゃあ <Tag_6>責任もって\nアタックパーツ <Tag_7>回収してくるです～<Tag_8><Tag_9><Tag_10>全部で １０<Tag_11>個あるらしいので\n<Tag_12>半分以上は <Tag_13>回収してほしいです～<Tag_14><Tag_15><Tag_16>６<Tag_17>個<Tag_18><Tag_19> <Tag_20>回収できたら\nけーかいたいせいも <Tag_21>解除するです～<Tag_22><Tag_23>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 0
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 4d 30 6b 30 93 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4b 30 44 30 57 30 85 30 46 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5c 30 93 30 76 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 10 00 6f 30 93 30 76 30 93 30 44 30 58 30 87 30 46 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4b 30 44 30 57 30 85 30 46 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_18:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4b 30 44 30 57 30 85 30 46 30
+      Tag_21:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 58 30 87 30
+      Tag_22:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_23:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_13:
+    Contents: "<Tag_0>アタックパーツ\n<Tag_1>回収してきましたか～？<Tag_2>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4b 30 44 30 57 30 85 30 46 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_14:
+    Contents: <Tag_0><Tag_1>ん～ <Tag_2><Tag_3><Tag_4><Tag_5><Tag_6>個だけです…<Tag_7><Tag_8>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 3
+        Type: 0
+        Parameters: 00 00 02 00 00 00
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_15:
+    Contents: "<Tag_0>ん～<Tag_1> <Tag_2>６<Tag_3><Tag_4><Tag_5>個<Tag_6>集まってますね。\nよく がんばったです～<Tag_7><Tag_8><Tag_9>けーかいたいせい <Tag_10>解除～<Tag_11><Tag_12>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 53 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 42 30 64 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 58 30 87 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+    Attribute: 00000000
+    StyleID: 6
+  MES_SAVE_BLOCK_recovery:
+    Contents: "<Tag_0><Tag_1><Tag_2>HPとBPの<Tag_3>回復も\n<Tag_4>忘れないようにしましょう。<Tag_5><Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 4b 30 44 30 75 30 4f 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 8f 30 59 30
+      Tag_5:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 12
+  MES_Ekubon_34_Ekubon_hana_stop_16:
+    Contents: "<Tag_0><Tag_1>この<Tag_2>先にも アタックパーツがあったら\n<Tag_3>責任もって <Tag_4>回収するですよ～<Tag_5><Tag_6>この<Tag_7>先にあるのを <Tag_8>全部集めると\n<Tag_9>地面がゆれまくる アタックが\n<Tag_10>出せるようになる らしいです。<Tag_11><Tag_12><Tag_13><Tag_14>危険そうな においがするです。\nはやめの<Tag_15>回収を お<Tag_16>願いするです～<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5b 30 4d 30 6b 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4b 30 44 30 57 30 85 30 46 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0a 00 5c 30 93 30 76 30 42 30 64 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 60 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_14:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 51 30 93 30
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4b 30 44 30 57 30 85 30 46 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6d 30 4c 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_17:
+    Contents: "<Tag_0>アタックパーツ\nゲットしたですか～？<Tag_1><Tag_2><Tag_3>地面がゆれまくる アタックなんて\n<Tag_4>危険 きわまりないです～<Tag_5><Tag_6>この<Tag_7>森じゃなくて\nべつのところで <Tag_8>使うです～<Tag_9>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 81 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 51 30 93 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 64 30 4b 30
+      Tag_9:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_6_1:
+    Contents: "<Tag_0>それで せまりくるモンスターを\nビシバシやっつけるぜ～！<Tag_1>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_6_2:
+    Contents: <Tag_0>…です？<Tag_1>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_1:
+    Contents: <Tag_0>は～い<Tag_1> ストップです～<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_2:
+    Contents: "<Tag_0><Tag_1>最近 この<Tag_2>森で<Tag_3>事件が\n<Tag_4>多発しているです～<Tag_5><Tag_6><Tag_7>畑あらされたり <Tag_8>城が<Tag_9>落ちてきたり\n<Tag_10>大かいじゅうが あばれたり…<Tag_11><Tag_12>けーかいたいせい <Tag_13>強化中です。<Tag_14>\nこの<Tag_15>先は <Tag_16>通せないです～<Tag_17>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 55 30 44 30 4d 30 93 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 58 30 51 30 93 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 5f 30 6f 30 64 30
+      Tag_5:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 6f 30 5f 30 51 30
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 57 30 8d 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4a 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 60 30 44 30
+      Tag_11:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_12:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 06 00 0e 00 4d 30 87 30 46 30 4b 30 61 30 85 30 46 30
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_15:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4d 30
+      Tag_16:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 68 30 4a 30
+      Tag_17:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_3:
+    Contents: "<Tag_0>アタックパーツ？<Tag_1>\nあなた<Tag_2>達が <Tag_3>探しているのって…<Tag_4>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 55 30 4c 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_4:
+    Contents: <Tag_0>こんなブロックに<Tag_1>入ってて…<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6f 30 44 30
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_5:
+    Contents: <Tag_0><Tag_1>中から こんなのが<Tag_2>出てきて…<Tag_3>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 6a 30 4b 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 67 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_6:
+    Contents: <Tag_0>ゲット～！<Tag_1> みたいなのです？<Tag_2>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_7:
+    Contents: "<Tag_0>やっぱりです！！<Tag_1>\nあなた<Tag_2>達 <Tag_3>危険人物です！<Tag_4><Tag_5>この <Tag_6>平和な<Tag_7>森で\nあばれまくる つもりですね！？<Tag_8>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 61 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0e 00 4d 30 51 30 93 30 58 30 93 30 76 30 64 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 78 30 44 30 8f 30
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_Ekubon_34_Ekubon_hana_stop_9:
+    Contents: "<Tag_0>これ<Tag_1>以上 この<Tag_2>森で\nドタバタされたら こまるんです～<Tag_3><Tag_4>この<Tag_5>森で あばれないって\n<Tag_6>約束してくれるですか～？<Tag_7>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 44 30 58 30 87 30 46 30
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 82 30 8a 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 84 30 4f 30 5d 30 4f 30
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6

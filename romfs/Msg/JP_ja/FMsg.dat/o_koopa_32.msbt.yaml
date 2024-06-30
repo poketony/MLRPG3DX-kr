@@ -1,0 +1,70 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_SKoopa_32_kanban_mes:
+    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>↑ <Tag_4><Tag_5>特別冷凍室<Tag_6><Tag_7>\nクッパひみつクラブの <Tag_8>会員以外\n<Tag_9>立ち<Tag_10>入り<Tag_11>禁止！<Tag_12><Tag_13>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 0c 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 5
+        Type: 0
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 4e d4 ff ff
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 0a 00 14 00 68 30 4f 30 79 30 64 30 8c 30 44 30 68 30 46 30 57 30 64 30
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+      Tag_7:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 08 00 0e 00 4b 30 44 30 44 30 93 30 44 30 4c 30 44 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 5f 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 44 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 4d 30 93 30 57 30
+      Tag_12:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: e6 e6 e6 ff
+    Attribute: 00000000
+    StyleID: 12

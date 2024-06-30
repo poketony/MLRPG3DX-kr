@@ -1,0 +1,507 @@
+Version: 3
+IsBigEndian: False
+UseIndices: False
+UseStyles: True
+UseAttributes: True
+SizePerAttribute: 4
+Encoding: UTF16
+SlotNum: 101
+Messages:
+  MES_KGarakuta_02_KG02_hemoguro_01:
+    Contents: "<Tag_0><Tag_1>あら？<Tag_2>\nお<Tag_3>客様とは めずらしいびん。<Tag_4><Tag_5><Tag_6><Tag_7>私は ヘモグロびん。<Tag_8>\nわが<Tag_9>宿主 クッパの<Tag_10>体について\nいろいろ <Tag_11>知ってる<Tag_12>的な <Tag_13>存在びん。<Tag_14><Tag_15><Tag_16>クッパの<Tag_17>体について\nいろいろ <Tag_18>教えちゃうびんよ。<Tag_19><Tag_20><Tag_21><Tag_22>他の<Tag_23>所にいる <Tag_24>仲間を<Tag_25>見かけたら\nとりあえず <Tag_26>叩いてみるびん。<Tag_27><Tag_28><Tag_29><Tag_30>叩かれるのは…<Tag_31>\nきらいじゃないびん。<Tag_32>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 0a 00 4d 30 83 30 4f 30 55 30 7e 30
+      Tag_4:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_5:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_8:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 84 30 69 30 6c 30 57 30
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_12:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 08 00 5d 30 93 30 56 30 44 30
+      Tag_14:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_15:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_16:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 4b 30 89 30 60 30
+      Tag_18:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_19:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_21:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_22:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 7b 30 4b 30
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 68 30 53 30 8d 30
+      Tag_24:
+        Group: 0
+        Type: 0
+        Parameters: 04 00 06 00 6a 30 4b 30 7e 30
+      Tag_25:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 7f 30
+      Tag_26:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_27:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_28:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_29:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 5f 30 5f 30
+      Tag_31:
+        Group: 2
+        Type: 0
+        Parameters: 14 00
+      Tag_32:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KGarakuta_02_KG02_hemoguro_02:
+    Contents: "<Tag_0><Tag_1>ところで <Tag_2>私が\nなにを <Tag_3>教えちゃうのか…<Tag_4>\n<Tag_5>知りたい<Tag_6>的な？<Tag_7> <Tag_8>知りたい<Tag_9>的な！？<Tag_10>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 4a 30 57 30
+      Tag_4:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_6:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_7:
+        Group: 2
+        Type: 0
+        Parameters: 0f 00
+      Tag_8:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 57 30
+      Tag_9:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_10:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KGarakuta_02_KG02_hemoguro_03:
+    Contents: <Tag_0><Tag_1><Tag_2>ぶぶ～～～！！<Tag_3><Tag_4><Tag_5><Tag_6><Tag_7>おしえな～いび～ん！！<Tag_8><Tag_9>
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 07 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_3:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_4:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_5:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_6:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 1
+        Parameters: 02 00
+      Tag_8:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 1
+        Parameters: ff ff
+    Attribute: 00000000
+    StyleID: 7
+  MES_KGarakuta_02_KG02_hemoguro_04:
+    Contents: "<Tag_0><Tag_1>そのかわり<Tag_2>的な もので\n<Tag_3>セーブ<Tag_4><Tag_5>を させてあげちゃうびん！<Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>セーブ<Tag_11><Tag_12>したい<Tag_13>的な？<Tag_14>\n<Tag_15><Tag_16>いいえ<Tag_17>的な<Tag_18><Tag_19>はい<Tag_20>的な<Tag_21><Tag_22>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_3:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_7:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_8:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_10:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_11:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_14:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_15:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_16:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_18:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_19:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_20:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
+  MES_KGarakuta_02_KG02_hemoguro_05:
+    Contents: "<Tag_0><Tag_1>ちなみに <Tag_2>私は\nしばらくしたら <Tag_3>消えちゃう<Tag_4>的な\nヘモグロびんだから <Tag_5>気をつけるびん！<Tag_6>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_4:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_5:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_6:
+        Group: 2
+        Type: 1
+        Parameters: 
+    Attribute: 00000000
+    StyleID: 6
+  MES_KGarakuta_02_KG02_hemoguro_06:
+    Contents: "<Tag_0><Tag_1><Tag_2>私は ヘモグロびん<Tag_3>的な\n<Tag_4>セーブブロック<Tag_5><Tag_6>びん。<Tag_7><Tag_8><Tag_9>でも しばらくしたら <Tag_10>消えちゃう<Tag_11>的な\n<Tag_12><Tag_13>セーブブロック<Tag_14><Tag_15>びん。<Tag_16><Tag_17><Tag_18><Tag_19><Tag_20>セーブ<Tag_21><Tag_22>したい<Tag_23>的な？<Tag_24>\n<Tag_25><Tag_26>いいえ<Tag_27>的な<Tag_28><Tag_29>はい<Tag_30>的な<Tag_31><Tag_32>"
+    Tags:
+      Tag_0:
+        Group: 9
+        Type: 0
+        Parameters: 06 00
+      Tag_1:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_2:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 06 00 8f 30 5f 30 57 30
+      Tag_3:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_4:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_5:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_6:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_7:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_8:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_9:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_10:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 02 00 4d 30
+      Tag_11:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_12:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_13:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_14:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_15:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_16:
+        Group: 2
+        Type: 1
+        Parameters: 
+      Tag_17:
+        Group: 0
+        Type: 4
+        Parameters: 
+      Tag_18:
+        Group: 1
+        Type: 4
+        Parameters: 
+      Tag_19:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_20:
+        Group: 0
+        Type: 3
+        Parameters: 2c 64 ff ff
+      Tag_21:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_22:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_23:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_24:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+      Tag_25:
+        Group: 1
+        Type: 1
+        Parameters: 
+      Tag_26:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_27:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_28:
+        Group: 6
+        Type: 0
+        Parameters: 28 00
+      Tag_29:
+        Group: 4
+        Type: 1
+        Parameters: 
+      Tag_30:
+        Group: 0
+        Type: 0
+        Parameters: 02 00 04 00 66 30 4d 30
+      Tag_31:
+        Group: 0
+        Type: 3
+        Parameters: 37 37 37 ff
+      Tag_32:
+        Group: 2
+        Type: 0
+        Parameters: 0a 00
+    Attribute: 00000000
+    StyleID: 6
