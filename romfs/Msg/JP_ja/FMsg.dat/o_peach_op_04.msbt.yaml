@@ -191,7 +191,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_17:
-    Contents: "<Tag_0><Tag_1>두 분 모두…\n진정해 주세요.<Tag_3>"
+    Contents: "<Tag_0>두 분 모두…\n진정해 주세요.<Tag_3>"
     Tags:
       Tag_0:
         Group: 9
@@ -328,7 +328,7 @@ Messages:
     Attribute: 00000000
     StyleID: 10
   MES_OPeach_04_Opening_opeach_32:
-    Contents: "<Tag_0><Tag_1>대체 이곳에 무슨 볼일이죠!?<Tag_3><Tag_4><Tag_5>지금 이 왕국을 구하기 위해\n중요한 회의를 하는 중이에요!!<Tag_11>"
+    Contents: "<Tag_0><Tag_1>대체 이곳에 무슨 볼일이죠!?<Tag_3><Tag_4>지금 이 왕국을 구하기 위해\n중요한 회의를 하는 중이에요!!<Tag_11>"
     Tags:
       Tag_0:
         Group: 9
@@ -455,7 +455,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_34:
-    Contents: "<Tag_0>저<Tag_1> 저기…<Tag_2>\n그건…<Tag_3> 그…<Tag_4>"
+    Contents: "<Tag_0>저,<Tag_1> 저기…<Tag_2>\n그건…<Tag_3> 그…<Tag_4>"
     Tags:
       Tag_0:
         Group: 9
@@ -514,7 +514,7 @@ Messages:
     Attribute: 00000000
     StyleID: 9
   MES_OPeach_04_Opening_opeach_37:
-    Contents: "<Tag_0>또다시 이 몸을\n방해할 생각인가~~!?<Tag_2><Tag_3><Tag_4>오늘은 진지한 회의라고 들어서\n얌전히 있을 생각이었는데…<Tag_7>"
+    Contents: "<Tag_0>또다시 이 몸을\n방해할 생각인가~~!?<Tag_2><Tag_3>오늘은 진지한 회의라고 들어서\n얌전히 있을 생각이었는데…<Tag_7>"
     Tags:
       Tag_0:
         Group: 9
@@ -865,7 +865,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_06_13:
-    Contents: "<Tag_0>오오! 활기가 넘치시는군요!\n매우 의지가 됩니다!<Tag_2><Tag_3>그럼 뚱뚱데굴병도\n짠 하고 해결!!<Tag_6> 할 수 있으시겠죠!?<Tag_7>"
+    Contents: "<Tag_0>오오! 활기가 넘치시는군요!\n매우 의지가 됩니다!<Tag_2><Tag_3>그럼 뚱뚱데굴병도\n한 방에 해결<Tag_6>할 수 있으시겠죠!?<Tag_7>"
     Tags:
       Tag_0:
         Group: 9
@@ -1030,7 +1030,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_06_2:
-    Contents: "<Tag_0>しかし こんな<Tag_1>事態は\n<Tag_2>初めてですよ！<Tag_3><Tag_4>どうしたらいいのか\nさっぱり わかりません！<Tag_5>"
+    Contents: "<Tag_0>하지만 이런 사태는\n처음이라구요!<Tag_3><Tag_4>어떻게 하면 좋을지\n전혀 생각이 나질 않습니다!<Tag_5>"
     Tags:
       Tag_0:
         Group: 9
@@ -1059,7 +1059,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_08:
-    Contents: "<Tag_0><Tag_1>同じような<Tag_2>病気を いろいろと\n<Tag_3>調べたんだけど…<Tag_4><Tag_5>メタコロ<Tag_6>病は もっとタチのわるい\n<Tag_7>病気みたい… <Tag_8>治しようがないの…<Tag_9><Tag_10>せめて この<Tag_11>病気の<Tag_12>原因がわかれば\nなんとか なるかもしれないけど…<Tag_13>"
+    Contents: "<Tag_0><Tag_1>비슷한 병들을 여러모로\n조사해 봤는데…<Tag_4><Tag_5>뚱뚱데굴병은 좀 더 고약한\n병인가 봐… 치료할 방법이 없어…<Tag_9><Tag_10>하다못해 이 병의 원인이라도 알면\n어떻게든 될 거 같긴 한데…<Tag_13>"
     Tags:
       Tag_0:
         Group: 9
@@ -1120,7 +1120,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_06_3:
-    Contents: "<Tag_0>なやんでいる ヒマなんてない！\nとにかく <Tag_1>手を<Tag_2>打たないと！！<Tag_3><Tag_4>わたしの <Tag_5>子供も…\nメタコロ<Tag_6>病に…！！<Tag_7>"
+    Contents: "<Tag_0>고민하고 있을 때가 아닙니다!\n어찌 되든 손을 써야 해요!!<Tag_3><Tag_4>우리 아이도…\n뚱뚱데굴병에…!!<Tag_7>"
     Tags:
       Tag_0:
         Group: 9
@@ -1157,7 +1157,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_09:
-    Contents: "<Tag_0><Tag_1>私達 医者も ふくれ<Tag_2>続けるのを\nふせぐ<Tag_3>手立ては <Tag_4>打ったのですが…<Tag_5><Tag_6><Tag_7>完全に<Tag_8>治す<Tag_9>方法は <Tag_10>今のところ\nわからないのです…<Tag_11>"
+    Contents: "<Tag_0><Tag_1>우리 의사들도 몸이 부풀어 오르는 걸\n막는 데는 성공했지만…<Tag_5><Tag_6>완전히 낫게 할 방법은 아직도\n알아내지 못했습니다…<Tag_11>"
     Tags:
       Tag_0:
         Group: 9
@@ -1210,7 +1210,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_06_4:
-    Contents: <Tag_0><Tag_1>ううう…<Tag_2>
+    Contents: <Tag_0><Tag_1>으흐흑…<Tag_2>
     Tags:
       Tag_0:
         Group: 9
@@ -1309,7 +1309,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_06_7:
-    Contents: <Tag_0>늦어서 미아~안!!!<Tag_1>
+    Contents: <Tag_0>미아~안!!!<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -1380,7 +1380,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_20:
-    Contents: "<Tag_0>아니… 잠깐?\n아직도 안 온 겁니까?<Tag_1><Tag_2><Tag_3><Tag_4>그 형제<Tag_7><Tag_8>는…<Tag_9><Tag_10>"
+    Contents: "<Tag_0>근데… 어라?\n아직도 안 온 겁니까?<Tag_1><Tag_2><Tag_3><Tag_4>그 형제<Tag_7><Tag_8>는…<Tag_9><Tag_10>"
     Tags:
       Tag_0:
         Group: 9
@@ -1552,7 +1552,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_11_2:
-    Contents: <Tag_0><Tag_1>Dr.コキノ<Tag_2><Tag_3>？<Tag_4><Tag_5>
+    Contents: <Tag_0><Tag_1>Dr.오키노<Tag_2><Tag_3>?<Tag_4><Tag_5>
     Tags:
       Tag_0:
         Group: 9
@@ -1642,7 +1642,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_11_3:
-    Contents: "<Tag_0>この<Tag_1>国のことなら なんでもわかる\n<Tag_2>有名な お<Tag_3>医者様です。<Tag_4><Tag_5><Tag_6>今日は<Tag_7>会議に <Tag_8>出席できないので\n<Tag_9>助手に きてもらったのです。<Tag_10>"
+    Contents: "<Tag_0>이 나라에 대해서라면 뭐든지 아는\n유명한 의사입니다.<Tag_4><Tag_5>오늘은 회의에 참석하지 못하셔서\n조수분을 보내셨어요.<Tag_10>"
     Tags:
       Tag_0:
         Group: 9
@@ -1867,7 +1867,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_29:
-    Contents: <Tag_0><Tag_1>크핫핫핫핫!<Tag_2>
+    Contents: <Tag_0><Tag_1>크하하하하!<Tag_2>
     Tags:
       Tag_0:
         Group: 9
@@ -2231,7 +2231,7 @@ Messages:
     Attribute: 00000000
     StyleID: 9
   MES_OPeach_04_Opening_opeach_09_2:
-    Contents: "<Tag_0>なんとか ならないんですか？\n<Tag_1>国の<Tag_2>一大事なんですよ！！<Tag_3>"
+    Contents: "<Tag_0>어떻게든 안 됩니까?\n국가의 일대사라구요!!<Tag_3>"
     Tags:
       Tag_0:
         Group: 9
@@ -2252,7 +2252,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_09_3:
-    Contents: "<Tag_0><Tag_1>私達だって\nなんとかしたいですよ！！<Tag_2>"
+    Contents: "<Tag_0>우리도\n방법만 있으면 해결하고 싶습니다!!<Tag_2>"
     Tags:
       Tag_0:
         Group: 9
