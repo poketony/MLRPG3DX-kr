@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_Ekubon_19_Ekubon_opening_27:
-    Contents: "<Tag_0>クッパ<Tag_1>様！！ かなりあやしいですよ！\nやめましょう！<Tag_2>"
+    Contents: "<Tag_0>쿠파님!! 너무 수상합니다!\n그만두죠!<Tag_2>"
     Tags:
       Tag_0:
         Group: 9
@@ -25,7 +25,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_28:
-    Contents: "<Tag_0>なに <Tag_1>言ってるんだ！\nマリオに<Tag_2>勝てるんだぞ！？<Tag_3>"
+    Contents: "<Tag_0>무슨 말을 하는 거냐!\n마리오를 이길 수 있다는데!?<Tag_3>"
     Tags:
       Tag_0:
         Group: 9
@@ -46,7 +46,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_29:
-    Contents: "<Tag_0>おい！！ ワガハイに\nラッキーキノコをよこせ！！<Tag_1>"
+    Contents: "<Tag_0>어이!! 이 몸에게\n럭키버섯을 내놓아라!!<Tag_1>"
     Tags:
       Tag_0:
         Group: 9
@@ -59,7 +59,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_29_2:
-    Contents: "<Tag_0>どうぞどうぞ！！\nおいしく <Tag_1>食べるるる！！<Tag_2>"
+    Contents: "<Tag_0>자 받으시지요!!\n맛있게 드십시오롱롱롱!!<Tag_2>"
     Tags:
       Tag_0:
         Group: 9
@@ -76,7 +76,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_29_3:
-    Contents: <Tag_0><Tag_1><Tag_2>ラッキーキノコ？を<Tag_3>手に<Tag_4>入れた！<Tag_5><Tag_6>
+    Contents: <Tag_0><Tag_1><Tag_2>럭키버섯?을 획득했다!<Tag_5><Tag_6>
     Tags:
       Tag_0:
         Group: 9
@@ -109,7 +109,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   MES_Ekubon_19_Ekubon_opening_15:
-    Contents: <Tag_0>おめでとうございま～す！！<Tag_1>
+    Contents: <Tag_0>대박입니다~!!<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -122,7 +122,7 @@ Messages:
     Attribute: 00000000
     StyleID: 10
   MES_Ekubon_19_Ekubon_opening_16:
-    Contents: "<Tag_0>なんだ？<Tag_1>\nなにごとだ！？<Tag_2>"
+    Contents: "<Tag_0>뭐라고?<Tag_1>\n무슨 소리냐!?<Tag_2>"
     Tags:
       Tag_0:
         Group: 9
@@ -139,7 +139,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_17:
-    Contents: <Tag_0><Tag_1>大当たりでございま～す！！<Tag_2>
+    Contents: <Tag_0>대박이 나왔습니다~!!<Tag_2>
     Tags:
       Tag_0:
         Group: 9
@@ -156,7 +156,7 @@ Messages:
     Attribute: 00000000
     StyleID: 7
   MES_Ekubon_19_Ekubon_opening_18:
-    Contents: "<Tag_0>クッパ<Tag_1>様！\nなにごとですか！？<Tag_2>"
+    Contents: "<Tag_0>쿠파님!\n무슨 일이십니까!?<Tag_2>"
     Tags:
       Tag_0:
         Group: 9
@@ -173,7 +173,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_19:
-    Contents: "<Tag_0><Tag_1>お<Tag_2>客様 ラッキーです！<Tag_3><Tag_4>お<Tag_5>客様に <Tag_6>ラッキーキノコ<Tag_7><Tag_8>が\n<Tag_9>当たりました～～～！<Tag_10><Tag_11>"
+    Contents: "<Tag_0><Tag_1>손님은 운이 좋으시군요!<Tag_3><Tag_4>손님께 <Tag_6>럭키버섯<Tag_7><Tag_8>을\n드리겠습니다~~~!<Tag_10><Tag_11>"
     Tags:
       Tag_0:
         Group: 9
@@ -226,7 +226,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_30:
-    Contents: <Tag_0>ムム！！<Tag_1> ムムム～ッ！？<Tag_2>
+    Contents: <Tag_0>음음!!<Tag_1> 으으음~!?<Tag_2>
     Tags:
       Tag_0:
         Group: 9
@@ -243,7 +243,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_31:
-    Contents: "<Tag_0>どうしました！？\nクッパ<Tag_1>様～！！<Tag_2><Tag_3>だから やめましょうって\n<Tag_4>言ったのに！<Tag_5>"
+    Contents: "<Tag_0>왜 그러십니까!?\n쿠파님~!!<Tag_2><Tag_3>그러니까 그만두자고\n말씀드리지 않았습니까!<Tag_5>"
     Tags:
       Tag_0:
         Group: 9
@@ -272,7 +272,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_32:
-    Contents: "<Tag_0>おい！ オマエ！<Tag_1>\nクッパ<Tag_2>様に なにを<Tag_3>食べさせた！！<Tag_4>"
+    Contents: "<Tag_0>거기 너!<Tag_1>\n쿠파님께 뭘 먹인 거냐!!<Tag_4>"
     Tags:
       Tag_0:
         Group: 9
@@ -297,7 +297,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_33:
-    Contents: "<Tag_0><Tag_1>気持ち<Tag_2>悪いくらい\nうまくいったるるる～～！！<Tag_3><Tag_4><Tag_5>作戦成功！！<Tag_6>\nワレは おさらばするるる！！<Tag_7><Tag_8>オマエは そのまま\nピーチ<Tag_9>城へいくるるる～！<Tag_10>"
+    Contents: "<Tag_0>어이 없을 정도로\n계획이 성공적이었다롱롱롱~~!!<Tag_3><Tag_4>작전 성공!!<Tag_6>\n난 이제 갈 거다롱롱롱!!<Tag_7><Tag_8>너는 그 상태 그대로\n피치 성에 가라롱롱롱~!<Tag_10>"
     Tags:
       Tag_0:
         Group: 9
@@ -346,7 +346,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_34:
-    Contents: <Tag_0>ぬがぁ～～～～～！！！<Tag_1>
+    Contents: <Tag_0>흐아~~~~~!!!<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -359,7 +359,7 @@ Messages:
     Attribute: 00000000
     StyleID: 7
   MES_Ekubon_19_Ekubon_opening_20:
-    Contents: <Tag_0>ラッキーキノコ？<Tag_1>
+    Contents: <Tag_0>럭키버섯?<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -372,7 +372,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_21:
-    Contents: <Tag_0>ワガハイはなにも <Tag_1>買っていないぞ！<Tag_2><Tag_3><Tag_4>なんで <Tag_5>大当たりなんだ！？<Tag_6>
+    Contents: <Tag_0>이 몸은 아무것도 사지 않았다!<Tag_2><Tag_3><Tag_4>어떻게 대박이 터진 거지!?<Tag_6>
     Tags:
       Tag_0:
         Group: 9
@@ -405,7 +405,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_22:
-    Contents: "<Tag_0><Tag_1>細かいことは <Tag_2>気にしない！\n<Tag_3>気にしない！<Tag_4>"
+    Contents: "<Tag_0>사소한 게 뭐가 중요합니까!\n신경 쓰지 마시죠!<Tag_4>"
     Tags:
       Tag_0:
         Group: 9
@@ -430,7 +430,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_23:
-    Contents: "<Tag_0>こんなに すばらしい\nラッキーキノコ！<Tag_1>"
+    Contents: "<Tag_0>이렇게나 굉장한\n럭키버섯이 눈앞에 있는데!<Tag_1>"
     Tags:
       Tag_0:
         Group: 9
@@ -443,7 +443,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_24:
-    Contents: "<Tag_0>これさえ<Tag_1>食べれば あなたの<Tag_2>運命も\nスーパーラッキー！！<Tag_3><Tag_4><Tag_5>マリオにだって きっと<Tag_6>勝てますよ！！<Tag_7>"
+    Contents: "<Tag_0>이것만 먹으면 당신의 운명도\n슈퍼 럭키!!<Tag_3><Tag_4><Tag_5>마리오도 분명 이길 수 있을 겁니다!!<Tag_7>"
     Tags:
       Tag_0:
         Group: 9
@@ -480,7 +480,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_25:
-    Contents: "<Tag_0>マリオに<Tag_1>勝てる！？<Tag_2>\n<Tag_3>本当か！？<Tag_4>"
+    Contents: "<Tag_0>마리오를 이길 수 있다고!?<Tag_2>\n정말이냐!?<Tag_4>"
     Tags:
       Tag_0:
         Group: 9
@@ -505,7 +505,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_19_Ekubon_opening_26:
-    Contents: "<Tag_0><Tag_1><Tag_2><Tag_3>本当に <Tag_4>本当！！<Tag_5><Tag_6><Tag_7>バトルでアタックするたびに\nラッキーヒットが <Tag_8>出まくるる！<Tag_9><Tag_10><Tag_11>もう バッコバコのボッコボコ！<Tag_12><Tag_13><Tag_14>どんなに<Tag_15>強い<Tag_16>相手でも\nあっというまに <Tag_17>倒せるる！<Tag_18>"
+    Contents: "<Tag_0><Tag_1><Tag_2>정말로 정말이지요!!<Tag_5><Tag_6><Tag_7>배틀에서 공격할 때마다\n럭키 히트가 마구 나올 겁니다롱롱!<Tag_9><Tag_10><Tag_11>상대는 엉망진창이 되겠지요!<Tag_12><Tag_13><Tag_14>아무리 강한 상대라도 금방\n쓰러뜨릴 수 있게 될 겁니다롱롱!<Tag_18>"
     Tags:
       Tag_0:
         Group: 9

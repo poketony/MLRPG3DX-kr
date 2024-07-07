@@ -649,7 +649,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_50:
-    Contents: <Tag_0>んがあああ～～～～～！！<Tag_1>
+    Contents: <Tag_0>흐아아아아~~~~~!!<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -662,7 +662,7 @@ Messages:
     Attribute: 00000000
     StyleID: 7
   MES_OPeach_04_Opening_opeach_51:
-    Contents: <Tag_0>…ハハハハ<Tag_1> …ハハ<Tag_2>
+    Contents: <Tag_0>…하하하하<Tag_1> …하하<Tag_2>
     Tags:
       Tag_0:
         Group: 9
@@ -704,7 +704,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_52:
-    Contents: "<Tag_0>るるるるる！！\nこれで うまくいったるる！！<Tag_1><Tag_2>さっそく <Tag_3>次なるワレの<Tag_4>計画を\n<Tag_5>進めるるるよ！！<Tag_6>"
+    Contents: "<Tag_0>롱롱롱롱롱!!\n이걸로 성공했다롱롱!!<Tag_1><Tag_2>바로 다음 계획을\n진행할 거지롱롱롱!!<Tag_6>"
     Tags:
       Tag_0:
         Group: 9
@@ -802,7 +802,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_53:
-    Contents: <Tag_0><Tag_1>おいっ！ メタボス！！<Tag_2><Tag_3>こいつを <Tag_4>頼んだるるよ！<Tag_5>
+    Contents: <Tag_0><Tag_1>어이! 메타보스!!<Tag_2><Tag_3>이 녀석을 처리해라롱롱!<Tag_5>
     Tags:
       Tag_0:
         Group: 9
@@ -852,7 +852,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_54:
-    Contents: "<Tag_0>カシコマリマシタ…\nゲラコビッツ サマ…<Tag_1>"
+    Contents: "<Tag_0>알겠습니다…\n까르코비츠님…<Tag_1>"
     Tags:
       Tag_0:
         Group: 9
@@ -1059,7 +1059,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_08:
-    Contents: "<Tag_0><Tag_1>비슷한 병들을 여러모로\n조사해 봤는데…<Tag_4><Tag_5>뚱뚱데굴병은 좀 더 고약한\n병인가 봐… 치료할 방법이 없어…<Tag_9><Tag_10>하다못해 이 병의 원인이라도 알면\n어떻게든 될 거 같긴 한데…<Tag_13>"
+    Contents: "<Tag_0>비슷한 병들을 여러모로\n조사해 봤는데…<Tag_4><Tag_5>뚱뚱데굴병은 좀 더 고약한\n병인가 봐… 치료할 방법이 없어…<Tag_9><Tag_10>하다못해 이 병의 원인이라도 알면\n어떻게든 될 거 같긴 한데…<Tag_13>"
     Tags:
       Tag_0:
         Group: 9
@@ -1157,7 +1157,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_09:
-    Contents: "<Tag_0><Tag_1>우리 의사들도 몸이 부풀어 오르는 걸\n막는 데는 성공했지만…<Tag_5><Tag_6>완전히 낫게 할 방법은 아직도\n알아내지 못했습니다…<Tag_11>"
+    Contents: "<Tag_0>우리 의사들도 몸이 부풀어 오르는 걸\n막는 데는 성공했지만…<Tag_5><Tag_6>완전히 낫게 할 방법은 아직도\n알아내지 못했습니다…<Tag_11>"
     Tags:
       Tag_0:
         Group: 9
@@ -1429,7 +1429,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_21:
-    Contents: "<Tag_0>오오!! 마리오 님!\n루이지 님!!<Tag_1><Tag_2>기다리고 있었습니다!\n자 회의를 계속하지요!<Tag_6>"
+    Contents: "<Tag_0>오오!! 마리오님!\n루이지님!!<Tag_1><Tag_2>기다리고 있었습니다!\n자 회의를 계속하지요!<Tag_6>"
     Tags:
       Tag_0:
         Group: 9
@@ -1552,7 +1552,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_11_2:
-    Contents: <Tag_0><Tag_1>Dr.오키노<Tag_2><Tag_3>?<Tag_4><Tag_5>
+    Contents: <Tag_0><Tag_1>닥터 오키노<Tag_2><Tag_3>?<Tag_4><Tag_5>
     Tags:
       Tag_0:
         Group: 9
@@ -1838,7 +1838,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_28:
-    Contents: "<Tag_0>마리오 님!! 루이지 님!!\n나설 때가 왔습니다!!!<Tag_2><Tag_3>평소에 쿠파를 쓰러뜨리는 것처럼\n그 사내를 있는 힘껏 혼내 주십시오!<Tag_5>"
+    Contents: "<Tag_0>마리오님!! 루이지님!!\n나설 때가 왔습니다!!!<Tag_2><Tag_3>평소에 쿠파를 쓰러뜨리는 것처럼\n그 사내를 있는 힘껏 혼내 주십시오!<Tag_5>"
     Tags:
       Tag_0:
         Group: 9
@@ -1884,7 +1884,7 @@ Messages:
     Attribute: 00000000
     StyleID: 10
   MES_OPeach_04_Opening_opeach_40:
-    Contents: "<Tag_0><Tag_1>私の スターパワーと\nピーチ<Tag_2>姫の いのりのパワーよ！<Tag_3><Tag_4>あなたの チカラを<Tag_5>弱めるには\n<Tag_6>十分すぎるでしょ！？<Tag_7>"
+    Contents: "<Tag_0>내 스타 파워와\n피치공주의 기도의 파워야!<Tag_3><Tag_4>네 힘을 약하게 만드는 데는\n충분하고도 남을걸!?<Tag_7>"
     Tags:
       Tag_0:
         Group: 9
@@ -1921,7 +1921,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_41:
-    Contents: <Tag_0><Tag_1>な…<Tag_2> なんだとぉ…<Tag_3>
+    Contents: <Tag_0><Tag_1>뭐…<Tag_2> 뭐라고…<Tag_3>
     Tags:
       Tag_0:
         Group: 9
@@ -1942,7 +1942,7 @@ Messages:
     Attribute: 00000000
     StyleID: 5
   MES_OPeach_04_Opening_opeach_42:
-    Contents: "<Tag_0><Tag_1>さあ！<Tag_2> ピーチ<Tag_3>姫！！<Tag_4><Tag_5>この ジャマモノを\nかたづけちゃいましょ！！<Tag_6>"
+    Contents: "<Tag_0><Tag_1>자!<Tag_2> 피치공주!!<Tag_4><Tag_5>이 방해꾼을\n치워 버리자!!<Tag_6>"
     Tags:
       Tag_0:
         Group: 9
@@ -1975,7 +1975,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_43:
-    Contents: "<Tag_0>また あなたに\n<Tag_1>助けて もらいましたね。<Tag_2>"
+    Contents: "<Tag_0>또 당신에게\n도움을 받았네요.<Tag_2>"
     Tags:
       Tag_0:
         Group: 9
@@ -1992,7 +1992,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_44:
-    Contents: "<Tag_0>せっかくの <Tag_1>大切な<Tag_2>会議が\n<Tag_3>台無しに なってしまいました…<Tag_4>"
+    Contents: "<Tag_0>모처럼 연 중요한 회의가\n엉망이 되어 버렸어요…<Tag_4>"
     Tags:
       Tag_0:
         Group: 9
@@ -2017,7 +2017,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_45:
-    Contents: "<Tag_0>もう <Tag_1>会議どころじゃ\nないですね…<Tag_2><Tag_3><Tag_4><Tag_5>中止にしましょうか？<Tag_6>"
+    Contents: "<Tag_0>회의를 걱정하실 때가\n아닌 것 같은데요…<Tag_2><Tag_3><Tag_4>이대로 중지할까요?<Tag_6>"
     Tags:
       Tag_0:
         Group: 9
@@ -2050,7 +2050,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_46:
-    Contents: "<Tag_0>むむむ… しかし<Tag_1>今は\nこの<Tag_2>国の <Tag_3>一大事ですぞ。<Tag_4><Tag_5>このまま <Tag_6>中止にしてしまっては\n<Tag_7>問題が <Tag_8>解決しませんぞ。<Tag_9>"
+    Contents: "<Tag_0>으으음… 하지만 지금은\n왕국의 위기입니다.<Tag_4><Tag_5>이대로 중지해 버리면\n문제를 해결할 수 없어요.<Tag_9>"
     Tags:
       Tag_0:
         Group: 9
@@ -2095,7 +2095,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_47:
-    Contents: "<Tag_0>そうですわ。クッパのことより\nメタコロ<Tag_1>病の <Tag_2>問題が<Tag_3>優先です。<Tag_4><Tag_5><Tag_6><Tag_7>会議は このまま<Tag_8>続けましょう！<Tag_9>"
+    Contents: "<Tag_0>맞습니다. 쿠파보다\n뚱뚱데굴병 문제의 해결이 먼저예요.<Tag_4><Tag_5><Tag_6>이대로 회의를 계속하죠!<Tag_9>"
     Tags:
       Tag_0:
         Group: 9
@@ -2140,7 +2140,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_48:
-    Contents: "<Tag_0><Tag_1>おお さすが<Tag_2>姫様！！<Tag_3><Tag_4>それでこそ わが<Tag_5>国の\nプリンセスですぞ！！<Tag_6>"
+    Contents: "<Tag_0><Tag_1>오오 과연 공주님!!<Tag_3><Tag_4>그래야 우리 왕국의\n프린세스라고 할 수 있지요!!<Tag_6>"
     Tags:
       Tag_0:
         Group: 9
@@ -2173,7 +2173,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_49:
-    Contents: "<Tag_0>しかし この<Tag_1>部屋は\nもう <Tag_2>使えませんな…<Tag_3><Tag_4><Tag_5>別の<Tag_6>部屋で\n<Tag_7>会議の<Tag_8>続きをしましょう。<Tag_9>"
+    Contents: "<Tag_0>하지만 이 방은\n더 이상 쓸 수 없으니…<Tag_3><Tag_4>다른 방에서\n회의를 계속하도록 하지요.<Tag_9>"
     Tags:
       Tag_0:
         Group: 9
@@ -2218,7 +2218,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OPeach_04_Opening_opeach_31_2:
-    Contents: "<Tag_0>よくも ワガハイだけ\nのけものに したなっ！！<Tag_1>"
+    Contents: "<Tag_0>이 몸을 빼놓고\n회의를 진행하다니!!<Tag_1>"
     Tags:
       Tag_0:
         Group: 9
@@ -2231,7 +2231,7 @@ Messages:
     Attribute: 00000000
     StyleID: 9
   MES_OPeach_04_Opening_opeach_09_2:
-    Contents: "<Tag_0>어떻게든 안 됩니까?\n국가의 일대사라구요!!<Tag_3>"
+    Contents: "<Tag_0>어떻게든 안 됩니까?\n왕국의 위기라구요!!<Tag_3>"
     Tags:
       Tag_0:
         Group: 9

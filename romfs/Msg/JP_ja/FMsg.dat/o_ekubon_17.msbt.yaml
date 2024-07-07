@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_Ekubon_17_Ekubon_opening_11:
-    Contents: <Tag_0>クッパ<Tag_1>様～<Tag_2>
+    Contents: <Tag_0>쿠파님~<Tag_2>
     Tags:
       Tag_0:
         Group: 9
@@ -25,7 +25,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_17_Ekubon_opening_12:
-    Contents: "<Tag_0>この<Tag_1>先は ジャマなものが\nゴチャゴチャと あります。<Tag_2><Tag_3><Tag_4><Tag_5><Tag_6>ボタンの <Tag_7><Tag_8>パンチ<Tag_9><Tag_10>でけちらして\n<Tag_11>進むことを こころがけてください。<Tag_12><Tag_13>"
+    Contents: "<Tag_0>이 앞에는 방해물들이\n잔뜩 있습니다.<Tag_2><Tag_3><Tag_4><Tag_5><Tag_6> 버튼으로 <Tag_7><Tag_8>주먹<Tag_9><Tag_10>을 날려\n나아가면 되니 잊지 마시길 바랍니다.<Tag_12><Tag_13>"
     Tags:
       Tag_0:
         Group: 9

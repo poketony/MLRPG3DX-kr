@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   BtlGuide_02:
-    Contents: <Tag_0>기본②: 대미지를 주어 격파
+    Contents: <Tag_0>기본②： 대미지를 주어 격파
     Tags:
       Tag_0:
         Group: 9
@@ -6379,7 +6379,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   Target_Koopa:
-    Contents: <Tag_0>クッパ
+    Contents: <Tag_0>쿠파
     Tags:
       Tag_0:
         Group: 9
@@ -7240,7 +7240,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OP_SPeach_00_mes_0:
-    Contents: <Tag_0>マリオどの！<Tag_1>
+    Contents: <Tag_0>마리오님!<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -8491,7 +8491,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OP_SPeach_00_mes_2:
-    Contents: "<Tag_0>さすが マリオどの！\nじいが <Tag_1>説明するまでもありませんな！<Tag_2>"
+    Contents: "<Tag_0>역시 마리오님!\n이 늙은이가 설명할 필요도 없겠군요!<Tag_2>"
     Tags:
       Tag_0:
         Group: 9
@@ -9265,7 +9265,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OP_SPeach_00_mes_3:
-    Contents: <Tag_0>オホン…<Tag_1>
+    Contents: <Tag_0>오호…<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -9869,7 +9869,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OP_SPeach_00_mes_4:
-    Contents: "<Tag_0><Tag_1>ジャンプ<Tag_2><Tag_3>で<Tag_4>クッパをふむ<Tag_5>時<Tag_6><Tag_7>タイミング\nよく<Tag_8><Tag_9><Tag_10>を<Tag_11>押してみてくだされ！<Tag_12><Tag_13>"
+    Contents: "<Tag_0><Tag_1>점프<Tag_2><Tag_3>로 <Tag_4>쿠파를 밟을 때<Tag_6><Tag_7> 타이밍\n좋게 <Tag_8><Tag_9><Tag_10>를 눌러 보십시오!<Tag_12><Tag_13>"
     Tags:
       Tag_0:
         Group: 9
@@ -10418,7 +10418,7 @@ Messages:
     Attribute: 00000000
     StyleID: 12
   KoopaJr:
-    Contents: <Tag_0>クッパJr.
+    Contents: <Tag_0>쿠파주니어
     Tags:
       Tag_0:
         Group: 9
@@ -10461,7 +10461,7 @@ Messages:
     Attribute: 00000000
     StyleID: 10
   MES_OP_SPeach_00_mes_5:
-    Contents: "<Tag_0><Tag_1>うまく<Tag_2>押すとダメージが\n<Tag_3>増えますぞ！<Tag_4>"
+    Contents: "<Tag_0><Tag_1>잘만 누르면 대미지가\n늘어날 겁니다!<Tag_4>"
     Tags:
       Tag_0:
         Group: 9
@@ -11388,7 +11388,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OP_SPeach_00_mes_7:
-    Contents: <Tag_0>さすがですぞ マリオどの！<Tag_1>
+    Contents: <Tag_0>훌륭합니다 마리오님!<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -11794,7 +11794,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OP_SPeach_00_mes_8:
-    Contents: "<Tag_0>マリオどの！<Tag_1><Tag_2><Tag_3>言い<Tag_4>忘れておりましたが クッパの\n<Tag_5>攻撃は よけられるのです！<Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>を<Tag_11>押すと ジャンプ<Tag_12>して\n<Tag_13>飛びこえられますぞ！<Tag_14>"
+    Contents: "<Tag_0>마리오님!<Tag_1><Tag_2>깜빡해서 말씀을 못 드렸는데 쿠파의\n공격은 피할 수 있습니다!<Tag_6><Tag_7><Tag_8><Tag_9><Tag_10>를 누르면 점프<Tag_12>해서\n넘을 수 있지요!<Tag_14>"
     Tags:
       Tag_0:
         Group: 9
@@ -12340,7 +12340,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OP_SPeach_00_mes_9:
-    Contents: "<Tag_0>マリオどの クッパをふむ<Tag_1>時に\nタイミングよく<Tag_2><Tag_3>ですぞ！<Tag_4><Tag_5>バトルでわからないことがあったら\n<Tag_6>ガイド<Tag_7>を<Tag_8>見るのですぞ！<Tag_9>"
+    Contents: "<Tag_0>마리오님, 쿠파를 밟을 때에\n타이밍 좋게 <Tag_2><Tag_3>입니다!<Tag_4><Tag_5>배틀에서 궁금한 것이 생기면\n<Tag_6>가이드<Tag_7>를 봐 주십시오!<Tag_9>"
     Tags:
       Tag_0:
         Group: 9
@@ -13914,7 +13914,7 @@ Messages:
     Attribute: 00000000
     StyleID: 11
   Ekoopa_x:
-    Contents: <Tag_0>クッパX
+    Contents: <Tag_0>쿠파X
     Tags:
       Tag_0:
         Group: 9
@@ -21214,7 +21214,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   MES_OP_SPeach_00_mes_10:
-    Contents: "<Tag_0>２<Tag_1>度目にふむ<Tag_2>時も タイミングよく\n<Tag_3><Tag_4>で ダメージが<Tag_5>増えますぞ！<Tag_6><Tag_7>バトルでわからないことがあったら\n<Tag_8>ガイド<Tag_9>を<Tag_10>見るのですぞ！<Tag_11>"
+    Contents: "<Tag_0>2번째 밟을 때도 타이밍 좋게\n<Tag_3><Tag_4>를 누르면 대미지가 늘어납니다!<Tag_6><Tag_7>배틀에서 궁금한 것이 생기면\n<Tag_8>가이드<Tag_9>를 봐 주십시오!<Tag_11>"
     Tags:
       Tag_0:
         Group: 9
@@ -21978,7 +21978,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OP_SPeach_00_mes_11:
-    Contents: <Tag_0>さすがですぞ マリオどの！<Tag_1>
+    Contents: <Tag_0>훌륭합니다 마리오님!<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -22766,7 +22766,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OP_SPeach_00_mes_12:
-    Contents: "<Tag_0>バトルでわからないことがあったら\n<Tag_1>ガイド<Tag_2>を<Tag_3>見るのですぞ！<Tag_4>"
+    Contents: "<Tag_0>배틀에서 궁금한 것이 생기면\n<Tag_1>가이드<Tag_2>를 봐 주십시오!<Tag_4>"
     Tags:
       Tag_0:
         Group: 9
@@ -23276,7 +23276,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OP_SPeach_00_mes_13:
-    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>ガイドブロック<Tag_4>が<Tag_5>追加されました。<Tag_6><Tag_7>
+    Contents: <Tag_0><Tag_1><Tag_2><Tag_3>가이드 블록<Tag_4>이 추가되었습니다.<Tag_6><Tag_7>
     Tags:
       Tag_0:
         Group: 9
@@ -23720,7 +23720,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_OP_SPeach_00_mes_14:
-    Contents: <Tag_0><Tag_1><Tag_2>言い<Tag_3>忘れておりました！<Tag_4>
+    Contents: <Tag_0><Tag_1>깜빡해서 말씀드리는 걸 잊었군요!<Tag_4>
     Tags:
       Tag_0:
         Group: 9
@@ -24432,7 +24432,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   Koopa_t:
-    Contents: <Tag_0>クッパ
+    Contents: <Tag_0>쿠파
     Tags:
       Tag_0:
         Group: 9
@@ -24441,7 +24441,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   MES_OP_SPeach_00_mes_15:
-    Contents: "<Tag_0><Tag_1><Tag_2>攻撃のしかたを\nご<Tag_3>説明しましょうかの？<Tag_4>\n<Tag_5><Tag_6>いいえ<Tag_7><Tag_8>はい<Tag_9>"
+    Contents: "<Tag_0><Tag_1>공격 방법을\n설명해 드릴까요?<Tag_4>\n<Tag_5><Tag_6>아니요<Tag_7><Tag_8>예<Tag_9>"
     Tags:
       Tag_0:
         Group: 9
@@ -26653,7 +26653,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   Ekoopa:
-    Contents: <Tag_0>クッパ
+    Contents: <Tag_0>쿠파
     Tags:
       Tag_0:
         Group: 9
@@ -27228,7 +27228,7 @@ Messages:
     Attribute: 00000000
     StyleID: 13
   KoopaJr_com:
-    Contents: <Tag_0>クッパJr.
+    Contents: <Tag_0>쿠파주니어
     Tags:
       Tag_0:
         Group: 9

@@ -8,7 +8,7 @@ Encoding: UTF16
 SlotNum: 101
 Messages:
   MES_Ekubon_16_Ekubon_opening_01:
-    Contents: <Tag_0>えいっ！<Tag_1>
+    Contents: <Tag_0>에잇!<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -21,7 +21,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_16_Ekubon_opening_02:
-    Contents: <Tag_0>それ～っ！！<Tag_1>
+    Contents: <Tag_0>이야~압!!<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -34,7 +34,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_16_Ekubon_opening_03:
-    Contents: <Tag_0>これで もうだいじょうぶです。<Tag_1>
+    Contents: <Tag_0>이제 괜찮을 겁니다.<Tag_1>
     Tags:
       Tag_0:
         Group: 9
@@ -47,7 +47,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_16_Ekubon_opening_04:
-    Contents: "<Tag_0>まったく あたまにくるやつらだ！\nこのままでは <Tag_1>終わらせないぞ！<Tag_2><Tag_3><Tag_4>今すぐ ピーチ<Tag_5>城にもどって\n<Tag_6>次こそ ピーチ<Tag_7>姫をさらってやる！！<Tag_8>"
+    Contents: "<Tag_0>정말 열 받는 녀석들이군!\n이대로는 못 끝낸다!<Tag_2><Tag_3>지금 당장 피치 성으로 돌아가서\n이번에야말로 피치공주를 데려와 주마!!<Tag_8>"
     Tags:
       Tag_0:
         Group: 9
@@ -88,7 +88,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_16_Ekubon_opening_05:
-    Contents: "<Tag_0>しかし… マリオがいては\nまた <Tag_1>同じ<Tag_2>目に…<Tag_3>"
+    Contents: "<Tag_0>하지만… 마리오가 있는 한\n또 똑같은 일을…<Tag_3>"
     Tags:
       Tag_0:
         Group: 9
@@ -109,7 +109,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_16_Ekubon_opening_06:
-    Contents: <Tag_0>その<Tag_1>名前を <Tag_2>言うな～！！！！<Tag_3>
+    Contents: <Tag_0>그 이름을 말하지 마라~!!!!<Tag_3>
     Tags:
       Tag_0:
         Group: 9
@@ -130,7 +130,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_16_Ekubon_opening_07:
-    Contents: "<Tag_0><Tag_1>思い<Tag_2>出しただけでも\nハラが<Tag_3>立つわ！！<Tag_4>"
+    Contents: "<Tag_0>떠올리기만 해도\n울분이 치민단 말이다!!<Tag_4>"
     Tags:
       Tag_0:
         Group: 9
@@ -155,7 +155,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_16_Ekubon_opening_08:
-    Contents: <Tag_0>ひ～<Tag_1> こわいこわい…<Tag_2>
+    Contents: <Tag_0>히익~<Tag_1> 무섭다 무서워…<Tag_2>
     Tags:
       Tag_0:
         Group: 9
@@ -172,7 +172,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_16_Ekubon_opening_09:
-    Contents: "<Tag_0>ふん！<Tag_1> さっそく\nピーチ<Tag_2>城へ<Tag_3>行くぞ！！<Tag_4>"
+    Contents: "<Tag_0>흥!<Tag_1> 바로\n피치 성으로 향하겠다!!<Tag_4>"
     Tags:
       Tag_0:
         Group: 9
@@ -197,7 +197,7 @@ Messages:
     Attribute: 00000000
     StyleID: 6
   MES_Ekubon_16_Ekubon_opening_10:
-    Contents: <Tag_0>それにしても ここはどこだ？<Tag_1>
+    Contents: <Tag_0>그건 그렇고 여긴 어디지?<Tag_1>
     Tags:
       Tag_0:
         Group: 9
